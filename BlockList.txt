@@ -608,6 +608,7 @@
 ||edgecast-cf-prod.yahoo.net^
 ||edgecast-vod.yahoo.net^
 ||edgecast-vod.yimg.com^
+||edgetrksvc.ebay.com^
 ||edigitalsurvey.com^
 ||effectivecreativeformat.com^
 ||el.quizlet.com^
@@ -1449,7 +1450,6 @@
 ||static-global-s-msn-com.akamaized.net^
 ||static.ads
 ||static.cdn.responsys.net^
-||static.cloud.coveo.com^
 ||static.ecorebates.com^
 ||static.getclicky.com^
 ||static.mailerlite.com^
