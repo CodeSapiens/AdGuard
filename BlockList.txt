@@ -282,6 +282,7 @@
 ||broadstreetads.com^
 ||browser-intake*-datadoghq
 ||browser.covatic.io^
+||browser.events.data.microsoft.com^
 ||browser.events.data.msn.com^
 ||browser.pipe.aria.microsoft.com^
 ||browser.sentry-cdn.com^
@@ -817,6 +818,7 @@
 ||id.google.com^
 ||id.tinypass.com^
 ||id5-sync.com^
+||identity.nel.measure.office.net^
 ||idiagnostics.apple.com
 ||iesnare.com^
 ||ignite.amazon.com^
@@ -903,7 +905,6 @@
 ||ladsp.com^
 ||lameletters.com^
 ||laptop-updates.brave.com^
-||lb._dns-sd._udp
 ||lcprd1.samsungcloudsolution.net^
 ||leanplum.com^
 ||levelaccess.net^
@@ -1279,7 +1280,6 @@
 ||researchnow.com^
 ||reson8.com^
 ||resources.bazaarvoice.com^
-||rest-hw-u016.immedia-semi.com^
 ||reverselookup.quicksetcloud.com^
 ||revive-adserver.com^
 ||revjet.com^
