@@ -32,6 +32,7 @@
 ||a.mailmunch.co^
 ||a.nel.cloudflare.com^
 ||a.nytimes.com^
+||a.quora.com^
 ||a1.api.bbc.co.uk^
 ||a40.usablenet.com^
 ||a4k.amazon.com^
@@ -124,6 +125,7 @@
 ||adtech.yahooinc.com^
 ||adtechus.com^
 ||adthrive.com^
+||adtrafficquality.google^
 ||adult
 ||adups.com^
 ||advanced-ip-sca
@@ -387,6 +389,7 @@
 ||cdn.ravenjs.com^
 ||cdn.raygun.io^
 ||cdn.rollbar.com^
+||cdn.signalfx.com^
 ||cdn.snigelweb.com^
 ||cdn.socialannex.com^
 ||cdn.staticfile.org^
@@ -868,6 +871,7 @@
 ||imasdk.googleapis.com^
 ||imiclk.com^
 ||impact-ad.jp^
+||impactcdn.com^
 ||impactradius-event.com^
 ||importer.hac.data.here.com^
 ||improvedigital.com^
@@ -884,6 +888,7 @@
 ||instiengage.com^
 ||instinctiveads.com^
 ||integralads.com^
+||intellimize.co^
 ||intentiq.com^
 ||intercom-clicks.com^
 ||interncache-frc.fbcdn.net^
@@ -969,6 +974,7 @@
 ||loader.wisepops.com^
 ||location-api.hdhomerun.com^
 ||location-services-measurements.s3-external-1.amazonaws.com^
+||log.cookieyes.com^
 ||log.espn.com^
 ||log.go.com^
 ||log.ifood.tv^
@@ -1089,6 +1095,7 @@
 ||mutinycdn.com^
 ||mxpnl.com^
 ||mxpnl.net^
+||my.calltrackingmetrics.com^
 ||myfidevs.io^
 ||myfinance.com^
 ||mzhlhrfr8z.info^
@@ -1131,8 +1138,10 @@
 ||offerwall.yandex.net^
 ||ogads-pa.clients6.google.com^
 ||ogads-pa.googleapis.com^
+||ojrq.net^
 ||okasconcepts.com^
 ||om.dowjoneson.com^
+||omappapi.com^
 ||omnitagjs.com^
 ||omniture-ssl.walmart.com^
 ||omniture.walmart.com^
@@ -1221,6 +1230,7 @@
 ||platform.linkedin.com^
 ||platform.liquidus.net^
 ||platform.twitter.com^
+||plausible.io^
 ||play.vidyard.com^
 ||player.megaphone.fm^
 ||plrsrvcs.com^
@@ -1264,6 +1274,7 @@
 ||promos.investing.com^
 ||proper.io^
 ||propervideo.io^
+||protagcdn.com^
 ||ps5.pndsn.com^
 ||pstmrk.it^
 ||pt.ispot.tv^
@@ -1761,14 +1772,3 @@
 ||zqtk.net^
 ||zwyr157wwiu6eior.com^
 events-collector.spot.im^
-||my.calltrackingmetrics.com^
-||adtrafficquality.google^
-||intellimize.co^
-||plausible.io^
-||protagcdn.com^
-||cdn.signalfx.com^
-||ojrq.net^
-||log.cookieyes.com^
-||omappapi.com^
-||impactcdn.com^
-||a.quora.com^
