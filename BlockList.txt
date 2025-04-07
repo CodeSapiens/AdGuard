@@ -84,6 +84,7 @@
 ||adobedtm.com^
 ||adocean.pl^
 ||adpredictive.com^
+||adrelayer.com^
 ||adrizer.com^
 ||adroll.com^
 ||adrta.com^
@@ -247,6 +248,7 @@
 ||aviary.amazon.com^
 ||avmws.com^
 ||avodmp4s3ww-a.akamaihd.net^
+||awin1.com^
 ||awstrack.me^
 ||ay.delivery^
 ||b-code.liadm.com^
@@ -834,6 +836,7 @@
 ||hscta.net^
 ||hsleadflows.net^
 ||htlbid.com^
+||html-load.com^
 ||httpschecker.net^
 ||hubapi.com^
 ||hubspotfeedback.com^
@@ -1437,6 +1440,7 @@
 ||sid.nordstrom.com^
 ||sidearm-syndication.s3.amazonaws.com^
 ||signifyd.com^
+||silverpop.com^
 ||site.gladly.com^
 ||site24x7rum.eu^
 ||siteintercept.qualtrics.com^
