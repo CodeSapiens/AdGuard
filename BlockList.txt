@@ -313,7 +313,6 @@
 ||cc-api-data.adobe.io^
 ||cc.swiftype.com^
 ||ccgateway.net^
-||cdn*.videobyte.com^
 ||cdn-aka.ts.mtvnservices.com^
 ||cdn-akamai.mookie1.com^
 ||cdn-fallback.petametrics.com^
@@ -368,6 +367,7 @@
 ||cdn.ziffstatic.com^
 ||cdn*.judge.me^
 ||cdn*.pendo.io^
+||cdn*.videobyte.com^
 ||cdnads.geeksforgeeks.org^
 ||cdnopw.com^
 ||cdns.*.gigya.com^
@@ -1157,6 +1157,7 @@
 ||phncdn.com^
 ||phonograph2.voxmedia.com^
 ||piano.io^
+||pickleballportal.com^
 ||pindorama.amazon.com^
 ||pingback.giphy.com^
 ||pingback.issuu.com^
@@ -1337,6 +1338,7 @@
 ||script.ac^
 ||scripts.dailymail.co.uk^
 ||scrsrch.com^
+||sdiapi.com^
 ||sdk.asapp.com^
 ||sdk.beemray.com^
 ||sdk.iad-*.braze.com^
@@ -1393,6 +1395,7 @@
 ||shopify-init.blackcrow.ai^
 ||shopperapproved.com^
 ||shortpixel.ai^
+||sid.nordstrom.com^
 ||sidearm-syndication.s3.amazonaws.com^
 ||signifyd.com^
 ||site.gladly.com^
