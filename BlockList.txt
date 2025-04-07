@@ -1761,3 +1761,14 @@
 ||zqtk.net^
 ||zwyr157wwiu6eior.com^
 events-collector.spot.im^
+||my.calltrackingmetrics.com^
+||adtrafficquality.google^
+||intellimize.co^
+||plausible.io^
+||protagcdn.com^
+||cdn.signalfx.com^
+||ojrq.net^
+||log.cookieyes.com^
+||omappapi.com^
+||impactcdn.com^
+||a.quora.com^
