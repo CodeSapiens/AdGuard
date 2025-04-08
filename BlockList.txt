@@ -1148,6 +1148,7 @@
 ||omnitagjs.com^
 ||omniture-ssl.walmart.com^
 ||omniture.walmart.com^
+||oms.dowjoneson.com^
 ||oms.expedia.com^
 ||omtrdc.net^
 ||onelink.me^
@@ -1462,6 +1463,7 @@
 ||sitestat.com^
 ||sizmek.com^
 ||skimresources.com^
+||skw.eve.account.sony.com^
 ||sm.dell.com^
 ||smart.link^
 ||smartadserver.com^
@@ -1598,6 +1600,7 @@
 ||the-ozone-project.com^
 ||thebrighttag.com^
 ||thechive.com^
+||thrtle.com^
 ||thunderhead.com^
 ||tiqcdn.com^
 ||tiresomethunder.com^
