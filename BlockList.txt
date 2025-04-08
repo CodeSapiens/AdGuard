@@ -1737,7 +1737,7 @@
 ||web-oao.ssp.yahoo.com^
 ||web.diagnostic.networking.aws.dev^
 ||webcontentassessor.com^
-||weborama.fr^
+||weborama.
 ||webpubcontent.gray.tv^
 ||webpushs.com^
 ||webpushsr.com^
