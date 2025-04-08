@@ -166,6 +166,7 @@
 ||amazonaax.com^
 ||amazonclix.com^
 ||amcs-tachyon.com^
+||aminopay.net^
 ||amplitude.com^
 ||ampproject.org^
 ||an.facebook.com^
@@ -445,6 +446,7 @@
 ||cmp.osano.com^
 ||cnstrc.com^
 ||cod-assets.cdn.callofduty.com^
+||cognitivlabs.com^
 ||collector-*.perimeterx.net^
 ||collector-*.px-cdn.net^
 ||collector-*.px-client.net^
@@ -514,6 +516,7 @@
 ||crsspxl.com^
 ||crta.dailymail.co.uk^
 ||crwdcntrl.net^
+||cs.iqzone.com^
 ||csi.gstatic.com^
 ||csp-reporting.cloudflare.com^
 ||csp.secureserver.net^
@@ -759,6 +762,7 @@
 ||g2crowd.com^
 ||gallery.mailchimp.com^
 ||gameplayapi.intel.com^
+||gammaplatform.com^
 ||gannettdigital.com^
 ||ganon.yahoo.com^
 ||gc.newsweek.com^
@@ -974,6 +978,7 @@
 ||livefyre.com^
 ||liveramp.com^
 ||lixarproxsee
+||lkqd.net^
 ||ll.dash.row.aiv-cdn.net^
 ||lngtd.com^
 ||load.s3.amazonaws.com^
@@ -1184,6 +1189,7 @@
 ||outreach.abetterinternet.org^
 ||owneriq.net^
 ||p-n.io^
+||p.brid.tv^
 ||p.typekit.net^
 ||p7cloud.net^
 ||pafvertizing.crazygames.com^
@@ -1715,6 +1721,7 @@
 ||vtrk.dv.tech^
 ||w3-reporting-nel.reddit.com^
 ||w3-reporting.reddit.com^
+||w55c.net^
 ||w569ut7zbkiqf5b.xyz^
 ||walmart.sspinc.io^
 ||warnermediacdn.com^
