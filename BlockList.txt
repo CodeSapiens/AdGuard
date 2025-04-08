@@ -25,6 +25,7 @@
 ||3lift.com^
 ||3p-geo.yahoo.com^
 ||3p-udc.yahoo.com^
+||6sc.co^
 ||9gag.com^
 ||a-fds.youborafds01.com^
 ||a.dynatrace.com^
@@ -210,6 +211,7 @@
 ||app.proxsee.io^
 ||app.termly.io^
 ||appboycdn.com^
+||appconsent.io^
 ||applab-sdk.amazon.com^
 ||apple-relay.apple.com^
 ||apple.news^
@@ -223,6 +225,7 @@
 ||appsflyersdk.com^
 ||appspot.com^
 ||aptivada.com^
+||as.sourceforge.net^
 ||asadcdn.com^
 ||ascendeummedia.com^
 ||ashleymadison.com^
@@ -642,6 +645,7 @@
 ||dynamicyield.com^
 ||dynatrace.att.com^
 ||e-planning.net^
+||e.viously.com^
 ||ebayclassifiedsgroup.com^
 ||ebayrtm.com^
 ||ebxcdn.com^
@@ -905,6 +909,7 @@
 ||intentiq.com^
 ||intercom-clicks.com^
 ||interncache-frc.fbcdn.net^
+||investingchannel.com^
 ||invitemedia.com^
 ||ioam.de^
 ||iot-eu-logser.realme.com^
@@ -1119,6 +1124,7 @@
 ||nearbyad.com^
 ||neilpatel.com^
 ||nelreports.net^
+||neodatagroup.com^
 ||newrelic.com^
 ||news-edge.apple.com^
 ||newscgp.com^
@@ -1401,6 +1407,7 @@
 ||sapphire-api.target.com^
 ||sars.amazon.com^
 ||sc-static.net^
+||scaredsnakes.com^
 ||scontent-sjc2-1.xx.fbcdn.net^
 ||scontent.webcollage.net^
 ||scorecardresearch.com^
@@ -1478,6 +1485,7 @@
 ||sizmek.com^
 ||skimresources.com^
 ||skw.eve.account.sony.com^
+||slashdot.org^
 ||sm.dell.com^
 ||smart.link^
 ||smartadserver.com^
@@ -1502,6 +1510,7 @@
 ||sourcepointcmp.bloomberg.com^
 ||sp.argusleader.com^
 ||sp.usatoday.com^
+||sp.welcometothejungle.com^
 ||sp.yelp.com^
 ||specialoffers.suppleapps.com^
 ||speedcurve.com^
@@ -1611,6 +1620,7 @@
 ||techlab-cdn.com^
 ||ted.dailymail.co.uk^
 ||test.ajo.adobe.com^
+||tgtag.io^
 ||the-ozone-project.com^
 ||thebrighttag.com^
 ||thechive.com^
