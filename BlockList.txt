@@ -9,6 +9,7 @@
 .xxx^
 *-ad-rs.amagi.tv^
 *analytics
+*events-collector.spot.im^
 *telemetry
 *yomigt
 ||123movies
@@ -529,6 +530,7 @@
 ||d.email.forbes.com^
 ||d.reddit.com^
 ||d15kdpgjg3unno.cloudfront.net^
+||d196fri2z18sm.cloudfront.net^
 ||d1ros97qkrwjf5.cloudfront.net^
 ||d1vl8wytztdz.cloudfront.net^
 ||d1wix2gc2cgqis.cloudfront.net^
@@ -642,6 +644,7 @@
 ||edge-mcdn-beacon.secure.yahoo.com^
 ||edge-mcdn.secure.yahoo.com^
 ||edge-mqtt.facebook.com^
+||edge.adobedc.net^
 ||edge.curalate.com^
 ||edge.permutive.app^
 ||edgecast-cf-prod.yahoo.net^
@@ -1777,4 +1780,3 @@
 ||zkcdn.net^
 ||zqtk.net^
 ||zwyr157wwiu6eior.com^
-events-collector.spot.im^
