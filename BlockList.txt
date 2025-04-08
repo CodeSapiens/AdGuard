@@ -170,6 +170,7 @@
 ||amplitude.com^
 ||ampproject.org^
 ||an.facebook.com^
+||andbeyond.media^
 ||animatedbanner.xyz^
 ||anrdoezrs.net^
 ||ap.spotify.com^
@@ -330,6 +331,7 @@
 ||btstatic.com^
 ||btttag.com^
 ||bugsnag.com^
+||bumlam.com^
 ||business-api.tiktok.com^
 ||buy.tinypass.com^
 ||buysellads.net^
@@ -440,6 +442,7 @@
 ||cloudflareinsights.com^
 ||cloudfront-labs.amazonaws.com^
 ||cloudharmony.net^
+||cm-exchange.toast.com^
 ||cm.usatoday.com^
 ||cmp.advertising.com^
 ||cmp.dmgmediaprivacy.co.uk^
@@ -1258,6 +1261,7 @@
 ||portal.fb.com^
 ||postaffiliatepro.com^
 ||postclickmarketing.com^
+||posthog.com^
 ||posthog2.fluffleinfra.net^
 ||postmedia.hub.loginradius.com^
 ||postrelease.com^
@@ -1366,6 +1370,7 @@
 ||rp.liadm.com^
 ||rpxnow.com^
 ||rtds.progressive.com^
+||rtk.io^
 ||ru.com^
 ||rubiconproject.com^
 ||rudderlabs.com^
@@ -1732,6 +1737,7 @@
 ||web-oao.ssp.yahoo.com^
 ||web.diagnostic.networking.aws.dev^
 ||webcontentassessor.com^
+||weborama.fr^
 ||webpubcontent.gray.tv^
 ||webpushs.com^
 ||webpushsr.com^
