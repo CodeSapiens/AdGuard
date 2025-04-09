@@ -297,6 +297,7 @@
 ||bizible.com^
 ||bizographics.com^
 ||bkrtx.com^
+||blismedia.com^
 ||blockmetrics.com^
 ||blog.aboutamazon.com^
 ||blogherads.com^
@@ -492,6 +493,7 @@
 ||consent.dropbox.com^
 ||consent.economist.com^
 ||consentmanager.net^
+||content-settings.com^
 ||content-yahoo.uplynk.com^
 ||content.webcollage.net^
 ||contentsquare.net^
@@ -684,12 +686,14 @@
 ||ensighten.norton.com^
 ||entitlements.jwplayer.com^
 ||error-tracking.reddit.com^
+||eskimi.com^
 ||esm1.net^
 ||espn.api.edge.bamgrid.com^
 ||etahub.com^
 ||eum-appdynamics.com^
 ||eve.playstation.com^
 ||eventbus.intuit.com^
+||eventrecorder.cm.bloomberg.com^
 ||events.brightline.tv^
 ||events.kumulos.com^
 ||events.launchdarkly.com^
@@ -919,6 +923,7 @@
 ||intentiq.com^
 ||intercom-clicks.com^
 ||interncache-frc.fbcdn.net^
+||inv-nets.admixer.net^
 ||investingchannel.com^
 ||invitemedia.com^
 ||ioam.de^
@@ -928,6 +933,7 @@
 ||ipapi.co^
 ||ipify.org^
 ||ips1.unifi-ai.com^
+||iqm.com^
 ||irchan.com^
 ||iris.tv^
 ||is.alicdn.com^
@@ -971,6 +977,7 @@
 ||korfo.org^
 ||kraken-measurements.s3-external-1.amazonaws.com^
 ||krazzykriss.com^
+||krushmedia.com^
 ||krxd.net^
 ||kueezrtb.com^
 ||kundenserver.de^
@@ -1205,6 +1212,7 @@
 ||os.tc^
 ||os4work.com^
 ||osb.samsungqbe.com^
+||osimg.nbcuni.com^
 ||osm-ads*.delivery.roku.com^
 ||oui-0x00199d.com^
 ||outbrain.com^
@@ -1235,7 +1243,9 @@
 ||perfdrive.com^
 ||perfectmarket.com^
 ||permutive.app^
+||permutive.businessinsider.com^
 ||permutive.com^
+||permutive.newyorker.com^
 ||perr.h-cdn.com^
 ||personalization.bloomberg.com^
 ||phar.gu-web.net^
@@ -1269,6 +1279,7 @@
 ||platform.twitter.com^
 ||plausible.io^
 ||play.vidyard.com^
+||playdigo.com^
 ||player.megaphone.fm^
 ||plrsrvcs.com^
 ||plugin.mediavoice.com^
@@ -1378,6 +1389,7 @@
 ||revjet.com^
 ||rewards.brave.com^
 ||rezync.com^
+||rfihub.com^
 ||rfk.biglots.com^
 ||rgembroiderydesigns.com^
 ||richaudience.com^
@@ -1618,6 +1630,7 @@
 ||tag.dickssportinggoods.com^
 ||tagan.adlightning.com^
 ||tagcommander.com^
+||tagdelivery.mayoclinic.org^
 ||tagger.opecloud.com^
 ||tags.aljazeera.com^
 ||tags.tiqcdn.com^
@@ -1634,6 +1647,7 @@
 ||teads.com^
 ||teads.net^
 ||teads.tv^
+||tealium.cbsnews.com^
 ||tealiumiq.com^
 ||teams.events.data.microsoft.com^
 ||techlab-cdn.com^
