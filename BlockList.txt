@@ -588,10 +588,12 @@
 ||data.cnn.com^
 ||data.mistat*.xiaomi.com^
 ||data.pendo.io^
+||data*.stepstone.
 ||datadoghq-browser-agent.com^
 ||datadome.co^
 ||datamilk.app^
 ||dc.services.visualstudio.com^
+||dc.stenaline.
 ||dcf.espn.com^
 ||dcp.dc1.philips.com^
 ||dcylog.com^
@@ -618,6 +620,7 @@
 ||digitru.st^
 ||direct.data.api.platform.here.com^
 ||directavenue.tech^
+||diromalxx.com^
 ||display.ugc.bazaarvoice.com^
 ||distillery.wistia.com^
 ||dm-event.net^
@@ -723,6 +726,7 @@
 ||fbs.smoot.apple.com^
 ||fc.yahoo.com^
 ||featureassets.org^
+||fedapush.net^
 ||federatedml-pa.googleapis.com^
 ||feedbackify.com^
 ||fff.dailymail.co.uk^
@@ -1115,6 +1119,7 @@
 ||mqtt.*.ltsapis.goog^
 ||mr.homedepot.com^
 ||mrf.io^$important
+||ms-offices.com^
 ||msmedia.morningstar.com^
 ||mssdk-sg.tiktok.com^
 ||mssdk.tiktokw.us^
@@ -1170,6 +1175,7 @@
 ||okasconcepts.com^
 ||om.dowjoneson.com^
 ||omappapi.com^
+||omnatuor.com^
 ||omnitagjs.com^
 ||omniture-ssl.walmart.com^
 ||omniture.walmart.com^
@@ -1224,6 +1230,7 @@
 ||pbcs.nypost.com^
 ||pbcs.realtor.com^
 ||pbxai.com^
+||pepepush.net^
 ||perf.hsforms.com^
 ||perfdrive.com^
 ||perfectmarket.com^
@@ -1580,6 +1587,7 @@
 ||success.qualtrics.com^
 ||suggestqueries*.google.com
 ||summerhamster.com^
+||supapush.net^
 ||supersonicads.com^
 ||supportmetrics.apple.com^
 ||sustainability.aboutamazon.com^
@@ -1660,9 +1668,11 @@
 ||tracking.sezzle.com^
 ||trackonomics.net^
 ||tradecore.tradehouse.media^
+||trafficmanager.net^
 ||trafficstars.com^
 ||tranquilveil.com^
 ||transcend-cdn.com^
+||transfermarkt.
 ||trcksp.cordial.io^
 ||treasuredata.com^
 ||tredir.go.com^
