@@ -353,6 +353,7 @@
 ||carbonads.net^
 ||cartkitten.com^
 ||casalemedia.com^
+||cbpheback.com^
 ||cc-api-data.adobe.io^
 ||cc.swiftype.com^
 ||ccgateway.net^
@@ -510,6 +511,7 @@
 ||countess.twitch.tv^
 ||cquotient.com^
 ||crash-report-service.svc.ui.com^
+||crash.steampowered.com^
 ||crashlytics.com^
 ||crashlyticsreports-pa.googleapis.com^
 ||crazyegg.com^
@@ -592,6 +594,7 @@
 ||dc.services.visualstudio.com^
 ||dcf.espn.com^
 ||dcp.dc1.philips.com^
+||dcylog.com^
 ||dd.allaboutcookies.org^
 ||dd.nytimes.com^
 ||dd.study.com^
@@ -680,6 +683,7 @@
 ||error-tracking.reddit.com^
 ||esm1.net^
 ||espn.api.edge.bamgrid.com^
+||etahub.com^
 ||eum-appdynamics.com^
 ||eve.playstation.com^
 ||eventbus.intuit.com^
@@ -735,6 +739,7 @@
 ||fls-fe.amazon.
 ||fls-na.amazon.
 ||flurry.com^
+||flyermobi.com^
 ||fm.cnbc.com^
 ||fn-pz.com^
 ||fndrsp.net^
@@ -857,6 +862,7 @@
 ||hsleadflows.net^
 ||htlbid.com^
 ||html-load.com^
+||http-inputs-notion.splunkcloud.com^
 ||httpschecker.net^
 ||hubapi.com^
 ||hubspotfeedback.com^
@@ -942,6 +948,7 @@
 ||js.usemessages.com^
 ||js7k.com^
 ||jsonip.com^
+||jumbo.zomato.com^
 ||junmediadclikrmdi.com^
 ||justpremium.com^
 ||jwpltx.com^
@@ -1329,6 +1336,7 @@
 ||queryly.com^
 ||r.bbci.co.uk^
 ||r.stripe.com^
+||r0.mradx.net^
 ||r541.houstonchronicle.com^
 ||radar.cedexis.com^
 ||rainmaker*.production-public.tubi.io^
@@ -1337,6 +1345,7 @@
 ||ras.yahoo.com^
 ||ravenjs.com^
 ||rbl.ms^
+||rdtcdn.com^
 ||receptivity.io^
 ||reconditerespect.com^
 ||recsys-api.buzzfeed.com^
@@ -1477,6 +1486,7 @@
 ||sidearm-syndication.s3.amazonaws.com^
 ||signifyd.com^
 ||silverpop.com^
+||singular.net^
 ||site.gladly.com^
 ||site24x7rum.eu^
 ||siteintercept.qualtrics.com^
@@ -1770,6 +1780,7 @@
 ||ww8.kohls.com^
 ||www.i.cdn.cnn.com^
 ||wyhifdpatl.com^
+||wzrkt.com^
 ||xg4ken.com^
 ||xhamster.com^
 ||xhamsterlive.com^
@@ -1782,6 +1793,7 @@
 ||xvideos-cdn.com^
 ||xvideos.com^
 ||yahoo.uservoice.com^
+||ycxrl.com^
 ||yellowblue.io^
 ||yelp-us.com^
 ||yengo.com^
