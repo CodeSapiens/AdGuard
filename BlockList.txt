@@ -1124,6 +1124,7 @@
 ||my.calltrackingmetrics.com^
 ||myfidevs.io^
 ||myfinance.com^
+||myofferplus.com^
 ||mzhlhrfr8z.info^
 ||nakanohito.jp^
 ||narrativ.com^
@@ -1629,6 +1630,7 @@
 ||teams.events.data.microsoft.com^
 ||techlab-cdn.com^
 ||ted.dailymail.co.uk^
+||telete.in^
 ||test.ajo.adobe.com^
 ||tgtag.io^
 ||the-ozone-project.com^
@@ -1781,6 +1783,7 @@
 ||www.i.cdn.cnn.com^
 ||wyhifdpatl.com^
 ||wzrkt.com^
+||x-vpn.ug^
 ||xg4ken.com^
 ||xhamster.com^
 ||xhamsterlive.com^
