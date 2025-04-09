@@ -56,6 +56,7 @@
 ||account.api.here.com^
 ||accounts.nvgs.nvidia.cn^
 ||activity.windows.com^
+||actonservice.com^
 ||actonsoftware.com^
 ||ad-assets.futurecdn.net^
 ||ad-delivery.net^
@@ -382,6 +383,7 @@
 ||cdn.concert.io^
 ||cdn.convertbox.com^
 ||cdn.cookielaw.org^
+||cdn.debugbear.com^
 ||cdn.flashtalking.com^
 ||cdn.geni.us^
 ||cdn.gladly.com^
