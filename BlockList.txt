@@ -455,6 +455,7 @@
 ||cmp.dmgmediaprivacy.co.uk^
 ||cmp.osano.com^
 ||cnstrc.com^
+||coaufu.com^
 ||cod-assets.cdn.callofduty.com^
 ||cognitivlabs.com^
 ||collector-*.perimeterx.net^
@@ -715,6 +716,7 @@
 ||experience.tinypass.com^
 ||external-*.xx.fbcdn.net^
 ||extmaps-api.yandex.net^
+||extratorrent.cc^
 ||extremereach.io^
 ||eyeota.net^
 ||ezodn.com^
@@ -769,6 +771,7 @@
 ||fpapi.io^
 ||fpjs.io^
 ||freeskreen.com^
+||frenghiacred.com^
 ||freshmarketer.com^
 ||fresnel-events.vimeocdn.com^
 ||frog.wix.com^
@@ -939,6 +942,7 @@
 ||irchan.com^
 ||iris.tv^
 ||is.alicdn.com^
+||isohunt.to^
 ||ispot.tv^
 ||izatcloud.net^
 ||jac.yahoosandbox.com^
@@ -968,6 +972,7 @@
 ||kameleoon.eu^
 ||kampyle.com^
 ||kargo.com^
+||kickasstorrents.to^
 ||kidpowers.com^
 ||kisinn.info^
 ||kissmetrics.com^
@@ -1118,6 +1123,7 @@
 ||mopinion.com^
 ||motoringlawyers.com^
 ||mouseflow.com^
+||movie4k.to^
 ||mp.theepochtimes.com^
 ||mparticle.com^
 ||mparticle.weather.com^
@@ -1127,7 +1133,7 @@
 ||mpstat.us^
 ||mqtt.*.ltsapis.goog^
 ||mr.homedepot.com^
-||mrf.io^$important
+||mrf.io^
 ||ms-offices.com^
 ||msmedia.morningstar.com^
 ||mssdk-sg.tiktok.com^
@@ -1337,6 +1343,7 @@
 ||public.cobrowse.oraclecloud.com^
 ||publir.com^
 ||pubmatic.com^
+||pubtrky.com^
 ||pulsar.ebay.com^
 ||purr.nytimes.com^
 ||push.kumulos.com^
@@ -1347,6 +1354,7 @@
 ||q.quora.com^
 ||qgxbluhsgad.com^
 ||qm2.progressive.com^
+||qrwoayzjyblkw.top^
 ||qsearch-a.akamaihd.net^
 ||qualaroo.com^
 ||quantcast.com^
@@ -1363,6 +1371,7 @@
 ||rainmaker*.production-public.tubi.io^
 ||rapleaf.com^
 ||raptive.com^
+||rarbg.to^
 ||ras.yahoo.com^
 ||ravenjs.com^
 ||rbl.ms^
@@ -1403,6 +1412,7 @@
 ||rmtag.com^
 ||rnengage.com^
 ||rookinews.com^
+||rootstheweb.com^
 ||routing.cloudfront.aws.a2z.com^
 ||rp.liadm.com^
 ||rpxnow.com^
@@ -1419,6 +1429,7 @@
 ||s.deepl.com^
 ||s.infogram.com^
 ||s.marketwatch.com^
+||s.pie.org^
 ||s.youtube.com^
 ||s1search.co^
 ||s3-*-ww.cf.videorolls.row.aiv-cdn.net^
@@ -1499,6 +1510,7 @@
 ||shareaholic.net^
 ||sharethis.com^
 ||sharethrough.com^
+||shebudriftaiter.net^
 ||shop-chat-play.com^
 ||shop.ring.com^
 ||shopify-init.blackcrow.ai^
@@ -1534,6 +1546,7 @@
 ||socdm.com^
 ||soflopxl.com^
 ||sojern.com^
+||solarmovie.to^
 ||sonic-ui.highereducation.com^
 ||sonobi.com^
 ||sophi.io^
@@ -1623,6 +1636,7 @@
 ||t.flickr.com^
 ||t.nypost.com^
 ||t.paypal.com^
+||t.pie.org^
 ||t.pluto.tv^
 ||t.wayfair.com^
 ||t.xoom.com^
@@ -1725,10 +1739,12 @@
 ||uie.data.cbc.ca^
 ||unagi*.amazon.
 ||unbounce.com^
+||unhappyweakness.com^
 ||unityads.unity3d.com^
 ||unrulymedia.com^
 ||ups.inq.com^
 ||upsellit.com^
+||uqzoyikxsfhdr.space^
 ||urbanairship.com^
 ||us-*-web-oao.ssp.yahoo.com^
 ||us-*.event.prod.bidr.io^
@@ -1833,6 +1849,7 @@
 ||yoc-adserver.com^
 ||yottaa.net^
 ||youborafds01.com^
+||youradexchange.com^
 ||zdstatic.speedtest.net^
 ||zencdn.net^
 ||zergnet.com^
