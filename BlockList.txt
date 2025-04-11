@@ -153,6 +153,7 @@
 ||agkn.com^
 ||ags-ext.amazon.com^
 ||ahoravideo-
+||air.com^
 ||akamai-*.exacttarget.com.edgekey.net^
 ||akstat.io^
 ||alb.reddit.com^
@@ -698,6 +699,7 @@
 ||eventbus.intuit.com^
 ||eventrecorder.cm.bloomberg.com^
 ||events.brightline.tv^
+||events.jotform.com^
 ||events.kumulos.com^
 ||events.launchdarkly.com^
 ||events.mapbox.com^
@@ -900,6 +902,7 @@
 ||iesnare.com^
 ||ignite.amazon.com^
 ||igodigital.com^
+||ih.adscale.de^
 ||im-apps.net^
 ||image.online.adp.com^
 ||images.nvidia.cn^
@@ -1362,6 +1365,7 @@
 ||quantcount.com^
 ||quantserve.com^
 ||quantummetric.com^
+||qubit.com^
 ||queryly.com^
 ||r.bbci.co.uk^
 ||r.stripe.com^
@@ -1409,6 +1413,7 @@
 ||rlcdn.com^
 ||rma.homedepot.com^
 ||rmp.rakuten.com^
+||rmt.homedepot.com^
 ||rmtag.com^
 ||rnengage.com^
 ||rookinews.com^
@@ -1533,6 +1538,7 @@
 ||sm.dell.com^
 ||smart.link^
 ||smartadserver.com^
+||smartclip.net^
 ||smartetailing.piwik.pro^
 ||smartocto.com^
 ||smetrics.
@@ -1751,6 +1757,7 @@
 ||us.i.posthog.com^
 ||us3.campaign-archive.com^
 ||usabilla.com^
+||usablenet.com^
 ||usawildseafood.com^
 ||use-application-dns.net^
 ||usera.imagecave.com^
