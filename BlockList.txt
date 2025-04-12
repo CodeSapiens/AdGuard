@@ -640,6 +640,7 @@
 ||doppler-beacon.cbsivideo.com^
 ||dotmetrics.net^
 ||dotomi.com^
+||doubleclick.com^
 ||doubleclick.net^
 ||doubleverify.com^
 ||downloads.mailchimp.com^
