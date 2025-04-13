@@ -117,6 +117,7 @@
 ||adspace.
 ||adsparc.com^
 ||adspeed.
+||adspsp.com^
 ||adsrvr.org^
 ||adstechtool.com^
 ||adswizz.com^
@@ -338,6 +339,7 @@
 ||btttag.com^
 ||bugsnag.com^
 ||bumlam.com^
+||bumpermash.com^
 ||business-api.tiktok.com^
 ||buy.tinypass.com^
 ||buysellads.net^
@@ -483,6 +485,7 @@
 ||conde.digital^
 ||condenastdigital.com^
 ||conductrics.com^
+||conductrics.net^
 ||confiant-integrations.net^
 ||confiant.msn.com^
 ||config.claspws.tv^
@@ -1156,6 +1159,7 @@
 ||neilpatel.com^
 ||nelreports.net^
 ||neodatagroup.com^
+||netizen.co^
 ||newrelic.com^
 ||news-edge.apple.com^
 ||newscgp.com^
@@ -1301,6 +1305,7 @@
 ||polling.bbc.co.uk^
 ||polyfill.io^
 ||pop-iad-2.cf.dash.row.aiv-cdn.net^
+||popt.in^
 ||portal.fb.com^
 ||postaffiliatepro.com^
 ||postclickmarketing.com^
