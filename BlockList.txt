@@ -88,6 +88,8 @@
 ||adobedtm.com^
 ||adocean.pl^
 ||adpredictive.com^
+||adpushup.com^
+||adrecover.com^
 ||adrelayer.com^
 ||adrizer.com^
 ||adroll.com^
@@ -105,6 +107,7 @@
 ||adsdk.yandex.ru^
 ||adsdomaintracking.
 ||adsense-telegram.
+||adsensecustomsearchads.com^
 ||adserve
 ||adserver-us.
 ||adserver.
@@ -150,6 +153,7 @@
 ||affiliatly.com^
 ||affilimate.io^
 ||affilired.com^
+||affinitymatrix.com^
 ||ag.innovid.com^
 ||agkn.com^
 ||ags-ext.amazon.com^
@@ -171,6 +175,7 @@
 ||amazonclix.com^
 ||amcs-tachyon.com^
 ||aminopay.net^
+||ampcid.google.com^
 ||amplitude.com^
 ||ampproject.org^
 ||an.facebook.com^
@@ -271,6 +276,7 @@
 ||backstory.ebay.com^
 ||backtrace.io^
 ||baidustatic.com^
+||baikebcs.cdn.bcebos.com^
 ||bannersnack.com^
 ||basebanner.com^
 ||bat.bing.com^
@@ -363,6 +369,7 @@
 ||cc-api-data.adobe.io^
 ||cc.swiftype.com^
 ||ccgateway.net^
+||ccp.digitaltrends.com^
 ||cdn-aka.ts.mtvnservices.com^
 ||cdn-akamai.mookie1.com^
 ||cdn-fallback.petametrics.com^
@@ -449,6 +456,7 @@
 ||clickmagick.com^
 ||clicktripz.com^
 ||client.rum.*.amazonaws.com^
+||clmbtech.com^
 ||cloud1.linksyssmartwifi.com^
 ||cloudflareinsights.com^
 ||cloudfront-labs.amazonaws.com^
@@ -540,6 +548,7 @@
 ||csp.secureserver.net^
 ||csp.yahoo.com^
 ||cstat.cdn-apple.com^
+||cstm.baidu.com^
 ||ct.pinterest.com^
 ||cta-service-cms*.hubspot.com^
 ||cubchannel.com^
@@ -547,6 +556,7 @@
 ||customer.cludo.com^
 ||customer.homedepot.com^
 ||customerevents.netflix.com^
+||cutechin.com^
 ||cxense.com^
 ||d.email.forbes.com^
 ||d.reddit.com^
@@ -569,6 +579,7 @@
 ||d2o5idwacg3gyw.cloudfront.net^
 ||d2ouawjonid8rv.cloudfront.net^
 ||d2p9l91d5g68ru.cloudfront.net^
+||d2r1yp2w7bby2u.cloudfront.net^
 ||d2uap9jskdzp2.cloudfront.net^
 ||d2v02itv0y9u9t.cloudfront.net^
 ||d2wy8f7a9ursnm.cloudfront.net^
@@ -590,6 +601,7 @@
 ||d6wyculpvlvh1.cloudfront.net^
 ||d9esmwyn3ffr1.cloudfront.net^
 ||dap.digitalgov.gov^
+||dap.hindustantimes.com^
 ||dartsearch.net^
 ||dashboard.tinypass.com^
 ||data-*.bild.de^
@@ -633,6 +645,7 @@
 ||diromalxx.com^
 ||display.ugc.bazaarvoice.com^
 ||distillery.wistia.com^
+||dlswbr.baidu.com^
 ||dm-event.net^
 ||dmd.metaservices.microsoft.com^
 ||dmpxs.com^
@@ -667,6 +680,7 @@
 ||ebxcdn.com^
 ||ec.thredup.com^
 ||ecdinterface.philips.com^
+||edge-auth.microsoft.com^
 ||edge-mcdn-beacon.secure.yahoo.com^
 ||edge-mcdn.secure.yahoo.com^
 ||edge-mqtt.facebook.com^
@@ -736,6 +750,7 @@
 ||fastclick.com^
 ||fastclick.net^
 ||fastly-insights.com^
+||faves.grow.me^
 ||fbot.me^
 ||fbs.smoot.apple.com^
 ||fc.yahoo.com^
@@ -851,6 +866,7 @@
 ||guce.advertising.com^
 ||gumgum.com^
 ||gurgle.pcmag.com^
+||gustygrandmother.com^
 ||gvt2.com^
 ||gvt3.com^
 ||handsomelyhealth.com^
@@ -927,6 +943,7 @@
 ||ingress.linktr.ee^
 ||ink1001.com^
 ||inmobi.com^
+||innity.net^
 ||insightexpressai.com^
 ||insights.alibaba.com^
 ||instiengage.com^
@@ -939,6 +956,8 @@
 ||inv-nets.admixer.net^
 ||investingchannel.com^
 ||invitemedia.com^
+||invoca.net^
+||invocacdn.com^
 ||ioam.de^
 ||iot-eu-logser.realme.com^
 ||iot-logser.realme.com^
@@ -953,6 +972,8 @@
 ||isohunt.to^
 ||ispot.tv^
 ||izatcloud.net^
+||izooto.com^
+||izooto.com^
 ||jac.yahoosandbox.com^
 ||janrain.com^
 ||jcpclick.com^
@@ -990,6 +1011,7 @@
 ||knotch-cdn.com^
 ||kochava.com^
 ||korfo.org^
+||kostprice.com^
 ||kraken-measurements.s3-external-1.amazonaws.com^
 ||krazzykriss.com^
 ||krushmedia.com^
@@ -1091,6 +1113,7 @@
 ||mediago.io^
 ||mediamath.com^
 ||mediaplex.com^
+||mediatradecraft.com^
 ||mediavine.com^
 ||merequartz.com^
 ||metcon.hulu.com^
@@ -1119,6 +1142,7 @@
 ||mobile.events.data.microsoft.com^
 ||mobile.pipe.aria.microsoft.com^
 ||mobsmith.com^
+||moengage.com^
 ||mon*-normal-us*.tiktokv.
 ||mon1.kohls.com^
 ||monarchads.com^
@@ -1180,6 +1204,7 @@
 ||noa.yahoo.com^
 ||nosto.com^
 ||notify.firetv.bugsnag.appstore.a2z.com^
+||notify.hindustantimes.com^
 ||notify6.com^
 ||notifysrv.com^
 ||notifyvisitors.com^
@@ -1217,6 +1242,7 @@
 ||onetag.com^
 ||onetrust.com^
 ||online-metrix.net^
+||onthe.io^
 ||openx.net^
 ||openx.org^
 ||openxenterprise.com^
@@ -1245,6 +1271,7 @@
 ||pagefair.com^
 ||pagefair.net^
 ||pages.usertesting.com^
+||pagesense.io^
 ||pancake.apple.com^
 ||pangleglobal.com^
 ||panorama.wixapps.net^
@@ -1462,6 +1489,7 @@
 ||sapphire-api.target.com^
 ||sars.amazon.com^
 ||sc-static.net^
+||scaredslip.com^
 ||scaredsnakes.com^
 ||scontent-sjc2-1.xx.fbcdn.net^
 ||scontent.webcollage.net^
@@ -1577,6 +1605,7 @@
 ||spookyexchange.com^
 ||spot.im^
 ||spotxchange.com^
+||sprig.com^
 ||springserve.com^
 ||src.ebay-us.com^
 ||srtb.msn.com^
@@ -1585,6 +1614,7 @@
 ||ssl.cf5.rackcdn.com^
 ||ssl.kaptcha.com^
 ||ssl.o.webmd.com^
+||ssl.widgets.webengage.com^
 ||ssp.yahoo.com^
 ||sstats.adobe.com^
 ||stackadapt.com^
@@ -1629,6 +1659,7 @@
 ||success.qualtrics.com^
 ||suggestqueries*.google.com
 ||summerhamster.com^
+||sumome.com^
 ||supapush.net^
 ||supersonicads.com^
 ||supportmetrics.apple.com^
@@ -1706,6 +1737,7 @@
 ||track.contently.com^
 ||track.dictionary.com^
 ||track.sp.crdl.io^
+||trackcmp.net^
 ||trackedlink.net^
 ||tracker.
 ||trackersimulator.org^
@@ -1742,8 +1774,10 @@
 ||tvpixel.com^
 ||tvsquared.com^
 ||twitchsvc.net^
+||tynt.com^
 ||typeahead.target.com^
 ||u566.chron.com^
+||ua.indianexpress.com^
 ||ubembed.com^
 ||uciservice.com^
 ||udc.yahoo.com^
@@ -1754,6 +1788,7 @@
 ||uie.data.cbc.ca^
 ||unagi*.amazon.
 ||unbounce.com^
+||undertone.com^
 ||unhappyweakness.com^
 ||unityads.unity3d.com^
 ||unrulymedia.com^
@@ -1836,6 +1871,7 @@
 ||ws.audioeye.com^
 ||ws.sharethis.com^
 ||wsmcdn.audioeye.com^
+||wt.viagogo.net^
 ||wurfl.io^
 ||ww8.kohls.com^
 ||www.i.cdn.cnn.com^
