@@ -325,6 +325,7 @@
 ||bounceexchange.com^
 ||bouncex.net^
 ||boxofficemojo.com^
+||brainlyads.com^
 ||branch.io^
 ||brand-sdk.kmsmep.com^
 ||brandmetrics.com^
@@ -1190,6 +1191,7 @@
 ||news-edge.apple.com^
 ||newscgp.com^
 ||nexstardigital.net^
+||nextmillmedia.com^
 ||nexusrules.officeapps.live.com^
 ||nimbleswan.io^
 ||ninthdecimal.com^
@@ -1559,6 +1561,7 @@
 ||shortpixel.ai^
 ||sid.nordstrom.com^
 ||sidearm-syndication.s3.amazonaws.com^
+||siftscience.com^
 ||signifyd.com^
 ||silverpop.com^
 ||singular.net^
