@@ -338,6 +338,7 @@
 ||btstatic.com^
 ||btttag.com^
 ||bugsnag.com^
+||bullwhip.cloud^
 ||bumlam.com^
 ||bumpermash.com^
 ||business-api.tiktok.com^
@@ -779,6 +780,7 @@
 ||frenghiacred.com^
 ||freshmarketer.com^
 ||fresnel-events.vimeocdn.com^
+||freyr.futurecdn.net^
 ||frog.wix.com^
 ||fullstory.com^
 ||fundingchoicesmessages.google.com^
@@ -1167,6 +1169,7 @@
 ||nexusrules.officeapps.live.com^
 ||nimbleswan.io^
 ||ninthdecimal.com^
+||nipe4head.com^
 ||nitropay.com^
 ||nitroscripts.com^
 ||njtzzrvg0lwj3bsn.info^
@@ -1609,6 +1612,7 @@
 ||stats.lineageos.org^
 ||stats.wordpress.com^
 ||stats.wp.com^
+||stats.wpmucdn.com^
 ||statsigapi.net^
 ||steadfastseat.com^
 ||steadfastsystem.com^
