@@ -126,6 +126,7 @@
 ||adswizz.com^
 ||adsymptotic.com^
 ||adtago.s3.amazonaws.com^
+||adtarget.
 ||adtech.
 ||adtechus.
 ||adtechvideo.
@@ -231,6 +232,7 @@
 ||appsflyersdk.com^
 ||appspot.com^
 ||aptivada.com^
+||arclight.vimeo.com^
 ||as.sourceforge.net^
 ||asadcdn.com^
 ||ascendeummedia.com^
@@ -451,6 +453,7 @@
 ||clean.gg^
 ||clearbitscripts.com^
 ||cleverads.vn^
+||clickagy.com^
 ||clickbank.com^
 ||clickbank.net^
 ||clickmagick.com^
@@ -512,6 +515,7 @@
 ||content-settings.com^
 ||content-yahoo.uplynk.com^
 ||content.webcollage.net^
+||contentinsights.com^
 ||contentsquare.net^
 ||contextual.media.net^
 ||contextweb.com^
@@ -561,6 +565,7 @@
 ||cxense.com^
 ||d.email.forbes.com^
 ||d.reddit.com^
+||d10lpsik1i8c69.cloudfront.net^
 ||d15kdpgjg3unno.cloudfront.net^
 ||d196fri2z18sm.cloudfront.net^
 ||d1ros97qkrwjf5.cloudfront.net^
@@ -674,6 +679,7 @@
 ||dynaimage.cdn.cnn.com^
 ||dynamicyield.com^
 ||dynatrace.att.com^
+||dyv1bugovvq1g.cloudfront.net^
 ||e-planning.net^
 ||e.viously.com^
 ||ebayclassifiedsgroup.com^
@@ -1004,6 +1010,7 @@
 ||kameleoon.eu^
 ||kampyle.com^
 ||kargo.com^
+||keywee.co^
 ||kickasstorrents.to^
 ||kidpowers.com^
 ||kisinn.info^
@@ -1049,6 +1056,7 @@
 ||lngtd.com^
 ||load.s3.amazonaws.com^
 ||loader.wisepops.com^
+||loc.kr^
 ||location-api.hdhomerun.com^
 ||location-services-measurements.s3-external-1.amazonaws.com^
 ||log.cookieyes.com^
@@ -1225,6 +1233,7 @@
 ||offerwall.yandex.net^
 ||ogads-pa.clients6.google.com^
 ||ogads-pa.googleapis.com^
+||ogury.com^
 ||ojrq.net^
 ||okasconcepts.com^
 ||om.dowjoneson.com^
@@ -1287,6 +1296,7 @@
 ||pbcs.nypost.com^
 ||pbcs.realtor.com^
 ||pbxai.com^
+||pelcro.com^
 ||pepepush.net^
 ||perf.hsforms.com^
 ||perfdrive.com^
@@ -1353,6 +1363,7 @@
 ||pr.ybp.yahoo.com^
 ||prd.sca.samsung.com^
 ||prebid.a-mo.net^
+||presage.io^
 ||prf.hn^
 ||pricespider.com^
 ||primetime.bluejeans.com^
@@ -1703,6 +1714,7 @@
 ||tags.tiqcdn.com^
 ||tags.voanews.com^
 ||tags.wdsvc.net^
+||tamgrt.com^
 ||tao.barstoolsports.com^
 ||tapad.com^
 ||taplytics-umami.grubhub.com^
@@ -1710,6 +1722,7 @@
 ||target.chase.com^
 ||target.cisco.com^
 ||target.microsoft.com^
+||targetbay.com^
 ||tctm.co^
 ||teads.com^
 ||teads.net^
@@ -1751,6 +1764,7 @@
 ||tracking.sezzle.com^
 ||trackonomics.net^
 ||tradecore.tradehouse.media^
+||trafficgate.net^
 ||trafficmanager.net^
 ||trafficstars.com^
 ||tranquilveil.com^
@@ -1763,6 +1777,7 @@
 ||tremorhub.com^
 ||trinity.platform.intuit.com^
 ||trinitymedia.ai^
+||triplelift.com^
 ||trk.ipaddress.com^
 ||trk.klclick.com^
 ||trk.pinterest.com^
@@ -1814,6 +1829,7 @@
 ||usercentrics.eu^
 ||userlocation.googleapis.com^
 ||userreport.com^
+||userzoom.com^
 ||vaicore.
 ||variations.brave.com^
 ||vendorlist.consensu.org^
@@ -1909,6 +1925,7 @@
 ||youborafds01.com^
 ||youradexchange.com^
 ||zdstatic.speedtest.net^
+||zemanta.com^
 ||zencdn.net^
 ||zergnet.com^
 ||zeronaught.com^
