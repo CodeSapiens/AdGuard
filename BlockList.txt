@@ -130,6 +130,7 @@
 ||adsymptotic.com^
 ||adtago.s3.amazonaws.com^
 ||adtarget.
+||adtcdn.unidadeditorial.es^
 ||adtech.
 ||adtechus.
 ||adtechvideo.
@@ -170,6 +171,7 @@
 ||albss.com^
 ||alexametrics.com^
 ||alimama.com^
+||aliveachiever.com^
 ||aliyuncs.com^
 ||allawnos.com^
 ||aloofvest.com^
@@ -630,6 +632,7 @@
 ||datadoghq-browser-agent.com^
 ||datadome.co^
 ||datamilk.app^
+||db7q4jg5rkhk8.cloudfront.net^
 ||dc.services.visualstudio.com^
 ||dc.stenaline.
 ||dcf.espn.com^
@@ -843,6 +846,7 @@
 ||geo.yahoo.com^
 ||geo*.adobe.com^
 ||geoedge.be^
+||geoip-js.com^
 ||geoip.businessinsider.com^
 ||geoip.radio-canada.ca^
 ||geotrust.com^
@@ -891,6 +895,7 @@
 ||handsomelyhealth.com^
 ||hb.vntsm.com^
 ||hb.yahoo.net^
+||hbwrapper.com^
 ||hbwrapper.com^
 ||hbx.media.net^
 ||hd-personalization-prod.gcp.homedepot.com^
@@ -1307,9 +1312,11 @@
 ||parkingcrew.net^
 ||parsely.com^
 ||partnerads.ysm.yahoo.com^
+||pbc.realtor.com^
 ||pbc.wsj.com^
 ||pbcs.nypost.com^
 ||pbcs.realtor.com^
+||pbjs-stream.bydata.com^
 ||pbjs-stream.bydata.com^
 ||pbstck.com^
 ||pbxai.com^
@@ -1344,6 +1351,7 @@
 ||pixel.watch^
 ||pixel.wp.com^
 ||pixel*.production-public.tubi.io^
+||pixelcounter.marca.com^
 ||pixels.spotify.com^
 ||pixiedust.buzzfeed.com^
 ||placed.com^
@@ -1412,6 +1420,7 @@
 ||pubgw.yahoo.com^
 ||pubimgs.com^
 ||public.cobrowse.oraclecloud.com^
+||publicgood.com^
 ||publir.com^
 ||pubmatic.com^
 ||pubtrky.com^
@@ -1558,6 +1567,7 @@
 ||seedtag.com^
 ||seethru.co.uk^
 ||seeyoufarm.com^
+||seg.eltiempo.com^
 ||segment-cdn.producthunt.com^
 ||segment-data.zqtk.net^
 ||segment.com^
@@ -1566,6 +1576,7 @@
 ||selfishsnake.com^
 ||sell.amazon.com^
 ||sendingspire.com^
+||sensic.net^
 ||sentry-cdn.com^
 ||sentry.io^
 ||sephora-track.inside-graph.com^
@@ -1693,6 +1704,7 @@
 ||subs.youmaker.com^
 ||subscription-forms.smsbump.com^
 ||subseasecurity.com^
+||subseasecurity.com^
 ||succeedscene.com^
 ||success.qualtrics.com^
 ||suggestqueries*.google.com
@@ -1751,6 +1763,7 @@
 ||teads.tv^
 ||tealium.cbsnews.com^
 ||tealiumiq.com^
+||tealm-c.crocs.com^
 ||teams.events.data.microsoft.com^
 ||techlab-cdn.com^
 ||ted.dailymail.co.uk^
