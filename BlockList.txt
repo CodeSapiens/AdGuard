@@ -56,6 +56,7 @@
 ||account.api.here.com^
 ||accounts.nvgs.nvidia.cn^
 ||acsbapp.com^
+||activemetering.com^
 ||activity.windows.com^
 ||actonservice.com^
 ||actonsoftware.com^
@@ -756,6 +757,7 @@
 ||exacttarget.com^
 ||exelator.com^
 ||experience.tinypass.com^
+||experiments.apple.com^
 ||external-*.xx.fbcdn.net^
 ||extmaps-api.yandex.net^
 ||extratorrent.cc^
@@ -843,6 +845,7 @@
 ||geo.ads
 ||geo.cnbc.com^
 ||geo.gfycat.com^
+||geo.lovely-app.com^
 ||geo.ngtv.io^
 ||geo.query.yahoo.com^
 ||geo.yahoo.com^
@@ -854,6 +857,7 @@
 ||geotrust.com^
 ||getadmiral.com^
 ||getcarro.com^
+||getelevar.com^
 ||getpublica.com^
 ||getsentry.com^
 ||gh.fanatical.com^
@@ -897,7 +901,6 @@
 ||handsomelyhealth.com^
 ||hb.vntsm.com^
 ||hb.yahoo.net^
-||hbwrapper.com^
 ||hbwrapper.com^
 ||hbx.media.net^
 ||hd-personalization-prod.gcp.homedepot.com^
@@ -977,6 +980,7 @@
 ||instiengage.com^
 ||instinctiveads.com^
 ||integralads.com^
+||intelligems.io^
 ||intellimize.co^
 ||intentiq.com^
 ||intercom-clicks.com^
@@ -992,6 +996,7 @@
 ||ip.prvtx.net^
 ||ipapi.co^
 ||ipify.org^
+||ipredictive.com^
 ||ips1.unifi-ai.com^
 ||iqm.com^
 ||irchan.com^
@@ -1020,6 +1025,7 @@
 ||js.usemessages.com^
 ||js7k.com^
 ||jsonip.com^
+||jst.ai^
 ||jumbo.zomato.com^
 ||junmediadclikrmdi.com^
 ||justpremium.com^
@@ -1036,6 +1042,7 @@
 ||kissmetrics.io^
 ||klaviyo.com^
 ||klclick3.com^
+||klickly.com^
 ||knotch-cdn.com^
 ||kochava.com^
 ||korfo.org^
@@ -1134,6 +1141,7 @@
 ||matomo.openstreetmap.org^
 ||mbid.marfeelrev.com^
 ||mcs.tiktokw.us^
+||mdhv.io^
 ||measure.chase.com^
 ||media.evolv.ai^
 ||media.flixcar.com^
@@ -1320,7 +1328,6 @@
 ||pbcs.nypost.com^
 ||pbcs.realtor.com^
 ||pbjs-stream.bydata.com^
-||pbjs-stream.bydata.com^
 ||pbstck.com^
 ||pbxai.com^
 ||pelcro.com^
@@ -1357,6 +1364,7 @@
 ||pixelcounter.marca.com^
 ||pixels.spotify.com^
 ||pixiedust.buzzfeed.com^
+||pixsrvcs.com^
 ||placed.com^
 ||plaguemanipulatedrag.com^
 ||platform-api.sharethis.com^
@@ -1611,6 +1619,7 @@
 ||siftscience.com^
 ||signifyd.com^
 ||silverpop.com^
+||simpli.fi^
 ||singular.net^
 ||site.gladly.com^
 ||site24x7rum.eu^
@@ -1708,7 +1717,6 @@
 ||subs.youmaker.com^
 ||subscription-forms.smsbump.com^
 ||subseasecurity.com^
-||subseasecurity.com^
 ||succeedscene.com^
 ||success.qualtrics.com^
 ||suggestqueries*.google.com
@@ -1717,6 +1725,7 @@
 ||supapush.net^
 ||supersonicads.com^
 ||supportmetrics.apple.com^
+||survata.com^
 ||sustainability.aboutamazon.com^
 ||svcs.ebay.com^
 ||svopn.e.michaels.com^
