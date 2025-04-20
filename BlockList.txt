@@ -232,6 +232,7 @@
 ||apple-relay.apple.com^
 ||apple.news^
 ||apple.pa^
+||applicationinsights.
 ||applicationinsights.azure.com^
 ||applovin.com^
 ||applytics.nordvpn.com^
@@ -571,6 +572,7 @@
 ||customer-success-apac.adobe.com^
 ||customer.cludo.com^
 ||customer.homedepot.com^
+||customercenter-img*.auto-owners.com^
 ||customerevents.netflix.com^
 ||cutechin.com^
 ||cxense.com^
@@ -1101,6 +1103,7 @@
 ||lpsnmedia.net^
 ||lptag-cdn.liveperson.net^
 ||lptag.liveperson.net^
+||lrkt-in.com^
 ||luckyorange.com^
 ||luckyorange.net^
 ||luronews.com^
@@ -1579,6 +1582,7 @@
 ||sensic.net^
 ||sentry-cdn.com^
 ||sentry.io^
+||seoab.io^
 ||sephora-track.inside-graph.com^
 ||sephora.cnstrc.com^
 ||servebom.com^
