@@ -109,6 +109,7 @@
 ||adsafety.net^
 ||adsdk.microsoft.com^
 ||adsdk.yandex.ru^
+||adskit.
 ||adsdomaintracking.
 ||adsense-telegram.
 ||adsensecustomsearchads.com^
@@ -143,7 +144,7 @@
 ||advanced-ip-sca
 ||advancedtech.com^
 ||advertising-api-eu.amazon.com^
-||advertising.amazon.com^
+||advertising*.amazon.
 ||advertising.samsclub.com^
 ||advertising.twitter.com^
 ||advertising.walmart.com^
@@ -786,7 +787,6 @@
 ||firebase*.googleapis.com^
 ||firebaseapp.com^
 ||firebaseio.com^
-||firehose*.amazonaws.com^
 ||firetv-news-content-ingestion.amazon.com^
 ||fireworkapi1.com^
 ||firstendpoint.com^
@@ -1637,7 +1637,6 @@
 ||smartetailing.piwik.pro^
 ||smartocto.com^
 ||smetrics.
-||smetrics.foxnews.com^
 ||smilewanted.com^
 ||smoot.apple.com^
 ||snap.licdn.com^
