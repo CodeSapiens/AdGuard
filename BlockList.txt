@@ -7,7 +7,7 @@
 .ssp.advertising.com^
 .textads^
 .xxx^
-@@||sonic.xapp.avs.amazon.dev^
+@@||sonic.xapp.avs.amazon.dev^$important
 *-ad-rs.amagi.tv^
 *analytics
 *events-collector.spot.im^
