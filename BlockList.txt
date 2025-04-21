@@ -7,6 +7,7 @@
 .ssp.advertising.com^
 .textads^
 .xxx^
+@@||global.backend.imdbtv-services.amazon.dev^$important
 @@||sonic.xapp.avs.amazon.dev^$important
 *-ad-rs.amagi.tv^
 *analytics
@@ -1481,6 +1482,7 @@
 ||rarbg.to^
 ||ras.yahoo.com^
 ||ravenjs.com^
+||ravm.tv^
 ||rbl.ms^
 ||rdtcdn.com^
 ||realtime-logger.production-public.tubi.io^
