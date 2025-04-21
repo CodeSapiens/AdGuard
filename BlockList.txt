@@ -7,6 +7,7 @@
 .ssp.advertising.com^
 .textads^
 .xxx^
+@@||sonic.xapp.avs.amazon.dev^
 *-ad-rs.amagi.tv^
 *analytics
 *events-collector.spot.im^
@@ -37,6 +38,7 @@
 ||a.quora.com^
 ||a1.api.bbc.co.uk^
 ||a40.usablenet.com^
+||a47b.com^
 ||a4k.amazon.com^
 ||a8.net^
 ||aamt.msnbc.com^
@@ -102,14 +104,15 @@
 ||ads-*.pinterest.com^
 ||ads-*.tiktok.com^
 ||ads-*.twitter.com^
+||ads-image.
 ||ads-setu-proxy.amazon.com^
 ||ads-twitter.com^
 ||ads.
+||ads4.production-public.tubi.io^
 ||adsafeprotected.com^
 ||adsafety.net^
 ||adsdk.microsoft.com^
 ||adsdk.yandex.ru^
-||adskit.
 ||adsdomaintracking.
 ||adsense-telegram.
 ||adsensecustomsearchads.com^
@@ -119,6 +122,7 @@
 ||adservice.
 ||adservices.
 ||adsfs.oppomobile.com^
+||adskit.
 ||adsmart
 ||adsmogo.
 ||adsninja.ca^
@@ -143,12 +147,11 @@
 ||adups.com^
 ||advanced-ip-sca
 ||advancedtech.com^
-||advertising-api-eu.amazon.com^
-||advertising*.amazon.
 ||advertising.samsclub.com^
 ||advertising.twitter.com^
 ||advertising.walmart.com^
 ||advertising.yahoo*.com^
+||advertising*.amazon.
 ||advice-ads.s3.amazonaws.com^
 ||adzerk.net^
 ||adzone.io^
@@ -168,7 +171,9 @@
 ||aimtell.com^
 ||air.com^
 ||akamai-*.exacttarget.com.edgekey.net^
+||akisinn.
 ||akstat.io^
+||aktivvinter.
 ||alb.reddit.com^
 ||albss.com^
 ||alexametrics.com^
@@ -1006,6 +1011,7 @@
 ||ispot.tv^
 ||izatcloud.net^
 ||izooto.com^
+||j.northbeam.io^
 ||jac.yahoosandbox.com^
 ||janrain.com^
 ||jcpclick.com^
@@ -1053,6 +1059,7 @@
 ||krxd.net^
 ||kueezrtb.com^
 ||kundenserver.de^
+||kvaedit.site^
 ||ladsp.com^
 ||lameletters.com^
 ||laptop-updates.brave.com^
@@ -1070,6 +1077,7 @@
 ||lijit.com^
 ||limurol.com^
 ||linear-ad-segments.frequency.stream^
+||link.plex.tv^
 ||linksynergy.com^
 ||linkwithin.com^
 ||litix.io^
@@ -1078,6 +1086,7 @@
 ||lixarproxsee
 ||lkqd.net^
 ||ll.dash.row.aiv-cdn.net^
+||lma.npaw.com^
 ||lngtd.com^
 ||load.s3.amazonaws.com^
 ||loader.wisepops.com^
@@ -1119,7 +1128,7 @@
 ||m.stripe.com^
 ||m.yap.yahoo.com^
 ||m365cdn.nel.measure.office.net^
-||mads.amazon.com^
+||mads*.amazon.com^
 ||mail-ads.google.com^
 ||mailchimp.com^
 ||main.ebayrtm.com^
@@ -1143,6 +1152,7 @@
 ||mcs.tiktokw.us^
 ||mdhv.io^
 ||measure.chase.com^
+||media.complex.com^
 ||media.evolv.ai^
 ||media.flixcar.com^
 ||media.flixfacts.com^
@@ -1323,6 +1333,7 @@
 ||parkingcrew.net^
 ||parsely.com^
 ||partnerads.ysm.yahoo.com^
+||partnerstack.com^
 ||pbc.realtor.com^
 ||pbc.wsj.com^
 ||pbcs.nypost.com^
@@ -1358,6 +1369,7 @@
 ||pixel-config.reddit.com^
 ||pixel.facebook.com^
 ||pixel.ipinfo.io^
+||pixel.nudgify.com^
 ||pixel.watch^
 ||pixel.wp.com^
 ||pixel*.production-public.tubi.io^
@@ -1441,6 +1453,8 @@
 ||pushengage.com^
 ||pusherapp.com^
 ||pushmaster-cdn.xyz^
+||px-client.net^
+||px-clone.com^
 ||pxlctl.
 ||q.quora.com^
 ||qgxbluhsgad.com^
@@ -1469,9 +1483,11 @@
 ||ravenjs.com^
 ||rbl.ms^
 ||rdtcdn.com^
+||realtime-logger.production-public.tubi.io^
 ||receptivity.io^
 ||reconditerespect.com^
 ||recsys-api.buzzfeed.com^
+||redfast.com^
 ||redirector.gvt1.com^
 ||redtrack.io^
 ||refer.wordpress.com^
@@ -1532,6 +1548,7 @@
 ||sa.bbc.co.uk^
 ||sa.com^
 ||saa.cbsi.com^
+||saa.pluto.tv^
 ||safe-guard.online^
 ||sail-horizon.com^
 ||sail-personalize.com^
@@ -1597,6 +1614,7 @@
 ||servedbyopenx.com^
 ||serverbid-sync.nyc3.cdn.digitaloceanspaces.com^
 ||serverbid.com^
+||service-ad-*.pluto.tv^
 ||service.amazonsilk.com^
 ||service.cmp.oath.com^
 ||service.minerva.devices.a2z.com^
@@ -1872,6 +1890,7 @@
 ||usablenet.com^
 ||usawildseafood.com^
 ||use-application-dns.net^
+||user-signals.production-public.tubi.io^
 ||usera.imagecave.com^
 ||usercentrics.eu^
 ||userlocation.googleapis.com^
@@ -1918,6 +1937,7 @@
 ||watch-cdn.product.api.espn.com^
 ||watch.amazon.com^
 ||watson.events.data.microsoft.com^
+||wdfl.co^
 ||web-oao.ssp.yahoo.com^
 ||web-tracker.smsbump.com^
 ||web.diagnostic.networking.aws.dev^
@@ -1936,6 +1956,7 @@
 ||widgets.tree.com^
 ||wildmoodswings.co.uk^
 ||wimsey.publicsquare.com^
+||wisepops.com^
 ||wknd.ai^
 ||wootric-eligibility.herokuapp.com^
 ||wow.com^
@@ -1950,7 +1971,7 @@
 ||wzrkt.com^
 ||x-vpn.ug^
 ||xg4ken.com^
-||xhamster.com^
+||xhamster
 ||xhamsterlive.com^
 ||xhamsterpremium.com^
 ||xhcdn.com^
