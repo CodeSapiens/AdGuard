@@ -145,6 +145,7 @@
 ||adtechvideo.
 ||adtelligent.com^
 ||adthrive.com^
+||adtilt.com^
 ||adtrafficquality.google^
 ||adult
 ||adups.com^
@@ -226,6 +227,7 @@
 ||api.statsig.com^
 ||api.tiles.mapbox.com^
 ||api*.iheart.com^
+||app-ads-services.com^
 ||app-analytics-services.com^
 ||app-measurement.com^
 ||app.adjust
@@ -1145,6 +1147,7 @@
 ||mantis-intelligence.com^
 ||maps.googleapis.com^
 ||marketing.gilderlehrman.org^
+||marketingcloudapis.com^
 ||marketingsolutions.yahoo.com^
 ||marketo.com^
 ||marketo.net^
@@ -1546,6 +1549,7 @@
 ||rudderlabs.com^
 ||rum-metrics.bunny.net^
 ||rum.hlx.page^
+||rvikjd.com^
 ||rxeosevsso.com^
 ||s-adzone.com^
 ||s-onetag.com^
@@ -1741,6 +1745,7 @@
 ||steelhousemedia.com^
 ||stickyadstv.com^
 ||stores-counters.wix.com^
+||streamingextensions.com^
 ||stripe.network^
 ||stun.cdn-net.com^
 ||stun.voiparound.com^
