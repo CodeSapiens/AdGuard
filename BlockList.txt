@@ -1679,6 +1679,7 @@
 ||sharethis.com^
 ||sharethrough.com^
 ||shebudriftaiter.net^
+||shgcdn3.com^
 ||shop-chat-play.com^
 ||shop.ring.com^
 ||shopify-init.blackcrow.ai^
