@@ -110,6 +110,7 @@
 ||ads-setu-proxy.amazon.com^
 ||ads-twitter.com^
 ||ads.
+||ads*.adrise.tv^
 ||ads4.production-public.tubi.io^
 ||adsafeprotected.com^
 ||adsafety.net^
@@ -837,6 +838,7 @@
 ||fresnel-events.vimeocdn.com^
 ||freyr.futurecdn.net^
 ||frog.wix.com^
+||frqj.adrise.tv^
 ||fullstory.com^
 ||fundingchoicesmessages.google.com^
 ||fuse.forbes.com^
@@ -971,6 +973,7 @@
 ||im-apps.net^
 ||image.online.adp.com^
 ||images.nvidia.cn^
+||images*.adrise.tv^
 ||images*.minutemediacdn.com^
 ||imasdk.googleapis.com^
 ||imiclk.com^
@@ -1334,6 +1337,7 @@
 ||p.brid.tv^
 ||p.typekit.net^
 ||p7cloud.net^
+||paella.adrise.tv^
 ||pafvertizing.crazygames.com^
 ||pagefair.com^
 ||pagefair.net^
@@ -1553,6 +1557,7 @@
 ||rxeosevsso.com^
 ||s-adzone.com^
 ||s-onetag.com^
+||s.adrise.tv^
 ||s.deepl.com^
 ||s.infogram.com^
 ||s.marketwatch.com^
