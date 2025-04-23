@@ -1158,6 +1158,8 @@
 ||markitcdn.com^
 ||marphezis.com^
 ||marsello.com^
+||mask*.apple-dns.net^
+||mask*.icloud.com^
 ||mathtag.com^
 ||matomo.bunny.net^
 ||matomo.cloud^
@@ -1442,6 +1444,7 @@
 ||privy.com^
 ||pro.imdb.com^
 ||pro.ip-api.com^
+||probe.icloud.com^
 ||prod.amazoncrl.com^
 ||prod.fennec.atp.fox^
 ||prod.pyxis.atp.fox^
