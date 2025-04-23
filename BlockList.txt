@@ -463,7 +463,6 @@
 ||cdnads.geeksforgeeks.org^
 ||cdnopw.com^
 ||cdns.*.gigya.com^
-||cdnssl.clicktale.net^
 ||cdntravelspike.azureedge.net^
 ||cdp-dev.cnn.com^
 ||ced*.sascdn.com^
@@ -489,6 +488,7 @@
 ||clickbank.com^
 ||clickbank.net^
 ||clickmagick.com^
+||clicktale.net^
 ||clicktripz.com^
 ||client.rum.*.amazonaws.com^
 ||clmbtech.com^
@@ -888,7 +888,6 @@
 ||getpublica.com^
 ||getsentry.com^
 ||gh.fanatical.com^
-||glancecdn.net^
 ||glanceguide.com^
 ||glassboxcdn.com^
 ||glassboxdigital.io^
@@ -1333,6 +1332,7 @@
 ||onetrust.com^
 ||online-metrix.net^
 ||onthe.io^
+||ontraport.com^
 ||openx.com^
 ||openx.net^
 ||openx.org^
