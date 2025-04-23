@@ -1201,13 +1201,13 @@
 ||mediaplex.com^
 ||mediatradecraft.com^
 ||mediavine.com^
+||megpxs.com^
 ||merequartz.com^
 ||metcon.hulu.com^
 ||meter-svc.nytimes.com^
 ||metric.gstatic.com^
 ||metricode.com^
 ||metrics
-||metrics.icloud.com^
 ||mgid.com^
 ||mi.eddiebauer.com^
 ||micpn.com^
