@@ -1,5 +1,5 @@
 # This appears to be needed for some legitimate support services. Currently blocked by Steven Black and Dan Pollock's lists.
-@@||answerhub.com^
+#@@||answerhub.com^
 
 # This one is blocked by some DoH lists, which block the entire domain instead of selective DNS subdomains.
 @@||cleanbrowsing.org^
