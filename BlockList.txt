@@ -1768,6 +1768,7 @@
 ||stats.gc.apple.com^
 ||stats.ivpn.net^
 ||stats.lineageos.org^
+||stats.live-video.net^
 ||stats.wordpress.com^
 ||stats.wp.com^
 ||stats.wpmucdn.com^
@@ -1965,8 +1966,6 @@
 ||vi-serve.com^
 ||via.placeholder.com^
 ||viafoura.
-||video-edge-7672d6.sjc05.hls.live-video.net^
-||video-edge-a2581d.sjc05.hls.live-video.net^
 ||video.adaptv.advertising.com^
 ||video.unrulymedia.com^
 ||videoamp.com^
@@ -1988,8 +1987,7 @@
 ||vrtcal.com^
 ||vs1.youmaker.com^
 ||vtrk.dv.tech^
-||w3-reporting-nel.reddit.com^
-||w3-reporting.reddit.com^
+||w3-reporting*.reddit.com^
 ||w55c.net^
 ||w569ut7zbkiqf5b.xyz^
 ||walmart.sspinc.io^
@@ -2035,8 +2033,6 @@
 ||xandr.com^
 ||xg4ken.com^
 ||xhamster
-||xhamsterlive.com^
-||xhamsterpremium.com^
 ||xhcdn.com^
 ||xiti.com^
 ||xp.apple.com^
