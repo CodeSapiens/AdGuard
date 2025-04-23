@@ -1374,6 +1374,7 @@
 ||pardot.com^
 ||parkingcrew.net^
 ||parsely.com^
+||partiality.itunes.apple.com^
 ||partnerads.ysm.yahoo.com^
 ||partnerstack.com^
 ||pbc.realtor.com^
