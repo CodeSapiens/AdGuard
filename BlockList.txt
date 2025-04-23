@@ -198,9 +198,11 @@
 ||ampcid.google.com^
 ||amplitude.com^
 ||ampproject.org^
+||amxrtb.com^
 ||an.facebook.com^
 ||andbeyond.media^
 ||animatedbanner.xyz^
+||aniview.com^
 ||anrdoezrs.net^
 ||ap.spotify.com^
 ||apcdp.apnews.com^
@@ -220,6 +222,7 @@
 ||api.flipp.com^
 ||api.ipdata.co^
 ||api.ipstack.com^
+||api.iterable.com^
 ||api.qubit.com^
 ||api.receptivity.io^
 ||api.retargetly.com^
@@ -251,6 +254,7 @@
 ||applovin.com^
 ||applytics.nordvpn.com^
 ||appmetrica.yandex.com^
+||appnexus.com^
 ||apps.rokt.com^
 ||appsflyer.com^
 ||appsflyersdk.com^
@@ -312,6 +316,7 @@
 ||bc.yahoo.com^
 ||bdapi-ads.realmemobile.com^
 ||bdapi-in-ads.realmemobile.com^
+||beachfront.com^
 ||beacon.dropbox.com^
 ||beacon.samsclub.com^
 ||beacon.walmart.com^
@@ -547,6 +552,7 @@
 ||contextual.media.net^
 ||contextweb.com^
 ||contributor.google.com^
+||conversantmedia.com^
 ||convertexperiments.com^
 ||conviva.com^
 ||cookie-cdn.cookiepro.com^
@@ -676,6 +682,7 @@
 ||dewrain.world^
 ||diagnostics.meethue.com^
 ||dianomi.com^
+||didna.io^
 ||digimedia.com^
 ||digitru.st^
 ||direct.data.api.platform.here.com^
@@ -741,6 +748,7 @@
 ||embed.ly^
 ||embed.sendtonews.com^
 ||emltrk.com^
+||emxdgt.com^
 ||en25.com^
 ||engine.mobileapptracking.com^
 ||enigmasoftware.com^
@@ -785,6 +793,7 @@
 ||ezoic.net^
 ||ezojs.com^
 ||f.convertkit.com^
+||fabrik.com^
 ||factset.com^
 ||fakeimg.pl^
 ||fast.appcues.com^
@@ -833,6 +842,7 @@
 ||fpapi.io^
 ||fpjs.io^
 ||freeskreen.com^
+||freewheel.tv^
 ||frenghiacred.com^
 ||freshmarketer.com^
 ||fresnel-events.vimeocdn.com^
@@ -905,6 +915,7 @@
 ||graph.facebook.com^
 ||graph.instagram.com^
 ||graphql-cdn-slplatform.liquidus.net^
+||groupm.com^
 ||gsas.apple.com^
 ||guardianapis
 ||guardianapps
@@ -986,7 +997,9 @@
 ||imrworldwide.com^
 ||in.appcenter.ms^
 ||inbenta.io^
+||indexexchange.com^
 ||indexww.com^
+||infolinks.com^
 ||ingress.linktr.ee^
 ||ink1001.com^
 ||inmobi.com^
@@ -1079,6 +1092,7 @@
 ||laptop-updates.brave.com^
 ||lcprd1.samsungcloudsolution.net^
 ||leanplum.com^
+||lemmatechnologies.com^
 ||levelaccess.net^
 ||lgforbes.akamaized.net^
 ||liadm.com^
@@ -1096,6 +1110,7 @@
 ||linkwithin.com^
 ||litix.io^
 ||livefyre.com^
+||liveintent.com^
 ||liveramp.com^
 ||lixarproxsee
 ||lkqd.net^
@@ -1142,6 +1157,7 @@
 ||m.stripe.com^
 ||m.yap.yahoo.com^
 ||m365cdn.nel.measure.office.net^
+||madhive.com^
 ||mads*.amazon.com^
 ||mail-ads.google.com^
 ||mailchimp.com^
@@ -1178,6 +1194,7 @@
 ||media.swncdn.com^
 ||media.travelzoo.com^
 ||media*.fc2.com^
+||mediabong.com^
 ||mediago.io^
 ||mediamath.com^
 ||mediaplex.com^
@@ -1197,6 +1214,7 @@
 ||mid.rkdms.com^
 ||middycdn-a.akamaihd.net^
 ||minute.ly^
+||minutemedia.com^
 ||mixpanel.com^
 ||mktcs.cloudapps.cisco.com^
 ||mktoresp.com^
@@ -1249,6 +1267,7 @@
 ||mzhlhrfr8z.info^
 ||nakanohito.jp^
 ||narrativ.com^
+||nativo.com^
 ||ncp-gw-finance.media.yahoo.com^
 ||nearbyad.com^
 ||neilpatel.com^
@@ -1314,6 +1333,7 @@
 ||onetrust.com^
 ||online-metrix.net^
 ||onthe.io^
+||openx.com^
 ||openx.net^
 ||openx.org^
 ||openxenterprise.com^
@@ -1527,6 +1547,7 @@
 ||researchnow.com^
 ||reson8.com^
 ||resources.bazaarvoice.com^
+||revcontent.com^
 ||reverselookup.quicksetcloud.com^
 ||revive-adserver.com^
 ||revjet.com^
@@ -1537,6 +1558,7 @@
 ||rgembroiderydesigns.com^
 ||richaudience.com^
 ||rightfulfall.com^
+||risecodes.com^
 ||rl.progressive.com^
 ||rlcdn.com^
 ||rma.homedepot.com^
@@ -1579,6 +1601,7 @@
 ||sail-personalize.com^
 ||sailthru.com^
 ||salemwebnetwork.com^
+||samba.tv^
 ||samsungadhub.com^
 ||samsungads.com^
 ||sandbox.tinypass.com^
@@ -1674,6 +1697,7 @@
 ||skw.eve.account.sony.com^
 ||slashdot.org^
 ||sm.dell.com^
+||smaato.com^
 ||smart.link^
 ||smartadserver.com^
 ||smartclip.net^
@@ -1825,6 +1849,7 @@
 ||teams.events.data.microsoft.com^
 ||techlab-cdn.com^
 ||ted.dailymail.co.uk^
+||telaria.com^
 ||telete.in^
 ||test.ajo.adobe.com^
 ||tgtag.io^
@@ -1832,6 +1857,7 @@
 ||thebrighttag.com^
 ||thechive.com^
 ||thecontentserver.com^
+||themediagrid.com^
 ||thrtle.com^
 ||thunderhead.com^
 ||tiqcdn.com^
@@ -1934,6 +1960,7 @@
 ||verdantsculpture.com^
 ||vergic.com^
 ||verify.authorize.net^
+||verve.com^
 ||veve.com^
 ||vi-serve.com^
 ||via.placeholder.com^
@@ -1943,6 +1970,7 @@
 ||video.adaptv.advertising.com^
 ||video.unrulymedia.com^
 ||videoamp.com^
+||videobyte.com^
 ||videodirect.amazon.com^
 ||videoplayerhub.com^
 ||videosvc.ezoic.com^
@@ -1957,6 +1985,7 @@
 ||vop-yahoo.secure.footprint.net^
 ||vortex.data.microsoft.com^
 ||vortex.hulu.com^
+||vrtcal.com^
 ||vs1.youmaker.com^
 ||vtrk.dv.tech^
 ||w3-reporting-nel.reddit.com^
@@ -1996,12 +2025,14 @@
 ||ws.sharethis.com^
 ||wsmcdn.audioeye.com^
 ||wt.viagogo.net^
+||wunderkind.co^
 ||wurfl.io^
 ||ww8.kohls.com^
 ||www.i.cdn.cnn.com^
 ||wyhifdpatl.com^
 ||wzrkt.com^
 ||x-vpn.ug^
+||xandr.com^
 ||xg4ken.com^
 ||xhamster
 ||xhamsterlive.com^
