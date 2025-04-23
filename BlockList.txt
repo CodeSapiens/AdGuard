@@ -173,6 +173,7 @@
 ||agrvt.com^
 ||ags-ext.amazon.com^
 ||ahoravideo-
+||aidsvc.netflix.com^
 ||aimtell.com^
 ||air.com^
 ||akamai-*.exacttarget.com.edgekey.net^
@@ -955,7 +956,6 @@
 ||htlbid.com^
 ||html-load.com^
 ||http-inputs-notion.splunkcloud.com^
-||httpschecker.net^
 ||hubapi.com^
 ||hubspotfeedback.com^
 ||hubvisor.io^
@@ -1006,6 +1006,7 @@
 ||innovid.com^
 ||insightexpressai.com^
 ||insights.alibaba.com^
+||inspectlet.com^
 ||instiengage.com^
 ||instinctiveads.com^
 ||integralads.com^
@@ -1127,6 +1128,7 @@
 ||log.ifood.tv^
 ||log.pinterest.com^
 ||log.v.ssp.yahoo.com^
+||log*.xiaoyi.com^
 ||logfiles.zoom.us^
 ||logger.nerdwallet.com^
 ||logging.api.intuit.com^
@@ -1291,6 +1293,7 @@
 ||no-cache.hubspot.com^
 ||noa.yahoo.com^
 ||nosto.com^
+||notice.hoopladigital.com^
 ||notify.firetv.bugsnag.appstore.a2z.com^
 ||notify.hindustantimes.com^
 ||notify6.com^
