@@ -1844,6 +1844,7 @@
 ||tms.delta.com^
 ||topcrazypress.com^
 ||tp.media^
+||tpdads.com^
 ||tr.snapchat.com^
 ||tr.www.cloudflare.com^
 ||trace.popin.cc^
