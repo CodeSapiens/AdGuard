@@ -868,6 +868,7 @@
 ||gc.newsweek.com^
 ||gcion.com^
 ||gdpr.studybreakmedia.com^
+||geekbackyard.com^
 ||gemini.yahoo.com^
 ||gemius.pl^
 ||geo.ads
