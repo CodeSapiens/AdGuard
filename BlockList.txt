@@ -1012,6 +1012,7 @@
 ||inspectlet.com^
 ||instiengage.com^
 ||instinctiveads.com^
+||intake-lr.com^
 ||integralads.com^
 ||intelligems.io^
 ||intellimize.co^
