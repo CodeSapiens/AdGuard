@@ -1078,8 +1078,7 @@
 ||kissmetrics.com^
 ||kissmetrics.io^
 ||klaviyo.com^
-||klclick.com^
-||klclick3.com^
+||klclick*.com^
 ||klickly.com^
 ||knotch-cdn.com^
 ||kochava.com^
