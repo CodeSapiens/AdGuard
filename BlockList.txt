@@ -466,6 +466,7 @@
 ||cdns.*.gigya.com^
 ||cdntravelspike.azureedge.net^
 ||cdp-dev.cnn.com^
+||cdp.cloud.unity3d.com^
 ||ced*.sascdn.com^
 ||cedexis-test.com^
 ||cerebro.edna.yahoo.net^
@@ -751,6 +752,7 @@
 ||emltrk.com^
 ||emxdgt.com^
 ||en25.com^
+||engagement.feedly.com^
 ||engine.mobileapptracking.com^
 ||enigmasoftware.com^
 ||ensighten.com^
@@ -1552,6 +1554,7 @@
 ||researchnow.com^
 ||reson8.com^
 ||resources.bazaarvoice.com^
+||rest.locuslabs.com^
 ||revcontent.com^
 ||reverselookup.quicksetcloud.com^
 ||revive-adserver.com^
