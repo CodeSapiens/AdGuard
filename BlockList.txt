@@ -1758,6 +1758,7 @@
 ||sstats.adobe.com^
 ||stackadapt.com^
 ||stagepopkek.com^
+||stakingbasket.com^
 ||statcollector.sidearmsports.com^
 ||statcounter.com^
 ||static-entertainment-wus-s-msn-com.akamaized.net^
@@ -1839,6 +1840,7 @@
 ||tagdelivery.mayoclinic.org^
 ||tagger.opecloud.com^
 ||tags.aljazeera.com^
+||tags.news.com.au^
 ||tags.tiqcdn.com^
 ||tags.voanews.com^
 ||tags.wdsvc.net^
@@ -1986,6 +1988,7 @@
 ||videoplayerhub.com^
 ||videosvc.ezoic.com^
 ||vidible.tv^
+||vidora.com^
 ||viglink.com^
 ||vindicosuite.com^
 ||visualwebsiteoptimizer.com^
