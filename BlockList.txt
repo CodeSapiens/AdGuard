@@ -1127,6 +1127,7 @@
 ||location-services-measurements.s3-external-1.amazonaws.com^
 ||log.cookieyes.com^
 ||log.espn.com^
+||log.eufylife.com^
 ||log.go.com^
 ||log.ifood.tv^
 ||log.pinterest.com^
