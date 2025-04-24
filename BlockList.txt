@@ -1864,6 +1864,7 @@
 ||telaria.com^
 ||telete.in^
 ||test.ajo.adobe.com^
+||test.com^
 ||tgtag.io^
 ||the-ozone-project.com^
 ||thebrighttag.com^
