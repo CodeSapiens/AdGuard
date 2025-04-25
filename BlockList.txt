@@ -202,6 +202,7 @@
 ||ampproject.org^
 ||amxrtb.com^
 ||an.facebook.com^
+||analyze-*.m-w.com^
 ||andbeyond.media^
 ||animatedbanner.xyz^
 ||aniview.com^
@@ -396,6 +397,7 @@
 ||cache.judge.me^
 ||campaign-archive.com^
 ||candycrushsoda.king.com^
+||carambo.la^
 ||carbonads.net^
 ||cartkitten.com^
 ||casalemedia.com^
@@ -440,6 +442,7 @@
 ||cdn.membrana.media^
 ||cdn.opecloud.com^
 ||cdn.petametrics.com^
+||cdn.polarbyte.com^
 ||cdn.privacy-mgmt.com^
 ||cdn.prod.discovery.evvnt.com^
 ||cdn.production.townsquareblogs.com^
@@ -769,12 +772,14 @@
 ||eventbus.intuit.com^
 ||eventrecorder.cm.bloomberg.com^
 ||events.brightline.tv^
+||events.framer.com^
 ||events.jotform.com^
 ||events.kumulos.com^
 ||events.launchdarkly.com^
 ||events.mapbox.com^
 ||events.matterport.com^
 ||events.mountain.com^
+||events.polarbyte.com^
 ||events.reddit.com^
 ||events.redditmedia.com^
 ||everestjs.net^
@@ -1436,6 +1441,7 @@
 ||plausible.io^
 ||play.vidyard.com^
 ||playdigo.com^
+||player.anyclip.com^
 ||player.megaphone.fm^
 ||plrsrvcs.com^
 ||plugin.mediavoice.com^
@@ -1455,6 +1461,7 @@
 ||posthog2.fluffleinfra.net^
 ||postmedia.hub.loginradius.com^
 ||postrelease.com^
+||powerad.ai^
 ||powerreviews.com^
 ||pr-bh.ybp.yahoo.com^
 ||pr.comet.yahoo.com^
