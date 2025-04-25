@@ -1389,6 +1389,7 @@
 ||pbjs-stream.bydata.com^
 ||pbstck.com^
 ||pbxai.com^
+||pegsbuttons.com^
 ||pelcro.com^
 ||pepepush.net^
 ||perf.hsforms.com^
