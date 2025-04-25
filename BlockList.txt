@@ -1886,6 +1886,7 @@
 ||tiqcdn.com^
 ||tiresomethunder.com^
 ||tk.airfrance.
+||tkqlhce.com^
 ||tl.foxbusiness.com^
 ||tl.foxnews.com^
 ||tl.foxweather.com^
