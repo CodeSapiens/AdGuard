@@ -180,6 +180,7 @@
 ||aidsvc.netflix.com^
 ||aimtell.com^
 ||air.com^
+||ajcloud.net^
 ||akamai-*.exacttarget.com.edgekey.net^
 ||akisinn.
 ||akstat.io^
@@ -216,6 +217,7 @@
 ||api-adservices.apple.com^
 ||api-bd.kohls.com^
 ||api-esp.piano.io^
+||api-global.*.prodaa.netflix.com^
 ||api-hotjar.com^
 ||api-v3.tinypass.com^
 ||api.*.aiv-delivery.net^
@@ -226,6 +228,7 @@
 ||api.company-target.com^
 ||api.edgeoffer.microsoft.com^
 ||api.flipp.com^
+||api.gdxp.com^
 ||api.ipdata.co^
 ||api.ipstack.com^
 ||api.iterable.com^
@@ -269,6 +272,7 @@
 ||aptivada.com^
 ||arc.msn.com^
 ||arclight.vimeo.com^
+||arcus-uswest.amazon.com^
 ||areyouwatchingthis.com^
 ||as.sourceforge.net^
 ||asadcdn.com^
@@ -313,6 +317,7 @@
 ||b-ssl.grvcdn.com^
 ||b.px-cdn.net^
 ||b.stats.paypal.com^
+||backblaze.com^
 ||backstory.ebay.com^
 ||backtrace.io^
 ||baidustatic.com^
@@ -328,6 +333,7 @@
 ||bdapi-ads.realmemobile.com^
 ||bdapi-in-ads.realmemobile.com^
 ||beachfront.com^
+||beacon.*.prodaa.netflix.com^
 ||beacon.dropbox.com^
 ||beacon.samsclub.com^
 ||beacon.walmart.com^
@@ -507,6 +513,7 @@
 ||clicktale.net^
 ||clicktripz.com^
 ||client.rum.*.amazonaws.com^
+||clientservices.googleapis.com^
 ||clix.fidelity.com^
 ||clmbtech.com^
 ||cloud1.linksyssmartwifi.com^
@@ -552,6 +559,7 @@
 ||confiant.msn.com^
 ||config.claspws.tv^
 ||config.uca.cloud.unity3d.com^
+||configsvc.cs.roku.com^
 ||confirmit.com^
 ||connatix.com^
 ||connect.facebook.com^
@@ -614,6 +622,7 @@
 ||customer.cludo.com^
 ||customer.homedepot.com^
 ||customercenter-img*.auto-owners.com^
+||customerevents.*.prodaa.netflix.com^
 ||customerevents.netflix.com^
 ||cutechin.com^
 ||cxense.com^
@@ -622,6 +631,7 @@
 ||d10lpsik1i8c69.cloudfront.net^
 ||d15kdpgjg3unno.cloudfront.net^
 ||d196fri2z18sm.cloudfront.net^
+||d1enchupjctwud.cloudfront.net^
 ||d1ros97qkrwjf5.cloudfront.net^
 ||d1vl8wytztdz.cloudfront.net^
 ||d1wix2gc2cgqis.cloudfront.net^
@@ -726,6 +736,7 @@
 ||doubleclick.
 ||doubleverify.com^
 ||downloads.mailchimp.com^
+||dp-gw.amazon.com^
 ||dpclk.com^
 ||dr3fr5q4g2ul9.cloudfront.net^
 ||drfdisvc.walmart.com^
@@ -743,6 +754,7 @@
 ||dyv1bugovvq1g.cloudfront.net^
 ||e-planning.net^
 ||e.viously.com^
+||e00.uecdn.es^
 ||ebayclassifiedsgroup.com^
 ||ebayrtm.com^
 ||ebxcdn.com^
@@ -784,6 +796,7 @@
 ||espn.api.edge.bamgrid.com^
 ||etahub.com^
 ||eum-appdynamics.com^
+||euw1-api.tplinkra.com^
 ||eve.playstation.com^
 ||eventbus.intuit.com^
 ||eventrecorder.cm.bloomberg.com^
@@ -831,6 +844,7 @@
 ||fbot.me^
 ||fbs.smoot.apple.com^
 ||fc.yahoo.com^
+||fcm.googleapis.com^
 ||featureassets.org^
 ||fedapush.net^
 ||federatedml-pa.googleapis.com^
@@ -839,6 +853,7 @@
 ||firebase*.googleapis.com^
 ||firebaseapp.com^
 ||firebaseio.com^
+||fireoscaptiveportal.com^
 ||firetv-news-content-ingestion.amazon.com^
 ||fireworkapi1.com^
 ||firstendpoint.com^
@@ -876,11 +891,13 @@
 ||fresnel-events.vimeocdn.com^
 ||freyr.futurecdn.net^
 ||frog.wix.com^
+||frontdoor.nest.com^
 ||frqj.adrise.tv^
 ||fullstory.com^
 ||fundingchoicesmessages.google.com^
 ||fuse.forbes.com^
 ||futurehybrid.tech^
+||fw-update2.smartthings.com^
 ||fwcdn3.com^
 ||fwmrm.net^
 ||g.bing.com^
@@ -999,6 +1016,7 @@
 ||iadsdk.apple.com^
 ||iasds01.com^
 ||ichnaea-web.netflix.com^
+||ichnaea.*.prodaa.netflix.com^
 ||ichnaea.netflix.com^
 ||icontact.com^
 ||icpsuawn1zy5amys.com^
@@ -1121,6 +1139,7 @@
 ||krushmedia.com^
 ||krxd.net^
 ||ktag.kaxcdn.com^
+||ktpx-eu.amazon.com^
 ||kueezrtb.com^
 ||kundenserver.de^
 ||kvaedit.site^
@@ -1214,6 +1233,8 @@
 ||markitcdn.com^
 ||marphezis.com^
 ||marsello.com^
+||mas-ext-eu.amazon.com^
+||mas-sdk.amazon.com^
 ||mask*.apple-dns.net^
 ||mask*.icloud.com^
 ||mathtag.com^
@@ -1294,6 +1315,7 @@
 ||mr.homedepot.com^
 ||mrf.io^
 ||ms-offices.com^
+||msh.amazon.
 ||msmedia.morningstar.com^
 ||mssdk-sg.tiktok.com^
 ||mssdk.tiktokw.us^
@@ -1305,6 +1327,7 @@
 ||myfinance.com^
 ||myofferplus.com^
 ||mzhlhrfr8z.info^
+||n-deventry.tplinkcloud.com^
 ||nakanohito.jp^
 ||narrativ.com^
 ||nativo.com^
@@ -1393,6 +1416,7 @@
 ||osb.samsungqbe.com^
 ||osimg.nbcuni.com^
 ||osm-ads*.delivery.roku.com^
+||oss-us-west-1.aliyuncs.com^
 ||oui-0x00199d.com^
 ||outbrain.com^
 ||outbrainimg.com^
@@ -1415,6 +1439,7 @@
 ||parkingcrew.net^
 ||parsely.com^
 ||partiality.itunes.apple.com^
+||partnerad.
 ||partnerads.ysm.yahoo.com^
 ||partnerstack.com^
 ||pbc.realtor.com^
@@ -1516,6 +1541,7 @@
 ||pro.ip-api.com^
 ||probe.icloud.com^
 ||prod.amazoncrl.com^
+||prod.amcs-tachyon.com^
 ||prod.fennec.atp.fox^
 ||prod.pyxis.atp.fox^
 ||prodregistryv2.org^
@@ -1549,8 +1575,10 @@
 ||pusherapp.com^
 ||pushmaster-cdn.xyz^
 ||pushnami.com^
+||pushx.reolink.com^
 ||px-client.net^
 ||px-clone.com^
+||px-cloud.net^
 ||pxlctl.
 ||q.quora.com^
 ||qgxbluhsgad.com^
@@ -1648,6 +1676,7 @@
 ||s.youtube.com^
 ||s1search.co^
 ||s3-*-ww.cf.videorolls.row.aiv-cdn.net^
+||s3-1-w.amazonaws.com^
 ||sa.adidas.
 ||sa.api.intl.miui.com^
 ||sa.bbc.co.uk^
@@ -1672,6 +1701,7 @@
 ||scontent.webcollage.net^
 ||scorecardresearch.com^
 ||scoreresearch.com^
+||scribe.logs.roku.com^
 ||script.ac^
 ||scripts.dailymail.co.uk^
 ||scrsrch.com^
@@ -1839,6 +1869,7 @@
 ||steadfastsystem.com^
 ||steelhousemedia.com^
 ||stickyadstv.com^
+||storage.googleapis.com^
 ||stores-counters.wix.com^
 ||streamingextensions.com^
 ||strike.fox.com^
@@ -1937,9 +1968,11 @@
 ||tl.foxweather.com^
 ||tm-awx.com^
 ||tms.delta.com^
+||tools.google.com^
 ||topcrazypress.com^
 ||tp.media^
 ||tpdads.com^
+||tplinkextender.
 ||tr.snapchat.com^
 ||tr.www.cloudflare.com^
 ||trace.popin.cc^
@@ -1999,6 +2032,7 @@
 ||udc.yahoo.com^
 ||udcm.yahoo.com^
 ||ugdturner.com^
+||uiboot.*.prodaa.netflix.com^
 ||uid.mavencoalition.io^
 ||uidapi.com^
 ||uie.data.cbc.ca^
@@ -2020,6 +2054,7 @@
 ||usablenet.com^
 ||usawildseafood.com^
 ||use-application-dns.net^
+||use1-api.tplinkra.com^
 ||user-signals.production-public.tubi.io^
 ||usera.imagecave.com^
 ||usercentrics.eu^
@@ -2125,6 +2160,7 @@
 ||yottaa.net^
 ||youborafds01.com^
 ||youradexchange.com^
+||youtube-ui.l.google.com^
 ||zdstatic.speedtest.net^
 ||zemanta.com^
 ||zencdn.net^
