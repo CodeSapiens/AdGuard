@@ -940,6 +940,7 @@
 ||getcarro.com^
 ||getelevar.com^
 ||getpublica.com^
+||getrockerbox.com^
 ||getsentry.com^
 ||gh.fanatical.com^
 ||glanceguide.com^
@@ -1354,6 +1355,7 @@
 ||nextmillmedia.com^
 ||nexus-websocket-a.intercom.io^
 ||nexusrules.officeapps.live.com^
+||nice-team.net^
 ||nimbleswan.io^
 ||ninthdecimal.com^
 ||nipe4head.com^
