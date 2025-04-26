@@ -61,6 +61,8 @@
 ||accounts.nvgs.nvidia.cn^
 ||acroipm2.adobe.com^
 ||acsbapp.com^
+||activate.latimes.com^
+||activate.platform.californiatimes.com^
 ||activemetering.com^
 ||activity.windows.com^
 ||actonservice.com^
@@ -179,6 +181,7 @@
 ||ahoravideo-
 ||aidsvc.netflix.com^
 ||aimtell.com^
+||ainu.intel.
 ||air.com^
 ||ajcloud.net^
 ||akamai-*.exacttarget.com.edgekey.net^
@@ -222,6 +225,7 @@
 ||api-v3.tinypass.com^
 ||api.*.aiv-delivery.net^
 ||api.apptentive.com^
+||api.autopilothq.com^
 ||api.aws.parking.godaddy.com^
 ||api.axept.io^
 ||api.cnn.io^
@@ -318,6 +322,7 @@
 ||b-ssl.grvcdn.com^
 ||b.px-cdn.net^
 ||b.stats.paypal.com^
+||b.wal.co^
 ||backblaze.com^
 ||backstory.ebay.com^
 ||backtrace.io^
@@ -413,6 +418,7 @@
 ||cache.judge.me^
 ||campaign-archive.com^
 ||candycrushsoda.king.com^
+||cane.intel.
 ||carambo.la^
 ||carbonads.net^
 ||cartkitten.com^
@@ -567,6 +573,7 @@
 ||connatix.com^
 ||connect.facebook.com^
 ||connect.facebook.net^
+||connect.intel.
 ||consensu.org^
 ||consent-sync.justanswer.com^
 ||consent.cmp.oath.com^
@@ -580,6 +587,7 @@
 ||contentsquare.net^
 ||contextual.media.net^
 ||contextweb.com^
+||contribution-tracker*.epam.com^
 ||contributor.google.com^
 ||conversantmedia.com^
 ||convertexperiments.com^
@@ -690,6 +698,7 @@
 ||data*.stepstone.
 ||datadoghq-browser-agent.com^
 ||datadome.co^
+||datalab-analytics*.epam.com^
 ||datamilk.app^
 ||db7q4jg5rkhk8.cloudfront.net^
 ||dc.services.visualstudio.com^
@@ -707,6 +716,7 @@
 ||demandbase.com^
 ||demdex.net^
 ||deployads.com^
+||dev-plan.intel.
 ||dev.pyxis.atp.fox^
 ||dev.virtualearth.net^
 ||developer.amazon.com^
@@ -734,6 +744,7 @@
 ||dna.amazon.com^
 ||dns.msftncsi.com^
 ||do-not-tracker.org^
+||dogo.intel.
 ||doh.dns.apple.com^
 ||doppler-beacon.cbsivideo.com^
 ||dotmetrics.net^
@@ -781,6 +792,7 @@
 ||effectivecreativeformat.com^
 ||el.quizlet.com^
 ||eloqua.com^
+||elqtrk.intel.
 ||email-*.cjm.adobe.com^
 ||email.aboutamazon.com^
 ||emb-api.com^
@@ -791,16 +803,19 @@
 ||en25.com^
 ||engagement.feedly.com^
 ||engine.mobileapptracking.com^
+||english-classes-online-*.bond^
 ||enigmasoftware.com^
 ||ensighten.com^
 ||ensighten.norton.com^
 ||entitlements.jwplayer.com^
+||erectile-dysfunction-treatment-*.bond^
 ||error-tracking.reddit.com^
 ||eskimi.com^
 ||esm1.net^
 ||espn.api.edge.bamgrid.com^
 ||etahub.com^
 ||eum-appdynamics.com^
+||eum*.instana.io^
 ||euw1-api.tplinkra.com^
 ||eve.playstation.com^
 ||eventbus.intuit.com^
@@ -808,6 +823,7 @@
 ||events.brightline.tv^
 ||events.data.microsoft.com^
 ||events.framer.com^
+||events.gfe.nvidia.com^
 ||events.jotform.com^
 ||events.kumulos.com^
 ||events.launchdarkly.com^
@@ -972,6 +988,7 @@
 ||graphql-cdn-slplatform.liquidus.net^
 ||groupm.com^
 ||gsas.apple.com^
+||gss.skatepro.com^
 ||guardianapis
 ||guardianapps
 ||guce.advertising.com^
@@ -988,6 +1005,7 @@
 ||hd-personalization-prod.gcp.homedepot.com^
 ||healthguides.cnn.com^
 ||heavy.com^
+||hectorstatic.baidu.com^
 ||hello.myfonts.net^
 ||hextom.com^
 ||heytapmobi.com^
@@ -1044,6 +1062,7 @@
 ||images*.adrise.tv^
 ||images*.minutemediacdn.com^
 ||imasdk.googleapis.com^
+||img.interhome.
 ||imiclk.com^
 ||impact-ad.jp^
 ||impactcdn.com^
@@ -1065,6 +1084,7 @@
 ||insightexpressai.com^
 ||insights.alibaba.com^
 ||inspectlet.com^
+||instagram-*-downloader.com^
 ||instiengage.com^
 ||instinctiveads.com^
 ||intake-lr.com^
@@ -1187,6 +1207,7 @@
 ||loc.kr^
 ||location-api.hdhomerun.com^
 ||location-services-measurements.s3-external-1.amazonaws.com^
+||log-*.epicdn.me^
 ||log.cookieyes.com^
 ||log.espn.com^
 ||log.eufylife.com^
@@ -1215,6 +1236,7 @@
 ||lpsnmedia.net^
 ||lptag-cdn.liveperson.net^
 ||lptag.liveperson.net^
+||lr-in-prod.com^
 ||lrkt-in.com^
 ||luckyorange.com^
 ||luckyorange.net^
@@ -1270,6 +1292,7 @@
 ||mediatradecraft.com^
 ||mediavine.com^
 ||megpxs.com^
+||mercury.jd.com^
 ||merequartz.com^
 ||metcon.hulu.com^
 ||meter-svc.nytimes.com^
@@ -1591,6 +1614,7 @@
 ||pushmaster-cdn.xyz^
 ||pushnami.com^
 ||pushx.reolink.com^
+||px-cdn.net^
 ||px-client.net^
 ||px-clone.com^
 ||px-cloud.net^
@@ -1783,6 +1807,7 @@
 ||shebudriftaiter.net^
 ||shgcdn3.com^
 ||shield-aos-analytics.v.aaplimg.com^
+||shimmermill.com^
 ||shop-chat-play.com^
 ||shop.ring.com^
 ||shopify-init.blackcrow.ai^
@@ -1793,6 +1818,7 @@
 ||siftscience.com^
 ||signifyd.com^
 ||silverpop.com^
+||simg.interhome.
 ||simple-affiliate.com^
 ||simpli.fi^
 ||singular.net^
@@ -1857,6 +1883,7 @@
 ||stackadapt.com^
 ||stagepopkek.com^
 ||stakingbasket.com^
+||starget.intel.
 ||statcollector.sidearmsports.com^
 ||statcounter.com^
 ||static-entertainment-wus-s-msn-com.akamaized.net^
@@ -1979,6 +2006,7 @@
 ||themediagrid.com^
 ||thrtle.com^
 ||thunderhead.com^
+||tidy.intel.
 ||tiqcdn.com^
 ||tiresomethunder.com^
 ||tk.airfrance.
@@ -2130,6 +2158,7 @@
 ||web.diagnostic.networking.aws.dev^
 ||webcontentassessor.com^
 ||webcontentassessor.global.ssl.fastly.net^
+||webinar.intel.
 ||weborama.
 ||webpubcontent.gray.tv^
 ||webpushs.com^
@@ -2156,6 +2185,7 @@
 ||wurfl.io^
 ||ww8.kohls.com^
 ||www.i.cdn.cnn.com^
+||www91.intel.
 ||wyhifdpatl.com^
 ||wzrkt.com^
 ||x-vpn.ug^
