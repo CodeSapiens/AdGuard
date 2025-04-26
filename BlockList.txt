@@ -1289,6 +1289,7 @@
 ||mediago.io^
 ||mediamath.com^
 ||mediaplex.com^
+||mediarithmics.com^
 ||mediatradecraft.com^
 ||mediavine.com^
 ||megpxs.com^
