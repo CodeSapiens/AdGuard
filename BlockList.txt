@@ -312,6 +312,7 @@
 ||avsplow.com^
 ||awin1.com^
 ||awstrack.me^
+||axm-telemetry.v.aaplimg.com^
 ||ay.delivery^
 ||b-code.liadm.com^
 ||b-ssl.grvcdn.com^
@@ -431,6 +432,7 @@
 ||cdn-settings.appsflyersdk.com^
 ||cdn-usent.kampyle.com^
 ||cdn-widgetsrepository.yotpo.com^
+||cdn-xp-ingest-ab.v.aaplimg.com^
 ||cdn.adtrace.ai^
 ||cdn.affiliatable.io^
 ||cdn.appdynamics.com^
@@ -442,6 +444,7 @@
 ||cdn.bootcss.com^
 ||cdn.branch.io^
 ||cdn.brid.tv^
+||cdn.clarip.com^
 ||cdn.codeblackbelt.com^
 ||cdn.concert.io^
 ||cdn.convertbox.com^
@@ -614,6 +617,7 @@
 ||csp.withgoogle.com^
 ||csp.yahoo.com^
 ||cstat.cdn-apple.com^
+||cstat.g.aaplimg.com^
 ||cstm.baidu.com^
 ||ct.pinterest.com^
 ||cta-service-cms*.hubspot.com^
@@ -711,6 +715,7 @@
 ||devicemessaging.*.amazon.com^
 ||dewrain.
 ||dewrain.world^
+||diagassets.g.aaplimg.com^
 ||diagnostics.meethue.com^
 ||dianomi.com^
 ||didna.io^
@@ -1078,9 +1083,11 @@
 ||iot-logser.realme.com^
 ||ip.prvtx.net^
 ||ipapi.co^
+||iphonesubmissions.v.aaplimg.com^
 ||ipify.org^
 ||ipredictive.com^
 ||ips1.unifi-ai.com^
+||ipv4-*-ix.1.oca.nflxvideo.net^
 ||iqm.com^
 ||irchan.com^
 ||iris.tv^
@@ -1265,9 +1272,12 @@
 ||merequartz.com^
 ||metcon.hulu.com^
 ||meter-svc.nytimes.com^
+||metric.g.aaplimg.com^
 ||metric.gstatic.com^
+||metric.mediaedge.v.aaplimg.com^
 ||metricode.com^
 ||metrics
+||metrics.icloud.v.aaplimg.com^
 ||mgid.com^
 ||mi.eddiebauer.com^
 ||micpn.com^
@@ -1424,6 +1434,7 @@
 ||owneriq.net^
 ||p-n.io^
 ||p.brid.tv^
+||p.nfltags.com^
 ||p.typekit.net^
 ||p7cloud.net^
 ||paella.adrise.tv^
@@ -1540,6 +1551,8 @@
 ||pro.imdb.com^
 ||pro.ip-api.com^
 ||probe.icloud.com^
+||prod-event-relay-*api.v.aaplimg.com^
+||prod-news-notification-events.v.aaplimg.com^
 ||prod.amazoncrl.com^
 ||prod.amcs-tachyon.com^
 ||prod.fennec.atp.fox^
@@ -1725,7 +1738,9 @@
 ||secure.rating-widget.com^
 ||secureir.ebaystatic.com^
 ||securemetrics.apple.com^
+||securemetrics*.v.aaplimg.com^
 ||securemvt.apple.com^
+||securemvt.v.aaplimg.com^
 ||securestudies.com^
 ||securitytrfx.com^
 ||sedoparking.com^
@@ -1765,6 +1780,7 @@
 ||sharethrough.com^
 ||shebudriftaiter.net^
 ||shgcdn3.com^
+||shield-aos-analytics.v.aaplimg.com^
 ||shop-chat-play.com^
 ||shop.ring.com^
 ||shopify-init.blackcrow.ai^
@@ -1796,6 +1812,7 @@
 ||smartocto.com^
 ||smetrics.
 ||smilewanted.com^
+||smoot-feedback.v.aaplimg.com^
 ||snap.licdn.com^
 ||snapengage.com^
 ||snidigital.com^
@@ -1890,6 +1907,7 @@
 ||supapush.net^
 ||supersonicads.com^
 ||supportmetrics.apple.com^
+||supportmetrics.v.aaplimg.com^
 ||survata.com^
 ||sustainability.aboutamazon.com^
 ||svcs.ebay.com^
@@ -2031,6 +2049,7 @@
 ||uciservice.com^
 ||udc.yahoo.com^
 ||udcm.yahoo.com^
+||udn.com^
 ||ugdturner.com^
 ||uiboot.*.prodaa.netflix.com^
 ||uid.mavencoalition.io^
@@ -2067,6 +2086,7 @@
 ||verdantsculpture.com^
 ||vergic.com^
 ||verify.authorize.net^
+||veritone-ce.com^
 ||verve.com^
 ||veve.com^
 ||vi-serve.com^
