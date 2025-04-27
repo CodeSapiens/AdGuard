@@ -510,6 +510,7 @@
 ||chimpstatic.com^
 ||cityspark.com^
 ||civicscience.com^
+||clarice.streema.com^
 ||clarity.ms^
 ||clean.gg^
 ||clearbitscripts.com^
@@ -644,6 +645,7 @@
 ||d15kdpgjg3unno.cloudfront.net^
 ||d196fri2z18sm.cloudfront.net^
 ||d1enchupjctwud.cloudfront.net^
+||d1hcrjcdtouu7e.cloudfront.net^
 ||d1ros97qkrwjf5.cloudfront.net^
 ||d1vl8wytztdz.cloudfront.net^
 ||d1wix2gc2cgqis.cloudfront.net^
@@ -746,6 +748,7 @@
 ||do-not-tracker.org^
 ||dogo.intel.
 ||doh.dns.apple.com^
+||domsearch.net^
 ||doppler-beacon.cbsivideo.com^
 ||dotmetrics.net^
 ||dotomi.com^
@@ -1182,6 +1185,7 @@
 ||liadm.com^
 ||libertycdn.com^
 ||librato-collector.genius.com^
+||libs.platform.californiatimes.com^
 ||licensebuttons.net^
 ||lightboxcdn.com^
 ||lightcast.com^
@@ -1490,6 +1494,7 @@
 ||pegsbuttons.com^
 ||pelcro.com^
 ||pepepush.net^
+||pepperjam.com^
 ||perf.hsforms.com^
 ||perfdrive.com^
 ||perfectmarket.com^
@@ -1671,6 +1676,7 @@
 ||researchnow.com^
 ||reson8.com^
 ||resources.bazaarvoice.com^
+||responsiveads.com^
 ||rest.locuslabs.com^
 ||revcontent.com^
 ||reverselookup.quicksetcloud.com^
@@ -1832,6 +1838,7 @@
 ||skimresources.com^
 ||skw.eve.account.sony.com^
 ||slashdot.org^
+||sli.latimes.com^
 ||sm.dell.com^
 ||smaato.com^
 ||smart.link^
@@ -1891,6 +1898,7 @@
 ||static-global-s-msn-com.akamaized.net^
 ||static-mon.yandex.net^
 ||static.ads
+||static.afterpay.com^
 ||static.cdn.responsys.net^
 ||static.ctctcdn.com^
 ||static.ecorebates.com^
