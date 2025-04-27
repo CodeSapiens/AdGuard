@@ -299,6 +299,7 @@
 ||at.cbsi.com^
 ||atdmt.com^
 ||atemos.org^
+||athena.archive.org^
 ||ati-host.net^
 ||atmtd.com^
 ||atrack.avplayer.com^
@@ -951,6 +952,7 @@
 ||geo.ads
 ||geo.cnbc.com^
 ||geo.gfycat.com^
+||geo.justwatch.com^
 ||geo.lovely-app.com^
 ||geo.ngtv.io^
 ||geo.query.yahoo.com^
@@ -1807,7 +1809,9 @@
 ||sendingspire.com^
 ||sensic.net^
 ||sentry-cdn.com^
+||sentry.archive.org^
 ||sentry.io^
+||sentry.odysee.tv^
 ||seoab.io^
 ||sephora-track.inside-graph.com^
 ||sephora.cnstrc.com^
@@ -2243,10 +2247,12 @@
 ||yottaa.net^
 ||youborafds01.com^
 ||youradexchange.com^
+||yourbow.com^
 ||youtube-ui.l.google.com^
 ||zdstatic.speedtest.net^
 ||zemanta.com^
 ||zencdn.net^
+||zenimpact.io^
 ||zergnet.com^
 ||zeronaught.com^
 ||zeustechnology.com^
