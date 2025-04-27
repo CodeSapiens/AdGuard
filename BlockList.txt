@@ -1001,6 +1001,7 @@
 ||guardianapis
 ||guardianapps
 ||guce.advertising.com^
+||guide.internetat.tv^
 ||gumgum.com^
 ||gurgle.pcmag.com^
 ||gustygrandmother.com^
@@ -1183,7 +1184,7 @@
 ||ladsp.com^
 ||lameletters.com^
 ||laptop-updates.brave.com^
-||lcprd1.samsungcloudsolution.net^
+||lcprd*.samsungcloudsolution.
 ||leanplum.com^
 ||lemmatechnologies.com^
 ||levelaccess.net^
@@ -1223,6 +1224,7 @@
 ||log.eufylife.com^
 ||log.go.com^
 ||log.ifood.tv^
+||log.internetat.tv^
 ||log.pinterest.com^
 ||log.v.ssp.yahoo.com^
 ||log*.xiaoyi.com^
@@ -1291,6 +1293,7 @@
 ||media.flixcar.com^
 ||media.flixfacts.com^
 ||media.fusion92.com^
+||media.internetat.tv^
 ||media.net^
 ||media.swncdn.com^
 ||media.travelzoo.com^
@@ -1742,6 +1745,7 @@
 ||sailthru.com^
 ||salemwebnetwork.com^
 ||samba.tv^
+||samsungacr.com^
 ||samsungadhub.com^
 ||samsungads.com^
 ||sandbox.tinypass.com^
@@ -2120,14 +2124,17 @@
 ||usawildseafood.com^
 ||use-application-dns.net^
 ||use1-api.tplinkra.com^
+||usecho.internetat.tv^
 ||user-signals.production-public.tubi.io^
 ||usera.imagecave.com^
 ||usercentrics.eu^
 ||userlocation.googleapis.com^
 ||userreport.com^
 ||userzoom.com^
+||usstgecho.internetat.tv^
 ||vaicore.
 ||variations.brave.com^
+||vdterms.samsungcloudsolution.
 ||vendorlist.consensu.org^
 ||verdantsculpture.com^
 ||vergic.com^
