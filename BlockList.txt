@@ -1286,6 +1286,7 @@
 ||matomo.cloud^
 ||matomo.garden.org^
 ||matomo.openstreetmap.org^
+||maze.co^
 ||mbid.marfeelrev.com^
 ||mcs.tiktokw.us^
 ||mdhv.io^
@@ -1345,6 +1346,7 @@
 ||mon1.kohls.com^
 ||monarchads.com^
 ||monetate.net^
+||monetization.prod.invmed.co^
 ||monetizer101.com^
 ||monitor.azure.com^
 ||monitor.ebay.com^
