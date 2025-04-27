@@ -190,11 +190,14 @@
 ||aktivvinter.
 ||alb.reddit.com^
 ||albss.com^
+||alebilet.
 ||alexametrics.com^
 ||alimama.com^
 ||aliveachiever.com^
 ||aliyuncs.com^
 ||allawnos.com^
+||allegro.net
+||allegrolokalnie.
 ||aloofvest.com^
 ||alphonso.tv^
 ||als-svc.nytimes.com^
@@ -764,6 +767,7 @@
 ||dtmpub.com^
 ||du8783wkf05yr.cloudfront.net^
 ||duapps.com^
+||dweb.link^
 ||dwgyu36up6iuz.cloudfront.net^
 ||dwin1.com^
 ||dyn-rev.app^
@@ -812,6 +816,7 @@
 ||ensighten.norton.com^
 ||entitlements.jwplayer.com^
 ||erectile-dysfunction-treatment-*.bond^
+||ero-advertising.com^
 ||error-tracking.reddit.com^
 ||eskimi.com^
 ||esm1.net^
@@ -885,6 +890,7 @@
 ||flashtalking.com^
 ||flask*.nextdoor.com^
 ||flix360.com^
+||flk-ipfs.xyz^
 ||fls-fe.amazon.
 ||fls-na.amazon.
 ||flurry.com^
@@ -1383,6 +1389,7 @@
 ||nextmillmedia.com^
 ||nexus-websocket-a.intercom.io^
 ||nexusrules.officeapps.live.com^
+||ngastatic.com^
 ||nice-team.net^
 ||nimbleswan.io^
 ||ninthdecimal.com^
