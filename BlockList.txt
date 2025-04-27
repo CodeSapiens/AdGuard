@@ -2004,6 +2004,8 @@
 ||target.cisco.com^
 ||target.microsoft.com^
 ||targetbay.com^
+||targeting.nzme.arcpublishing.com^
+||targeting.tbt.arcpublishing.com^
 ||tctm.co^
 ||teads.com^
 ||teads.net^
@@ -2145,6 +2147,7 @@
 ||vi-serve.com^
 ||via.placeholder.com^
 ||viafoura.
+||video-api.mco.arcpublishing.com^
 ||video.adaptv.advertising.com^
 ||video.unrulymedia.com^
 ||videoamp.com^
