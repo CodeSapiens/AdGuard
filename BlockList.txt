@@ -886,6 +886,7 @@
 ||firetv-news-content-ingestion.amazon.com^
 ||fireworkapi1.com^
 ||firstendpoint.com^
+||firstpromoter.com^
 ||flashb.id^
 ||flashtalking.com^
 ||flask*.nextdoor.com^
@@ -1062,6 +1063,7 @@
 ||identity.nel.measure.office.net^
 ||identityservices.io^
 ||idiagnostics.apple.com
+||idio.co^
 ||iesnare.com^
 ||ignite.amazon.com^
 ||igodigital.com^
@@ -1606,6 +1608,7 @@
 ||proper.io^
 ||propervideo.io^
 ||protagcdn.com^
+||protechts.net^
 ||ps5.pndsn.com^
 ||pstmrk.it^
 ||pt.ispot.tv^
