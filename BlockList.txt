@@ -4,10 +4,7 @@
 *-na.associates-amazon.com^
 *-thedispatch-com.tinipass.com^
 *.adsbox^
-*.cn^
 *.opencensus^
-*.ru^
-*.ssp.advertising.com^
 *.textads^
 *.xxx^
 *analytics
@@ -19,6 +16,7 @@
 ||1trust.app^
 ||207.net^
 ||2345.com^
+||2cnt.net^
 ||2mdn.net^
 ||2o7.net^
 ||33across.com^
@@ -167,8 +165,6 @@
 ||adzone.io^
 ||ae.nflximg.net^
 ||affiliat*.
-||affilimate.
-||affilired.com^
 ||affiliaxe.com^
 ||affiligay.net^
 ||affilight.com^
@@ -178,6 +174,7 @@
 ||affilimateapis.com^
 ||affilimatejs.com^
 ||affilio.ir^
+||affilired.com^
 ||affiliride.com^
 ||affilirise.com^
 ||affiliserve.com^
@@ -298,6 +295,7 @@
 ||appsflyersdk.com^
 ||appspot.com^
 ||aptivada.com^
+||aptrinsic.com^
 ||arc.msn.com^
 ||arclight.vimeo.com^
 ||arcus-uswest.amazon.com^
@@ -1911,6 +1909,7 @@
 ||service.amazonsilk.com^
 ||service.cmp.oath.com^
 ||service.minerva.devices.a2z.com^
+||services-prod.nsvcs.net^
 ||services.brid.tv^
 ||services.brightline.tv^
 ||services.sdiapi.com^
@@ -1994,6 +1993,7 @@
 ||ssl.kaptcha.com^
 ||ssl.o.webmd.com^
 ||ssl.widgets.webengage.com^
+||ssp.advertising.com^
 ||ssp.yahoo.com^
 ||sstats.adobe.com^
 ||stackadapt.com^
@@ -2116,6 +2116,7 @@
 ||techlab-cdn.com^
 ||ted.dailymail.co.uk^
 ||telaria.com^
+||telem-edge.smartscreen.microsoft.com^
 ||telete.in^
 ||tenhourweek.com^
 ||test.ajo.adobe.com^
