@@ -427,6 +427,7 @@
 ||carbonads.net^
 ||cartkitten.com^
 ||casalemedia.com^
+||cat.pexels.com^
 ||cbpheback.com^
 ||cc-api-data.adobe.io^
 ||cc.swiftype.com^
