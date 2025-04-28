@@ -22,6 +22,7 @@
 ||2mdn.net^
 ||2o7.net^
 ||33across.com^
+||34.bc.googleusercontent.com^
 ||360yield.com^
 ||3gl.net^
 ||3lift.com^
@@ -92,6 +93,7 @@
 ||adlightning.com^
 ||admanmedia.com^
 ||admantx.com^
+||admob-creative.googleusercontent.com^
 ||admob.
 ||adnet.
 ||adnxs-simple.com^
@@ -112,6 +114,7 @@
 ||ads-*.tiktok.com^
 ||ads-*.twitter.com^
 ||ads-image.
+||ads-product-integration.googleusercontent.com^
 ||ads-setu-proxy.amazon.com^
 ||ads-twitter.com^
 ||ads.
@@ -174,6 +177,7 @@
 ||affilimate.io^
 ||affilired.com^
 ||affinitymatrix.com^
+||afs.googleusercontent.com^
 ||ag.innovid.com^
 ||agkn.com^
 ||agrvt.com^
@@ -542,6 +546,7 @@
 ||cmp.osano.com^
 ||cnstrc.com^
 ||coaufu.com^
+||cobrowse.oraclecloud.com^
 ||cod-assets.cdn.callofduty.com^
 ||codepush.appcenter.ms^
 ||cognitivlabs.com^
@@ -742,6 +747,7 @@
 ||directavenue.tech^
 ||diromalxx.com^
 ||display.ugc.bazaarvoice.com^
+||displayads-formats.googleusercontent.com^
 ||distillery.wistia.com^
 ||dlswbr.baidu.com^
 ||dm-event.net^
@@ -988,10 +994,12 @@
 ||googleads
 ||googleadservices.com^
 ||googlebot.com^
-||googleoptimize.com^
-||googlesyndication.com^
-||googletagmanager.com^
+||googlen*.top^
+||googleoptimize*.com^
+||googlesyndication*.com^
+||googletagmanager*.com^
 ||googletagservice*.com^
+||googletraveladservices*.com^
 ||gorgias.chat^
 ||goto.algolia.com^
 ||goto.walmart.com^
@@ -2048,6 +2056,7 @@
 ||tl.foxweather.com^
 ||tm-awx.com^
 ||tms.delta.com^
+||tms.oracle.com^
 ||tools.google.com^
 ||topcrazypress.com^
 ||tp.media^
