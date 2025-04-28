@@ -365,6 +365,7 @@
 ||beachfront.com^
 ||beacon.*.prodaa.netflix.com^
 ||beacon.dropbox.com^
+||beacon.mailchimp.com^
 ||beacon.samsclub.com^
 ||beacon.walmart.com^
 ||beam.hlserve.com^
@@ -557,6 +558,7 @@
 ||cloudflareinsights.com^
 ||cloudfront-labs.amazonaws.com^
 ||cloudharmony.net^
+||clrt.ai^
 ||cm-exchange.toast.com^
 ||cm.usatoday.com^
 ||cmp.advertising.com^
@@ -871,7 +873,7 @@
 ||events.gfe.nvidia.com^
 ||events.jotform.com^
 ||events.kumulos.com^
-||events.launchdarkly.com^
+||events.launchdarkly.
 ||events.mapbox.com^
 ||events.matterport.com^
 ||events.mountain.com^
@@ -1053,7 +1055,7 @@
 ||global.ketchcdn.com^
 ||gn-flagpoles.api.bbci.co.uk^
 ||go-mpulse.net^
-||go.launchdarkly.com^
+||go.e.mailchimp.com^
 ||go.rightnowmedia.org^
 ||go.smartrak.com^
 ||gobankingrates.com^
@@ -1348,7 +1350,6 @@
 ||madhive.com^
 ||mads*.amazon.com^
 ||mail-ads.google.com^
-||mailchimp.com^
 ||main.ebayrtm.com^
 ||manage.devcenter.microsoft.com^
 ||mantis-intelligence.com^
@@ -1849,6 +1850,7 @@
 ||sc-static.net^
 ||scaredslip.com^
 ||scaredsnakes.com^
+||sci.intuit.com^
 ||scontent-sjc2-1.xx.fbcdn.net^
 ||scontent.webcollage.net^
 ||scorecardresearch.com^
@@ -1982,6 +1984,7 @@
 ||spectrum.gettyimages.com^
 ||speedcurve.com^
 ||spiny.ai^
+||sponge.creditkarma.com^
 ||spookyexchange.com^
 ||spot.im^
 ||spotxchange.com^
@@ -2092,6 +2095,7 @@
 ||tagdelivery.mayoclinic.org^
 ||tagger.opecloud.com^
 ||tags.aljazeera.com^
+||tags.creditkarma.com^
 ||tags.news.com.au^
 ||tags.tiqcdn.com^
 ||tags.voanews.com^
@@ -2183,6 +2187,7 @@
 ||trk.klclick.com^
 ||trk.pinterest.com^
 ||trk*.*.hsbc.com
+||trk*.mailchimp.com^
 ||tru.am^
 ||trueroas.io^
 ||truoptik.com^
