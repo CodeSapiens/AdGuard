@@ -535,6 +535,7 @@
 ||clicktale.net^
 ||clicktripz.com^
 ||client.rum.*.amazonaws.com^
+||clientmetrics-pa.googleapis.com^
 ||clientservices.googleapis.com^
 ||clix.fidelity.com^
 ||clmbtech.com^
@@ -903,9 +904,11 @@
 ||federatedml-pa.googleapis.com^
 ||feedbackify.com^
 ||fff.dailymail.co.uk^
-||firebase*.googleapis.com^
 ||firebaseapp.com^
 ||firebaseio.com^
+||firebaselogging*.googleapis.com^
+||firebasecrashlytics*.googleapis.com^
+||firebasepredictions.googleapis.com^
 ||fireoscaptiveportal.com^
 ||firetv-news-content-ingestion.amazon.com^
 ||fireworkapi1.com^
