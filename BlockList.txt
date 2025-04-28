@@ -265,6 +265,7 @@
 ||api.statsig.com^
 ||api.tiles.mapbox.com^
 ||api*.iheart.com^
+||apitd.net^
 ||app-ads-services.com^
 ||app-analytics-services.com^
 ||app-measurement.com^
@@ -630,6 +631,7 @@
 ||coordinator.cm.bloomberg.com^
 ||cootlogix.com^
 ||cortana-gateway.amazon.com^
+||count.shein.com^
 ||counter.any.run^
 ||counter.theconversation.com^
 ||countess.twitch.tv^
@@ -1986,6 +1988,7 @@
 ||sprig.com^
 ||springserve.com^
 ||src.ebay-us.com^
+||srmdata-us.com^
 ||srtb.msn.com^
 ||ssafp.samsclub.com^
 ||ssl.ak.dynamic.tiles.
