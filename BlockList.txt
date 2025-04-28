@@ -243,6 +243,7 @@
 ||api.ipdata.co^
 ||api.ipstack.com^
 ||api.iterable.com^
+||api.lever.co^
 ||api.qubit.com^
 ||api.receptivity.io^
 ||api.retargetly.com^
@@ -262,6 +263,7 @@
 ||app.hubspot.com^
 ||app.link^
 ||app.proxsee.io^
+||app.securiti.ai^
 ||app.termly.io^
 ||app*.pendo.io^
 ||appboycdn.com^
@@ -528,6 +530,7 @@
 ||clickagy.com^
 ||clickbank.com^
 ||clickbank.net^
+||clickcease.com^
 ||clickmagick.com^
 ||clicktale.net^
 ||clicktripz.com^
@@ -575,6 +578,9 @@
 ||condenastdigital.com^
 ||conductrics.com^
 ||conductrics.net^
+||confection-io.webpkgcache.com^
+||confectioneryconnected.com^
+||confectionerycrock.com^
 ||confiant-integrations.net^
 ||confiant.msn.com^
 ||config.claspws.tv^
@@ -772,6 +778,7 @@
 ||drfdisvc.walmart.com^
 ||ds-aksb-a.akamaihd.net^
 ||dsms0mj1bbhn4.cloudfront.net^
+||dstillery.com^
 ||dtmpub.com^
 ||du8783wkf05yr.cloudfront.net^
 ||duapps.com^
@@ -806,7 +813,13 @@
 ||edigitalsurvey.com^
 ||effectivecreativeformat.com^
 ||el.quizlet.com^
+||eloqua-track
+||eloqua.
 ||eloqua.com^
+||eloquademos.
+||eloquamarket
+||eloquatrack
+||elqsandbox.com^
 ||elqtrk.intel.
 ||email-*.cjm.adobe.com^
 ||email.aboutamazon.com^
@@ -864,6 +877,9 @@
 ||extmaps-api.yandex.net^
 ||extratorrent.cc^
 ||extremereach.io^
+||eyeforfashion.
+||eyeforpharma.
+||eyefortravel.
 ||eyeota.net^
 ||ezodn.com^
 ||ezoic.com^
@@ -1071,6 +1087,7 @@
 ||highcpmrevenuenetwork.com^
 ||highperformancegate.com^
 ||hitbox.com^
+||hj.contentsquare.com^
 ||hlserve.com^
 ||holid.bbvms.com^
 ||homedepot.online-metrix.net^
@@ -1156,6 +1173,7 @@
 ||inv-nets.admixer.net^
 ||investingchannel.com^
 ||invitemedia.com^
+||invoca.com^
 ||invoca.net^
 ||invocacdn.com^
 ||ioam.de^
@@ -1234,6 +1252,7 @@
 ||lameletters.com^
 ||laptop-updates.brave.com^
 ||lcprd*.samsungcloudsolution.
+||leadmanagerfx.com^
 ||leanplum.com^
 ||lemmatechnologies.com^
 ||levelaccess.net^
@@ -1316,8 +1335,10 @@
 ||manage.devcenter.microsoft.com^
 ||mantis-intelligence.com^
 ||maps.googleapis.com^
+||marinsoftware.com^
 ||marketing.gilderlehrman.org^
 ||marketingcloudapis.com^
+||marketingcloudfx.com^
 ||marketingsolutions.yahoo.com^
 ||marketo.com^
 ||marketo.net^
@@ -1366,6 +1387,7 @@
 ||metric.mediaedge.v.aaplimg.com^
 ||metricode.com^
 ||metrics
+||metrics.confectionerynews.com^
 ||metrics.icloud.v.aaplimg.com^
 ||mgid.com^
 ||mi.eddiebauer.com^
@@ -1474,6 +1496,7 @@
 ||nypost-com.videoplayerhub.com^
 ||ocsp.apple.com^
 ||oempprd.samsungcloudsolution.
+||offer.alibaba.com^
 ||offerwall.yandex.net^
 ||ogads-pa.clients6.google.com^
 ||ogads-pa.googleapis.com^
@@ -1698,7 +1721,7 @@
 ||quantcast.com^
 ||quantcast.mgr.consensu.org^
 ||quantcount.com^
-||quantserve.com^
+||quantserve.
 ||quantummetric.com^
 ||qubit.com^
 ||queryly.com^
@@ -1765,6 +1788,7 @@
 ||routing.cloudfront.aws.a2z.com^
 ||rp.liadm.com^
 ||rpxnow.com^
+||rt.prnewswire.com^
 ||rtds.progressive.com^
 ||rtk.io^
 ||ru.com^
@@ -2003,11 +2027,13 @@
 ||subs.youmaker.com^
 ||subscription-forms.smsbump.com^
 ||subseasecurity.com^
+||substation.confection.io^
 ||succeedscene.com^
 ||success.qualtrics.com^
 ||suggestqueries*.google.com
 ||summerhamster.com^
 ||sumome.com^
+||sundaysky.com^
 ||supapush.net^
 ||supersonicads.com^
 ||supportmetrics.apple.com^
@@ -2049,6 +2075,7 @@
 ||tags.tiqcdn.com^
 ||tags.voanews.com^
 ||tags.wdsvc.net^
+||takingbackjuly.com^
 ||tamgrt.com^
 ||tao.barstoolsports.com^
 ||tapad.com^
@@ -2155,6 +2182,7 @@
 ||ua.indianexpress.com^
 ||ubembed.com^
 ||uciservice.com^
+||ucweb.com^
 ||udc.yahoo.com^
 ||udcm.yahoo.com^
 ||udn.com^
@@ -2248,6 +2276,7 @@
 ||webvisor.org^
 ||whale.camera^
 ||widengle.com^
+||widget.clutch.co^
 ||widget.nfusionsolutions.com^
 ||widget.trustpilot.com^
 ||widgets.future-fie.co.uk^
