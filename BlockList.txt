@@ -977,7 +977,7 @@
 ||freewheel.tv^
 ||frenghiacred.com^
 ||freshmarketer.com^
-||fresnel-events.vimeocdn.com^
+||fresnel*.vimeocdn.com^
 ||freyr.futurecdn.net^
 ||frog.wix.com^
 ||frontdoor.nest.com^
