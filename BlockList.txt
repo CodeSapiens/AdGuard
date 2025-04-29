@@ -245,6 +245,7 @@
 ||api-hotjar.com^
 ||api-v3.tinypass.com^
 ||api.*.aiv-delivery.net^
+||api.airbrake.io^
 ||api.apptentive.com^
 ||api.autopilothq.com^
 ||api.aws.parking.godaddy.com^
@@ -266,6 +267,7 @@
 ||api.smoot.apple.com^
 ||api.statsig.com^
 ||api.tiles.mapbox.com^
+||api.userway.org^
 ||api*.iheart.com^
 ||apitd.net^
 ||app-ads-services.com^
@@ -1518,6 +1520,7 @@
 ||noa.yahoo.com^
 ||nosto.com^
 ||notice.hoopladigital.com^
+||notifier-configs.airbrake.io^
 ||notify.firetv.bugsnag.appstore.a2z.com^
 ||notify.hindustantimes.com^
 ||notify6.com^
@@ -1822,6 +1825,7 @@
 ||risecodes.com^
 ||rl.progressive.com^
 ||rlcdn.com^
+||rlets.com^
 ||rma.homedepot.com^
 ||rmp.rakuten.com^
 ||rmt.homedepot.com^
@@ -1945,6 +1949,7 @@
 ||services.sdiapi.com^
 ||settings-win.data.microsoft.com^
 ||sgrupontihecliff.xyz^
+||sgtm.userway.org^
 ||shareaholic.net^
 ||sharethis.com^
 ||sharethrough.com^
