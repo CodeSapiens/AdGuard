@@ -36,6 +36,7 @@
 ||a.mailmunch.co^
 ||a.nel.cloudflare.com^
 ||a.nytimes.com^
+||a.ok.facebook.com^
 ||a.quora.com^
 ||a1.api.bbc.co.uk^
 ||a40.usablenet.com^
@@ -196,6 +197,7 @@
 ||ags-ext.amazon.com^
 ||ahoravideo-
 ||aidsvc.netflix.com^
+||aim-tag.hcn.health^
 ||aimtell.com^
 ||ainu.intel.
 ||air.com^
@@ -281,6 +283,7 @@
 ||app*.pendo.io^
 ||appboycdn.com^
 ||appconsent.io^
+||appjiagu.com^
 ||applab-sdk.amazon.com^
 ||apple-relay.apple.com^
 ||apple.news^
@@ -292,8 +295,10 @@
 ||appmetrica.yandex.com^
 ||appnexus.com^
 ||apps.rokt.com^
+||appscoverage.net^
 ||appsflyer.com^
 ||appsflyersdk.com^
+||appsolve.io^
 ||appspot.com^
 ||aptivada.com^
 ||aptrinsic.com^
@@ -340,6 +345,7 @@
 ||avsplow.com^
 ||awin1.com^
 ||awstrack.me^
+||awxcdn.com^
 ||axm-telemetry.v.aaplimg.com^
 ||ay.delivery^
 ||b-code.liadm.com^
@@ -431,6 +437,7 @@
 ||business-api.tiktok.com^
 ||buy.tinypass.com^
 ||buysellads.net^
+||bwbx.io^
 ||byteoversea.com^
 ||c.bing.com^
 ||c.msn.com^
@@ -564,6 +571,7 @@
 ||cmp.advertising.com^
 ||cmp.dmgmediaprivacy.co.uk^
 ||cmp.osano.com^
+||cnn.io^
 ||cnstrc.com^
 ||coaufu.com^
 ||cobrowse.oraclecloud.com^
@@ -582,6 +590,7 @@
 ||collector.githubapp.com^
 ||collector.unsplash.com^
 ||collector*.pabs.comcast.com^
+||colombiaonline.com^
 ||colossusssp.com^
 ||com.huawei
 ||comixology.com^
@@ -608,6 +617,7 @@
 ||connect.facebook.com^
 ||connect.facebook.net^
 ||connect.intel.
+||connectad.io^
 ||consensu.org^
 ||consent-sync.justanswer.com^
 ||consent.cmp.oath.com^
@@ -632,6 +642,7 @@
 ||cookiehub.net^
 ||coordinator.cm.bloomberg.com^
 ||cootlogix.com^
+||coremetrics.com^
 ||cortana-gateway.amazon.com^
 ||count.shein.com^
 ||counter.any.run^
@@ -770,6 +781,7 @@
 ||direct.data.api.platform.here.com^
 ||directavenue.tech^
 ||diromalxx.com^
+||disneycasting.net^
 ||display.ugc.bazaarvoice.com^
 ||displayads-formats.googleusercontent.com^
 ||distillery.wistia.com^
@@ -936,6 +948,7 @@
 ||flask*.nextdoor.com^
 ||flix360.com^
 ||flk-ipfs.xyz^
+||flocdn.com^
 ||fls-fe.amazon.
 ||fls-na.amazon.
 ||flurry.com^
@@ -1051,6 +1064,7 @@
 ||glanceguide.com^
 ||glassboxcdn.com^
 ||glassboxdigital.io^
+||glassmoni.researchgate.net^
 ||glitter.services.disqus.com^
 ||global.ketchcdn.com^
 ||gn-flagpoles.api.bbci.co.uk^
@@ -1218,6 +1232,7 @@
 ||j.northbeam.io^
 ||jac.yahoosandbox.com^
 ||janrain.com^
+||jbteen.al^
 ||jcpclick.com^
 ||jeeng.com^
 ||jg7y.quizlet.com^
@@ -1235,6 +1250,7 @@
 ||js.hubspotfeedback.com^
 ||js.usemessages.com^
 ||js7k.com^
+||jshosting.review^
 ||jsonip.com^
 ||jst.ai^
 ||jumbo.zomato.com^
@@ -1263,6 +1279,7 @@
 ||krazzykriss.com^
 ||krushmedia.com^
 ||krxd.net^
+||kshwtj.com^
 ||ktag.kaxcdn.com^
 ||ktpx-eu.amazon.com^
 ||kueezrtb.com^
@@ -1396,6 +1413,7 @@
 ||mediarithmics.com^
 ||mediatradecraft.com^
 ||mediavine.com^
+||medtargetsystem.com^
 ||megpxs.com^
 ||mercury.jd.com^
 ||merequartz.com^
@@ -1540,6 +1558,7 @@
 ||onetag-sys.com^
 ||onetag.com^
 ||onetrust.com^
+||onezapp.com^
 ||online-metrix.net^
 ||onthe.io^
 ||ontraport.com^
@@ -1697,6 +1716,7 @@
 ||profusesupport.com^
 ||promos.investing.com^
 ||promote-subscribe.forbes.com^
+||propeller-tracking.com^
 ||proper.io^
 ||propervideo.io^
 ||protagcdn.com^
@@ -1715,6 +1735,7 @@
 ||publicgood.com^
 ||publir.com^
 ||pubmatic.com^
+||pubmine.com^
 ||pubtrky.com^
 ||pulsar.ebay.com^
 ||purr.nytimes.com^
@@ -1729,11 +1750,13 @@
 ||px-client.net^
 ||px-clone.com^
 ||px-cloud.net^
+||pxf.io^
 ||pxlctl.
 ||q.quora.com^
 ||qgxbluhsgad.com^
 ||qm2.progressive.com^
 ||qortex.ai^
+||qq.com^
 ||qrwoayzjyblkw.top^
 ||qsearch-a.akamaihd.net^
 ||qualaroo.com^
@@ -1748,6 +1771,7 @@
 ||r.stripe.com^
 ||r0.mradx.net^
 ||r541.houstonchronicle.com^
+||ra.gtimg.com^
 ||radar.cedexis.com^
 ||railwayreason.com^
 ||rainmaker*.production-public.tubi.io^
@@ -1755,6 +1779,7 @@
 ||raptive.com^
 ||rarbg.to^
 ||ras.yahoo.com^
+||rat.rakuten.
 ||ravenjs.com^
 ||ravm.tv^
 ||rbl.ms^
@@ -1840,6 +1865,7 @@
 ||sail-personalize.com^
 ||sailthru.com^
 ||salemwebnetwork.com^
+||salesleaf.com^
 ||samba.tv^
 ||samsungacr.com^
 ||samsungadhub.com^
@@ -1986,6 +2012,7 @@
 ||spiny.ai^
 ||sponge.creditkarma.com^
 ||spookyexchange.com^
+||sports*.gtimg.com^
 ||spot.im^
 ||spotxchange.com^
 ||sprig.com^
@@ -2147,6 +2174,7 @@
 ||tm-awx.com^
 ||tms.delta.com^
 ||tms.oracle.com^
+||tokyo-motion.net^
 ||tools.google.com^
 ||topcrazypress.com^
 ||tp.media^
@@ -2241,6 +2269,7 @@
 ||user-signals.production-public.tubi.io^
 ||usera.imagecave.com^
 ||usercentrics.eu^
+||userfly.com^
 ||userlocation.googleapis.com^
 ||userreport.com^
 ||userzoom.com^
@@ -2270,6 +2299,7 @@
 ||vidora.com^
 ||viglink.com^
 ||vindicosuite.com^
+||visitor-analytics.io^
 ||visualwebsiteoptimizer.com^
 ||vitals.vercel-insights.com^
 ||vizu.com^
@@ -2338,6 +2368,7 @@
 ||xvideos-cdn.com^
 ||xvideos.com^
 ||yahoo.uservoice.com^
+||ybinst0.ec.yimg.com^
 ||ycxrl.com^
 ||yellowblue.io^
 ||yelp-us.com^
