@@ -101,6 +101,7 @@
 ||adobedtm.com^
 ||adocean.pl^
 ||adoric-om.com^
+||adplugg.com^
 ||adpredictive.com^
 ||adpushup.com^
 ||adrecover.com^
@@ -497,6 +498,7 @@
 ||cdn.intelligems.io^
 ||cdn.iubenda.com^
 ||cdn.justuno.com^
+||cdn.listrakbi.com^
 ||cdn.lr-ingest.io^
 ||cdn.membrana.media^
 ||cdn.opecloud.com^
@@ -1641,6 +1643,7 @@
 ||pipe.aria.microsoft.com^
 ||pipedream.wistia.com^
 ||pippio.com^
+||piwik.pro^
 ||pix.pub^
 ||pix.spot.im^
 ||pixel-config.reddit.com^
@@ -1869,6 +1872,7 @@
 ||sailthru.com^
 ||salemwebnetwork.com^
 ||salesleaf.com^
+||salsify-ecdn.com^
 ||samba.tv^
 ||samsungacr.com^
 ||samsungadhub.com^
@@ -1965,6 +1969,7 @@
 ||sidearm-syndication.s3.amazonaws.com^
 ||siftscience.com^
 ||signifyd.com^
+||siloh-ns*.plutotv.net^
 ||silverpop.com^
 ||simg.interhome.
 ||simple-affiliate.com^
@@ -2207,6 +2212,7 @@
 ||tranquilveil.com^
 ||transcend-cdn.com^
 ||transfermarkt.
+||transmit.live^
 ||trcksp.cordial.io^
 ||treasuredata.com^
 ||tredir.go.com^
