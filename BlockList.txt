@@ -439,7 +439,6 @@
 ||business-api.tiktok.com^
 ||buy.tinypass.com^
 ||buysellads.net^
-||bwbx.io^
 ||byteoversea.com^
 ||c.bing.com^
 ||c.msn.com^
