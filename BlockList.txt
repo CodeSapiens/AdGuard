@@ -1612,7 +1612,6 @@
 ||pagefair.net^
 ||pages.usertesting.com^
 ||pagesense.io^
-||pancake.apple.com^
 ||pangleglobal.com^
 ||panorama.wixapps.net^
 ||pardot.com^
