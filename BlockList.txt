@@ -315,6 +315,7 @@
 ||ashleymadison.com^
 ||assemblyexchange.com^
 ||assets-jpcust.jwpsrv.com^
+||assets.adobetm.com^
 ||assets.alicdn.com^
 ||assets.mailerlite.com^
 ||assets.minutemediacdn.com^
@@ -596,6 +597,7 @@
 ||colombiaonline.com^
 ||colossusssp.com^
 ||com.huawei
+||cometlytrack.com^
 ||comixology.com^
 ||comm100.com^
 ||commerce.nbcuni.com^
@@ -772,6 +774,7 @@
 ||developer.amazon.com^
 ||developers.hubspot.com^
 ||device-metrics-us*.amazon.com^
+||device.maxmind.com^
 ||devicemessaging.*.amazon.com^
 ||dewrain.
 ||dewrain.world^
@@ -922,6 +925,7 @@
 ||fabrik.com^
 ||factset.com^
 ||fakeimg.pl^
+||fallback.c10r.
 ||fast.appcues.com^
 ||fastclick.com^
 ||fastclick.net^
@@ -1037,6 +1041,7 @@
 ||ganon.yahoo.com^
 ||gc.newsweek.com^
 ||gcion.com^
+||gcprivacy.com^
 ||gdpr.studybreakmedia.com^
 ||gdsapi.cnbc.com^
 ||geekbackyard.com^
@@ -1064,6 +1069,7 @@
 ||getrockerbox.com^
 ||getsentry.com^
 ||gh.fanatical.com^
+||glancecdn.net^
 ||glanceguide.com^
 ||glassboxcdn.com^
 ||glassboxdigital.io^
@@ -1091,6 +1097,7 @@
 ||gorgias.chat^
 ||goto.algolia.com^
 ||goto.walmart.com^
+||govisibl.io^
 ||granlite.com^
 ||graph.facebook.com^
 ||graph.instagram.com^
@@ -1218,6 +1225,7 @@
 ||iot-logser.realme.com^
 ||ip.prvtx.net^
 ||ipapi.co^
+||iperceptions.com^
 ||iphonesubmissions.v.aaplimg.com^
 ||ipify.org^
 ||ipredictive.com^
@@ -1339,6 +1347,7 @@
 ||logfiles.zoom.us^
 ||logger.nerdwallet.com^
 ||logging.api.intuit.com^
+||logging.hotelplanner.com^
 ||logging.rightnow.org^
 ||login.cbc.ca^
 ||logistics.amazon.com^
@@ -1398,6 +1407,7 @@
 ||mbid.marfeelrev.com^
 ||mcs.tiktokw.us^
 ||mdhv.io^
+||mdt.crateandbarrel.com^
 ||measure.chase.com^
 ||media.complex.com^
 ||media.evolv.ai^
@@ -1458,6 +1468,7 @@
 ||monetate.net^
 ||monetization.prod.invmed.co^
 ||monetizer101.com^
+||moneymade.io^
 ||monitor.azure.com^
 ||monitor.ebay.com^
 ||monitoring.*.amazonaws.com^
@@ -1566,6 +1577,7 @@
 ||online-metrix.net^
 ||onthe.io^
 ||ontraport.com^
+||openfpcdn.io^
 ||openx.com^
 ||openx.net^
 ||openx.org^
@@ -1616,6 +1628,7 @@
 ||pbcs.realtor.com^
 ||pbd.yahoo.com^
 ||pbjs-stream.bydata.com^
+||pbs.yahoo.com^
 ||pbstck.com^
 ||pbxai.com^
 ||pegsbuttons.com^
@@ -1746,11 +1759,13 @@
 ||purr.nytimes.com^
 ||push.kumulos.com^
 ||push.samsungosp.com^
+||push.sportskeeda.com^
 ||pushengage.com^
 ||pusherapp.com^
 ||pushmaster-cdn.xyz^
 ||pushnami.com^
 ||pushx.reolink.com^
+||pushy.me^
 ||px-cdn.net^
 ||px-client.net^
 ||px-clone.com^
@@ -1758,6 +1773,7 @@
 ||pxf.io^
 ||pxlctl.
 ||q.quora.com^
+||q.stripe.com^
 ||qgxbluhsgad.com^
 ||qm2.progressive.com^
 ||qortex.ai^
@@ -1825,6 +1841,7 @@
 ||richaudience.com^
 ||rightfulfall.com^
 ||risecodes.com^
+||riskified.com^
 ||rl.progressive.com^
 ||rlcdn.com^
 ||rlets.com^
@@ -1845,6 +1862,7 @@
 ||rubiconproject.com^
 ||rudderlabs.com^
 ||rum-metrics.bunny.net^
+||rum-static.pingdom.net^
 ||rum.hlx.page^
 ||rvikjd.com^
 ||rxeosevsso.com^
@@ -1951,6 +1969,7 @@
 ||services.brightline.tv^
 ||services.sdiapi.com^
 ||settings-win.data.microsoft.com^
+||settings.data.microsoft.com^
 ||sgrupontihecliff.xyz^
 ||sgtm.userway.org^
 ||shareaholic.net^
@@ -1991,6 +2010,7 @@
 ||smartadserver.com^
 ||smartclip.net^
 ||smartetailing.piwik.pro^
+||smartlock.google.com^
 ||smartocto.com^
 ||smetrics.
 ||smilewanted.com^
@@ -2040,6 +2060,7 @@
 ||stackadapt.com^
 ||stagepopkek.com^
 ||stakingbasket.com^
+||star*.c10r.
 ||starget.intel.
 ||stat.brightchat.org^
 ||statcollector.sidearmsports.com^
@@ -2144,6 +2165,7 @@
 ||taplytics.com^
 ||tapnative.com^
 ||target.chase.com^
+||target.chrysler.com^
 ||target.cisco.com^
 ||target.microsoft.com^
 ||targetbay.com^
@@ -2180,6 +2202,7 @@
 ||tl.foxbusiness.com^
 ||tl.foxnews.com^
 ||tl.foxweather.com^
+||tlr.stripocdn.email^
 ||tm-awx.com^
 ||tms.delta.com^
 ||tms.oracle.com^
@@ -2268,6 +2291,8 @@
 ||urbanairship.com^
 ||us-*-web-oao.ssp.yahoo.com^
 ||us-*.event.prod.bidr.io^
+||us-central1-*.cloudfunctions.net^
+||us-east1-*.cloudfunctions.net^
 ||us.i.posthog.com^
 ||us3.campaign-archive.com^
 ||usabilla.com^
