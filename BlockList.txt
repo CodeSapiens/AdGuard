@@ -2047,6 +2047,7 @@
 ||src.ebay-us.com^
 ||srmdata-us.com^
 ||srtb.msn.com^
+||ss.topspinpro.com^
 ||ssafp.samsclub.com^
 ||ssl.ak.dynamic.tiles.
 ||ssl.cf5.rackcdn.com^
@@ -2059,6 +2060,7 @@
 ||stackadapt.com^
 ||stagepopkek.com^
 ||stakingbasket.com^
+||stape.io^
 ||star*.c10r.
 ||starget.intel.
 ||stat.brightchat.org^
@@ -2373,6 +2375,7 @@
 ||widgets.future-fie.co.uk^
 ||widgets.pinterest.com^
 ||widgets.tree.com^
+||widgets.xsellco.com^
 ||wildmoodswings.co.uk^
 ||wimsey.publicsquare.com^
 ||wisepops.com^
