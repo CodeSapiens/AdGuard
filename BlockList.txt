@@ -113,6 +113,7 @@
 ||ads-*.pinterest.com^
 ||ads-*.tiktok.com^
 ||ads-*.twitter.com^
+||ads-flipp.com^
 ||ads-image.
 ||ads-product-integration.googleusercontent.com^
 ||ads-setu-proxy.amazon.com^
@@ -454,6 +455,7 @@
 ||campaign-archive.com^
 ||candycrushsoda.king.com^
 ||cane.intel.
+||capi.elements.video^
 ||carambo.la^
 ||carbonads.net^
 ||cartkitten.com^
@@ -612,8 +614,10 @@
 ||confection-io.webpkgcache.com^
 ||confectioneryconnected.com^
 ||confectionerycrock.com^
+||confiant-integrations.global.ssl.fastly.net^
 ||confiant-integrations.net^
 ||confiant.msn.com^
+||config-security.com^
 ||config.claspws.tv^
 ||config.uca.cloud.unity3d.com^
 ||configsvc.cs.roku.com^
@@ -624,6 +628,7 @@
 ||connect.intel.
 ||connectad.io^
 ||consensu.org^
+||consent-manager.etsystatic.com^
 ||consent-sync.justanswer.com^
 ||consent.cmp.oath.com^
 ||consent.dropbox.com^
@@ -724,6 +729,7 @@
 ||d35k22e9287vnh.cloudfront.net^
 ||d35u1vg1q28b3w.cloudfront.net^
 ||d3a510xmpll7o6.cloudfront.net^
+||d3agakyjgjv5i8.cloudfront.net^
 ||d3c8j8snkzfr1n.cloudfront.net^
 ||d3div1mtym39ic.cloudfront.net^
 ||d3h5bk8iotgjvw.cloudfront.net^
@@ -942,6 +948,8 @@
 ||fff.dailymail.co.uk^
 ||firebaseapp.com^
 ||firebasecrashlytics*.googleapis.com^
+||firebaseinappmessaging.googleapis.com^
+||firebaseinstallations.googleapis.com^
 ||firebaseio.com^
 ||firebaselogging*.googleapis.com^
 ||firebasepredictions.googleapis.com^
@@ -968,6 +976,7 @@
 ||fonts.gstatic.com^
 ||footprintdns.com^
 ||footprints-pa.googleapis.com^
+||forms.convertkit.com^
 ||forter.com^
 ||forumcomm.friends2follow.com^
 ||fos5echocaptiveportal.com^
@@ -1261,6 +1270,7 @@
 ||js.hubspotfeedback.com^
 ||js.usemessages.com^
 ||js7k.com^
+||jscache.com^
 ||jshosting.review^
 ||jsonip.com^
 ||jst.ai^
@@ -1612,6 +1622,7 @@
 ||pagefair.net^
 ||pages.usertesting.com^
 ||pagesense.io^
+||pandect.es^
 ||pangleglobal.com^
 ||panorama.wixapps.net^
 ||pardot.com^
@@ -1620,6 +1631,8 @@
 ||partiality.itunes.apple.com^
 ||partnerad.
 ||partnerads.ysm.yahoo.com^
+||partnerlinks.io^
+||partners.kit.com^
 ||partnerstack.com^
 ||pbc.realtor.com^
 ||pbc.wsj.com^
@@ -1669,6 +1682,7 @@
 ||pixels.spotify.com^
 ||pixiedust.buzzfeed.com^
 ||pixsrvcs.com^
+||pl.elements.video^
 ||placed.com^
 ||plaguemanipulatedrag.com^
 ||platform-api.sharethis.com^
@@ -1839,6 +1853,7 @@
 ||rgembroiderydesigns.com^
 ||richaudience.com^
 ||rightfulfall.com^
+||ris.api.iris.microsoft.com^
 ||risecodes.com^
 ||riskified.com^
 ||rl.progressive.com^
@@ -1888,6 +1903,7 @@
 ||sail-personalize.com^
 ||sailthru.com^
 ||salemwebnetwork.com^
+||salesiq.zohopublic.com^
 ||salesleaf.com^
 ||salsify-ecdn.com^
 ||samba.tv^
@@ -2003,6 +2019,7 @@
 ||skw.eve.account.sony.com^
 ||slashdot.org^
 ||sli.latimes.com^
+||slickstream.com^
 ||sm.dell.com^
 ||smaato.com^
 ||smart.link^
@@ -2074,7 +2091,9 @@
 ||static.cdn.responsys.net^
 ||static.ctctcdn.com^
 ||static.ecorebates.com^
+||static.getbutton.io^
 ||static.getclicky.com^
+||static.iterable.com^
 ||static.mailerlite.com^
 ||static.myfinance.com^
 ||static.mywot.com^
@@ -2155,10 +2174,12 @@
 ||tags.aljazeera.com^
 ||tags.creditkarma.com^
 ||tags.news.com.au^
+||tags.rfa.org^
 ||tags.tiqcdn.com^
 ||tags.voanews.com^
 ||tags.wdsvc.net^
 ||takingbackjuly.com^
+||talk.washingtonpost.com^
 ||tamgrt.com^
 ||tao.barstoolsports.com^
 ||tapad.com^
@@ -2172,6 +2193,7 @@
 ||targetbay.com^
 ||targeting.nzme.arcpublishing.com^
 ||targeting.tbt.arcpublishing.com^
+||targeting.washingtonpost.com^
 ||tctm.co^
 ||teads.com^
 ||teads.net^
@@ -2262,6 +2284,7 @@
 ||turncdn.com^
 ||turnto.com^
 ||tvpixel.com^
+||tvspix.com^
 ||tvsquared.com^
 ||twitchsvc.net^
 ||tynt.com^
@@ -2404,12 +2427,14 @@
 ||xspadvertising.com^
 ||xvideos-cdn.com^
 ||xvideos.com^
+||xxid.atl-paas.net^
 ||yahoo.uservoice.com^
 ||ybinst0.ec.yimg.com^
 ||ycxrl.com^
 ||yellowblue.io^
 ||yelp-us.com^
 ||yengo.com^
+||yeps.io^
 ||yield-op-idsync.live.streamtheworld.com^
 ||yieldlove
 ||yieldmo.com^
