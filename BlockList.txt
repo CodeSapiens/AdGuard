@@ -2366,6 +2366,7 @@
 ||visualwebsiteoptimizer.com^
 ||vitals.vercel-insights.com^
 ||vizu.com^
+||v.shopify.com^
 ||vo.msecnd.net^
 ||vop-yahoo.akamaized.net^
 ||vop-yahoo.secure.footprint.net^
