@@ -1355,7 +1355,9 @@
 ||log.v.ssp.yahoo.com^
 ||log*.xiaoyi.com^
 ||logfiles.zoom.us^
+||logger.goeuro.com^
 ||logger.nerdwallet.com^
+||logger.omio.com^
 ||logging.api.intuit.com^
 ||logging.hotelplanner.com^
 ||logging.rightnow.org^
@@ -1870,6 +1872,7 @@
 ||rp.liadm.com^
 ||rpxnow.com^
 ||rt.prnewswire.com^
+||rtcollector.goeuro.com^
 ||rtds.progressive.com^
 ||rtk.io^
 ||ru.com^
@@ -1986,6 +1989,7 @@
 ||settings-win.data.microsoft.com^
 ||settings.data.microsoft.com^
 ||sgrupontihecliff.xyz^
+||sgtm.omio.com^
 ||sgtm.userway.org^
 ||shareaholic.net^
 ||sharethis.com^
