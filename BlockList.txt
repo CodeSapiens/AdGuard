@@ -104,6 +104,7 @@
 ||adnxs.com^
 ||adnxs.net^
 ||adobedtm.com^
+||adoberesources.net^
 ||adocean.pl^
 ||adoric-om.com^
 ||adplugg.com^
@@ -169,6 +170,7 @@
 ||advertising.yahoo*.com^
 ||advertising*.amazon.
 ||advice-ads.s3.amazonaws.com^
+||adxcel-ec2.com^
 ||adzerk.net^
 ||adzone.io^
 ||ae.nflximg.net^
@@ -199,6 +201,7 @@
 ||affinitymatrix.com^
 ||afs.googleusercontent.com^
 ||ag.innovid.com^
+||agilone.com^
 ||agkn.com^
 ||agrvt.com^
 ||ags-ext.amazon.com^
@@ -277,6 +280,7 @@
 ||api.userway.org^
 ||api*.iheart.com^
 ||apitd.net^
+||apm.qwant.com^
 ||app-ads-services.com^
 ||app-analytics-services.com^
 ||app-measurement.com^
@@ -297,6 +301,7 @@
 ||apple-relay.apple.com^
 ||apple.news^
 ||apple.pa^
+||applemediaservices.com^
 ||applicationinsights.
 ||applicationinsights.azure.com^
 ||applovin.com^
@@ -567,6 +572,7 @@
 ||clickbank.com^
 ||clickbank.net^
 ||clickcease.com^
+||clickfuse.com^
 ||clickmagick.com^
 ||clicktale.net^
 ||clicktripz.com^
@@ -742,6 +748,7 @@
 ||d3div1mtym39ic.cloudfront.net^
 ||d3h5bk8iotgjvw.cloudfront.net^
 ||d3icekm41k795y.cloudfront.net^
+||d3l739e8r8y9v7.cloudfront.net^
 ||d3lcz8vpax4lo2.cloudfront.net^
 ||d3lqotgbn3npr.cloudfront.net^
 ||d3nslu0hdya83q.cloudfront.net^
@@ -1290,6 +1297,7 @@
 ||justpremium.com^
 ||jwpltx.com^
 ||k.pluto.tv^
+||k.qwant.com^
 ||kameleoon.eu^
 ||kampyle.com^
 ||kargo.com^
@@ -1479,6 +1487,7 @@
 ||ml314.com^
 ||mms.cnn.com^
 ||mmstat.com^
+||mn.qwant.com^
 ||moatads.com^
 ||mobile-sdk-api.intercom.io^
 ||mobile.launchdarkly.com^
@@ -1885,6 +1894,7 @@
 ||rp.liadm.com^
 ||rpxnow.com^
 ||rt.prnewswire.com^
+||rtactivate.com^
 ||rtcollector.goeuro.com^
 ||rtds.progressive.com^
 ||rtk.io^
@@ -1979,6 +1989,7 @@
 ||segments.company-target.com^
 ||selfishsnake.com^
 ||sell.amazon.com^
+||sellwild.com^
 ||sendingspire.com^
 ||sensic.net^
 ||sentry-cdn.com^
@@ -2000,6 +2011,7 @@
 ||services.brid.tv^
 ||services.brightline.tv^
 ||services.sdiapi.com^
+||sessioncam.com^
 ||settings-win.data.microsoft.com^
 ||settings.data.microsoft.com^
 ||sgrupontihecliff.xyz^
@@ -2082,6 +2094,7 @@
 ||src.ebay-us.com^
 ||srmdata-us.com^
 ||srtb.msn.com^
+||srv.tunefindforfans.com^
 ||ss.topspinpro.com^
 ||ssafp.samsclub.com^
 ||ssl.ak.dynamic.tiles.
@@ -2229,6 +2242,7 @@
 ||test.com^
 ||tgtag.io^
 ||the-ozone-project.com^
+||theappreciationengine.com^
 ||thebrighttag.com^
 ||thechive.com^
 ||thecontentserver.com^
