@@ -95,6 +95,7 @@
 ||admantx.com^
 ||admob-creative.googleusercontent.com^
 ||admob.
+||adn.cloud^
 ||adnet.
 ||adnxs-simple.com^
 ||adnxs.com^
@@ -362,6 +363,7 @@
 ||backblaze.com^
 ||backstory.ebay.com^
 ||backtrace.io^
+||bacon.forbes.com^
 ||baidustatic.com^
 ||baikebcs.cdn.bcebos.com^
 ||bannersnack.com^
@@ -947,6 +949,7 @@
 ||fedapush.net^
 ||federatedml-pa.googleapis.com^
 ||feedbackify.com^
+||fel-api.prod.browse.bestbuy.com^
 ||fff.dailymail.co.uk^
 ||firebaseapp.com^
 ||firebasecrashlytics*.googleapis.com^
@@ -2279,6 +2282,7 @@
 ||trk*.*.hsbc.com
 ||trk*.mailchimp.com^
 ||tru.am^
+||trueanthem.com^
 ||trueroas.io^
 ||truoptik.com^
 ||truste.com^
