@@ -83,6 +83,7 @@
 ||addtoany.com^
 ||adentify.com^
 ||adexchange
+||adfenix.com^
 ||adform.net^
 ||adformdsp.net^
 ||adgrx.com^
