@@ -11,6 +11,9 @@
 *events-collector.spot.im^
 *telemetry
 *yomigt
+||00go.com^
+||0123movies
+||1-800-
 ||123movies
 ||1rx.io^
 ||1trust.app^
@@ -1644,9 +1647,9 @@
 ||partnerlinks.io^
 ||partners.kit.com^
 ||partnerstack.com^
+||pbc.nypost.com^
 ||pbc.realtor.com^
 ||pbc.wsj.com^
-||pbc.nypost.com^
 ||pbcs.nypost.com^
 ||pbcs.realtor.com^
 ||pbd.yahoo.com^
@@ -2349,6 +2352,7 @@
 ||userreport.com^
 ||userzoom.com^
 ||usstgecho.internetat.tv^
+||v.shopify.com^
 ||vaicore.
 ||variations.brave.com^
 ||vdterms.samsungcloudsolution.
@@ -2378,7 +2382,6 @@
 ||visualwebsiteoptimizer.com^
 ||vitals.vercel-insights.com^
 ||vizu.com^
-||v.shopify.com^
 ||vo.msecnd.net^
 ||vop-yahoo.akamaized.net^
 ||vop-yahoo.secure.footprint.net^
