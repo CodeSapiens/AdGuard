@@ -781,6 +781,7 @@
 ||developers.hubspot.com^
 ||device-metrics-us*.amazon.com^
 ||device.maxmind.com^
+||devicebind.ebay.com^
 ||devicemessaging.*.amazon.com^
 ||dewrain.
 ||dewrain.world^
