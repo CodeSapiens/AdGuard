@@ -1055,6 +1055,7 @@
 ||gannettdigital.com^
 ||ganon.yahoo.com^
 ||gc.newsweek.com^
+||gc.zgo.at^
 ||gcion.com^
 ||gcprivacy.com^
 ||gdpr.studybreakmedia.com^
@@ -2443,6 +2444,7 @@
 ||xvideos.com^
 ||xxid.atl-paas.net^
 ||yahoo.uservoice.com^
+||yandex.ru^
 ||ybinst0.ec.yimg.com^
 ||ycxrl.com^
 ||yellowblue.io^
@@ -2452,6 +2454,7 @@
 ||yield-op-idsync.live.streamtheworld.com^
 ||yieldlove
 ||yieldmo.com^
+||ymatuhin.ru^
 ||ynuf.aliapp.org^
 ||yoc-adserver.com^
 ||yottaa.net^
