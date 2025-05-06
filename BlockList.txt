@@ -385,6 +385,7 @@
 ||beam.hlserve.com^
 ||beap.gemini.yahoo.com^
 ||bento.agoda.com^
+||bestrevie.ws^
 ||betrad.com^
 ||bettingpartners.com^
 ||beyondwickedmapping.org^
@@ -1643,6 +1644,7 @@
 ||partnerstack.com^
 ||pbc.realtor.com^
 ||pbc.wsj.com^
+||pbc.nypost.com^
 ||pbcs.nypost.com^
 ||pbcs.realtor.com^
 ||pbd.yahoo.com^
@@ -1932,6 +1934,7 @@
 ||scribe.logs.roku.com^
 ||script.ac^
 ||scripts.dailymail.co.uk^
+||scriptwrapper.com^
 ||scrsrch.com^
 ||sdiapi.com^
 ||sdk.asapp.com^
