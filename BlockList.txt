@@ -2122,6 +2122,7 @@
 ||stape.io^
 ||star*.c10r.
 ||starget.intel.
+||stat.alibaba.com^
 ||stat.brightchat.org^
 ||statcollector.sidearmsports.com^
 ||statcounter.com^
@@ -2237,6 +2238,7 @@
 ||targeting.tbt.arcpublishing.com^
 ||targeting.washingtonpost.com^
 ||tctm.co^
+||tdum.alibaba.com^
 ||teads.com^
 ||teads.net^
 ||teads.tv^
@@ -2282,6 +2284,7 @@
 ||tr.www.cloudflare.com^
 ||trace.popin.cc^
 ||trace.svc.ui.com^
+||track.alibaba.com^
 ||track.contently.com^
 ||track.dictionary.com^
 ||track.sp.crdl.io^
