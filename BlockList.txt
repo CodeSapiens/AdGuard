@@ -822,6 +822,7 @@
 ||dns.msftncsi.com^
 ||do-not-tracker.org^
 ||dogo.intel.
+||doh.cq0.co^
 ||doh.dns.apple.com^
 ||domsearch.net^
 ||doppler-beacon.cbsivideo.com^
@@ -856,6 +857,7 @@
 ||ebxcdn.com^
 ||ec.thredup.com^
 ||ecdinterface.philips.com^
+||ecomsend.com^
 ||edge-aicdn.net^
 ||edge-auth.microsoft.com^
 ||edge-mcdn-beacon.secure.yahoo.com^
@@ -960,6 +962,8 @@
 ||featureassets.org^
 ||fedapush.net^
 ||federatedml-pa.googleapis.com^
+||feedback-pa.clients6.google.com^
+||feedback-pa.googleapis.com^
 ||feedbackify.com^
 ||fel-api.prod.browse.bestbuy.com^
 ||fff.dailymail.co.uk^
@@ -1740,6 +1744,7 @@
 ||powerad.ai^
 ||powerreviews.com^
 ||powr.io^
+||pqanr7dftrk.com^
 ||pr-bh.ybp.yahoo.com^
 ||pr.comet.yahoo.com^
 ||pr.ybp.yahoo.com^
@@ -1899,6 +1904,7 @@
 ||rtcollector.goeuro.com^
 ||rtds.progressive.com^
 ||rtk.io^
+||rts-static-prod.freshworksapi.com^
 ||ru.com^
 ||rubiconproject.com^
 ||rudderlabs.com^
@@ -1944,6 +1950,7 @@
 ||scaredslip.com^
 ||scaredsnakes.com^
 ||sci.intuit.com^
+||scone-pa.clients6.google.com^
 ||scontent-sjc2-1.xx.fbcdn.net^
 ||scontent.webcollage.net^
 ||scorecardresearch.com^
