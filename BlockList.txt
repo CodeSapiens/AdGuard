@@ -2008,7 +2008,10 @@
 ||sephora-track.inside-graph.com^
 ||sephora.cnstrc.com^
 ||servebom.com^
+||servedby-buysellads.com^
+||servedbyadbutler.com^
 ||servedbyopenx.com^
+||servedbysmart.com^
 ||serverbid-sync.nyc3.cdn.digitaloceanspaces.com^
 ||serverbid.com^
 ||service-ad-*.pluto.tv^
