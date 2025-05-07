@@ -1413,7 +1413,6 @@
 ||main.ebayrtm.com^
 ||manage.devcenter.microsoft.com^
 ||mantis-intelligence.com^
-||maps.googleapis.com^
 ||marinsoftware.com^
 ||marketing.gilderlehrman.org^
 ||marketingcloudapis.com^
