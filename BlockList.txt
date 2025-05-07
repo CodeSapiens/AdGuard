@@ -1535,6 +1535,7 @@
 ||myfidevs.io^
 ||myfinance.com^
 ||myofferplus.com^
+||myvisualiq.net^
 ||mzhlhrfr8z.info^
 ||n-deventry.tplinkcloud.com^
 ||nakanohito.jp^
