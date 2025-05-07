@@ -1493,6 +1493,7 @@
 ||mobile.launchdarkly.com^
 ||mobile.pipe.aria.microsoft.com^
 ||mobsmith.com^
+||modulous.huffpost.com^
 ||moengage.com^
 ||mon*-normal-us*.tiktokv.
 ||mon1.kohls.com^
@@ -1766,6 +1767,7 @@
 ||prod.amcs-tachyon.com^
 ||prod.fennec.atp.fox^
 ||prod.pyxis.atp.fox^
+||prodperfect.com^
 ||prodregistryv2.org^
 ||profitwell.com^
 ||profusesupport.com^
