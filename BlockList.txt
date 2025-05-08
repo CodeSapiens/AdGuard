@@ -288,6 +288,7 @@
 ||app.adjust.com^
 ||app.cdn.lookbookhq.com^
 ||app.chat.xiaomi.net^
+||app.e2ma.net^
 ||app.hubspot.com^
 ||app.link^
 ||app.proxsee.io^
@@ -1097,6 +1098,7 @@
 ||getadmiral.com^
 ||getcarro.com^
 ||getelevar.com^
+||getlasso.co^
 ||getpublica.com^
 ||getrockerbox.com^
 ||getsentry.com^
@@ -1497,6 +1499,8 @@
 ||mobile.launchdarkly.com^
 ||mobile.pipe.aria.microsoft.com^
 ||mobsmith.com^
+||moderate.cleantalk.org^
+||moderate9-v4.cleantalk.org^
 ||modulous.huffpost.com^
 ||moengage.com^
 ||mon*-normal-us*.tiktokv.
@@ -1508,6 +1512,8 @@
 ||moneymade.io^
 ||monitor.azure.com^
 ||monitor.ebay.com^
+||monitor.ns1-d.viacomtech.net^
+||monitor.r53.cbsivideo.com^
 ||monitoring.*.amazonaws.com^
 ||monorail-edge.shopifysvc.com^
 ||mopinion.com^
@@ -2039,6 +2045,7 @@
 ||shield-aos-analytics.v.aaplimg.com^
 ||shimmermill.com^
 ||shop-chat-play.com^
+||shop.pe^
 ||shop.ring.com^
 ||shopify-init.blackcrow.ai^
 ||shopperapproved.com^
