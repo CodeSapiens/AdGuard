@@ -819,6 +819,7 @@
 ||dmpxs.com^
 ||dn0qt3r0xannq.cloudfront.net^
 ||dna.amazon.com^
+||dns.hinet.net^
 ||dns.msftncsi.com^
 ||do-not-tracker.org^
 ||dogo.intel.
