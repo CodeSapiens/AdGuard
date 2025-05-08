@@ -1732,6 +1732,7 @@
 ||policies.oath.com^
 ||polling.bbc.co.uk^
 ||polyfill.io^
+||pong.gamut.media^
 ||pop-iad-2.cf.dash.row.aiv-cdn.net^
 ||popslowergrocer.com^
 ||popt.in^
