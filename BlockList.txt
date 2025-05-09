@@ -447,6 +447,7 @@
 ||btrll.com^
 ||btstatic.com^
 ||btttag.com^
+||bugs.firebat.prime-video.amazon.dev^
 ||bugsnag.com^
 ||bullwhip.cloud^
 ||bumlam.com^
