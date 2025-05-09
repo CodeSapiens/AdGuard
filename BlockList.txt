@@ -2453,6 +2453,7 @@
 ||widget.clutch.co^
 ||widget.nfusionsolutions.com^
 ||widget.trustpilot.com^
+||widgetlogic.org^
 ||widgets.future-fie.co.uk^
 ||widgets.pinterest.com^
 ||widgets.tree.com^
