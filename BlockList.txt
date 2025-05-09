@@ -514,6 +514,7 @@
 ||cdn.imhd.io^
 ||cdn.intelligems.io^
 ||cdn.iubenda.com^
+||cdn.jifo.co^
 ||cdn.justuno.com^
 ||cdn.listrakbi.com^
 ||cdn.logbase.io^
@@ -1150,6 +1151,7 @@
 ||gvt2.com^
 ||gvt3.com^
 ||handsomelyhealth.com^
+||hb.20m.es^
 ||hb.vntsm.com^
 ||hb.yahoo.net^
 ||hbwrapper.com^
