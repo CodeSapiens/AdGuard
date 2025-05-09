@@ -404,6 +404,7 @@
 ||bidr.io^
 ||bidswitch.net^
 ||bigdata.ssp.samsung.com^
+||bigrourg.net^
 ||bilsyndication.com^
 ||bitmovin.com^
 ||bizible.com^
@@ -1780,6 +1781,7 @@
 ||prod.amcs-tachyon.com^
 ||prod.fennec.atp.fox^
 ||prod.pyxis.atp.fox^
+||prod2-live-chat.sprinklr.com^
 ||prodperfect.com^
 ||prodregistryv2.org^
 ||profitwell.com^
@@ -2110,6 +2112,7 @@
 ||sports*.gtimg.com^
 ||spot.im^
 ||spotxchange.com^
+||spr-ops.com^
 ||sprig.com^
 ||springserve.com^
 ||src.ebay-us.com^
@@ -2453,6 +2456,7 @@
 ||widget.clutch.co^
 ||widget.nfusionsolutions.com^
 ||widget.trustpilot.com^
+||widgetlogic.org^
 ||widgetlogic.org^
 ||widgets.future-fie.co.uk^
 ||widgets.pinterest.com^
