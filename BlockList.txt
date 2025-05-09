@@ -2318,6 +2318,7 @@
 ||tplinkextender.
 ||tr.snapchat.com^
 ||tr.www.cloudflare.com^
+||trace.app-performance.music.amazon.dev^
 ||trace.popin.cc^
 ||trace.svc.ui.com^
 ||track.alibaba.com^
