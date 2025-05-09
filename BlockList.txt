@@ -1,5 +1,3 @@
-@@||global.backend.imdbtv-services.amazon.dev^$important
-@@||sonic.xapp.avs.amazon.dev^$important
 *-ad-rs.amagi.tv^
 *-na.associates-amazon.com^
 *-thedispatch-com.tinipass.com^
@@ -147,6 +145,7 @@
 ||adsparc.com^
 ||adspeed.
 ||adspsp.com^
+||adsqtungsten.a9.amazon.dev^
 ||adsrvr.org^
 ||adstechtool.com^
 ||adswizz.com^
@@ -165,12 +164,7 @@
 ||adups.com^
 ||advanced-ip-sca
 ||advancedtech.com^
-||advertising.com^
-||advertising.samsclub.com^
-||advertising.twitter.com^
-||advertising.walmart.com^
-||advertising.yahoo*.com^
-||advertising*.amazon.
+||advertising*.
 ||advice-ads.s3.amazonaws.com^
 ||adxcel-ec2.com^
 ||adzerk.net^
@@ -203,6 +197,7 @@
 ||affinitymatrix.com^
 ||afs.googleusercontent.com^
 ||ag.innovid.com^
+||aggle.net^
 ||agilone.com^
 ||agkn.com^
 ||agrvt.com^
@@ -232,7 +227,6 @@
 ||alphonso.tv^
 ||als-svc.nytimes.com^
 ||amazon-adsystem.com^
-||amazon.dev^
 ||amazonaax.com^
 ||amazonclix.com^
 ||amcs-tachyon.com^
@@ -519,7 +513,6 @@
 ||cdn.gladly.com^
 ||cdn.imhd.io^
 ||cdn.intelligems.io^
-||cdn.iubenda.com^
 ||cdn.jifo.co^
 ||cdn.justuno.com^
 ||cdn.listrakbi.com^
@@ -1274,6 +1267,7 @@
 ||iot-eu-logser.realme.com^
 ||iot-logser.realme.com^
 ||ip.prvtx.net^
+||ipa.elev.io^
 ||ipapi.co^
 ||iperceptions.com^
 ||iphonesubmissions.v.aaplimg.com^
@@ -1353,6 +1347,7 @@
 ||ladsp.com^
 ||lameletters.com^
 ||laptop-updates.brave.com^
+||lasso.link^
 ||lcprd*.samsungcloudsolution.
 ||leadmanagerfx.com^
 ||leanplum.com^
