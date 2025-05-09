@@ -105,6 +105,7 @@
 ||adnxs.net^
 ||adobedtm.com^
 ||adoberesources.net^
+||adobetarget.com^
 ||adocean.pl^
 ||adoric-om.com^
 ||adplugg.com^
@@ -164,6 +165,7 @@
 ||adups.com^
 ||advanced-ip-sca
 ||advancedtech.com^
+||advertising.com^
 ||advertising.samsclub.com^
 ||advertising.twitter.com^
 ||advertising.walmart.com^
@@ -245,6 +247,7 @@
 ||animatedbanner.xyz^
 ||aniview.com^
 ||anrdoezrs.net^
+||answerscloud.com^
 ||ap.spotify.com^
 ||apcdp.apnews.com^
 ||api-2-0.spot.im^
@@ -411,6 +414,7 @@
 ||bizographics.com^
 ||bkrtx.com^
 ||blismedia.com^
+||blob.core.windows.net^
 ||blockmetrics.com^
 ||blog.aboutamazon.com^
 ||blogherads.com^
@@ -507,8 +511,10 @@
 ||cdn.concert.io^
 ||cdn.convertbox.com^
 ||cdn.cookielaw.org^
+||cdn.curalate.com^
 ||cdn.debugbear.com^
 ||cdn.flashtalking.com^
+||cdn.gadgets360.com^
 ||cdn.geni.us^
 ||cdn.gladly.com^
 ||cdn.imhd.io^
@@ -546,6 +552,7 @@
 ||cdn*.pendo.io^
 ||cdn*.videobyte.com^
 ||cdnads.geeksforgeeks.org^
+||cdndex.io^
 ||cdnopw.com^
 ||cdns.*.gigya.com^
 ||cdntravelspike.azureedge.net^
@@ -594,6 +601,7 @@
 ||cmp.advertising.com^
 ||cmp.dmgmediaprivacy.co.uk^
 ||cmp.osano.com^
+||cmp.uniconsent.com^
 ||cnn.io^
 ||cnstrc.com^
 ||coaufu.com^
@@ -929,6 +937,7 @@
 ||everestjs.net^
 ||everesttech.net^
 ||evergage.com^
+||evgnet.com^
 ||evidon.com^
 ||eviltracker.net^
 ||evolok.net^
@@ -1001,6 +1010,7 @@
 ||fonts.gstatic.com^
 ||footprintdns.com^
 ||footprints-pa.googleapis.com^
+||foresee.com^
 ||forms.convertkit.com^
 ||forter.com^
 ||forumcomm.friends2follow.com^
@@ -1151,6 +1161,7 @@
 ||gvt2.com^
 ||gvt3.com^
 ||handsomelyhealth.com^
+||hawk-assets.co.uk^
 ||hb.20m.es^
 ||hb.vntsm.com^
 ||hb.yahoo.net^
@@ -1173,6 +1184,7 @@
 ||holid.bbvms.com^
 ||homedepot.online-metrix.net^
 ||hospitablehall.com^
+||hotdeals360.com^
 ||hotjar.com^
 ||hotjar.io^
 ||hrzn-nxt.com^
@@ -1282,9 +1294,11 @@
 ||janrain.com^
 ||jbteen.al^
 ||jcpclick.com^
+||jdoqocy.com^
 ||jeeng.com^
 ||jg7y.quizlet.com^
 ||jivox.com^
+||joinhoney.com^
 ||journeymv.com^
 ||js-cdn.dynatrace.com^
 ||js.chilipiper.com^
@@ -1526,6 +1540,7 @@
 ||mp.theepochtimes.com^
 ||mparticle.com^
 ||mparticle.weather.com^
+||mpeasylink.com^
 ||mplxtms.com^
 ||mps.cnbc.com^
 ||mps.nbcuni.com^
@@ -1548,6 +1563,7 @@
 ||myvisualiq.net^
 ||mzhlhrfr8z.info^
 ||n-deventry.tplinkcloud.com^
+||na.groupondata.com^
 ||nakanohito.jp^
 ||narrativ.com^
 ||nativo.com^
@@ -1594,6 +1610,7 @@
 ||ny77jj.washingtonpost.com^
 ||nypost-com.videoplayerhub.com^
 ||ocsp.apple.com^
+||ocular.hotukdeals.com^
 ||oempprd.samsungcloudsolution.
 ||offer.alibaba.com^
 ||offerwall.yandex.net^
@@ -1631,11 +1648,13 @@
 ||openxenterprise.com^
 ||ophan.
 ||oppomobile.com^
+||opticksprotection.com^
 ||optimize-stats.voxmedia.com^
 ||optimizely.com^
 ||optimizely.wsj.com^
 ||optimonk.com^
 ||optmnstr.com^
+||optnmnstr.com^
 ||oribi.io^
 ||os.tc^
 ||os4work.com^
@@ -1694,6 +1713,7 @@
 ||permutive.newyorker.com^
 ||perr.h-cdn.com^
 ||personalization.bloomberg.com^
+||ph.dealnews.com^
 ||phar.gu-web.net^
 ||pharmacy.amazon.com^
 ||phncdn.com^
@@ -1795,6 +1815,7 @@
 ||propervideo.io^
 ||protagcdn.com^
 ||protechts.net^
+||proxy-us.posthog.com^
 ||ps5.pndsn.com^
 ||pstmrk.it^
 ||pt.ispot.tv^
@@ -1810,6 +1831,7 @@
 ||publir.com^
 ||pubmatic.com^
 ||pubmine.com^
+||pubtm.com^
 ||pubtrky.com^
 ||pulsar.ebay.com^
 ||purr.nytimes.com^
@@ -1844,6 +1866,7 @@
 ||quantummetric.com^
 ||qubit.com^
 ||queryly.com^
+||quiq-api.com^
 ||r.bbci.co.uk^
 ||r.stripe.com^
 ||r0.mradx.net^
@@ -2124,6 +2147,7 @@
 ||ss.topspinpro.com^
 ||ssafp.samsclub.com^
 ||ssl.ak.dynamic.tiles.
+||ssl.cf1.rackcdn.com^
 ||ssl.cf5.rackcdn.com^
 ||ssl.kaptcha.com^
 ||ssl.o.webmd.com^
@@ -2300,6 +2324,7 @@
 ||trace.popin.cc^
 ||trace.svc.ui.com^
 ||track.alibaba.com^
+||track.capitaloneshopping.com^
 ||track.contently.com^
 ||track.dictionary.com^
 ||track.sp.crdl.io^
@@ -2434,6 +2459,7 @@
 ||vs1.youmaker.com^
 ||vtrk.dv.tech^
 ||w3-reporting*.reddit.com^
+||w3counter.com^
 ||w55c.net^
 ||w569ut7zbkiqf5b.xyz^
 ||walmart.sspinc.io^
@@ -2450,15 +2476,16 @@
 ||webinar.intel.
 ||weborama.
 ||webpubcontent.gray.tv^
+||webpushr.com^
 ||webpushs.com^
 ||webpushsr.com^
 ||webvisor.org^
 ||whale.camera^
 ||widengle.com^
 ||widget.clutch.co^
+||widget.custhelp.com^
 ||widget.nfusionsolutions.com^
 ||widget.trustpilot.com^
-||widgetlogic.org^
 ||widgetlogic.org^
 ||widgets.future-fie.co.uk^
 ||widgets.pinterest.com^
