@@ -1263,6 +1263,7 @@
 ||intentiq.com^
 ||intercom-clicks.com^
 ||interncache-frc.fbcdn.net^
+||intg.snapchat.com^
 ||inv-nets.admixer.net^
 ||investingchannel.com^
 ||invitemedia.com^
@@ -2185,6 +2186,7 @@
 ||statics-marketingsites
 ||staticxx.facebook.com^
 ||stats.controld.com^
+||stats.fluorescent.co^
 ||stats.gc.apple.com^
 ||stats.ivpn.net^
 ||stats.lineageos.org^
