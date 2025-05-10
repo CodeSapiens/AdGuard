@@ -734,6 +734,7 @@
 ||d1z2jf7jlzjs58.cloudfront.net^
 ||d21gpk1vhmjuf5.cloudfront.net^
 ||d21m0ezw6fosyw.cloudfront.net^
+||d21y75miwcfqoq.cloudfront.net^
 ||d23tl967axkois.cloudfront.net^
 ||d24n15hnbwhuhn.cloudfront.net^
 ||d283fm003ll1xs.cloudfront.net^
@@ -2279,6 +2280,7 @@
 ||tagger.opecloud.com^
 ||tags.aljazeera.com^
 ||tags.creditkarma.com^
+||tags.dillards.com^
 ||tags.news.com.au^
 ||tags.rfa.org^
 ||tags.tiqcdn.com^
