@@ -347,6 +347,7 @@
 ||att.inq.com^
 ||atwola.com^
 ||audioeye.com^
+||audiohook.com^
 ||audrte.com^
 ||aultseemedto.xyz^
 ||auth.adobe.com^
@@ -417,6 +418,7 @@
 ||blue.keloland.com^
 ||blue.newsnationnow.com^
 ||blue.thehill.com^
+||blue.wgntv.com^
 ||bluecava.com^
 ||blueconic.net^
 ||bluecore.com^
@@ -1334,6 +1336,7 @@
 ||kataweb.it^
 ||keywee.co^
 ||kickasstorrents.to^
+||kickoffpages.com^
 ||kidpowers.com^
 ||kisinn.info^
 ||kissmetrics.com^
