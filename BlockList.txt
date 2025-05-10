@@ -787,6 +787,7 @@
 ||datadome.co^
 ||datalab-analytics*.epam.com^
 ||datamilk.app^
+||datastream.stylitics.com^
 ||db7q4jg5rkhk8.cloudfront.net^
 ||dc.services.visualstudio.com^
 ||dc.stenaline.
