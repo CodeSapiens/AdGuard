@@ -31,6 +31,8 @@
 ||6sc.co^
 ||9gag.com^
 ||a-fds.youborafds01.com^
+||a.apkpure.com^
+||a.cdnpure.com^
 ||a.dynatrace.com^
 ||a.et.nytimes.com^
 ||a.jsrdn.com^
@@ -522,6 +524,7 @@
 ||cdn.membrana.media^
 ||cdn.opecloud.com^
 ||cdn.petametrics.com^
+||cdn.playwire.com^
 ||cdn.polarbyte.com^
 ||cdn.privacy-mgmt.com^
 ||cdn.prod.discovery.evvnt.com^
@@ -636,6 +639,7 @@
 ||confiant-integrations.global.ssl.fastly.net^
 ||confiant-integrations.net^
 ||confiant.msn.com^
+||config-factory.com^
 ||config-security.com^
 ||config.claspws.tv^
 ||config.uca.cloud.unity3d.com^
@@ -1259,6 +1263,8 @@
 ||intellimizeio.com^
 ||intentiq.com^
 ||intercom-clicks.com^
+||intergi.com^
+||intergient.com^
 ||interncache-frc.fbcdn.net^
 ||intg.snapchat.com^
 ||inv-nets.admixer.net^
@@ -1494,6 +1500,7 @@
 ||metrics
 ||metrics.confectionerynews.com^
 ||metrics.icloud.v.aaplimg.com^
+||metriqui.com^
 ||mgid.com^
 ||mi.eddiebauer.com^
 ||micpn.com^
@@ -1575,6 +1582,7 @@
 ||neodatagroup.com^
 ||netizen.co^
 ||newrelic.com^
+||news-bfujufa.cc^
 ||news-edge.apple.com^
 ||newscgp.com^
 ||nexstardigital.net^
@@ -1626,6 +1634,7 @@
 ||omnitagjs.com^
 ||omniture-ssl.walmart.com^
 ||omniture.walmart.com^
+||oms.avast.com^
 ||oms.dowjoneson.com^
 ||oms.expedia.com^
 ||omtrdc.net^
@@ -1656,6 +1665,7 @@
 ||optimonk.com^
 ||optmnstr.com^
 ||optnmnstr.com^
+||oracleinfinity.io^
 ||oribi.io^
 ||os.tc^
 ||os4work.com^
@@ -1830,12 +1840,14 @@
 ||public.cobrowse.oraclecloud.com^
 ||publicgood.com^
 ||publir.com^
+||publisher.liveperson.net^
 ||pubmatic.com^
 ||pubmine.com^
 ||pubtm.com^
 ||pubtrky.com^
 ||pulsar.ebay.com^
 ||purr.nytimes.com^
+||push-sdk.com^
 ||push.kumulos.com^
 ||push.samsungosp.com^
 ||push.sportskeeda.com^
@@ -1909,6 +1921,7 @@
 ||resources.bazaarvoice.com^
 ||responsiveads.com^
 ||rest.locuslabs.com^
+||revampcdn.com^
 ||revcontent.com^
 ||reverselookup.quicksetcloud.com^
 ||revive-adserver.com^
@@ -2037,6 +2050,7 @@
 ||sellwild.com^
 ||sendingspire.com^
 ||sensic.net^
+||sentinelpro.com^
 ||sentry-cdn.com^
 ||sentry.archive.org^
 ||sentry.io^
@@ -2453,6 +2467,7 @@
 ||visualwebsiteoptimizer.com^
 ||vitals.vercel-insights.com^
 ||vizu.com^
+||vlscppe.microsoft.com^
 ||vo.msecnd.net^
 ||vop-yahoo.akamaized.net^
 ||vop-yahoo.secure.footprint.net^
@@ -2524,6 +2539,7 @@
 ||xvideos-cdn.com^
 ||xvideos.com^
 ||xxid.atl-paas.net^
+||yadro.ru^
 ||yahoo.uservoice.com^
 ||yandex.ru^
 ||ybinst0.ec.yimg.com^
@@ -2543,6 +2559,7 @@
 ||youradexchange.com^
 ||yourbow.com^
 ||youtube-ui.l.google.com^
+||zdbb.net^
 ||zdstatic.speedtest.net^
 ||zemanta.com^
 ||zencdn.net^
