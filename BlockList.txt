@@ -1031,6 +1031,7 @@
 ||fundingchoicesmessages.google.com^
 ||fuse.forbes.com^
 ||futurehybrid.tech^
+||fw-cdn.com^
 ||fw-update2.smartthings.com^
 ||fwcdn3.com^
 ||fwmrm.net^
@@ -1098,7 +1099,9 @@
 ||geoedge.be^
 ||geoip-js.com^
 ||geoip.businessinsider.com^
+||geoip.freemake.com^
 ||geoip.radio-canada.ca^
+||geoiplookup.io^
 ||geolocation.forbes.com^
 ||geotrust.com^
 ||getadmiral.com^
@@ -1273,6 +1276,7 @@
 ||iperceptions.com^
 ||iphonesubmissions.v.aaplimg.com^
 ||ipify.org^
+||ipinfodb.com^
 ||ipredictive.com^
 ||ips1.unifi-ai.com^
 ||ipv4-*-ix.1.oca.nflxvideo.net^
@@ -2515,6 +2519,7 @@
 ||xiti.com^
 ||xp.apple.com^
 ||xp.atlassian.com^
+||xs.unbentfaced.com^
 ||xspadvertising.com^
 ||xvideos-cdn.com^
 ||xvideos.com^
