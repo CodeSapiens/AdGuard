@@ -602,7 +602,6 @@
 ||cmp.dmgmediaprivacy.co.uk^
 ||cmp.osano.com^
 ||cmp.uniconsent.com^
-||cnn.io^
 ||cnstrc.com^
 ||coaufu.com^
 ||cobrowse.oraclecloud.com^
