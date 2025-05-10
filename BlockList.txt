@@ -2289,6 +2289,7 @@
 ||tamgrt.com^
 ||tao.barstoolsports.com^
 ||tapad.com^
+||tapi.apkpure.net^
 ||taplytics-umami.grubhub.com^
 ||taplytics.com^
 ||tapnative.com^
@@ -2457,6 +2458,7 @@
 ||veritone-ce.com^
 ||verve.com^
 ||veve.com^
+||vgwort.de^
 ||vi-serve.com^
 ||via.placeholder.com^
 ||viafoura.
@@ -2490,6 +2492,7 @@
 ||w55c.net^
 ||w569ut7zbkiqf5b.xyz^
 ||walmart.sspinc.io^
+||wareztv.com.br^
 ||warnermediacdn.com^
 ||wasabi.pluto.tv^
 ||watch-cdn.product.api.espn.com^
