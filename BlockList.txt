@@ -555,6 +555,7 @@
 ||cdnopw.com^
 ||cdns.*.gigya.com^
 ||cdntravelspike.azureedge.net^
+||cdntrf.com^
 ||cdp-dev.cnn.com^
 ||cdp.cloud.unity3d.com^
 ||ced*.sascdn.com^
@@ -748,6 +749,7 @@
 ||d2r1yp2w7bby2u.cloudfront.net^
 ||d2uap9jskdzp2.cloudfront.net^
 ||d2v02itv0y9u9t.cloudfront.net^
+||d2wu036mkcz52n.cloudfront.net^
 ||d2wy8f7a9ursnm.cloudfront.net^
 ||d2yyd1h5u9mauk.cloudfront.net^
 ||d3-umami.up.railway.app^
@@ -1388,6 +1390,7 @@
 ||liveintent.com^
 ||liveramp.com^
 ||lixarproxsee
+||ljypfykcofguz.fun^
 ||lkqd.net^
 ||ll.dash.row.aiv-cdn.net^
 ||lma.npaw.com^
@@ -1931,6 +1934,7 @@
 ||revjet.com^
 ||rewards.brave.com^
 ||rezync.com^
+||rffbxktvxmcje.space^
 ||rfihub.com^
 ||rfk.biglots.com^
 ||rgembroiderydesigns.com^
@@ -2164,6 +2168,7 @@
 ||srv.tunefindforfans.com^
 ||ss.topspinpro.com^
 ||ssafp.samsclub.com^
+||ssitecat.eset.com^
 ||ssl.ak.dynamic.tiles.
 ||ssl.cf1.rackcdn.com^
 ||ssl.cf5.rackcdn.com^
@@ -2335,6 +2340,7 @@
 ||tokyo-motion.net^
 ||tools.google.com^
 ||topcrazypress.com^
+||totalav.com^
 ||tp.media^
 ||tpdads.com^
 ||tplinkextender.
