@@ -259,7 +259,6 @@
 ||api.autopilothq.com^
 ||api.aws.parking.godaddy.com^
 ||api.axept.io^
-||zion*.api.cnn.io^
 ||api.company-target.com^
 ||api.edgeoffer.microsoft.com^
 ||api.flipp.com^
@@ -1174,6 +1173,7 @@
 ||hbwrapper.com^
 ||hbx.media.net^
 ||hd-personalization-prod.gcp.homedepot.com^
+||headway-widget.net^
 ||healthguides.cnn.com^
 ||heavy.com^
 ||hectorstatic.baidu.com^
@@ -2584,6 +2584,7 @@
 ||zg-api.com^
 ||zineone.com^
 ||zion.cnn.com^
+||zion*.api.cnn.io^
 ||zkcdn.net^
 ||zqtk.net^
 ||zwyr157wwiu6eior.com^
