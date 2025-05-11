@@ -988,6 +988,7 @@
 ||fcm.googleapis.com^
 ||featureassets.org^
 ||fedapush.net^
+||federatedcompute-pa.googleapis.com^
 ||federatedml-pa.googleapis.com^
 ||feedback-pa.clients6.google.com^
 ||feedback-pa.googleapis.com^
@@ -1105,6 +1106,7 @@
 ||gdpr.studybreakmedia.com^
 ||gdsapi.cnbc.com^
 ||geekbackyard.com^
+||geller-pa.googleapis.com^
 ||gemini.yahoo.com^
 ||gemius.pl^
 ||geo.ads
@@ -1416,6 +1418,7 @@
 ||loc.kr^
 ||location-api.hdhomerun.com^
 ||location-services-measurements.s3-external-1.amazonaws.com^
+||locationhistoryaggregates-pa.googleapis.com^
 ||log-*.epicdn.me^
 ||log.cookieyes.com^
 ||log.espn.com^
