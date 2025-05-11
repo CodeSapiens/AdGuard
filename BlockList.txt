@@ -928,6 +928,7 @@
 ||esm1.net^
 ||espn.api.edge.bamgrid.com^
 ||etahub.com^
+||ethicalads.io^
 ||eum-appdynamics.com^
 ||eum*.instana.io^
 ||euw1-api.tplinkra.com^
@@ -1471,6 +1472,7 @@
 ||marketingcloudapis.com^
 ||marketingcloudfx.com^
 ||marketingsolutions.yahoo.com^
+||marketo.clearbit.com^
 ||marketo.com^
 ||marketo.net^
 ||marketplace.anyclip.com^
@@ -2073,6 +2075,7 @@
 ||sell.amazon.com^
 ||sellwild.com^
 ||sendingspire.com^
+||senja.io^
 ||sensic.net^
 ||sentinelpro.com^
 ||sentry-cdn.com^
