@@ -1926,6 +1926,7 @@
 ||rbl.ms^
 ||rdtcdn.com^
 ||realtime-logger.production-public.tubi.io^
+||realtime.services.disqus.com^
 ||receptivity.io^
 ||reconditerespect.com^
 ||recovermycart.com^
