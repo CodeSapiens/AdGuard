@@ -392,6 +392,7 @@
 ||beacon.walmart.com^
 ||beam.hlserve.com^
 ||beap.gemini.yahoo.com^
+||beehiiv-adnetwork-production.s3.amazonaws.com^
 ||bento.agoda.com^
 ||bestrevie.ws^
 ||betrad.com^
@@ -2137,6 +2138,7 @@
 ||snidigital.com^
 ||snowplow-pixel.tradingview.com^
 ||socdm.com^
+||sociofyme.com^
 ||soflopxl.com^
 ||sojern.com^
 ||solarmovie.to^
@@ -2452,6 +2454,7 @@
 ||v.shopify.com^
 ||vaicore.
 ||variations.brave.com^
+||vdo.ai^
 ||vdterms.samsungcloudsolution.
 ||vendorlist.consensu.org^
 ||verdantsculpture.com^
