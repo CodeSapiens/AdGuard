@@ -70,6 +70,7 @@
 ||activity.windows.com^
 ||actonservice.com^
 ||actonsoftware.com^
+||acuityplatform.com^
 ||ad-assets.futurecdn.net^
 ||ad-delivery.net^
 ||ad-tech.nbcuni.com^
@@ -368,6 +369,7 @@
 ||axm-telemetry.v.aaplimg.com^
 ||ay.delivery^
 ||b-code.liadm.com^
+||b-graph.facebook.com^
 ||b-ssl.grvcdn.com^
 ||b.px-cdn.net^
 ||b.stats.paypal.com^
@@ -405,6 +407,7 @@
 ||bf.dynatrace.com^
 ||bfmio.com^
 ||bh.contextweb.com^
+||bi.medscape.com^
 ||bidr.io^
 ||bidswitch.net^
 ||bigdata.ssp.samsung.com^
@@ -1167,6 +1170,7 @@
 ||granlite.com^
 ||graph-fallback.facebook.com^
 ||graph.facebook.com^
+||graph.fbpigeon.com^
 ||graph.instagram.com^
 ||graphql-cdn-slplatform.liquidus.net^
 ||groupm.com^
@@ -2198,6 +2202,7 @@
 ||ssl.cf1.rackcdn.com^
 ||ssl.cf5.rackcdn.com^
 ||ssl.kaptcha.com^
+||ssl.o.medicinenet.com^
 ||ssl.o.webmd.com^
 ||ssl.widgets.webengage.com^
 ||ssp.advertising.com^
@@ -2529,6 +2534,7 @@
 ||watch-cdn.product.api.espn.com^
 ||watch.amazon.com^
 ||wdfl.co^
+||web-fallback.facebook.com^
 ||web-oao.ssp.yahoo.com^
 ||web-tracker.smsbump.com^
 ||web.diagnostic.networking.aws.dev^
