@@ -295,6 +295,7 @@
 ||app*.pendo.io^
 ||appboycdn.com^
 ||appconsent.io^
+||apphero.co^
 ||appjiagu.com^
 ||applab-sdk.amazon.com^
 ||apple-relay.apple.com^
@@ -353,6 +354,7 @@
 ||auth.split.io^
 ||automatad.com^
 ||avada.io^
+||avantlink.com^
 ||avhtaapxml.com^
 ||aviary.amazon.com^
 ||avmws.com^
@@ -560,6 +562,7 @@
 ||cdp.cloud.unity3d.com^
 ||ced*.sascdn.com^
 ||cedexis-test.com^
+||ceops.dickssportinggoods.com^
 ||cerebro.edna.yahoo.net^
 ||cf-timedtext.aux.pv-cdn.net^
 ||cf-trickplay.aux.pv-cdn.net^
@@ -872,6 +875,8 @@
 ||ebxcdn.com^
 ||ec.thredup.com^
 ||ecdinterface.philips.com^
+||ecommplugins-scripts.trustpilot.com^
+||ecommplugins-trustboxsettings.trustpilot.com^
 ||ecomsend.com^
 ||edge-aicdn.net^
 ||edge-auth.microsoft.com^
@@ -1149,6 +1154,7 @@
 ||gorgias.chat^
 ||goto.algolia.com^
 ||goto.walmart.com^
+||gotolstoy.com^
 ||govisibl.io^
 ||granlite.com^
 ||graph.facebook.com^
@@ -1275,6 +1281,7 @@
 ||intg.snapchat.com^
 ||inv-nets.admixer.net^
 ||investingchannel.com^
+||invitejs.trustpilot.com^
 ||invitemedia.com^
 ||invoca.com^
 ||invoca.net^
@@ -1429,6 +1436,7 @@
 ||logs.netflix.com^
 ||logs.psm.wmcdp.io^
 ||logs.roku.com^
+||logs.trustpilot.com^
 ||logs*.amazonaws.com^
 ||lookinews.com^
 ||loopme.me^
@@ -2330,6 +2338,7 @@
 ||themediagrid.com^
 ||thrtle.com^
 ||thunderhead.com^
+||tidio.co^
 ||tidy.intel.
 ||tiqcdn.com^
 ||tiresomethunder.com^
@@ -2389,6 +2398,7 @@
 ||trk.pinterest.com^
 ||trk*.*.hsbc.com
 ||trk*.mailchimp.com^
+||trkapi.impact.com^
 ||tru.am^
 ||trueanthem.com^
 ||trueroas.io^
