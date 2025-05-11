@@ -47,7 +47,7 @@
 ||a4k.amazon.com^
 ||a8.net^
 ||aamt.msnbc.com^
-||aan.amazon.com^
+||aan.amazon.
 ||aaplimg.com^
 ||aax-us-*-retail-direct.amazon.com^
 ||aax-us-iad.amazon.com^
@@ -124,6 +124,7 @@
 ||ads-image.
 ||ads-product-integration.googleusercontent.com^
 ||ads-setu-proxy.amazon.com^
+||ads-setu-proxy*.amazon.
 ||ads-twitter.com^
 ||ads.
 ||ads*.adrise.tv^
@@ -211,6 +212,7 @@
 ||ainu.intel.
 ||air.com^
 ||ajcloud.net^
+||aka.amazon.com^
 ||akamai-*.exacttarget.com.edgekey.net^
 ||akisinn.
 ||akstat.io^
@@ -527,6 +529,7 @@
 ||cdn.lr-ingest.io^
 ||cdn.membrana.media^
 ||cdn.opecloud.com^
+||cdn.pdst.fm^
 ||cdn.petametrics.com^
 ||cdn.playwire.com^
 ||cdn.polarbyte.com^
@@ -681,6 +684,7 @@
 ||coordinator.cm.bloomberg.com^
 ||cootlogix.com^
 ||coremetrics.com^
+||corp.amazon.com^
 ||cortana-gateway.amazon.com^
 ||count.shein.com^
 ||counter.any.run^
@@ -882,6 +886,7 @@
 ||edge-auth.microsoft.com^
 ||edge-mcdn-beacon.secure.yahoo.com^
 ||edge-mcdn.secure.yahoo.com^
+||edge-mqtt-fallback.facebook.com^
 ||edge-mqtt.facebook.com^
 ||edge.adobedc.net^
 ||edge.curalate.com^
@@ -1157,6 +1162,7 @@
 ||gotolstoy.com^
 ||govisibl.io^
 ||granlite.com^
+||graph-fallback.facebook.com^
 ||graph.facebook.com^
 ||graph.instagram.com^
 ||graphql-cdn-slplatform.liquidus.net^
@@ -1864,6 +1870,7 @@
 ||pulsar.ebay.com^
 ||purr.nytimes.com^
 ||push-sdk.com^
+||push.groupme.com^
 ||push.kumulos.com^
 ||push.samsungosp.com^
 ||push.sportskeeda.com^
@@ -2374,10 +2381,10 @@
 ||tracker.
 ||trackersimulator.org^
 ||tracking.
-||tracking.sezzle.com^
 ||trackjs.com^
 ||trackonomics.net^
 ||tradecore.tradehouse.media^
+||traffic-nts-ip-assoc.*.fbcdn.net^
 ||trafficgate.net^
 ||trafficmanager.net^
 ||trafficstars.com^
@@ -2478,6 +2485,7 @@
 ||via.placeholder.com^
 ||viafoura.
 ||video-api.mco.arcpublishing.com^
+||video-edge-*.hls.live-video.net^
 ||video.adaptv.advertising.com^
 ||video.unrulymedia.com^
 ||videoamp.com^
@@ -2495,6 +2503,7 @@
 ||vizu.com^
 ||vlscppe.microsoft.com^
 ||vo.msecnd.net^
+||voilatile-pa.googleapis.com^
 ||vop-yahoo.akamaized.net^
 ||vop-yahoo.secure.footprint.net^
 ||vortex.data.microsoft.com^
@@ -2516,6 +2525,7 @@
 ||web-oao.ssp.yahoo.com^
 ||web-tracker.smsbump.com^
 ||web.diagnostic.networking.aws.dev^
+||web.facebook.com^
 ||webcontentassessor.com^
 ||webcontentassessor.global.ssl.fastly.net^
 ||webinar.intel.
@@ -2556,6 +2566,7 @@
 ||x-vpn.ug^
 ||xandr.com^
 ||xg4ken.com^
+||xgapromomanager-pa.googleapis.com^
 ||xhamster
 ||xhcdn.com^
 ||xiti.com^
