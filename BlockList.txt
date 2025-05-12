@@ -73,6 +73,7 @@
 ||acuityplatform.com^
 ||ad-assets.futurecdn.net^
 ||ad-delivery.net^
+||ad-miner.com^
 ||ad-tech.nbcuni.com^
 ||ad.
 ||adap.tv^
@@ -401,6 +402,7 @@
 ||beap.gemini.yahoo.com^
 ||beehiiv-adnetwork-production.s3.amazonaws.com^
 ||bento.agoda.com^
+||bestdove.in.ua^
 ||bestrevie.ws^
 ||betrad.com^
 ||bettingpartners.com^
@@ -414,6 +416,7 @@
 ||bigdata.ssp.samsung.com^
 ||bigrourg.net^
 ||bilsyndication.com^
+||biosig-consulting.com^
 ||bitmovin.com^
 ||bizible.com^
 ||bizographics.com^
@@ -800,6 +803,7 @@
 ||datalab-analytics*.epam.com^
 ||datamilk.app^
 ||datastream.stylitics.com^
+||dau43vt5wtrd.tk^
 ||db7q4jg5rkhk8.cloudfront.net^
 ||dc.services.visualstudio.com^
 ||dc.stenaline.
@@ -854,6 +858,7 @@
 ||doh.dns.apple.com^
 ||domsearch.net^
 ||doppler-beacon.cbsivideo.com^
+||dotitracie.su^
 ||dotmetrics.net^
 ||dotomi.com^
 ||doubleclick.
@@ -872,6 +877,7 @@
 ||dweb.link^
 ||dwgyu36up6iuz.cloudfront.net^
 ||dwin1.com^
+||dwunion.com^
 ||dyn-rev.app^
 ||dynaimage.cdn.cnn.com^
 ||dynamicyield.com^
@@ -882,6 +888,7 @@
 ||e00.uecdn.es^
 ||ebayclassifiedsgroup.com^
 ||ebayrtm.com^
+||ebesee.com^
 ||ebxcdn.com^
 ||ec.thredup.com^
 ||ecdinterface.philips.com^
@@ -1475,6 +1482,7 @@
 ||mads*.amazon.com^
 ||mail-ads.google.com^
 ||main.ebayrtm.com^
+||maminoleinc.tk^
 ||manage.devcenter.microsoft.com^
 ||mantis-intelligence.com^
 ||marinsoftware.com^
@@ -1522,6 +1530,7 @@
 ||mediatradecraft.com^
 ||mediavine.com^
 ||medtargetsystem.com^
+||megabanners.cf^
 ||megpxs.com^
 ||mercury.jd.com^
 ||merequartz.com^
@@ -1765,6 +1774,7 @@
 ||phncdn.com^
 ||phonograph2.voxmedia.com^
 ||piano.io^
+||pichincha.xyz^
 ||pickleballportal.com^
 ||pindorama.amazon.com^
 ||pingback.giphy.com^
