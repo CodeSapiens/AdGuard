@@ -2005,6 +2005,7 @@
 ||resources.bazaarvoice.com^
 ||responsiveads.com^
 ||rest.locuslabs.com^
+||returnpath.net^
 ||revampcdn.com^
 ||revcontent.com^
 ||reverselookup.quicksetcloud.com^
@@ -2638,6 +2639,7 @@
 ||wyhifdpatl.com^
 ||wzrkt.com^
 ||x-vpn.ug^
+||xad.com^
 ||xandr.com^
 ||xg4ken.com^
 ||xgapromomanager-pa.googleapis.com^
