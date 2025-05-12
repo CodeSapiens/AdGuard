@@ -214,6 +214,7 @@
 ||ainu.intel.
 ||air.com^
 ||ajcloud.net^
+||ak.staticimgfarm.com^
 ||aka.amazon.com^
 ||akamai-*.exacttarget.com.edgekey.net^
 ||akisinn.
@@ -281,6 +282,7 @@
 ||api.statsig.com^
 ||api.tiles.mapbox.com^
 ||api.userway.org^
+||api.x.com^
 ||api*.iheart.com^
 ||apitd.net^
 ||apm.qwant.com^
@@ -422,6 +424,7 @@
 ||bitmovin.com^
 ||bizible.com^
 ||bizographics.com^
+||bizrate.com^
 ||bkrtx.com^
 ||blismedia.com^
 ||blob.core.windows.net^
@@ -579,6 +582,7 @@
 ||cerebro.edna.yahoo.net^
 ||cf-timedtext.aux.pv-cdn.net^
 ||cf-trickplay.aux.pv-cdn.net^
+||cf.x.com^
 ||cfa.fidelity.com^
 ||champagne.futurecdn.net^
 ||channeladvisor.com^
@@ -588,6 +592,7 @@
 ||chimpstatic.com^
 ||cityspark.com^
 ||civicscience.com^
+||clanker-events.squarespace.com^
 ||clarice.streema.com^
 ||clarity.ms^
 ||clean.gg^
@@ -618,6 +623,7 @@
 ||cmp.dmgmediaprivacy.co.uk^
 ||cmp.osano.com^
 ||cmp.uniconsent.com^
+||cnnx.io^
 ||cnstrc.com^
 ||cnzz.
 ||coaufu.com^
@@ -771,6 +777,7 @@
 ||d2wu036mkcz52n.cloudfront.net^
 ||d2wy8f7a9ursnm.cloudfront.net^
 ||d2yyd1h5u9mauk.cloudfront.net^
+||d2z0bn1jv8xwtk.cloudfront.net^
 ||d3-umami.up.railway.app^
 ||d35k22e9287vnh.cloudfront.net^
 ||d35u1vg1q28b3w.cloudfront.net^
@@ -789,6 +796,7 @@
 ||d3q33rbmdkxzj.cloudfront.net^
 ||d6wyculpvlvh1.cloudfront.net^
 ||d9esmwyn3ffr1.cloudfront.net^
+||dabu.askmediagroup.com^
 ||dap.digitalgov.gov^
 ||dap.hindustantimes.com^
 ||dartsearch.net^
@@ -951,8 +959,10 @@
 ||eve.playstation.com^
 ||eventbus.intuit.com^
 ||eventrecorder.cm.bloomberg.com^
+||events.api.secureserver.net^
 ||events.brightline.tv^
 ||events.data.microsoft.com^
+||events.engager.ecbsn.com^
 ||events.framer.com^
 ||events.gfe.nvidia.com^
 ||events.jotform.com^
@@ -964,6 +974,7 @@
 ||events.polarbyte.com^
 ||events.reddit.com^
 ||events.redditmedia.com^
+||events.squarespace.com^
 ||everestjs.net^
 ||everesttech.net^
 ||evergage.com^
@@ -1011,6 +1022,7 @@
 ||feedbackify.com^
 ||fel-api.prod.browse.bestbuy.com^
 ||fff.dailymail.co.uk^
+||fintelconnect.com^
 ||firebaseapp.com^
 ||firebasecrashlytics*.googleapis.com^
 ||firebaseinappmessaging.googleapis.com^
@@ -1140,6 +1152,7 @@
 ||geoip.freemake.com^
 ||geoip.radio-canada.ca^
 ||geoiplookup.io^
+||geolocation-db.com^
 ||geolocation.forbes.com^
 ||geotrust.com^
 ||getadmiral.com^
@@ -1162,6 +1175,7 @@
 ||go.e.mailchimp.com^
 ||go.rightnowmedia.org^
 ||go.smartrak.com^
+||goaffpro.app^
 ||gobankingrates.com^
 ||godpvqnszo.com^
 ||goodcloud.xyz^
@@ -1199,6 +1213,7 @@
 ||gustygrandmother.com^
 ||gvt2.com^
 ||gvt3.com^
+||h.tanbooks.com^
 ||handsomelyhealth.com^
 ||hawk-assets.co.uk^
 ||hb.20m.es^
@@ -1241,6 +1256,7 @@
 ||hubvisor.io^
 ||hugedomains.com^
 ||humanpresence.app^
+||hyros.com^
 ||i.paypal.com^
 ||ia.media-imdb.com^
 ||iabusprivacy.pmc.com^
@@ -1284,6 +1300,7 @@
 ||indexexchange.com^
 ||indexww.com^
 ||infolinks.com^
+||infusionsoft.app^
 ||ingress.linktr.ee^
 ||ink1001.com^
 ||inmobi.com^
@@ -1339,6 +1356,7 @@
 ||jac.yahoosandbox.com^
 ||janrain.com^
 ||jbteen.al^
+||jbtlg.nectarsleep.com^
 ||jcpclick.com^
 ||jdoqocy.com^
 ||jeeng.com^
@@ -1401,10 +1419,12 @@
 ||laptop-updates.brave.com^
 ||lasso.link^
 ||lcprd*.samsungcloudsolution.
+||leaddyno.com^
 ||leadmanagerfx.com^
 ||leanplum.com^
 ||lemmatechnologies.com^
 ||levelaccess.net^
+||lfeeder.com^
 ||lgforbes.akamaized.net^
 ||liadm.com^
 ||libertycdn.com^
@@ -1436,6 +1456,7 @@
 ||loc.kr^
 ||location-api.hdhomerun.com^
 ||location-services-measurements.s3-external-1.amazonaws.com^
+||location.squarespace.com^
 ||locationhistoryaggregates-pa.googleapis.com^
 ||log-*.epicdn.me^
 ||log.cookieyes.com^
@@ -1563,6 +1584,7 @@
 ||mktp-base.mktplatforms.com^
 ||ml-cachehost.net^
 ||ml314.com^
+||mm-uxrv.com^
 ||mms.cnn.com^
 ||mmstat.com^
 ||mn.qwant.com^
@@ -1645,6 +1667,7 @@
 ||nitropay.com^
 ||nitroscripts.com^
 ||njtzzrvg0lwj3bsn.info^
+||nlytcs.diffen.com^
 ||nmcdn.us^
 ||nmetrics.samsung.com^
 ||nnmtools.com^
@@ -1679,6 +1702,7 @@
 ||om.dowjoneson.com^
 ||omappapi.com^
 ||omnatuor.com^
+||omniconvert.com^
 ||omnitagjs.com^
 ||omniture-ssl.walmart.com^
 ||omniture.walmart.com^
@@ -1728,6 +1752,7 @@
 ||owneriq.net^
 ||p-n.io^
 ||p.brid.tv^
+||p.minds.com^
 ||p.nfltags.com^
 ||p.typekit.net^
 ||p7cloud.net^
@@ -1740,6 +1765,7 @@
 ||pandect.es^
 ||pangleglobal.com^
 ||panorama.wixapps.net^
+||parallax.askmediagroup.com^
 ||pardot.com^
 ||parkingcrew.net^
 ||parsely.com^
@@ -1759,6 +1785,7 @@
 ||pbs.yahoo.com^
 ||pbstck.com^
 ||pbxai.com^
+||peasisoft.com^
 ||pegsbuttons.com^
 ||pelcro.com^
 ||pepepush.net^
@@ -1766,6 +1793,7 @@
 ||perf.hsforms.com^
 ||perfdrive.com^
 ||perfectmarket.com^
+||performance.squarespace.com^
 ||permutive.app^
 ||permutive.businessinsider.com^
 ||permutive.com^
@@ -1931,6 +1959,7 @@
 ||qubit.com^
 ||queryly.com^
 ||quiq-api.com^
+||quiq-cdn.com^
 ||r.bbci.co.uk^
 ||r.stripe.com^
 ||r0.mradx.net^
@@ -2053,6 +2082,7 @@
 ||sc-static.net^
 ||scaredslip.com^
 ||scaredsnakes.com^
+||scholarlyiq.com^
 ||sci.intuit.com^
 ||scone-pa.clients6.google.com^
 ||scontent-sjc2-1.xx.fbcdn.net^
@@ -2235,6 +2265,7 @@
 ||stape.io^
 ||star*.c10r.
 ||starget.intel.
+||start-trezor.squarespace.com^
 ||stat.alibaba.com^
 ||stat.brightchat.org^
 ||statcollector.sidearmsports.com^
@@ -2404,11 +2435,14 @@
 ||trace.app-performance.music.amazon.dev^
 ||trace.popin.cc^
 ||trace.svc.ui.com^
+||track-adventure.squarespace.com^
 ||track.alibaba.com^
 ||track.capitaloneshopping.com^
 ||track.contently.com^
 ||track.dictionary.com^
 ||track.sp.crdl.io^
+||track.squarespace.com^
+||track.unfold.squarespace.com^
 ||trackcmp.net^
 ||trackdesk.com^
 ||trackedlink.net^
@@ -2442,6 +2476,7 @@
 ||trk*.mailchimp.com^
 ||trkapi.impact.com^
 ||tru.am^
+||truconversion.com^
 ||trueanthem.com^
 ||trueroas.io^
 ||truoptik.com^
@@ -2499,6 +2534,7 @@
 ||usera.imagecave.com^
 ||usercentrics.eu^
 ||userfly.com^
+||userlike-cdn-widgets.s3-*.amazonaws.com^
 ||userlocation.googleapis.com^
 ||userreport.com^
 ||userzoom.com^
