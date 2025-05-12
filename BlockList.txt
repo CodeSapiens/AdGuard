@@ -1810,6 +1810,7 @@
 ||player.anyclip.com^
 ||player.h-cdn.com^
 ||player.megaphone.fm^
+||player-metrics.instaread.co^
 ||plrsrvcs.com^
 ||plugin.mediavoice.com^
 ||pmcbbn8trk.com^
