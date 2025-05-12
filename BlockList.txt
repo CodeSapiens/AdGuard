@@ -236,6 +236,7 @@
 ||amazonaax.com^
 ||amazonclix.com^
 ||amcs-tachyon.com^
+||amethyst.zappos.com^
 ||aminopay.net^
 ||ampcid.google.com^
 ||amplitude.com^
@@ -357,6 +358,7 @@
 ||auth.adobe.com^
 ||auth.split.io^
 ||automatad.com^
+||automizely.com^
 ||avada.io^
 ||avantlink.com^
 ||avhtaapxml.com^
@@ -641,6 +643,7 @@
 ||cometlytrack.com^
 ||comixology.com^
 ||comm100.com^
+||commerce.bing.com^
 ||commerce.nbcuni.com^
 ||commnat-*-gc.ess.apple.com^
 ||comscore.com^
@@ -1184,6 +1187,7 @@
 ||graph.instagram.com^
 ||graphql-cdn-slplatform.liquidus.net^
 ||groupm.com^
+||growave.io^
 ||gsas.apple.com^
 ||gss.skatepro.com^
 ||guardianapis
@@ -1807,10 +1811,10 @@
 ||plausible.io^
 ||play.vidyard.com^
 ||playdigo.com^
+||player-metrics.instaread.co^
 ||player.anyclip.com^
 ||player.h-cdn.com^
 ||player.megaphone.fm^
-||player-metrics.instaread.co^
 ||plrsrvcs.com^
 ||plugin.mediavoice.com^
 ||pmcbbn8trk.com^
@@ -2064,6 +2068,7 @@
 ||sdk.asapp.com^
 ||sdk.beemray.com^
 ||sdk.iad-*.braze.com^
+||sdk.loyaltylion.net^
 ||sdk.postscript.io^
 ||sdk.qikify.com^
 ||sdk.split.io^
@@ -2249,6 +2254,7 @@
 ||static.myfinance.com^
 ||static.mywot.com^
 ||static.scroll.com^
+||static.socialshopwave.com^
 ||static.zdbb.net^
 ||static1.brave.com^
 ||statics-marketingsites
@@ -2409,6 +2415,7 @@
 ||tracker.
 ||trackersimulator.org^
 ||tracking.
+||trackingmore.net^
 ||trackjs.com^
 ||trackonomics.net^
 ||tradecore.tradehouse.media^
