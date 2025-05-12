@@ -237,6 +237,7 @@
 ||amazonaax.com^
 ||amazonclix.com^
 ||amcs-tachyon.com^
+||amethyst.6pm.com^
 ||amethyst.zappos.com^
 ||aminopay.net^
 ||ampcid.google.com^
@@ -813,6 +814,7 @@
 ||datadome.co^
 ||datalab-analytics*.epam.com^
 ||datamilk.app^
+||dataplane.rum.*.amazonaws.com^
 ||datastream.stylitics.com^
 ||dau43vt5wtrd.tk^
 ||db7q4jg5rkhk8.cloudfront.net^
