@@ -319,7 +319,7 @@
 ||appspot.com^
 ||aptivada.com^
 ||aptrinsic.com^
-||arc.msn.com^
+||arc*.msn.com^
 ||arclight.vimeo.com^
 ||arcus-uswest.amazon.com^
 ||areyouwatchingthis.com^
@@ -375,6 +375,7 @@
 ||b.stats.paypal.com^
 ||b.wal.co^
 ||backblaze.com^
+||backend-capital.com^
 ||backstory.ebay.com^
 ||backtrace.io^
 ||bacon.forbes.com^
@@ -467,6 +468,7 @@
 ||buy.tinypass.com^
 ||buysellads.net^
 ||byteoversea.com^
+||c.*.msn.com^
 ||c.bing.com^
 ||c.msn.com^
 ||c.thredup.com^
@@ -612,6 +614,7 @@
 ||cmp.osano.com^
 ||cmp.uniconsent.com^
 ||cnstrc.com^
+||cnzz.
 ||coaufu.com^
 ||cobrowse.oraclecloud.com^
 ||cod-assets.cdn.callofduty.com^
@@ -1554,6 +1557,7 @@
 ||mobile-sdk-api.intercom.io^
 ||mobile.launchdarkly.com^
 ||mobile.pipe.aria.microsoft.com^
+||mobilead*.msn.com^
 ||mobsmith.com^
 ||moderate.cleantalk.org^
 ||moderate9-v4.cleantalk.org^
@@ -1941,6 +1945,7 @@
 ||refer.wordpress.com^
 ||referrer.disqus.com^
 ||reftagger.com^
+||registry.api.cnn.io^
 ||regrunreanimator.com^
 ||relay.fiverr.com^
 ||reminews.com^
@@ -2620,7 +2625,6 @@
 ||zeustechnology.com^
 ||zg-api.com^
 ||zineone.com^
-||zion.cnn.com^
 ||zion*.api.cnn.io^
 ||zkcdn.net^
 ||zqtk.net^
