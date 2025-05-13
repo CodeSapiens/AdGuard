@@ -512,6 +512,7 @@
 ||cdn-usent.kampyle.com^
 ||cdn-widgetsrepository.yotpo.com^
 ||cdn-xp-ingest-ab.v.aaplimg.com^
+||cdn.6s83mz9kbtrj.com^
 ||cdn.adtrace.ai^
 ||cdn.affiliatable.io^
 ||cdn.appdynamics.com^
@@ -848,6 +849,7 @@
 ||diagnostics.meethue.com^
 ||dianomi.com^
 ||didna.io^
+||diffuser-cdn.app-us1.com^
 ||digimedia.com^
 ||digitru.st^
 ||direct.data.api.platform.here.com^
@@ -1388,6 +1390,7 @@
 ||jwpltx.com^
 ||k.pluto.tv^
 ||k.qwant.com^
+||k203.adn.com^
 ||kameleoon.eu^
 ||kampyle.com^
 ||kargo.com^
@@ -1819,7 +1822,9 @@
 ||piwik.pro^
 ||pix.pub^
 ||pix.spot.im^
+||pixel-a.basis.net^
 ||pixel-config.reddit.com^
+||pixel.ad^
 ||pixel.facebook.com^
 ||pixel.ipinfo.io^
 ||pixel.nudgify.com^
