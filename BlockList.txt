@@ -859,6 +859,7 @@
 ||display.ugc.bazaarvoice.com^
 ||displayads-formats.googleusercontent.com^
 ||distillery.wistia.com^
+||dk9ps7goqoeef.cloudfront.net^
 ||dlswbr.baidu.com^
 ||dm-event.net^
 ||dmd.metaservices.microsoft.com^
@@ -2338,6 +2339,7 @@
 ||supportmetrics.apple.com^
 ||supportmetrics.v.aaplimg.com^
 ||survata.com^
+||survey.survicate.com^
 ||sustainability.aboutamazon.com^
 ||svcs.ebay.com^
 ||svopn.e.michaels.com^
