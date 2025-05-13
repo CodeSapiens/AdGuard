@@ -2147,6 +2147,7 @@
 ||sentinelpro.com^
 ||sentry-cdn.com^
 ||sentry.archive.org^
+||sentry.insops.net^
 ||sentry.io^
 ||sentry.odysee.tv^
 ||seoab.io^
