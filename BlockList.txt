@@ -1053,6 +1053,7 @@
 ||fm.cnbc.com^
 ||fn-pz.com^
 ||fndrsp.net^
+||fomo.com^
 ||fontawesome.com^
 ||fonts.googleapis.com^
 ||fonts.gstatic.com^
@@ -1761,6 +1762,7 @@
 ||p.minds.com^
 ||p.nfltags.com^
 ||p.typekit.net^
+||p.yotpo.com^
 ||p7cloud.net^
 ||paella.adrise.tv^
 ||pafvertizing.crazygames.com^
@@ -2240,6 +2242,8 @@
 ||sp.usatoday.com^
 ||sp.welcometothejungle.com^
 ||sp.yelp.com^
+||spa-adserver*.spapi.io^
+||spa-tracker*.spapi.io^
 ||specialoffers.suppleapps.com^
 ||spectrum.gettyimages.com^
 ||speedcurve.com^
@@ -2548,6 +2552,7 @@
 ||userlike-cdn-widgets.s3-*.amazonaws.com^
 ||userlocation.googleapis.com^
 ||userreport.com^
+||usersnap.com^
 ||userzoom.com^
 ||usstgecho.internetat.tv^
 ||v.shopify.com^
