@@ -326,7 +326,6 @@
 ||aptrinsic.com^
 ||arc*.msn.com^
 ||arclight.vimeo.com^
-||arcus-uswest.amazon.com^
 ||areyouwatchingthis.com^
 ||as.sourceforge.net^
 ||asadcdn.com^
