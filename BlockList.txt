@@ -806,6 +806,7 @@
 ||data-*.bild.de^
 ||data-60d896f23d.radio.net^
 ||data.adobedc.net^
+||data.appexnw.com^
 ||data.cnn.com^
 ||data.mistat*.xiaomi.com^
 ||data.pendo.io^
