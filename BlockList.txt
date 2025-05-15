@@ -1621,6 +1621,7 @@
 ||monorail-edge.shopifysvc.com^
 ||mopinion.com^
 ||motoringlawyers.com^
+||mountain.com^
 ||mouseflow.com^
 ||movie4k.to^
 ||mp.theepochtimes.com^
@@ -2080,6 +2081,7 @@
 ||sail-horizon.com^
 ||sail-personalize.com^
 ||sailthru.com^
+||salecycle.com^
 ||salemwebnetwork.com^
 ||salesiq.zohopublic.com^
 ||salesleaf.com^
@@ -2240,6 +2242,7 @@
 ||sourcepoint.theguardian.com^
 ||sp.argusleader.com^
 ||sp.aviasales.com^
+||sp.ecosia.org^
 ||sp.usatoday.com^
 ||sp.welcometothejungle.com^
 ||sp.yelp.com^
