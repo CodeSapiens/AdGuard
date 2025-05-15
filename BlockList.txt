@@ -597,6 +597,7 @@
 ||clarice.streema.com^
 ||clarity.ms^
 ||clean.gg^
+||clear.link^
 ||clearbitscripts.com^
 ||cleverads.vn^
 ||clevertap-prod.com^
@@ -2099,6 +2100,7 @@
 ||scaredsnakes.com^
 ||scholarlyiq.com^
 ||sci.intuit.com^
+||scientiamobile.com^
 ||scone-pa.clients6.google.com^
 ||scontent-sjc2-1.xx.fbcdn.net^
 ||scontent.webcollage.net^
@@ -2653,6 +2655,7 @@
 ||wt.viagogo.net^
 ||wunderkind.co^
 ||wurfl.io^
+||wurflcloud.com^
 ||ww8.kohls.com^
 ||www.i.cdn.cnn.com^
 ||www91.intel.
