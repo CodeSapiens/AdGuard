@@ -2358,6 +2358,7 @@
 ||syndicatedsearch.goog^
 ||syndication.twitter.com^
 ||syndigo.cloud^
+||system1.com^
 ||t.cloudpano.com^
 ||t.co^
 ||t.dailymail.co.uk^
