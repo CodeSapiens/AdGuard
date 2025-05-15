@@ -2031,6 +2031,7 @@
 ||rightfulfall.com^
 ||ris.api.iris.microsoft.com^
 ||risecodes.com^
+||riskid.security^
 ||riskified.com^
 ||rl.progressive.com^
 ||rlcdn.com^
@@ -2040,6 +2041,7 @@
 ||rmt.homedepot.com^
 ||rmtag.com^
 ||rnengage.com^
+||rokt.com^
 ||rookinews.com^
 ||rootstheweb.com^
 ||routing.cloudfront.aws.a2z.com^
