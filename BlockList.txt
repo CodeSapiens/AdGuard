@@ -1207,6 +1207,7 @@
 ||graph.fbpigeon.com^
 ||graph.instagram.com^
 ||graphql-cdn-slplatform.liquidus.net^
+||gravitec.net^
 ||groupm.com^
 ||growave.io^
 ||gsas.apple.com^
