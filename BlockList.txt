@@ -1372,6 +1372,7 @@
 ||jcpclick.com^
 ||jdoqocy.com^
 ||jeeng.com^
+||jetpack.wordpress.com^
 ||jg7y.quizlet.com^
 ||jivox.com^
 ||joinhoney.com^
