@@ -833,6 +833,7 @@
 ||dd.study.com^
 ||ddbm2.paypal.com^
 ||dealswidget.bestreviews.com^
+||debug.nordsec.com^
 ||default.exp-tas.com^
 ||delidatax.net^
 ||demandbase.com^
