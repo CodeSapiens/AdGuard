@@ -431,6 +431,7 @@
 ||blockmetrics.com^
 ||blog.aboutamazon.com^
 ||blogherads.com^
+||blue.8newsnow.com^
 ||blue.keloland.com^
 ||blue.newsnationnow.com^
 ||blue.thehill.com^
@@ -801,6 +802,7 @@
 ||dabu.askmediagroup.com^
 ||dap.digitalgov.gov^
 ||dap.hindustantimes.com^
+||darnuid.netflix.com^
 ||dartsearch.net^
 ||dashboard.tinypass.com^
 ||data-*.bild.de^
@@ -1451,6 +1453,7 @@
 ||linksynergy.com^
 ||linkwithin.com^
 ||litix.io^
+||live-detector.svc.transifex.net^
 ||livefyre.com^
 ||liveintent.com^
 ||liveramp.com^
