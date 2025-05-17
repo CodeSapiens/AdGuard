@@ -249,6 +249,7 @@
 ||andbeyond.media^
 ||animatedbanner.xyz^
 ||aniview.com^
+||anm.co.uk^
 ||anrdoezrs.net^
 ||answerscloud.com^
 ||ap.spotify.com^
@@ -1271,6 +1272,7 @@
 ||hugedomains.com^
 ||humanpresence.app^
 ||hyros.com^
+||i.mol.im^
 ||i.paypal.com^
 ||ia.media-imdb.com^
 ||iabusprivacy.pmc.com^
@@ -1820,6 +1822,7 @@
 ||permutive.newyorker.com^
 ||perr.h-cdn.com^
 ||personalization.bloomberg.com^
+||pgammedia.com^
 ||ph.dealnews.com^
 ||phar.gu-web.net^
 ||pharmacy.amazon.com^
@@ -2187,6 +2190,7 @@
 ||services.brid.tv^
 ||services.brightline.tv^
 ||services.sdiapi.com^
+||serving-sys.com^
 ||sessioncam.com^
 ||settings-win.data.microsoft.com^
 ||settings.data.microsoft.com^
@@ -2647,6 +2651,7 @@
 ||widget.clutch.co^
 ||widget.custhelp.com^
 ||widget.nfusionsolutions.com^
+||widget.spreaker.com^
 ||widget.trustpilot.com^
 ||widgetlogic.org^
 ||widgets.future-fie.co.uk^
