@@ -896,6 +896,7 @@
 ||dtmpub.com^
 ||du8783wkf05yr.cloudfront.net^
 ||duapps.com^
+||duplexer.wix.com^
 ||dweb.link^
 ||dwgyu36up6iuz.cloudfront.net^
 ||dwin1.com^
@@ -2134,6 +2135,7 @@
 ||sdk.split.io^
 ||seadform.net^
 ||seahorseinfo.agilent.com^
+||seal-*.bbb.org^
 ||seal.digicert.com^
 ||seal.verisign.com^
 ||search-api.devicebits.com^
@@ -2393,6 +2395,7 @@
 ||taboola.com^
 ||taboolasyndication.com^
 ||tag.aticdn.net^
+||tag.brandcdn.com^
 ||tag.dickssportinggoods.com^
 ||tagan.adlightning.com^
 ||tagcommander.com^
