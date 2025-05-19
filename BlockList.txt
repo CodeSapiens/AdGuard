@@ -843,7 +843,6 @@
 ||deployads.com^
 ||dev-plan.intel.
 ||dev.pyxis.atp.fox^
-||dev.virtualearth.net^
 ||developer.amazon.com^
 ||developers.hubspot.com^
 ||device-metrics-us*.amazon.com^
@@ -2294,7 +2293,6 @@
 ||ss.topspinpro.com^
 ||ssafp.samsclub.com^
 ||ssitecat.eset.com^
-||ssl.ak.dynamic.tiles.
 ||ssl.cf1.rackcdn.com^
 ||ssl.cf5.rackcdn.com^
 ||ssl.kaptcha.com^
