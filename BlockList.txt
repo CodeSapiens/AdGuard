@@ -933,6 +933,7 @@
 ||edgecast-vod.yimg.com^
 ||edgetrksvc.ebay.com^
 ||edigitalsurvey.com^
+||edns.ip-api.com^
 ||effectivecreativeformat.com^
 ||el.quizlet.com^
 ||eloqua-track
