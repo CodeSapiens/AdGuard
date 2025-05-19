@@ -1063,6 +1063,7 @@
 ||fndrsp.net^
 ||fomo.com^
 ||fontawesome.com^
+||fonts.google.com^
 ||fonts.googleapis.com^
 ||fonts.gstatic.com^
 ||footprintdns.com^
