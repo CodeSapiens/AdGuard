@@ -1062,7 +1062,6 @@
 ||fn-pz.com^
 ||fndrsp.net^
 ||fomo.com^
-||fontawesome.com^
 ||fonts.google.com^
 ||fonts.googleapis.com^
 ||fonts.gstatic.com^
@@ -1420,6 +1419,7 @@
 ||kisinn.info^
 ||kissmetrics.com^
 ||kissmetrics.io^
+||kit.fontawesome.com^
 ||klaviyo.com^
 ||klclick*.com^
 ||klickly.com^
@@ -2576,6 +2576,7 @@
 ||usablenet.com^
 ||usawildseafood.com^
 ||use-application-dns.net^
+||use.fontawesome.com^
 ||use1-api.tplinkra.com^
 ||usecho.internetat.tv^
 ||user-signals.production-public.tubi.io^
