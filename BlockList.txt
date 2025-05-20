@@ -46,6 +46,7 @@
 ||a47b.com^
 ||a4k.amazon.com^
 ||a8.net^
+||aa.cbssports.com^
 ||aamt.msnbc.com^
 ||aan.amazon.
 ||aaplimg.com^
@@ -2098,6 +2099,7 @@
 ||sa.bbc.co.uk^
 ||sa.com^
 ||saa.cbsi.com^
+||saa.cbssports.com^
 ||saa.pluto.tv^
 ||safe-guard.online^
 ||sail-horizon.com^
@@ -2327,6 +2329,7 @@
 ||static.mailerlite.com^
 ||static.myfinance.com^
 ||static.mywot.com^
+||static.prod.martech.cbssports.cloud^
 ||static.scroll.com^
 ||static.socialshopwave.com^
 ||static.zdbb.net^
@@ -2483,9 +2486,11 @@
 ||trace.svc.ui.com^
 ||track-adventure.squarespace.com^
 ||track.alibaba.com^
+||track.baseball.cbssports.com^
 ||track.capitaloneshopping.com^
 ||track.contently.com^
 ||track.dictionary.com^
+||track.football.cbssports.com^
 ||track.sp.crdl.io^
 ||track.squarespace.com^
 ||track.unfold.squarespace.com^
@@ -2534,6 +2539,7 @@
 ||turn.com^
 ||turncdn.com^
 ||turnto.com^
+||turtl.co^
 ||tvpixel.com^
 ||tvspix.com^
 ||tvsquared.com^
