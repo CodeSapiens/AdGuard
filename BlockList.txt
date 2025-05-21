@@ -492,6 +492,7 @@
 ||c677.wisn.com^
 ||cache.judge.me^
 ||campaign-archive.com^
+||campaigns.cyberinsider.com^
 ||candycrushsoda.king.com^
 ||cane.intel.
 ||capi.elements.video^
@@ -1761,6 +1762,7 @@
 ||optimizely.com^
 ||optimizely.wsj.com^
 ||optimonk.com^
+||optinmonster.com^
 ||optmnstr.com^
 ||optnmnstr.com^
 ||oracleinfinity.io^
