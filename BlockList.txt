@@ -2065,6 +2065,7 @@
 ||rmtag.com^
 ||rnengage.com^
 ||rokt.com^
+||rollout.ada.support^
 ||rookinews.com^
 ||rootstheweb.com^
 ||routing.cloudfront.aws.a2z.com^
