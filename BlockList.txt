@@ -1729,6 +1729,7 @@
 ||omappapi.com^
 ||omnatuor.com^
 ||omniconvert.com^
+||omnisnippet1.com^
 ||omnitagjs.com^
 ||omniture-ssl.walmart.com^
 ||omniture.walmart.com^
@@ -2499,6 +2500,7 @@
 ||trackedlink.net^
 ||tracker.
 ||trackersimulator.org^
+||tracking-api.g2.com^
 ||tracking.
 ||trackingmore.net^
 ||trackjs.com^
@@ -2667,6 +2669,7 @@
 ||widget.clutch.co^
 ||widget.custhelp.com^
 ||widget.nfusionsolutions.com^
+||widget.reviews.io^
 ||widget.spreaker.com^
 ||widget.trustpilot.com^
 ||widgetlogic.org^
