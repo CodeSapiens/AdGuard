@@ -1939,6 +1939,7 @@
 ||proxy-us.posthog.com^
 ||ps5.pndsn.com^
 ||pstmrk.it^
+||pt.dwcdn.net^
 ||pt.ispot.tv^
 ||pti.store.microsoft.com^
 ||pub-admin-elections.foxnews.com^
