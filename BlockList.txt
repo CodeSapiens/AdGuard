@@ -9,6 +9,7 @@
 *events-collector.spot.im^
 *telemetry
 *yomigt
+||.responseiq.com^
 ||00go.com^
 ||0123movies
 ||1-800-
