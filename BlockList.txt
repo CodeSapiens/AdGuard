@@ -2041,6 +2041,7 @@
 ||researchnow.com^
 ||reson8.com^
 ||resources.bazaarvoice.com^
+||responseiq.com^
 ||responsiveads.com^
 ||rest.locuslabs.com^
 ||returnpath.net^
