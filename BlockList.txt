@@ -1928,6 +1928,7 @@
 ||prod.amcs-tachyon.com^
 ||prod.fennec.atp.fox^
 ||prod.pyxis.atp.fox^
+||prod2-external-share-api.sprinklr.com^
 ||prod2-live-chat.sprinklr.com^
 ||prodperfect.com^
 ||prodregistryv2.org^
