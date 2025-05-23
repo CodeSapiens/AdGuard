@@ -894,6 +894,7 @@
 ||dpclk.com^
 ||dr3fr5q4g2ul9.cloudfront.net^
 ||drfdisvc.walmart.com^
+||driftingchef.com^
 ||ds-aksb-a.akamaihd.net^
 ||dsms0mj1bbhn4.cloudfront.net^
 ||dstillery.com^
@@ -992,6 +993,7 @@
 ||events.reddit.com^
 ||events.redditmedia.com^
 ||events.squarespace.com^
+||everestengagement.com^
 ||everestjs.net^
 ||everesttech.net^
 ||evergage.com^
