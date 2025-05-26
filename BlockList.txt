@@ -465,6 +465,7 @@
 ||britepool.com^
 ||broadstreetads.com^
 ||browser-intake*-datadoghq
+||browser-update.org^
 ||browser.covatic.io^
 ||browser.events.data.msn.com^
 ||browser.pipe.aria.microsoft.com^
@@ -1246,6 +1247,7 @@
 ||hbwrapper.com^
 ||hbx.media.net^
 ||hd-personalization-prod.gcp.homedepot.com^
+||hdmtools.com^
 ||headway-widget.net^
 ||healthguides.cnn.com^
 ||heavy.com^
@@ -1275,6 +1277,7 @@
 ||htlbid.com^
 ||html-load.com^
 ||http-inputs-notion.splunkcloud.com^
+||htvtools.us^
 ||hubapi.com^
 ||hubspotfeedback.com^
 ||hubvisor.io^
@@ -1762,6 +1765,7 @@
 ||openxenterprise.com^
 ||ophan.
 ||oppomobile.com^
+||optable.co^
 ||opticksprotection.com^
 ||optimize-stats.voxmedia.com^
 ||optimizely.com^
@@ -2681,6 +2685,7 @@
 ||widget.custhelp.com^
 ||widget.nfusionsolutions.com^
 ||widget.reviews.io^
+||widget.sezzle.com^
 ||widget.spreaker.com^
 ||widget.trustpilot.com^
 ||widgetlogic.org^
