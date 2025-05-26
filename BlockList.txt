@@ -339,6 +339,7 @@
 ||assets-jpcust.jwpsrv.com^
 ||assets.adobetm.com^
 ||assets.alicdn.com^
+||assets.capterra.com^
 ||assets.comparitech.com^
 ||assets.mailerlite.com^
 ||assets.minutemediacdn.com^
