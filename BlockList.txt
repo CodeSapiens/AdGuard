@@ -791,6 +791,7 @@
 ||d2yyd1h5u9mauk.cloudfront.net^
 ||d2z0bn1jv8xwtk.cloudfront.net^
 ||d3-umami.up.railway.app^
+||d30qdagvt44524.cloudfront.net^
 ||d35k22e9287vnh.cloudfront.net^
 ||d35u1vg1q28b3w.cloudfront.net^
 ||d3a510xmpll7o6.cloudfront.net^
