@@ -1181,6 +1181,7 @@
 ||getadmiral.com^
 ||getcarro.com^
 ||getelevar.com^
+||getkoala.com^
 ||getlasso.co^
 ||getpublica.com^
 ||getrockerbox.com^
