@@ -687,6 +687,7 @@
 ||connect.facebook.com^
 ||connect.facebook.net^
 ||connect.intel.
+||connect.podium.com^
 ||connectad.io^
 ||consensu.org^
 ||consent-manager.etsystatic.com^
@@ -1788,6 +1789,7 @@
 ||oui-0x00199d.com^
 ||outbrain.com^
 ||outbrainimg.com^
+||outdoorsoil.com^
 ||outgrow.us^
 ||outreach.abetterinternet.org^
 ||owneriq.net^
@@ -2065,6 +2067,7 @@
 ||rffbxktvxmcje.space^
 ||rfihub.com^
 ||rfk.biglots.com^
+||rfksrv.com^
 ||rgembroiderydesigns.com^
 ||richaudience.com^
 ||rightfulfall.com^
@@ -2080,6 +2083,7 @@
 ||rmt.homedepot.com^
 ||rmtag.com^
 ||rnengage.com^
+||roirevolution.com^
 ||rokt.com^
 ||rollout.ada.support^
 ||rookinews.com^
@@ -2552,6 +2556,7 @@
 ||trueroas.io^
 ||truoptik.com^
 ||truste.com^
+||trustindex.io^
 ||trustx.org^
 ||try.elevenlabs.io^
 ||tsyndicate.com^
