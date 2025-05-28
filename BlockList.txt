@@ -1013,6 +1013,7 @@
 ||exacttarget.com^
 ||exelator.com^
 ||experience.tinypass.com^
+||experimentation.chase.com^
 ||experiments.apple.com^
 ||external-*.xx.fbcdn.net^
 ||extmaps-api.yandex.net^
