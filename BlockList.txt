@@ -593,6 +593,7 @@
 ||cerebro.edna.yahoo.net^
 ||cf-timedtext.aux.pv-cdn.net^
 ||cf-trickplay.aux.pv-cdn.net^
+||cf-us-popular.dash.pv-cdn.net^
 ||cf.x.com^
 ||cfa.fidelity.com^
 ||champagne.futurecdn.net^
@@ -1433,6 +1434,7 @@
 ||kisinn.info^
 ||kissmetrics.com^
 ||kissmetrics.io^
+||kit.com^
 ||kit.fontawesome.com^
 ||klaviyo.com^
 ||klclick*.com^
