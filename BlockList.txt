@@ -882,12 +882,12 @@
 ||dmpxs.com^
 ||dn0qt3r0xannq.cloudfront.net^
 ||dna.amazon.com^
+||dns.apple.com^
 ||dns.hinet.net^
 ||dns.msftncsi.com^
 ||do-not-tracker.org^
 ||dogo.intel.
 ||doh.cq0.co^
-||doh.dns.apple.com^
 ||domsearch.net^
 ||doppler-beacon.cbsivideo.com^
 ||dotitracie.su^
@@ -1038,6 +1038,7 @@
 ||fbs.smoot.apple.com^
 ||fc.yahoo.com^
 ||fcm.googleapis.com^
+||fdns*.apple.com^
 ||featureassets.org^
 ||fedapush.net^
 ||federatedcompute-pa.googleapis.com^
@@ -2029,6 +2030,7 @@
 ||ravenjs.com^
 ||ravm.tv^
 ||rbl.ms^
+||rdns*.apple.com^
 ||rdtcdn.com^
 ||realtime-logger.production-public.tubi.io^
 ||realtime.services.disqus.com^
