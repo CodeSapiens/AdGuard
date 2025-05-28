@@ -828,6 +828,7 @@
 ||data.pendo.io^
 ||data*.pendo.io^
 ||data*.stepstone.
+||datadog.pool.ntp.org^
 ||datadoghq-browser-agent.com^
 ||datadome.co^
 ||datalab-analytics*.epam.com^
@@ -1799,6 +1800,7 @@
 ||owneriq.net^
 ||p-n.io^
 ||p.brid.tv^
+||p.controld.com^
 ||p.minds.com^
 ||p.nfltags.com^
 ||p.typekit.net^
