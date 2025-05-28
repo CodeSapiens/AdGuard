@@ -724,7 +724,7 @@
 ||counter.theconversation.com^
 ||countess.twitch.tv^
 ||cquotient.com^
-||crash-report-service.svc.ui.com^
+||crash-report-service*.svc.ui.com^
 ||crash.steampowered.com^
 ||crashlytics.com^
 ||crashlyticsreports-pa.googleapis.com^
@@ -2511,7 +2511,7 @@
 ||tr.www.cloudflare.com^
 ||trace.app-performance.music.amazon.dev^
 ||trace.popin.cc^
-||trace.svc.ui.com^
+||trace*.svc.ui.com^
 ||track-adventure.squarespace.com^
 ||track.alibaba.com^
 ||track.baseball.cbssports.com^
