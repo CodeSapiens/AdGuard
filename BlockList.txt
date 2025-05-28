@@ -1337,6 +1337,7 @@
 ||inbenta.io^
 ||indexexchange.com^
 ||indexww.com^
+||info.thekrazycouponlady.com^
 ||infolinks.com^
 ||infusionsoft.app^
 ||ingress.linktr.ee^
@@ -2391,6 +2392,7 @@
 ||stun*.l.google.com^
 ||styria-digital.com^
 ||subs.youmaker.com^
+||subscribe.insight.synology.com^
 ||subscription-forms.smsbump.com^
 ||subseasecurity.com^
 ||substation.confection.io^
