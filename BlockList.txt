@@ -574,6 +574,7 @@
 ||cdn.turner.com^
 ||cdn.undertone.com^
 ||cdn.usefathom.com^
+||cdn.walkme.com^
 ||cdn.ywxi.net^
 ||cdn.ziffstatic.com^
 ||cdn*.judge.me^
