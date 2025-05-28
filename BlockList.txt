@@ -393,6 +393,7 @@
 ||bacon.forbes.com^
 ||baidustatic.com^
 ||baikebcs.cdn.bcebos.com^
+||banner.kaktus.media^
 ||bannersnack.com^
 ||basebanner.com^
 ||bat.bing.com^
@@ -1696,6 +1697,7 @@
 ||neilpatel.com^
 ||nelreports.net^
 ||neodatagroup.com^
+||net.kg^
 ||netizen.co^
 ||newrelic.com^
 ||news-bfujufa.cc^
@@ -2042,6 +2044,7 @@
 ||receptivity.io^
 ||reconditerespect.com^
 ||recovermycart.com^
+||recs.rbcroyalbank.com^
 ||recsys-api.buzzfeed.com^
 ||redfast.com^
 ||redfastlabs.com^
