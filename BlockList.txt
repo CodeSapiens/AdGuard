@@ -1032,6 +1032,7 @@
 ||fabrik.com^
 ||factset.com^
 ||fakeimg.pl^
+||fallback.c10r.
 ||fast.appcues.com^
 ||fastclick.com^
 ||fastclick.net^
@@ -2343,6 +2344,7 @@
 ||stagepopkek.com^
 ||stakingbasket.com^
 ||stape.io^
+||star*.c10r.
 ||starget.intel.
 ||start-trezor.squarespace.com^
 ||stat.alibaba.com^
