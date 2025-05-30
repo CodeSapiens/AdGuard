@@ -478,6 +478,7 @@
 ||btttag.com^
 ||bugs.firebat.prime-video.amazon.dev^
 ||bugsnag.com^
+||bugsnag*.monitor.core.app.alexa.a2z.com^
 ||bullwhip.cloud^
 ||bumlam.com^
 ||bumpermash.com^
@@ -1156,6 +1157,7 @@
 ||gammaplatform.com^
 ||gannettdigital.com^
 ||ganon.yahoo.com^
+||gateway.bingviz.microsoftapp.net^
 ||gc.newsweek.com^
 ||gc.zgo.at^
 ||gcion.com^
