@@ -50,7 +50,6 @@
 ||aa.cbssports.com^
 ||aamt.msnbc.com^
 ||aan.amazon.
-||aaplimg.com^
 ||aax-us-*-retail-direct.amazon.com^
 ||aax-us-iad.amazon.com^
 ||aaxads.com^
@@ -2767,7 +2766,6 @@
 ||youborafds01.com^
 ||youradexchange.com^
 ||yourbow.com^
-||youtube-ui.l.google.com^
 ||zdbb.net^
 ||zdstatic.speedtest.net^
 ||zemanta.com^
