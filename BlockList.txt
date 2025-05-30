@@ -1297,6 +1297,7 @@
 ||hyros.com^
 ||i.mol.im^
 ||i.paypal.com^
+||i18n-pglstatp.com^
 ||ia.media-imdb.com^
 ||iabusprivacy.pmc.com^
 ||iadsdk.apple.com^
@@ -2083,6 +2084,7 @@
 ||rfksrv.com^
 ||rgembroiderydesigns.com^
 ||richaudience.com^
+||richrelevance.com^
 ||rightfulfall.com^
 ||ris.api.iris.microsoft.com^
 ||risecodes.com^
