@@ -1032,7 +1032,6 @@
 ||fabrik.com^
 ||factset.com^
 ||fakeimg.pl^
-||fallback.c10r.
 ||fast.appcues.com^
 ||fastclick.com^
 ||fastclick.net^
@@ -2346,7 +2345,6 @@
 ||stagepopkek.com^
 ||stakingbasket.com^
 ||stape.io^
-||star*.c10r.
 ||starget.intel.
 ||start-trezor.squarespace.com^
 ||stat.alibaba.com^
@@ -2546,7 +2544,6 @@
 ||tradecore.tradehouse.media^
 ||traffic-nts-ip-assoc.*.fbcdn.net^
 ||trafficgate.net^
-||trafficmanager.net^
 ||trafficstars.com^
 ||tranquilveil.com^
 ||transcend-cdn.com^
