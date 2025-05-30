@@ -409,6 +409,7 @@
 ||beacon.mailchimp.com^
 ||beacon.samsclub.com^
 ||beacon.walmart.com^
+||beacon*.akadns.net^
 ||beam.hlserve.com^
 ||beap.gemini.yahoo.com^
 ||beehiiv-adnetwork-production.s3.amazonaws.com^
@@ -871,6 +872,7 @@
 ||diffuser-cdn.app-us1.com^
 ||digimedia.com^
 ||digitru.st^
+||diproton-ads-prod-*.hulu.com.akadns.net^
 ||direct.data.api.platform.here.com^
 ||directavenue.tech^
 ||diromalxx.com^
