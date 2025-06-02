@@ -379,6 +379,7 @@
 ||axm-telemetry.v.aaplimg.com^
 ||axp.keloland.com^
 ||ay.delivery^
+||ayads.co^
 ||b-code.liadm.com^
 ||b-graph.facebook.com^
 ||b-ssl.grvcdn.com^
@@ -1052,6 +1053,7 @@
 ||feedback-pa.clients6.google.com^
 ||feedback-pa.googleapis.com^
 ||feedbackify.com^
+||feedblitz.com^
 ||fel-api.prod.browse.bestbuy.com^
 ||fff.dailymail.co.uk^
 ||fintelconnect.com^
@@ -1363,6 +1365,7 @@
 ||intelligems.io^
 ||intellimize.co^
 ||intellimizeio.com^
+||intellitxt.com^
 ||intentiq.com^
 ||intercom-clicks.com^
 ||intergi.com^
@@ -1908,6 +1911,7 @@
 ||player.megaphone.fm^
 ||plrsrvcs.com^
 ||plugin.mediavoice.com^
+||plusone.google.com^
 ||pmcbbn8trk.com^
 ||pogothere.xyz^
 ||polarcdn-*.com^
