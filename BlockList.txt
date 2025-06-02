@@ -1044,6 +1044,7 @@
 ||fc.yahoo.com^
 ||fcm.googleapis.com^
 ||fdns*.apple.com^
+||feature-tracking.algolia.net^
 ||featureassets.org^
 ||fedapush.net^
 ||federatedcompute-pa.googleapis.com^
@@ -1352,6 +1353,7 @@
 ||innovid.com^
 ||insightexpressai.com^
 ||insights.alibaba.com^
+||insights*.algolia.io^
 ||inspectlet.com^
 ||instagram-*-downloader.com^
 ||instiengage.com^
