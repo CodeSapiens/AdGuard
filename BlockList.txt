@@ -1,4 +1,5 @@
 *-ad-rs.amagi.tv^
+*-ads.pulse.weatherbug.net^
 *-na.associates-amazon.com^
 *-thedispatch-com.tinipass.com^
 *.adsbox^
@@ -2697,6 +2698,8 @@
 ||watch-cdn.product.api.espn.com^
 ||watch.amazon.com^
 ||wdfl.co^
+||weatherblink.com^
+||weatherbuddy.net^
 ||web-fallback.facebook.com^
 ||web-oao.ssp.yahoo.com^
 ||web-tracker.smsbump.com^
