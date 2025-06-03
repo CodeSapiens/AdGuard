@@ -2788,6 +2788,7 @@
 ||zg-api.com^
 ||zineone.com^
 ||zion*.api.cnn.io^
+||zjptg.com^
 ||zkcdn.net^
 ||zqtk.net^
 ||zwyr157wwiu6eior.com^
