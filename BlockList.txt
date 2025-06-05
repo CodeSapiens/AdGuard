@@ -1350,6 +1350,7 @@
 ||inbenta.io^
 ||indexexchange.com^
 ||indexww.com^
+||infinity-tracking.net^
 ||info.thekrazycouponlady.com^
 ||infolinks.com^
 ||infusionsoft.app^
@@ -1638,6 +1639,7 @@
 ||minute.ly^
 ||minutemedia.com^
 ||mixpanel.com^
+||mkt*cdn.azureedge.net^
 ||mktcs.cloudapps.cisco.com^
 ||mktoresp.com^
 ||mktoweb.com^
