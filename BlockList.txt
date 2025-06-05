@@ -500,6 +500,7 @@
 ||c2shb.ssp.yahoo.com^
 ||c677.wisn.com^
 ||cache.judge.me^
+||callrail.com^
 ||campaign-archive.com^
 ||campaigns.cyberinsider.com^
 ||candycrushsoda.king.com^
@@ -575,6 +576,7 @@
 ||cdn.socialannex.com^
 ||cdn.staticfile.org^
 ||cdn.teads.tv^
+||cdn.threadloom.com^
 ||cdn.tinypass.com^
 ||cdn.turner.com^
 ||cdn.undertone.com^
@@ -1293,6 +1295,7 @@
 ||hsleadflows.net^
 ||htlbid.com^
 ||html-load.com^
+||htplayground.com^
 ||http-inputs-notion.splunkcloud.com^
 ||htvtools.us^
 ||hubapi.com^
