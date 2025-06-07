@@ -461,6 +461,7 @@
 ||bounceexchange.com^
 ||bouncex.net^
 ||boxofficemojo.com^
+||bqstreamer.com^
 ||brainlyads.com^
 ||branch.io^
 ||brand-sdk.kmsmep.com^
@@ -807,6 +808,7 @@
 ||d35u1vg1q28b3w.cloudfront.net^
 ||d3a510xmpll7o6.cloudfront.net^
 ||d3agakyjgjv5i8.cloudfront.net^
+||d3c3cq33003psk.cloudfront.net^
 ||d3c8j8snkzfr1n.cloudfront.net^
 ||d3div1mtym39ic.cloudfront.net^
 ||d3h5bk8iotgjvw.cloudfront.net^
@@ -2395,6 +2397,8 @@
 ||stats.ivpn.net^
 ||stats.lineageos.org^
 ||stats.live-video.net^
+||stats.pusher.com^
+||stats.webstarts.com^
 ||stats.wordpress.com^
 ||stats.wp.com^
 ||stats.wpmucdn.com^
