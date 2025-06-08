@@ -422,6 +422,7 @@
 ||betrad.com^
 ||bettingpartners.com^
 ||beyondwickedmapping.org^
+||beyondwords.io^
 ||bf.dynatrace.com^
 ||bfmio.com^
 ||bh.contextweb.com^
@@ -461,6 +462,7 @@
 ||bounceexchange.com^
 ||bouncex.net^
 ||boxofficemojo.com^
+||bqstreamer.com^
 ||bqstreamer.com^
 ||brainlyads.com^
 ||branch.io^
@@ -2407,7 +2409,6 @@
 ||steadfastsystem.com^
 ||steelhousemedia.com^
 ||stickyadstv.com^
-||storage.googleapis.com^
 ||stores-counters.wix.com^
 ||streamingextensions.com^
 ||strike.fox.com^
