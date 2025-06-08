@@ -1749,7 +1749,6 @@
 ||notify6.com^
 ||notifysrv.com^
 ||notifyvisitors.com^
-||npttech.com^
 ||nqs.nice264.com^
 ||nr-data.net^
 ||nrdp.nccp.netflix.com^
