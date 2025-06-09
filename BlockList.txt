@@ -356,6 +356,7 @@
 ||athena.archive.org^
 ||ati-host.net^
 ||atmtd.com^
+||atoms.usatoday.com^
 ||atrack.avplayer.com^
 ||ats.everesttech.net^
 ||att.inq.com^
@@ -2738,6 +2739,7 @@
 ||widgets.pinterest.com^
 ||widgets.tree.com^
 ||widgets.xsellco.com^
+||wikiwhatwhere.com^
 ||wildmoodswings.co.uk^
 ||wimsey.publicsquare.com^
 ||wisepops.com^
