@@ -2126,6 +2126,7 @@
 ||rookinews.com^
 ||rootstheweb.com^
 ||routing.cloudfront.aws.a2z.com^
+||rover.ebay.com^
 ||rp.liadm.com^
 ||rpxnow.com^
 ||rt.prnewswire.com^
@@ -2471,6 +2472,7 @@
 ||tagdelivery.mayoclinic.org^
 ||tagger.opecloud.com^
 ||tags.aljazeera.com^
+||tags.asics.com^
 ||tags.creditkarma.com^
 ||tags.dillards.com^
 ||tags.news.com.au^
