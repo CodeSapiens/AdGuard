@@ -103,6 +103,7 @@
 ||admob-creative.googleusercontent.com^
 ||admob.
 ||adn.cloud^
+||adn*.velocityweather.com^
 ||adnet.
 ||adnxs-simple.com^
 ||adnxs.com^
@@ -1288,6 +1289,7 @@
 ||hlserve.com^
 ||holid.bbvms.com^
 ||homedepot.online-metrix.net^
+||honey.io^
 ||hospitablehall.com^
 ||hotdeals360.com^
 ||hotjar.com^
