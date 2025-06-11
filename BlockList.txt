@@ -2155,6 +2155,7 @@
 ||s1search.co^
 ||s3-*-ww.cf.videorolls.row.aiv-cdn.net^
 ||s3-1-w.amazonaws.com^
+||sa-as.com^
 ||sa.adidas.
 ||sa.api.intl.miui.com^
 ||sa.bbc.co.uk^
@@ -2712,6 +2713,7 @@
 ||wasabi.pluto.tv^
 ||watch-cdn.product.api.espn.com^
 ||watch.amazon.com^
+||wayin.com^
 ||wdfl.co^
 ||weatherblink.com^
 ||weatherbuddy.net^
