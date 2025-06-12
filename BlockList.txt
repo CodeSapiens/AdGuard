@@ -2424,6 +2424,7 @@
 ||styria-digital.com^
 ||subs.youmaker.com^
 ||subscribe.insight.synology.com^
+||subscribe.washingtonpost.com^
 ||subscription-forms.smsbump.com^
 ||subseasecurity.com^
 ||substation.confection.io^
