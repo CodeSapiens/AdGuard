@@ -1231,6 +1231,7 @@
 ||googleads
 ||googleadservices.com^
 ||googlebot.com^
+||googlecommerce.com^
 ||googlen*.top^
 ||googleoptimize*.com^
 ||googlesyndication*.com^
