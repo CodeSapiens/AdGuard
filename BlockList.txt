@@ -514,6 +514,7 @@
 ||capi.elements.video^
 ||carambo.la^
 ||carbonads.net^
+||cartelsalsa.com^
 ||cartkitten.com^
 ||casalemedia.com^
 ||cat.pexels.com^
@@ -645,6 +646,7 @@
 ||cloudharmony.net^
 ||clrt.ai^
 ||cm-exchange.toast.com^
+||cm.desmoinesregister.com^
 ||cm.usatoday.com^
 ||cmp.advertising.com^
 ||cmp.dmgmediaprivacy.co.uk^
@@ -2655,6 +2657,7 @@
 ||use1-api.tplinkra.com^
 ||usecho.internetat.tv^
 ||user-signals.production-public.tubi.io^
+||user.desmoinesregister.com^
 ||usera.imagecave.com^
 ||usercentrics.eu^
 ||userfly.com^
