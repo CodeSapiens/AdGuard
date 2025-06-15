@@ -419,6 +419,7 @@
 ||beap.gemini.yahoo.com^
 ||beehiiv-adnetwork-production.s3.amazonaws.com^
 ||bento.agoda.com^
+||beop.io^
 ||bestdove.in.ua^
 ||bestrevie.ws^
 ||betrad.com^
@@ -973,6 +974,7 @@
 ||email-*.cjm.adobe.com^
 ||email.aboutamazon.com^
 ||emb-api.com^
+||embed.e2ma.net^
 ||embed.ly^
 ||embed.sendtonews.com^
 ||emltrk.com^
