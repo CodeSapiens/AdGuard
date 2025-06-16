@@ -466,7 +466,6 @@
 ||bouncex.net^
 ||boxofficemojo.com^
 ||bqstreamer.com^
-||bqstreamer.com^
 ||brainlyads.com^
 ||branch.io^
 ||brand-sdk.kmsmep.com^
@@ -1473,6 +1472,7 @@
 ||klclick*.com^
 ||klickly.com^
 ||knotch-cdn.com^
+||knowledgetags.yextpages.net^
 ||kochava.com^
 ||korfo.org^
 ||kostprice.com^
@@ -1642,6 +1642,7 @@
 ||metrics.confectionerynews.com^
 ||metrics.icloud.v.aaplimg.com^
 ||metriqui.com^
+||mg.em.joann.com^
 ||mgid.com^
 ||mi.eddiebauer.com^
 ||micpn.com^
