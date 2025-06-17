@@ -680,6 +680,7 @@
 ||commerce.bing.com^
 ||commerce.nbcuni.com^
 ||commnat-*-gc.ess.apple.com^
+||compare-static.travelmath.com^
 ||comscore.com^
 ||concert.io^
 ||concertads-configs.vox-cdn.com^
