@@ -901,6 +901,7 @@
 ||dmpxs.com^
 ||dn0qt3r0xannq.cloudfront.net^
 ||dna.amazon.com^
+||dns-clientinfo.vtg.paramount.tech^
 ||dns.apple.com^
 ||dns.hinet.net^
 ||dns.msftncsi.com^
