@@ -980,6 +980,7 @@
 ||embed.e2ma.net^
 ||embed.ly^
 ||embed.sendtonews.com^
+||emlfiles4.com^
 ||emltrk.com^
 ||emxdgt.com^
 ||en25.com^
