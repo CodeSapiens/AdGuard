@@ -944,6 +944,7 @@
 ||ebayrtm.com^
 ||ebesee.com^
 ||ebxcdn.com^
+||ec.editmysite.com^
 ||ec.thredup.com^
 ||ecdinterface.philips.com^
 ||ecommplugins-scripts.trustpilot.com^
@@ -1588,6 +1589,7 @@
 ||mantis-intelligence.com^
 ||marinsoftware.com^
 ||marketing.gilderlehrman.org^
+||marketingautomation.services^
 ||marketingcloudapis.com^
 ||marketingcloudfx.com^
 ||marketingsolutions.yahoo.com^
@@ -1652,6 +1654,7 @@
 ||microad.jp^
 ||mid.rkdms.com^
 ||middycdn-a.akamaihd.net^
+||milotree.com^
 ||minute.ly^
 ||minutemedia.com^
 ||mixpanel.com^
@@ -1780,6 +1783,7 @@
 ||okasconcepts.com^
 ||om.dowjoneson.com^
 ||omappapi.com^
+||ometria.com^
 ||omnatuor.com^
 ||omniconvert.com^
 ||omnisnippet1.com^
@@ -2486,6 +2490,7 @@
 ||tags.asics.com^
 ||tags.creditkarma.com^
 ||tags.dillards.com^
+||tags.klove.com^
 ||tags.news.com.au^
 ||tags.rfa.org^
 ||tags.tiqcdn.com^
