@@ -100,6 +100,7 @@
 ||adlightning.com^
 ||admanmedia.com^
 ||admantx.com^
+||admetricspro.com^
 ||admob-creative.googleusercontent.com^
 ||admob.
 ||adn.cloud^
@@ -332,6 +333,7 @@
 ||arc*.msn.com^
 ||arclight.vimeo.com^
 ||areyouwatchingthis.com^
+||armanet.us^
 ||as.sourceforge.net^
 ||asadcdn.com^
 ||ascendeummedia.com^
@@ -1999,6 +2001,7 @@
 ||propervideo.io^
 ||protagcdn.com^
 ||protechts.net^
+||protectsubrev.com^
 ||proxy-us.posthog.com^
 ||ps5.pndsn.com^
 ||pstmrk.it^
@@ -2107,6 +2110,7 @@
 ||rest.locuslabs.com^
 ||returnpath.net^
 ||revampcdn.com^
+||revcatch.com^
 ||revcontent.com^
 ||reverselookup.quicksetcloud.com^
 ||revive-adserver.com^
@@ -2565,6 +2569,7 @@
 ||trace*.svc.ui.com^
 ||tracemyip.org^
 ||track-adventure.squarespace.com^
+||track-na2.hubspot.com^
 ||track.alibaba.com^
 ||track.baseball.cbssports.com^
 ||track.capitaloneshopping.com^
