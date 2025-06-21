@@ -566,6 +566,7 @@
 ||cdn.logbase.io^
 ||cdn.lr-ingest.io^
 ||cdn.membrana.media^
+||cdn.monsido.com^
 ||cdn.opecloud.com^
 ||cdn.pdst.fm^
 ||cdn.petametrics.com^
@@ -829,6 +830,7 @@
 ||d3ohh9b4v3oawh.cloudfront.net^
 ||d3plfjw9uod7ab.cloudfront.net^
 ||d3q33rbmdkxzj.cloudfront.net^
+||d3u598arehftfk.cloudfront.net^
 ||d6wyculpvlvh1.cloudfront.net^
 ||d9esmwyn3ffr1.cloudfront.net^
 ||dabu.askmediagroup.com^
@@ -1119,6 +1121,7 @@
 ||fpa-*.adweek.com^
 ||fpapi.io^
 ||fpjs.io^
+||frase.io^
 ||freedomadnetwork.com^
 ||freeskreen.com^
 ||freewheel.com^
@@ -1699,8 +1702,10 @@
 ||mountain.com^
 ||mouseflow.com^
 ||movie4k.to^
+||mp-data.gofundme.com^
 ||mp.theepochtimes.com^
 ||mparticle.com^
+||mparticle.map.fastly.net^
 ||mparticle.weather.com^
 ||mpeasylink.com^
 ||mplxtms.com^
@@ -2765,6 +2770,7 @@
 ||widgets.future-fie.co.uk^
 ||widgets.pinterest.com^
 ||widgets.tree.com^
+||widgets.wp.com^
 ||widgets.xsellco.com^
 ||wikiwhatwhere.com^
 ||wildmoodswings.co.uk^
