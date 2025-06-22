@@ -2026,6 +2026,7 @@
 ||publisher.liveperson.net^
 ||pubmatic.com^
 ||pubmine.com^
+||pubperf.com^
 ||pubtm.com^
 ||pubtrky.com^
 ||pulsar.ebay.com^
@@ -2288,6 +2289,7 @@
 ||sessioncam.com^
 ||settings-win.data.microsoft.com^
 ||settings.data.microsoft.com^
+||sf-ads.io^
 ||sgrupontihecliff.xyz^
 ||sgtm.omio.com^
 ||sgtm.userway.org^
