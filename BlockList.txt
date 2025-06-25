@@ -245,6 +245,7 @@
 ||amethyst.zappos.com^
 ||aminopay.net^
 ||ampcid.google.com^
+||ampfeed.com^
 ||amplitude.com^
 ||ampproject.org^
 ||amxrtb.com^
@@ -399,6 +400,7 @@
 ||bacon.forbes.com^
 ||baidustatic.com^
 ||baikebcs.cdn.bcebos.com^
+||bam-x.com^
 ||banner.kaktus.media^
 ||bannersnack.com^
 ||basebanner.com^
@@ -1358,6 +1360,7 @@
 ||imasdk.googleapis.com^
 ||img.interhome.
 ||imiclk.com^
+||imm.ewscloud.com^
 ||impact-ad.jp^
 ||impactcdn.com^
 ||impactradius-event.com^
@@ -1368,6 +1371,7 @@
 ||imrworldwide.com^
 ||in.appcenter.ms^
 ||inbenta.io^
+||includemodal.global.ssl.fastly.net^
 ||indexexchange.com^
 ||indexww.com^
 ||infinity-tracking.net^
@@ -2018,6 +2022,7 @@
 ||pub.network^
 ||pubgifs.com^
 ||pubguru.com^
+||pubguru.net^
 ||pubgw.yahoo.com^
 ||pubimgs.com^
 ||public.cobrowse.oraclecloud.com^
@@ -2148,6 +2153,7 @@
 ||rollout.ada.support^
 ||rookinews.com^
 ||rootstheweb.com^
+||rootsweb.com^
 ||routing.cloudfront.aws.a2z.com^
 ||rover.ebay.com^
 ||rp.liadm.com^
@@ -2238,6 +2244,7 @@
 ||secure.cdn.fastclick.net^
 ||secure.everyaction.com^
 ||secure.rating-widget.com^
+||secureanalytic.com^
 ||secureir.ebaystatic.com^
 ||securemetrics.apple.com^
 ||securemetrics*.v.aaplimg.com^
@@ -2396,6 +2403,7 @@
 ||stape.io^
 ||starget.intel.
 ||start-trezor.squarespace.com^
+||stat-track.com^
 ||stat.alibaba.com^
 ||stat.brightchat.org^
 ||statcollector.sidearmsports.com^
@@ -2589,6 +2597,7 @@
 ||trackcmp.net^
 ||trackdesk.com^
 ||trackedlink.net^
+||trackedweb.net^
 ||tracker.
 ||trackersimulator.org^
 ||tracking-api.g2.com^
@@ -2771,6 +2780,7 @@
 ||widgetlogic.org^
 ||widgets.future-fie.co.uk^
 ||widgets.pinterest.com^
+||widgets.rewardstyle.com^
 ||widgets.tree.com^
 ||widgets.wp.com^
 ||widgets.xsellco.com^
@@ -2794,6 +2804,7 @@
 ||wyhifdpatl.com^
 ||wzrkt.com^
 ||x-vpn.ug^
+||x.disq.us^
 ||xad.com^
 ||xandr.com^
 ||xg4ken.com^
