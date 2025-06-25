@@ -1824,6 +1824,7 @@
 ||openx.org^
 ||openxenterprise.com^
 ||ophan.
+||opinionlab.com^
 ||oppomobile.com^
 ||optable.co^
 ||opticksprotection.com^
