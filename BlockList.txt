@@ -2481,6 +2481,7 @@
 ||swa.eonline.com^
 ||swasc.homedepot.com^
 ||swiftypecdn.com^
+||switchadhub.com^
 ||swypeconnect.com^
 ||symplr.de^
 ||syndicatedsearch.goog^
