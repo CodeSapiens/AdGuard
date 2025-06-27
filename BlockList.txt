@@ -250,6 +250,7 @@
 ||ampproject.org^
 ||amxrtb.com^
 ||an.facebook.com^
+||analytic.rollout.io^
 ||analyze-*.m-w.com^
 ||andbeyond.media^
 ||animatedbanner.xyz^
@@ -348,6 +349,7 @@
 ||assets.juicer.io^
 ||assets.mailerlite.com^
 ||assets.minutemediacdn.com^
+||assets.msn.cn^
 ||assets.rebelmouse.io^
 ||assets.revcontent.com^
 ||assets.zephr.com^
@@ -802,6 +804,7 @@
 ||d2e0sxz09bo7k2.cloudfront.net^
 ||d2ef20sk9hi1u3.cloudfront.net^
 ||d2fbvay81k4ji3.cloudfront.net^
+||d2h8zr0m6mus4x.cloudfront.net^
 ||d2in0p32vp1pij.cloudfront.net^
 ||d2o5idwacg3gyw.cloudfront.net^
 ||d2ouawjonid8rv.cloudfront.net^
@@ -848,6 +851,7 @@
 ||data.cnn.com^
 ||data.mistat*.xiaomi.com^
 ||data.pendo.io^
+||data.replo.app^
 ||data*.pendo.io^
 ||data*.stepstone.
 ||datadog.pool.ntp.org^
@@ -2057,6 +2061,7 @@
 ||pxlctl.
 ||q.quora.com^
 ||q.stripe.com^
+||qbrth.ezcontacts.com^
 ||qgxbluhsgad.com^
 ||qm2.progressive.com^
 ||qortex.ai^
@@ -2374,6 +2379,7 @@
 ||specialoffers.suppleapps.com^
 ||spectrum.gettyimages.com^
 ||speedcurve.com^
+||spfy-pxl.archive-digger.com^
 ||spiny.ai^
 ||sponge.creditkarma.com^
 ||spookyexchange.com^
@@ -2733,6 +2739,7 @@
 ||visualwebsiteoptimizer.com^
 ||vitals.vercel-insights.com^
 ||vizu.com^
+||vizury.com^
 ||vlscppe.microsoft.com^
 ||vo.msecnd.net^
 ||voilatile-pa.googleapis.com^
