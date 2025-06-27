@@ -328,6 +328,7 @@
 ||appscoverage.net^
 ||appsflyer.com^
 ||appsflyersdk.com^
+||appsgrowthpromo-pa.clients6.google.com^
 ||appsolve.io^
 ||appspot.com^
 ||aptivada.com^
@@ -687,6 +688,7 @@
 ||commerce.bing.com^
 ||commerce.nbcuni.com^
 ||commnat-*-gc.ess.apple.com^
+||compare-static.reservationdesk.com^
 ||compare-static.travelmath.com^
 ||comscore.com^
 ||concert.io^
