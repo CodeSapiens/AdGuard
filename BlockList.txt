@@ -784,6 +784,7 @@
 ||d.email.forbes.com^
 ||d.reddit.com^
 ||d10lpsik1i8c69.cloudfront.net^
+||d15k2d11r6t6rl.cloudfront.net^
 ||d15kdpgjg3unno.cloudfront.net^
 ||d196fri2z18sm.cloudfront.net^
 ||d1enchupjctwud.cloudfront.net^
