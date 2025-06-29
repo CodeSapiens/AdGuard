@@ -552,6 +552,7 @@
 ||cdn.bootcss.com^
 ||cdn.branch.io^
 ||cdn.brid.tv^
+||cdn.chatbot.com^
 ||cdn.clarip.com^
 ||cdn.codeblackbelt.com^
 ||cdn.concert.io^
@@ -563,6 +564,7 @@
 ||cdn.gadgets360.com^
 ||cdn.geni.us^
 ||cdn.gladly.com^
+||cdn.hadronid.net^
 ||cdn.imhd.io^
 ||cdn.intelligems.io^
 ||cdn.jifo.co^
@@ -2555,6 +2557,7 @@
 ||techlab-cdn.com^
 ||ted.dailymail.co.uk^
 ||telaria.com^
+||telegraph.prd.api.bleacherreport.com^
 ||telem-edge.smartscreen.microsoft.com^
 ||telete.in^
 ||tenhourweek.com^
