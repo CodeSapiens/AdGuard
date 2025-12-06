@@ -78,6 +78,7 @@
 ||ad-miner.com^
 ||ad-tech.nbcuni.com^
 ||ad.
+||ad2.fivecdm.com^
 ||adap.tv^
 ||adapex.io^
 ||adara.com^
@@ -282,6 +283,7 @@
 ||api.iterable.com^
 ||api.lever.co^
 ||api.qubit.com^
+||api.raygun.io^
 ||api.receptivity.io^
 ||api.retargetly.com^
 ||api.revenuecat.com^
@@ -324,7 +326,6 @@
 ||applytics.nordvpn.com^
 ||appmetrica.yandex.com^
 ||appnexus.com^
-||apps.rokt.com^
 ||appscoverage.net^
 ||appsflyer.com^
 ||appsflyersdk.com^
@@ -418,6 +419,7 @@
 ||beachfront.com^
 ||beacon.*.prodaa.netflix.com^
 ||beacon.dropbox.com^
+||beacon.gtv-pub.com^
 ||beacon.mailchimp.com^
 ||beacon.samsclub.com^
 ||beacon.walmart.com^
@@ -462,7 +464,6 @@
 ||blueconic.net^
 ||bluecore.com^
 ||bluekai.com^
-||bnc.lt^
 ||boi9osyg1uwtyafn.com^
 ||boldapps.net^
 ||boldcommerce.com^
@@ -569,7 +570,6 @@
 ||cdn.intelligems.io^
 ||cdn.jifo.co^
 ||cdn.justuno.com^
-||cdn.listrakbi.com^
 ||cdn.logbase.io^
 ||cdn.lr-ingest.io^
 ||cdn.membrana.media^
@@ -870,7 +870,6 @@
 ||db7q4jg5rkhk8.cloudfront.net^
 ||dc.services.visualstudio.com^
 ||dc.stenaline.
-||dcf.espn.com^
 ||dcp.dc1.philips.com^
 ||dcylog.com^
 ||dd.allaboutcookies.org^
@@ -884,6 +883,7 @@
 ||demandbase.com^
 ||demdex.net^
 ||deployads.com^
+||det-ta-g7g.amazon.com^
 ||dev-plan.intel.
 ||dev.pyxis.atp.fox^
 ||developer.amazon.com^
@@ -914,6 +914,7 @@
 ||dm-event.net^
 ||dmd.metaservices.microsoft.com^
 ||dmpxs.com^
+||dmt.fidelity.com^
 ||dn0qt3r0xannq.cloudfront.net^
 ||dna.amazon.com^
 ||dns-clientinfo.vtg.paramount.tech^
@@ -960,7 +961,6 @@
 ||ebesee.com^
 ||ebxcdn.com^
 ||ec.editmysite.com^
-||ec.thredup.com^
 ||ecdinterface.philips.com^
 ||ecommplugins-scripts.trustpilot.com^
 ||ecommplugins-trustboxsettings.trustpilot.com^
@@ -1007,12 +1007,13 @@
 ||ensighten.com^
 ||ensighten.norton.com^
 ||entitlements.jwplayer.com^
+||ep2.facebook.com^
+||er.fivecdm.com^
 ||erectile-dysfunction-treatment-*.bond^
 ||ero-advertising.com^
 ||error-tracking.reddit.com^
 ||eskimi.com^
 ||esm1.net^
-||espn.api.edge.bamgrid.com^
 ||etahub.com^
 ||ethicalads.io^
 ||eum-appdynamics.com^
@@ -1092,11 +1093,9 @@
 ||firebaseapp.com^
 ||firebasecrashlytics*.googleapis.com^
 ||firebaseinappmessaging.googleapis.com^
-||firebaseinstallations.googleapis.com^
 ||firebaseio.com^
 ||firebaselogging*.googleapis.com^
 ||firebasepredictions.googleapis.com^
-||fireoscaptiveportal.com^
 ||firetv-news-content-ingestion.amazon.com^
 ||fireworkapi1.com^
 ||firstendpoint.com^
@@ -1734,6 +1733,7 @@
 ||msmedia.morningstar.com^
 ||mssdk-sg.tiktok.com^
 ||mssdk.tiktokw.us^
+||mtgglobals.com^
 ||mutinycdn.com^
 ||mxpnl.com^
 ||mxpnl.net^
@@ -1764,7 +1764,6 @@
 ||nexus-websocket-a.intercom.io^
 ||nexusrules.officeapps.live.com^
 ||ngastatic.com^
-||nice-team.net^
 ||nimbleswan.io^
 ||ninthdecimal.com^
 ||nipe4head.com^
@@ -1978,7 +1977,6 @@
 ||postmedia.hub.loginradius.com^
 ||postrelease.com^
 ||powerad.ai^
-||powerreviews.com^
 ||powr.io^
 ||pqanr7dftrk.com^
 ||pr-bh.ybp.yahoo.com^
@@ -2099,6 +2097,7 @@
 ||rat.rakuten.
 ||ravenjs.com^
 ||ravm.tv^
+||rayjump.com^
 ||rbl.ms^
 ||rdns*.apple.com^
 ||rdtcdn.com^
@@ -2195,7 +2194,6 @@
 ||s.youtube.com^
 ||s1search.co^
 ||s3-*-ww.cf.videorolls.row.aiv-cdn.net^
-||s3-1-w.amazonaws.com^
 ||sa-as.com^
 ||sa.adidas.
 ||sa.api.intl.miui.com^
@@ -2316,6 +2314,7 @@
 ||sharethis.com^
 ||sharethrough.com^
 ||shebudriftaiter.net^
+||sherlock-events-sampler.ebay.com^
 ||shgcdn3.com^
 ||shield-aos-analytics.v.aaplimg.com^
 ||shimmermill.com^
@@ -2432,6 +2431,7 @@
 ||static.getbutton.io^
 ||static.getclicky.com^
 ||static.iterable.com^
+||static.joy.so^
 ||static.mailerlite.com^
 ||static.myfinance.com^
 ||static.mywot.com^
@@ -2564,6 +2564,7 @@
 ||test.ajo.adobe.com^
 ||test.com^
 ||tgtag.io^
+||thanks.is^
 ||the-ozone-project.com^
 ||theappreciationengine.com^
 ||thebrighttag.com^
@@ -2574,6 +2575,7 @@
 ||thunderhead.com^
 ||tidio.co^
 ||tidy.intel.
+||tiktokpangle
 ||tiqcdn.com^
 ||tiresomethunder.com^
 ||tk.airfrance.
