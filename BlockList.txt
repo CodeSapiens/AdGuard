@@ -261,6 +261,7 @@
 ||answerscloud.com^
 ||ap.spotify.com^
 ||apcdp.apnews.com^
+||api-*-prod.cdn.arcpublishing.com^
 ||api-2-0.spot.im^
 ||api-adservices.apple.com^
 ||api-bd.kohls.com^
@@ -1985,6 +1986,7 @@
 ||posthog2.fluffleinfra.net^
 ||postmedia.hub.loginradius.com^
 ||postrelease.com^
+||powa-ingest-prod-*.video-player.arcpublishing.com^
 ||powerad.ai^
 ||powr.io^
 ||pqanr7dftrk.com^
@@ -2553,6 +2555,7 @@
 ||target.cisco.com^
 ||target.microsoft.com^
 ||targetbay.com^
+||targeting.*.arcpublishing.com^
 ||targeting.nzme.arcpublishing.com^
 ||targeting.tbt.arcpublishing.com^
 ||targeting.washingtonpost.com^
