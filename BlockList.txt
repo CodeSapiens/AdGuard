@@ -610,6 +610,7 @@
 ||cdntravelspike.azureedge.net^
 ||cdntrf.com^
 ||cdp-dev.cnn.com^
+||cdp.cbc.ca^
 ||cdp.cloud.unity3d.com^
 ||ced*.sascdn.com^
 ||cedexis-test.com^
@@ -795,6 +796,7 @@
 ||d1g145x70srn7h.cloudfront.net^
 ||d1hcrjcdtouu7e.cloudfront.net^
 ||d1ros97qkrwjf5.cloudfront.net^
+||d1tru86qrby720.cloudfront.net^
 ||d1vl8wytztdz.cloudfront.net^
 ||d1wix2gc2cgqis.cloudfront.net^
 ||d1yprpojhqvser.cloudfront.net^
@@ -933,6 +935,7 @@
 ||doubleverify.com^
 ||downloads.mailchimp.com^
 ||dp-gw.amazon.com^
+||dp-rsm-prod.amazon.com^
 ||dpclk.com^
 ||dr3fr5q4g2ul9.cloudfront.net^
 ||drfdisvc.walmart.com^
@@ -1285,6 +1288,7 @@
 ||gustygrandmother.com^
 ||gvt2.com^
 ||gvt3.com^
+||gx-target-experiments-frontend-api.gx.nvidia.com^
 ||h.tanbooks.com^
 ||handsomelyhealth.com^
 ||hawk-assets.co.uk^
@@ -1312,7 +1316,6 @@
 ||hlserve.com^
 ||holid.bbvms.com^
 ||homedepot.online-metrix.net^
-||honey.io^
 ||hospitablehall.com^
 ||hotdeals360.com^
 ||hotjar.com^
@@ -1391,6 +1394,7 @@
 ||inmobi.com^
 ||innity.net^
 ||innovid.com^
+||insectmacros.com^
 ||insightexpressai.com^
 ||insights.alibaba.com^
 ||insights*.algolia.io^
@@ -1588,6 +1592,7 @@
 ||lptag-cdn.liveperson.net^
 ||lptag.liveperson.net^
 ||lr-in-prod.com^
+||lrcontent.com^
 ||lrkt-in.com^
 ||ltmsphrcl.net^
 ||luckyorange.com^
@@ -1764,6 +1769,7 @@
 ||nexus-websocket-a.intercom.io^
 ||nexusrules.officeapps.live.com^
 ||ngastatic.com^
+||nice-team.net^
 ||nimbleswan.io^
 ||ninthdecimal.com^
 ||nipe4head.com^
@@ -1851,6 +1857,7 @@
 ||osimg.nbcuni.com^
 ||osm-ads*.delivery.roku.com^
 ||oss-us-west-1.aliyuncs.com^
+||otel-hfo.fareharbor.engineering^
 ||oui-0x00199d.com^
 ||outbrain.com^
 ||outbrainimg.com^
@@ -2326,6 +2333,7 @@
 ||shortpixel.ai^
 ||sid.nordstrom.com^
 ||sidearm-syndication.s3.amazonaws.com^
+||sided.co^
 ||siftscience.com^
 ||signifyd.com^
 ||siloh-ns*.plutotv.net^
@@ -2666,6 +2674,7 @@
 ||tynt.com^
 ||typeahead.target.com^
 ||tzm.px-cloud.net^
+||u.expo.dev^
 ||u566.chron.com^
 ||ua.indianexpress.com^
 ||ubembed.com^
