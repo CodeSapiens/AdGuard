@@ -1343,6 +1343,7 @@
 ||i18n-pglstatp.com^
 ||ia.media-imdb.com^
 ||iabusprivacy.pmc.com^
+||iads.unity3d.com^
 ||iadsdk.apple.com^
 ||iasds01.com^
 ||ichnaea-web.netflix.com^
@@ -1653,6 +1654,7 @@
 ||mediamath.com^
 ||mediaplex.com^
 ||mediarithmics.com^
+||mediation.unity3d.com^
 ||mediatradecraft.com^
 ||mediavine.com^
 ||medtargetsystem.com^
