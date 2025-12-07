@@ -78,7 +78,6 @@
 ||ad-miner.com^
 ||ad-tech.nbcuni.com^
 ||ad.
-||ad2.fivecdm.com^
 ||adap.tv^
 ||adapex.io^
 ||adara.com^
@@ -1041,6 +1040,7 @@
 ||events.polarbyte.com^
 ||events.reddit.com^
 ||events.redditmedia.com^
+||events.split.io^
 ||events.squarespace.com^
 ||everestengagement.com^
 ||everestjs.net^
@@ -1104,6 +1104,7 @@
 ||fireworkapi1.com^
 ||firstendpoint.com^
 ||firstpromoter.com^
+||fivecdm.com^
 ||flashb.id^
 ||flashtalking.com^
 ||flask*.nextdoor.com^
@@ -2589,6 +2590,7 @@
 ||tidio.co^
 ||tidy.intel.
 ||tiktokpangle
+||tiktokpangle.us^
 ||tiqcdn.com^
 ||tiresomethunder.com^
 ||tk.airfrance.
