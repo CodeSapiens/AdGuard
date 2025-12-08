@@ -282,6 +282,7 @@
 ||api.ipstack.com^
 ||api.iterable.com^
 ||api.lever.co^
+||api.mypurecloud.de^
 ||api.qubit.com^
 ||api.raygun.io^
 ||api.receptivity.io^
@@ -505,6 +506,7 @@
 ||byteoversea.com^
 ||c.*.msn.com^
 ||c.bing.com^
+||c.couponfollow.com^
 ||c.msn.com^
 ||c.thredup.com^
 ||c00.adobe.com^
@@ -1011,7 +1013,7 @@
 ||ensighten.norton.com^
 ||entitlements.jwplayer.com^
 ||ep2.facebook.com^
-||er.fivecdm.com^
+||epsilon.6sense.com^
 ||erectile-dysfunction-treatment-*.bond^
 ||ero-advertising.com^
 ||error-tracking.reddit.com^
@@ -2306,6 +2308,7 @@
 ||servedbysmart.com^
 ||serverbid-sync.nyc3.cdn.digitaloceanspaces.com^
 ||serverbid.com^
+||servertag.nespresso.com^
 ||service-ad-*.pluto.tv^
 ||service.amazonsilk.com^
 ||service.cmp.oath.com^
@@ -2524,6 +2527,7 @@
 ||t.wayfair.com^
 ||t.xoom.com^
 ||taboola.com^
+||tangiblee.com^
 ||taboolasyndication.com^
 ||tag.aticdn.net^
 ||tag.brandcdn.com^
