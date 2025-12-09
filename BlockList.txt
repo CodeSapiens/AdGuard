@@ -851,6 +851,7 @@
 ||dabu.askmediagroup.com^
 ||dap.digitalgov.gov^
 ||dap.hindustantimes.com^
+||dap.samsclub.com^
 ||darnuid.netflix.com^
 ||dartsearch.net^
 ||dashboard.tinypass.com^
@@ -1199,6 +1200,7 @@
 ||g1u7r3xs6.com^
 ||g2crowd.com^
 ||gallery.mailchimp.com^
+||gaysweekend.com^
 ||gameplayapi.intel.com^
 ||gammaplatform.com^
 ||gannettdigital.com^
