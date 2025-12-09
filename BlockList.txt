@@ -282,6 +282,7 @@
 ||api.ipstack.com^
 ||api.iterable.com^
 ||api.lever.co^
+||api.mypurecloud.com^
 ||api.mypurecloud.de^
 ||api.qubit.com^
 ||api.raygun.io^
@@ -908,6 +909,7 @@
 ||diproton-ads-prod-*.hulu.com.akadns.net^
 ||direct.data.api.platform.here.com^
 ||directavenue.tech^
+||directory.cookieyes.com^
 ||diromalxx.com^
 ||disneycasting.net^
 ||display.ugc.bazaarvoice.com^
@@ -1226,6 +1228,7 @@
 ||geoip.businessinsider.com^
 ||geoip.freemake.com^
 ||geoip.radio-canada.ca^
+||geoip.youversionapi.com^
 ||geoiplookup.io^
 ||geolocation-db.com^
 ||geolocation.forbes.com^
@@ -2173,6 +2176,7 @@
 ||rmt.homedepot.com^
 ||rmtag.com^
 ||rnengage.com^
+||roadkilltshirts.com^
 ||roirevolution.com^
 ||rokt.com^
 ||rollout.ada.support^
@@ -2478,6 +2482,7 @@
 ||streamingextensions.com^
 ||strike.fox.com^
 ||stripe.network^
+||stubhub-proxy.genius.com^
 ||studiostack.com^
 ||stun.cdn-net.com^
 ||stun.voiparound.com^
@@ -2527,7 +2532,6 @@
 ||t.wayfair.com^
 ||t.xoom.com^
 ||taboola.com^
-||tangiblee.com^
 ||taboolasyndication.com^
 ||tag.aticdn.net^
 ||tag.brandcdn.com^
@@ -2549,6 +2553,7 @@
 ||takingbackjuly.com^
 ||talk.washingtonpost.com^
 ||tamgrt.com^
+||tangiblee.com^
 ||tao.barstoolsports.com^
 ||tapad.com^
 ||tapi.apkpure.net^
