@@ -2345,6 +2345,7 @@
 ||shopify-init.blackcrow.ai^
 ||shopperapproved.com^
 ||shortpixel.ai^
+||sibautomation.com^
 ||sid.nordstrom.com^
 ||sidearm-syndication.s3.amazonaws.com^
 ||sided.co^
