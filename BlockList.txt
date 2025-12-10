@@ -1200,12 +1200,12 @@
 ||g1u7r3xs6.com^
 ||g2crowd.com^
 ||gallery.mailchimp.com^
-||gaysweekend.com^
 ||gameplayapi.intel.com^
 ||gammaplatform.com^
 ||gannettdigital.com^
 ||ganon.yahoo.com^
 ||gateway.bingviz.microsoftapp.net^
+||gaysweekend.com^
 ||gc.newsweek.com^
 ||gc.zgo.at^
 ||gcion.com^
@@ -2149,6 +2149,7 @@
 ||responseiq.com^
 ||responsiveads.com^
 ||rest.locuslabs.com^
+||retail.googleapis.com^
 ||returnpath.net^
 ||revampcdn.com^
 ||revcatch.com^
@@ -2821,6 +2822,7 @@
 ||widget.sezzle.com^
 ||widget.spreaker.com^
 ||widget.trustpilot.com^
+||widget.ybug.io^
 ||widgetlogic.org^
 ||widgets.future-fie.co.uk^
 ||widgets.pinterest.com^
