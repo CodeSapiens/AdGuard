@@ -877,6 +877,7 @@
 ||db7q4jg5rkhk8.cloudfront.net^
 ||dc.services.visualstudio.com^
 ||dc.stenaline.
+||dcf.espn.com^
 ||dcp.dc1.philips.com^
 ||dcylog.com^
 ||dd.allaboutcookies.org^
@@ -1942,6 +1943,7 @@
 ||pindorama.amazon.com^
 ||pingback.giphy.com^
 ||pingback.issuu.com^
+||pinpoint.espn.com^
 ||pipe.aria.microsoft.com^
 ||pipedream.wistia.com^
 ||pippio.com^
