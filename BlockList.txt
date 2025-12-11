@@ -1030,6 +1030,7 @@
 ||euw1-api.tplinkra.com^
 ||eve.playstation.com^
 ||eventbus.intuit.com^
+||eventlogger.soundcloud.com^
 ||eventrecorder.cm.bloomberg.com^
 ||events-sandbox.data.msn.com^
 ||events.api.secureserver.net^
@@ -1956,6 +1957,7 @@
 ||pixel.watch^
 ||pixel.wp.com^
 ||pixel*.production-public.tubi.io^
+||pixel*.spotify.com^
 ||pixelcounter.marca.com^
 ||pixels.spotify.com^
 ||pixiedust.buzzfeed.com^
@@ -2615,6 +2617,7 @@
 ||tm-awx.com^
 ||tms.delta.com^
 ||tms.oracle.com^
+||to.getnitropack.com^
 ||tokyo-motion.net^
 ||tools.google.com^
 ||topcrazypress.com^
