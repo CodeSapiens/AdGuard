@@ -2237,6 +2237,7 @@
 ||salesleaf.com^
 ||salsify-ecdn.com^
 ||samba.tv^
+||samizdat-graphql.nytimes.com^
 ||samsungacr.com^
 ||samsungadhub.com^
 ||samsungads.com^
@@ -2623,6 +2624,7 @@
 ||tokyo-motion.net^
 ||tools.google.com^
 ||topcrazypress.com^
+||totaladblock.com^
 ||totalav.com^
 ||tp.media^
 ||tpdads.com^
