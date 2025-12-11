@@ -520,6 +520,7 @@
 ||callrail.com^
 ||campaign-archive.com^
 ||campaigns.cyberinsider.com^
+||candidpick.com^
 ||candycrushsoda.king.com^
 ||cane.intel.
 ||capi.elements.video^
@@ -1339,6 +1340,7 @@
 ||hscta.net^
 ||hsleadflows.net^
 ||htlbid.com^
+||html-load.cc^
 ||html-load.com^
 ||htplayground.com^
 ||http-inputs-notion.splunkcloud.com^
@@ -1427,6 +1429,7 @@
 ||intergient.com^
 ||interncache-frc.fbcdn.net^
 ||intg.snapchat.com^
+||intosewyuckeven.com^
 ||inv-nets.admixer.net^
 ||investingchannel.com^
 ||invitejs.trustpilot.com^
@@ -1690,6 +1693,7 @@
 ||micpn.com^
 ||microad.jp^
 ||mid.rkdms.com^
+||middlegadzooks.com^
 ||middycdn-a.akamaihd.net^
 ||milotree.com^
 ||minute.ly^
@@ -1896,6 +1900,7 @@
 ||pandect.es^
 ||pangleglobal.com^
 ||panorama.wixapps.net^
+||paradefast.com^
 ||parallax.askmediagroup.com^
 ||pardot.com^
 ||parkingcrew.net^
