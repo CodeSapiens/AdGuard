@@ -1232,7 +1232,6 @@
 ||geoip.businessinsider.com^
 ||geoip.freemake.com^
 ||geoip.radio-canada.ca^
-||geoip.youversionapi.com^
 ||geoiplookup.io^
 ||geolocation-db.com^
 ||geolocation.forbes.com^
