@@ -137,6 +137,7 @@
 ||ads4.production-public.tubi.io^
 ||adsafeprotected.com^
 ||adsafety.net^
+||adsdk.bing.net^
 ||adsdk.microsoft.com^
 ||adsdk.yandex.ru^
 ||adsdomaintracking.
@@ -1030,6 +1031,7 @@
 ||eve.playstation.com^
 ||eventbus.intuit.com^
 ||eventrecorder.cm.bloomberg.com^
+||events-sandbox.data.msn.com^
 ||events.api.secureserver.net^
 ||events.brightline.tv^
 ||events.data.microsoft.com^
