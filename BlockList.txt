@@ -243,7 +243,6 @@
 ||amazonclix.com^
 ||amcs-tachyon.com^
 ||americanconsumernews.net^
-||americanconsumernews.net^
 ||amethyst.6pm.com^
 ||amethyst.zappos.com^
 ||aminopay.net^
