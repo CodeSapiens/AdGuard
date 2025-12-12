@@ -237,6 +237,7 @@
 ||aloofvest.com^
 ||alphonso.tv^
 ||als-svc.nytimes.com^
+||alwayssecuredsearch.com^
 ||amazon-adsystem.com^
 ||amazonaax.com^
 ||amazonclix.com^
@@ -731,6 +732,7 @@
 ||consent.dropbox.com^
 ||consent.economist.com^
 ||consentmanager.net^
+||content-loader.com^
 ||content-settings.com^
 ||content-yahoo.uplynk.com^
 ||content.webcollage.net^
@@ -834,6 +836,7 @@
 ||d30qdagvt44524.cloudfront.net^
 ||d35k22e9287vnh.cloudfront.net^
 ||d35u1vg1q28b3w.cloudfront.net^
+||d37j8pfxu2iogi.cloudfront.net^
 ||d3a510xmpll7o6.cloudfront.net^
 ||d3agakyjgjv5i8.cloudfront.net^
 ||d3c3cq33003psk.cloudfront.net^
@@ -1222,6 +1225,8 @@
 ||geller-pa.googleapis.com^
 ||gemini.yahoo.com^
 ||gemius.pl^
+||genesis.malwarebytes.com^
+||geniuslinkcdn.com^
 ||geo.ads
 ||geo.cnbc.com^
 ||geo.gfycat.com^
@@ -1282,6 +1287,7 @@
 ||goto.walmart.com^
 ||gotolstoy.com^
 ||govisibl.io^
+||gr-cdn.com^
 ||granlite.com^
 ||graph-fallback.facebook.com^
 ||graph.facebook.com^
@@ -1484,6 +1490,7 @@
 ||js.hsleadflows.net^
 ||js.hubspot.com^
 ||js.hubspotfeedback.com^
+||js.smile.io^
 ||js.usemessages.com^
 ||js7k.com^
 ||jscache.com^
@@ -1922,6 +1929,7 @@
 ||pbs.yahoo.com^
 ||pbstck.com^
 ||pbxai.com^
+||pcprotect.com^
 ||peasisoft.com^
 ||pegsbuttons.com^
 ||pelcro.com^
@@ -2251,6 +2259,7 @@
 ||sapphire-api.target.com^
 ||sars.amazon.com^
 ||sc-static.net^
+||scanguard.com^
 ||scaredslip.com^
 ||scaredsnakes.com^
 ||scholarlyiq.com^
@@ -2285,6 +2294,7 @@
 ||secondstreetapp.com^
 ||secure.cdn.fastclick.net^
 ||secure.everyaction.com^
+||secure.gaug.es^
 ||secure.rating-widget.com^
 ||secureanalytic.com^
 ||secureir.ebaystatic.com^
@@ -2341,6 +2351,7 @@
 ||settings.data.microsoft.com^
 ||sf-ads.io^
 ||sgrupontihecliff.xyz^
+||sgtm.eset.com^
 ||sgtm.omio.com^
 ||sgtm.userway.org^
 ||shareaholic.net^
@@ -2524,6 +2535,7 @@
 ||sustainability.aboutamazon.com^
 ||svcs.ebay.com^
 ||svopn.e.michaels.com^
+||sw-assets.ekomiapps.de^
 ||sw88.espn.com^
 ||sw88.go.com^
 ||swa.eonline.com^
