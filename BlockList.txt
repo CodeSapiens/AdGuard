@@ -391,7 +391,6 @@
 ||awin1.com^
 ||awstrack.me^
 ||awxcdn.com^
-||axm-telemetry.v.aaplimg.com^
 ||axp.keloland.com^
 ||ay.delivery^
 ||ayads.co^
@@ -1581,6 +1580,7 @@
 ||location.squarespace.com^
 ||locationhistoryaggregates-pa.googleapis.com^
 ||log-*.epicdn.me^
+||log-gateway.zoom.us^
 ||log.cookieyes.com^
 ||log.espn.com^
 ||log.eufylife.com^
@@ -1589,6 +1589,7 @@
 ||log.internetat.tv^
 ||log.pinterest.com^
 ||log.v.ssp.yahoo.com^
+||log.zoom.us^
 ||log*.xiaoyi.com^
 ||logfiles.zoom.us^
 ||logger.goeuro.com^
@@ -1751,6 +1752,7 @@
 ||mparticle.com^
 ||mparticle.map.fastly.net^
 ||mparticle.weather.com^
+||mparticle.zoom.us^
 ||mpeasylink.com^
 ||mplxtms.com^
 ||mps.cnbc.com^
@@ -2749,6 +2751,7 @@
 ||us-central1-*.cloudfunctions.net^
 ||us-east1-*.cloudfunctions.net^
 ||us.i.posthog.com^
+||us04logfiles.zoom.us^
 ||us3.campaign-archive.com^
 ||usabilla.com^
 ||usablenet.com^
