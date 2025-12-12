@@ -644,6 +644,7 @@
 ||clearbitscripts.com^
 ||cleverads.vn^
 ||clevertap-prod.com^
+||click.e.zoom.us^
 ||clickagy.com^
 ||clickbank.com^
 ||clickbank.net^
