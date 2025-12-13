@@ -641,6 +641,7 @@
 ||clanker-events.squarespace.com^
 ||clarice.streema.com^
 ||clarity.ms^
+||claspo.io^
 ||clean.gg^
 ||clear.link^
 ||clearbitscripts.com^
@@ -825,6 +826,7 @@
 ||d2fbvay81k4ji3.cloudfront.net^
 ||d2h8zr0m6mus4x.cloudfront.net^
 ||d2in0p32vp1pij.cloudfront.net^
+||d2lxqodqbpy7c2.cloudfront.net^
 ||d2o5idwacg3gyw.cloudfront.net^
 ||d2ouawjonid8rv.cloudfront.net^
 ||d2p9l91d5g68ru.cloudfront.net^
@@ -2693,6 +2695,7 @@
 ||transcend-cdn.com^
 ||transfermarkt.
 ||transmit.live^
+||travel-assets.com^
 ||trcksp.cordial.io^
 ||treasuredata.com^
 ||tredir.go.com^
