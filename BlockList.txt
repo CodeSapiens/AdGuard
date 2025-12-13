@@ -2847,6 +2847,7 @@
 ||widengle.com^
 ||widget.clutch.co^
 ||widget.custhelp.com^
+||widget.gleamjs.io^
 ||widget.nfusionsolutions.com^
 ||widget.reviews.io^
 ||widget.sezzle.com^
