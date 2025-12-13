@@ -136,6 +136,7 @@
 ||ads4.production-public.tubi.io^
 ||adsafeprotected.com^
 ||adsafety.net^
+||adsbynimbus.com^
 ||adsdk.bing.net^
 ||adsdk.microsoft.com^
 ||adsdk.yandex.ru^
@@ -250,6 +251,7 @@
 ||ampfeed.com^
 ||amplitude.com^
 ||ampproject.org^
+||amspbs.com^
 ||amxrtb.com^
 ||an.facebook.com^
 ||analytic.rollout.io^
@@ -800,6 +802,7 @@
 ||d10lpsik1i8c69.cloudfront.net^
 ||d15k2d11r6t6rl.cloudfront.net^
 ||d15kdpgjg3unno.cloudfront.net^
+||d18eg7dreypte5.cloudfront.net^
 ||d196fri2z18sm.cloudfront.net^
 ||d1enchupjctwud.cloudfront.net^
 ||d1g145x70srn7h.cloudfront.net^
@@ -2745,6 +2748,7 @@
 ||unbounce.com^
 ||undertone.com^
 ||unhappyweakness.com^
+||unified-ad-segment-cdn-ak-*.akamaized.net^
 ||unityads.unity3d.com^
 ||unrulymedia.com^
 ||ups.inq.com^
@@ -2872,6 +2876,7 @@
 ||wimsey.publicsquare.com^
 ||wisepops.com^
 ||wknd.ai^
+||wm.attn.tv^
 ||wootric-eligibility.herokuapp.com^
 ||wow.com^
 ||ws.audioeye.com^
