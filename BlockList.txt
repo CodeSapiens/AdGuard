@@ -2431,6 +2431,7 @@
 ||sp.yelp.com^
 ||spa-adserver*.spapi.io^
 ||spa-tracker*.spapi.io^
+||spade.twitch.tv^
 ||specialoffers.suppleapps.com^
 ||spectrum.gettyimages.com^
 ||speedcurve.com^
