@@ -580,6 +580,7 @@
 ||cdn.lr-ingest.io^
 ||cdn.membrana.media^
 ||cdn.monsido.com^
+||cdn.neverbounce.com^
 ||cdn.opecloud.com^
 ||cdn.pdst.fm^
 ||cdn.petametrics.com^
