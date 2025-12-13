@@ -330,6 +330,7 @@
 ||applytics.nordvpn.com^
 ||appmetrica.yandex.com^
 ||appnexus.com^
+||apps-shopify.ipblocker.io^
 ||appscoverage.net^
 ||appsflyer.com^
 ||appsflyersdk.com^
@@ -833,6 +834,7 @@
 ||d2z0bn1jv8xwtk.cloudfront.net^
 ||d3-umami.up.railway.app^
 ||d30qdagvt44524.cloudfront.net^
+||d33a6lvgbd0fej.cloudfront.net^
 ||d35k22e9287vnh.cloudfront.net^
 ||d35u1vg1q28b3w.cloudfront.net^
 ||d37j8pfxu2iogi.cloudfront.net^
@@ -2546,6 +2548,7 @@
 ||switchadhub.com^
 ||swypeconnect.com^
 ||symplr.de^
+||synctrack.io^
 ||syndicatedsearch.goog^
 ||syndication.twitter.com^
 ||syndigo.cloud^
