@@ -3,6 +3,7 @@
 *-na.associates-amazon.com^
 *-thedispatch-com.tinipass.com^
 *.adsbox^
+*.cdn.speechify.com^
 *.opencensus^
 *.textads^
 *.xxx^
@@ -1585,6 +1586,7 @@
 ||loc.kr^
 ||location-api.hdhomerun.com^
 ||location-services-measurements.s3-external-1.amazonaws.com^
+||location.cm.bloomberg.com^
 ||location.squarespace.com^
 ||locationhistoryaggregates-pa.googleapis.com^
 ||log-*.epicdn.me^
