@@ -2007,6 +2007,7 @@
 ||plugin.mediavoice.com^
 ||plusone.google.com^
 ||pmcbbn8trk.com^
+||podcastswaves.com^
 ||pogothere.xyz^
 ||polarcdn-*.com^
 ||policies.oath.com^
