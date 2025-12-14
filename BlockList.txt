@@ -1647,6 +1647,7 @@
 ||manage.devcenter.microsoft.com^
 ||mantis-intelligence.com^
 ||marinsoftware.com^
+||marker.io^
 ||marketing.gilderlehrman.org^
 ||marketingautomation.services^
 ||marketingcloudapis.com^
