@@ -1005,6 +1005,7 @@
 ||edns.ip-api.com^
 ||effectivecreativeformat.com^
 ||el.quizlet.com^
+||elfsightcdn.com^
 ||eloqua-track
 ||eloqua.
 ||eloqua.com^
@@ -2071,6 +2072,7 @@
 ||protagcdn.com^
 ||protechts.net^
 ||protectsubrev.com^
+||provely.io^
 ||proxy-us.posthog.com^
 ||ps5.pndsn.com^
 ||pstmrk.it^
