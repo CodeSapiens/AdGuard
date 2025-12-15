@@ -1360,6 +1360,7 @@
 ||html-load.com^
 ||htplayground.com^
 ||http-inputs-notion.splunkcloud.com^
+||https
 ||htvtools.us^
 ||hubapi.com^
 ||hubspotfeedback.com^
