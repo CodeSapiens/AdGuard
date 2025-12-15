@@ -1560,6 +1560,7 @@
 ||libertycdn.com^
 ||librato-collector.genius.com^
 ||libs.platform.californiatimes.com^
+||license.theoplayer.com^
 ||licensebuttons.net^
 ||lightboxcdn.com^
 ||lightcast.com^
@@ -1624,6 +1625,7 @@
 ||lookinews.com^
 ||loopme.me^
 ||lotame.com^
+||lpcontent.net^
 ||lpsnmedia.net^
 ||lptag-cdn.liveperson.net^
 ||lptag.liveperson.net^
