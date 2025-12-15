@@ -649,6 +649,7 @@
 ||clearbitscripts.com^
 ||cleverads.vn^
 ||clevertap-prod.com^
+||click.bible.com^
 ||click.e.zoom.us^
 ||clickagy.com^
 ||clickbank.com^
@@ -2642,6 +2643,7 @@
 ||thechive.com^
 ||thecontentserver.com^
 ||themediagrid.com^
+||thirdparty.bnc.lt^
 ||thrtle.com^
 ||thunderhead.com^
 ||tidio.co^
