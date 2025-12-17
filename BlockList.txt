@@ -531,6 +531,7 @@
 ||capi.elements.video^
 ||carambo.la^
 ||carbonads.net^
+||carbonatixaudio.com^
 ||cartelsalsa.com^
 ||cartkitten.com^
 ||casalemedia.com^
