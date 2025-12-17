@@ -410,6 +410,7 @@
 ||backstory.ebay.com^
 ||backtrace.io^
 ||bacon.forbes.com^
+||badgerabbit.com^
 ||baidustatic.com^
 ||baikebcs.cdn.bcebos.com^
 ||bam-x.com^
@@ -1885,6 +1886,7 @@
 ||ophan.
 ||opinionlab.com^
 ||oppomobile.com^
+||ops.co^
 ||optable.co^
 ||opticksprotection.com^
 ||optimize-stats.voxmedia.com^
@@ -2427,6 +2429,7 @@
 ||snapengage.com^
 ||snidigital.com^
 ||snowplow-pixel.tradingview.com^
+||soapps.net^
 ||socdm.com^
 ||sociofyme.com^
 ||soflopxl.com^
