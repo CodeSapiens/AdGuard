@@ -810,6 +810,7 @@
 ||d15kdpgjg3unno.cloudfront.net^
 ||d18eg7dreypte5.cloudfront.net^
 ||d196fri2z18sm.cloudfront.net^
+||d1af033869koo7.cloudfront.net^
 ||d1enchupjctwud.cloudfront.net^
 ||d1g145x70srn7h.cloudfront.net^
 ||d1hcrjcdtouu7e.cloudfront.net^
