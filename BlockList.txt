@@ -1813,6 +1813,7 @@
 ||neodatagroup.com^
 ||net.kg^
 ||netizen.co^
+||neuro-id.com^
 ||newrelic.com^
 ||news-bfujufa.cc^
 ||news-edge.apple.com^
@@ -2312,7 +2313,6 @@
 ||sdk.loyaltylion.net^
 ||sdk.postscript.io^
 ||sdk.qikify.com^
-||sdk.split.io^
 ||seadform.net^
 ||seahorseinfo.agilent.com^
 ||seal-*.bbb.org^
@@ -2429,7 +2429,7 @@
 ||smartetailing.piwik.pro^
 ||smartlock.google.com^
 ||smartocto.com^
-||smetrics.
+||smetrics*.
 ||smilewanted.com^
 ||smoot-feedback.v.aaplimg.com^
 ||snap.licdn.com^
@@ -2669,6 +2669,7 @@
 ||tlr.stripocdn.email^
 ||tm-awx.com^
 ||tms.delta.com^
+||tms.experian.com^
 ||tms.oracle.com^
 ||to.getnitropack.com^
 ||tokyo-motion.net^
