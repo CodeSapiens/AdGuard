@@ -285,6 +285,7 @@
 ||api.flipp.com^
 ||api.gdxp.com^
 ||api.ipdata.co^
+||api.ipgeolocation.io^
 ||api.ipstack.com^
 ||api.iterable.com^
 ||api.lever.co^
@@ -341,6 +342,7 @@
 ||appsgrowthpromo-pa.clients6.google.com^
 ||appsolve.io^
 ||appspot.com^
+||apptics.zoho.com^
 ||aptivada.com^
 ||aptrinsic.com^
 ||arc*.msn.com^
@@ -348,6 +350,7 @@
 ||areyouwatchingthis.com^
 ||armanet.us^
 ||as.sourceforge.net^
+||asa.tools^
 ||asadcdn.com^
 ||ascendeummedia.com^
 ||ashleymadison.com^
@@ -696,6 +699,7 @@
 ||collector.getyourguide.com^
 ||collector.github.com^
 ||collector.githubapp.com^
+||collector.superwall.me^
 ||collector.unsplash.com^
 ||collector*.pabs.comcast.com^
 ||colombiaonline.com^
@@ -768,6 +772,7 @@
 ||counter.theconversation.com^
 ||countess.twitch.tv^
 ||cquotient.com^
+||cr-relay.com^
 ||crash-report-service*.svc.ui.com^
 ||crash.steampowered.com^
 ||crashlytics.com^
@@ -2788,6 +2793,7 @@
 ||use.fontawesome.com^
 ||use1-api.tplinkra.com^
 ||usecho.internetat.tv^
+||user-content.superwalleditor.com^
 ||user-signals.production-public.tubi.io^
 ||user.desmoinesregister.com^
 ||usera.imagecave.com^
