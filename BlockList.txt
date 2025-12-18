@@ -1466,6 +1466,7 @@
 ||ioam.de^
 ||iot-eu-logser.realme.com^
 ||iot-logser.realme.com^
+||iovation.com^
 ||ip.prvtx.net^
 ||ipa.elev.io^
 ||ipapi.co^
