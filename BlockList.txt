@@ -2480,7 +2480,6 @@
 ||ssitecat.eset.com^
 ||ssl.cf1.rackcdn.com^
 ||ssl.cf5.rackcdn.com^
-||ssl.kaptcha.com^
 ||ssl.o.medicinenet.com^
 ||ssl.o.webmd.com^
 ||ssl.widgets.webengage.com^
@@ -2539,7 +2538,6 @@
 ||stores-counters.wix.com^
 ||streamingextensions.com^
 ||strike.fox.com^
-||stripe.network^
 ||stubhub-proxy.genius.com^
 ||studiostack.com^
 ||stun.cdn-net.com^
