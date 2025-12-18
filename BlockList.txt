@@ -1411,6 +1411,7 @@
 ||images*.minutemediacdn.com^
 ||imasdk.googleapis.com^
 ||img.interhome.
+||img*.blogblog.com^
 ||imiclk.com^
 ||imm.ewscloud.com^
 ||impact-ad.jp^
@@ -2239,6 +2240,7 @@
 ||rover.ebay.com^
 ||rp.liadm.com^
 ||rpxnow.com^
+||rs6.net^
 ||rt.prnewswire.com^
 ||rtactivate.com^
 ||rtcollector.goeuro.com^
@@ -2888,6 +2890,8 @@
 ||widget.sezzle.com^
 ||widget.spreaker.com^
 ||widget.trustpilot.com^
+||widget.websitevoice.com^
+||widget.websitevoice.com^
 ||widget.ybug.io^
 ||widgetlogic.org^
 ||widgets.future-fie.co.uk^
