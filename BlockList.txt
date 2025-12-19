@@ -1359,6 +1359,7 @@
 ||hotdeals360.com^
 ||hotjar.com^
 ||hotjar.io^
+||housebutsoon.com^
 ||hrzn-nxt.com^
 ||hs-banner.com^
 ||hs-scripts.com^
