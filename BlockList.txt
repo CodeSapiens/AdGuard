@@ -489,6 +489,7 @@
 ||brainlyads.com^
 ||branch.io^
 ||brand-sdk.kmsmep.com^
+||brandcdn.com^
 ||brandmetrics.com^
 ||braze.com^
 ||brilliantcollector.com^
@@ -1272,6 +1273,7 @@
 ||getpublica.com^
 ||getrockerbox.com^
 ||getsentry.com^
+||getsitecontrol.com^
 ||gh.fanatical.com^
 ||glancecdn.net^
 ||glanceguide.com^
@@ -2540,6 +2542,7 @@
 ||stickyadstv.com^
 ||stores-counters.wix.com^
 ||streamingextensions.com^
+||streams.bestbuy.com^
 ||strike.fox.com^
 ||stubhub-proxy.genius.com^
 ||studiostack.com^
