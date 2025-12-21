@@ -2881,6 +2881,7 @@
 ||webpushs.com^
 ||webpushsr.com^
 ||webvisor.org^
+||webxtsvc.microsoft.com^
 ||whale.camera^
 ||widengle.com^
 ||widget.clutch.co^
