@@ -525,6 +525,7 @@
 ||c2r.ts.cdn.office.net^
 ||c2shb.pubgw.yahoo.com^
 ||c2shb.ssp.yahoo.com^
+||c6.paypal.com^
 ||c677.wisn.com^
 ||cache.judge.me^
 ||callrail.com^
@@ -910,6 +911,7 @@
 ||ddbm2.paypal.com^
 ||dealswidget.bestreviews.com^
 ||debug.nordsec.com^
+||decagon.ai^
 ||default.exp-tas.com^
 ||delidatax.net^
 ||demandbase.com^
@@ -1357,6 +1359,7 @@
 ||hlserve.com^
 ||holid.bbvms.com^
 ||homedepot.online-metrix.net^
+||honey.io^
 ||hospitablehall.com^
 ||hotdeals360.com^
 ||hotjar.com^
