@@ -2886,6 +2886,7 @@
 ||webvisor.org^
 ||webxtsvc.microsoft.com^
 ||whale.camera^
+||wheres-waldo-angel.herokuapp.com^
 ||widengle.com^
 ||widget.clutch.co^
 ||widget.custhelp.com^
@@ -2895,7 +2896,6 @@
 ||widget.sezzle.com^
 ||widget.spreaker.com^
 ||widget.trustpilot.com^
-||widget.websitevoice.com^
 ||widget.websitevoice.com^
 ||widget.ybug.io^
 ||widgetlogic.org^
@@ -2911,6 +2911,7 @@
 ||wisepops.com^
 ||wknd.ai^
 ||wm.attn.tv^
+||woopra.com^
 ||wootric-eligibility.herokuapp.com^
 ||wow.com^
 ||ws.audioeye.com^
