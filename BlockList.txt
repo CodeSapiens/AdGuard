@@ -78,6 +78,7 @@
 ||ad-assets.futurecdn.net^
 ||ad-delivery.net^
 ||ad-miner.com^
+||ad-network-admin.workers.dev^
 ||ad-tech.nbcuni.com^
 ||ad.
 ||adap.tv^
