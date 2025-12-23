@@ -2925,6 +2925,7 @@
 ||wunderkind.co^
 ||wurfl.io^
 ||wurflcloud.com^
+||wurl.com^
 ||ww8.kohls.com^
 ||www.i.cdn.cnn.com^
 ||www91.intel.
