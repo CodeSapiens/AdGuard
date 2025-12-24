@@ -1970,6 +1970,7 @@
 ||peasisoft.com^
 ||pegsbuttons.com^
 ||pelcro.com^
+||peoplestackwebexperiments-pa.clients6.google.com^
 ||pepepush.net^
 ||pepperjam.com^
 ||perf.hsforms.com^
