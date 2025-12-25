@@ -260,6 +260,7 @@
 ||analytic.rollout.io^
 ||analyze-*.m-w.com^
 ||andbeyond.media^
+||android-context-data.googleapis.com^
 ||animatedbanner.xyz^
 ||aniview.com^
 ||anm.co.uk^
@@ -2330,6 +2331,7 @@
 ||seal.verisign.com^
 ||search-api.devicebits.com^
 ||search-api.fie.future.net.uk^
+||searchlabspartnerservice-pa.googleapis.com^
 ||searchmarketing.com^
 ||secondstreetapp.com^
 ||secure.cdn.fastclick.net^
@@ -2476,6 +2478,7 @@
 ||sponge.creditkarma.com^
 ||spookyexchange.com^
 ||sports*.gtimg.com^
+||spot-pa.googleapis.com^
 ||spot.im^
 ||spotxchange.com^
 ||spr-ops.com^
