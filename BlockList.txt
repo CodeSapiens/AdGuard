@@ -715,6 +715,7 @@
 ||commerce.bing.com^
 ||commerce.nbcuni.com^
 ||commnat-*-gc.ess.apple.com^
+||compare-static.flightconnections.com^
 ||compare-static.reservationdesk.com^
 ||compare-static.travelmath.com^
 ||comscore.com^
@@ -2864,6 +2865,7 @@
 ||vrtcal.com^
 ||vs1.youmaker.com^
 ||vtrk.dv.tech^
+||vungle.com^
 ||w3-reporting*.reddit.com^
 ||w3counter.com^
 ||w55c.net^
