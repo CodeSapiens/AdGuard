@@ -1605,6 +1605,7 @@
 ||lma.npaw.com^
 ||lngtd.com^
 ||load.s3.amazonaws.com^
+||load.stape.speaktor.com^
 ||loader.wisepops.com^
 ||loc.kr^
 ||location-api.hdhomerun.com^
@@ -1979,6 +1980,7 @@
 ||perfdrive.com^
 ||perfectmarket.com^
 ||performance.squarespace.com^
+||perimeterx.net^
 ||permutive.app^
 ||permutive.businessinsider.com^
 ||permutive.com^
@@ -2475,6 +2477,7 @@
 ||spectrum.gettyimages.com^
 ||speedcurve.com^
 ||spfy-pxl.archive-digger.com^
+||spidersense.bendingspoons.com^
 ||spiny.ai^
 ||sponge.creditkarma.com^
 ||spookyexchange.com^
