@@ -1,6 +1,7 @@
 *-ad-rs.amagi.tv^
 *-ads.pulse.weatherbug.net^
 *-na.associates-amazon.com^
+*-sonar.xz.fbcdn.net^
 *-thedispatch-com.tinipass.com^
 *.adsbox^
 *.cdn.speechify.com^
@@ -822,6 +823,7 @@
 ||d196fri2z18sm.cloudfront.net^
 ||d1af033869koo7.cloudfront.net^
 ||d1enchupjctwud.cloudfront.net^
+||d1fpdhao7f8ux5.cloudfront.net^
 ||d1g145x70srn7h.cloudfront.net^
 ||d1hcrjcdtouu7e.cloudfront.net^
 ||d1ros97qkrwjf5.cloudfront.net^
@@ -1036,6 +1038,7 @@
 ||embed.e2ma.net^
 ||embed.ly^
 ||embed.sendtonews.com^
+||embeds.beehiiv.com^
 ||emlfiles4.com^
 ||emltrk.com^
 ||emxdgt.com^
