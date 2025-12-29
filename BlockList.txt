@@ -11,6 +11,7 @@
 *analytics
 *events-collector.spot.im^
 *https
+*premium-01.azureedge.net^
 *telemetry
 *yomigt
 ||.responseiq.com^
@@ -2593,6 +2594,7 @@
 ||swasc.homedepot.com^
 ||swiftypecdn.com^
 ||switchadhub.com^
+||swymrelay.com^
 ||swypeconnect.com^
 ||symplr.de^
 ||synctrack.io^
