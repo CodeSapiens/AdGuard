@@ -2919,6 +2919,7 @@
 ||widget.trustpilot.com^
 ||widget.websitevoice.com^
 ||widget.ybug.io^
+||widgetic.com^
 ||widgetlogic.org^
 ||widgets.future-fie.co.uk^
 ||widgets.pinterest.com^
