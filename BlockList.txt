@@ -2052,6 +2052,7 @@
 ||polling.bbc.co.uk^
 ||polyfill.io^
 ||pong.gamut.media^
+||ponos.zeronaught.com^
 ||pop-iad-2.cf.dash.row.aiv-cdn.net^
 ||popslowergrocer.com^
 ||popt.in^
@@ -2992,7 +2993,6 @@
 ||zenimpact.io^
 ||zephr-v4.nypost.com^
 ||zergnet.com^
-||zeronaught.com^
 ||zeustechnology.com^
 ||zg-api.com^
 ||zineone.com^
