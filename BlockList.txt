@@ -1904,6 +1904,7 @@
 ||onthe.io^
 ||ontraport.com^
 ||openfpcdn.io^
+||openreplay.com^
 ||openx.com^
 ||openx.net^
 ||openx.org^
