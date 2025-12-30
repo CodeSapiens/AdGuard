@@ -1631,6 +1631,7 @@
 ||log.v.ssp.yahoo.com^
 ||log.zoom.us^
 ||log*.xiaoyi.com^
+||logbase.io^
 ||logfiles.zoom.us^
 ||logger.goeuro.com^
 ||logger.nerdwallet.com^
@@ -1891,6 +1892,7 @@
 ||oms.dowjoneson.com^
 ||oms.expedia.com^
 ||omtrdc.net^
+||one.store^
 ||onemobile.yahoo.com^
 ||oneplus.cn^
 ||oneplus.com^
