@@ -1501,6 +1501,7 @@
 ||isnssdk.com^
 ||isohunt.to^
 ||ispot.tv^
+||ix.cnn.io^
 ||izatcloud.net^
 ||izooto.com^
 ||j.northbeam.io^
