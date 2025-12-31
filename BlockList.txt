@@ -1072,6 +1072,7 @@
 ||events-sandbox.data.msn.com^
 ||events.api.secureserver.net^
 ||events.brightline.tv^
+||events.claspws.tv^
 ||events.data.microsoft.com^
 ||events.engager.ecbsn.com^
 ||events.framer.com^
