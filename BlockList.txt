@@ -1364,6 +1364,7 @@
 ||hicloud.com^
 ||highcpmrevenuenetwork.com^
 ||highperformancegate.com^
+||history.google.com^
 ||hitbox.com^
 ||hj.contentsquare.com^
 ||hlserve.com^
