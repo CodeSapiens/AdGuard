@@ -294,6 +294,7 @@
 ||api.ipstack.com^
 ||api.iterable.com^
 ||api.lever.co^
+||api.majorgeeks.com^
 ||api.mypurecloud.com^
 ||api.mypurecloud.de^
 ||api.qubit.com^
@@ -430,6 +431,7 @@
 ||bats.video.yahoo.com^
 ||bbc-reporting-api.app^
 ||bbc.gscontxt.net^
+||bbstatic.pcmag.com^
 ||bc.yahoo.com^
 ||bdapi-ads.realmemobile.com^
 ||bdapi-in-ads.realmemobile.com^
@@ -1920,6 +1922,7 @@
 ||oppomobile.com^
 ||ops.co^
 ||optable.co^
+||opti-digital.com^
 ||opticksprotection.com^
 ||optimize-stats.voxmedia.com^
 ||optimizely.com^
@@ -2335,6 +2338,7 @@
 ||scripts.dailymail.co.uk^
 ||scriptwrapper.com^
 ||scrsrch.com^
+||sddan.com^
 ||sdiapi.com^
 ||sdk.asapp.com^
 ||sdk.beemray.com^
