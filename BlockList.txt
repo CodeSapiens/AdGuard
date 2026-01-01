@@ -1839,6 +1839,7 @@
 ||news-bfujufa.cc^
 ||news-edge.apple.com^
 ||newscgp.com^
+||newsweek.tinypass.com^
 ||nexstardigital.net^
 ||nextmillmedia.com^
 ||nexus-websocket-a.intercom.io^
