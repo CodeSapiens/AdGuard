@@ -284,6 +284,7 @@
 ||api.*.aiv-delivery.net^
 ||api.airbrake.io^
 ||api.apptentive.com^
+||api.assertcom.de^
 ||api.autopilothq.com^
 ||api.aws.parking.godaddy.com^
 ||api.axept.io^
