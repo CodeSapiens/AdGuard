@@ -302,7 +302,6 @@
 ||api.raygun.io^
 ||api.receptivity.io^
 ||api.retargetly.com^
-||api.revenuecat.com^
 ||api.rudderstack.com^
 ||api.smoot.apple.com^
 ||api.statsig.com^
