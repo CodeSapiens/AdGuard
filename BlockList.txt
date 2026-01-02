@@ -1499,6 +1499,7 @@
 ||iperceptions.com^
 ||iphonesubmissions.v.aaplimg.com^
 ||ipify.org^
+||ipinfo.io^
 ||ipinfodb.com^
 ||ipredictive.com^
 ||ips1.unifi-ai.com^
@@ -2539,6 +2540,7 @@
 ||stat-track.com^
 ||stat.alibaba.com^
 ||stat.brightchat.org^
+||stat.ripe.net^
 ||statcollector.sidearmsports.com^
 ||statcounter.com^
 ||static-entertainment-wus-s-msn-com.akamaized.net^
