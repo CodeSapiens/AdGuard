@@ -62,6 +62,7 @@
 ||abeagle-public.buzzfeed.com^
 ||abmr.net^
 ||aboutads.info^
+||abproxy.production-public.tubi.io^
 ||absorbingband.com^
 ||abstractedauthority.com^
 ||abtasty.com^
@@ -414,6 +415,7 @@
 ||b.px-cdn.net^
 ||b.stats.paypal.com^
 ||b.wal.co^
+||b2c.com^
 ||backblaze.com^
 ||backend-capital.com^
 ||backstory.ebay.com^
@@ -456,6 +458,7 @@
 ||beyondwords.io^
 ||bf.dynatrace.com^
 ||bfmio.com^
+||bfmsa.com^
 ||bh.contextweb.com^
 ||bi.medscape.com^
 ||bidr.io^
@@ -475,6 +478,7 @@
 ||blog.aboutamazon.com^
 ||blogherads.com^
 ||blue.8newsnow.com^
+||blue.kdvr.com^
 ||blue.keloland.com^
 ||blue.newsnationnow.com^
 ||blue.thehill.com^
@@ -904,6 +908,7 @@
 ||datadog.pool.ntp.org^
 ||datadoghq-browser-agent.com^
 ||datadome.co^
+||datafyhq.com^
 ||datalab-analytics*.epam.com^
 ||datamilk.app^
 ||dataplane.rum.*.amazonaws.com^
@@ -1438,6 +1443,7 @@
 ||impactradius-event.com^
 ||impactradius.com^
 ||importer.hac.data.here.com^
+||impressions.onelink.me^
 ||improvedigital.com^
 ||improving.duckduckgo.com^
 ||imrworldwide.com^
@@ -2315,6 +2321,7 @@
 ||salsify-ecdn.com^
 ||samba.tv^
 ||samizdat-graphql.nytimes.com^
+||samsung-beacons.xumo.com^
 ||samsungacr.com^
 ||samsungadhub.com^
 ||samsungads.com^
@@ -2457,6 +2464,7 @@
 ||slickstream.com^
 ||sm.dell.com^
 ||smaato.com^
+||smadex.com^
 ||smart.link^
 ||smartadserver.com^
 ||smartclip.net^
@@ -2990,6 +2998,7 @@
 ||yield-op-idsync.live.streamtheworld.com^
 ||yieldlove
 ||yieldmo.com^
+||yieldoptimizer.com^
 ||ymatuhin.ru^
 ||ynuf.aliapp.org^
 ||yoc-adserver.com^
@@ -3010,5 +3019,6 @@
 ||zion*.api.cnn.io^
 ||zjptg.com^
 ||zkcdn.net^
+||zprk.io^
 ||zqtk.net^
 ||zwyr157wwiu6eior.com^
