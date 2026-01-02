@@ -1465,6 +1465,7 @@
 ||insectmacros.com^
 ||insightexpressai.com^
 ||insights.alibaba.com^
+||insights.ninetailed.co^
 ||insights*.algolia.io^
 ||inspectlet.com^
 ||instagram-*-downloader.com^
