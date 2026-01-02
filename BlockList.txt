@@ -75,6 +75,7 @@
 ||activate.latimes.com^
 ||activate.platform.californiatimes.com^
 ||activemetering.com^
+||activity.api.bbc.com^
 ||activity.windows.com^
 ||actonservice.com^
 ||actonsoftware.com^
