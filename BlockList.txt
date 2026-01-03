@@ -1607,6 +1607,7 @@
 ||lightcast.com^
 ||lightning.bleacherreport.com^
 ||lightning.cnn.com^
+||lightning.tcm.com^
 ||lijit.com^
 ||limurol.com^
 ||linear-ad-segments.frequency.stream^
