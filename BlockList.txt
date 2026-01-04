@@ -3013,7 +3013,6 @@
 ||zdbb.net^
 ||zdstatic.speedtest.net^
 ||zemanta.com^
-||zencdn.net^
 ||zenimpact.io^
 ||zephr-v4.nypost.com^
 ||zergnet.com^
