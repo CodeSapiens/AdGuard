@@ -559,6 +559,7 @@
 ||cc.swiftype.com^
 ||ccgateway.net^
 ||ccp.digitaltrends.com^
+||cdn-ajc-com.tinypass.com^
 ||cdn-aka.ts.mtvnservices.com^
 ||cdn-akamai.mookie1.com^
 ||cdn-fallback.petametrics.com^
@@ -573,6 +574,7 @@
 ||cdn.6s83mz9kbtrj.com^
 ||cdn.adtrace.ai^
 ||cdn.affiliatable.io^
+||cdn.ajc.com^
 ||cdn.appdynamics.com^
 ||cdn.attn.tv^
 ||cdn.bestreviews.com^
@@ -1878,6 +1880,7 @@
 ||notify6.com^
 ||notifysrv.com^
 ||notifyvisitors.com^
+||npttech.com^
 ||nqs.nice264.com^
 ||nr-data.net^
 ||nrdp.nccp.netflix.com^
