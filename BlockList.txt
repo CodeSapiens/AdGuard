@@ -1547,6 +1547,7 @@
 ||js7k.com^
 ||jscache.com^
 ||jshosting.review^
+||jsmuz.com^
 ||jsonip.com^
 ||jst.ai^
 ||jumbo.zomato.com^
@@ -1775,6 +1776,7 @@
 ||mktp-base.mktplatforms.com^
 ||ml-cachehost.net^
 ||ml314.com^
+||mlsend.com^
 ||mm-uxrv.com^
 ||mms.cnn.com^
 ||mmstat.com^
