@@ -475,6 +475,7 @@
 ||bizrate.com^
 ||bkrtx.com^
 ||blismedia.com^
+||blissfulmatchess.com^
 ||blob.core.windows.net^
 ||blockmetrics.com^
 ||blog.aboutamazon.com^
