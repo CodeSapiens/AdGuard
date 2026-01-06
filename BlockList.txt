@@ -151,6 +151,7 @@
 ||adsdomaintracking.
 ||adsense-telegram.
 ||adsensecustomsearchads.com^
+||adserv.
 ||adserve*.
 ||adservice*.
 ||adsfs.oppomobile.com^
@@ -503,6 +504,7 @@
 ||brand-sdk.kmsmep.com^
 ||brandcdn.com^
 ||brandmetrics.com^
+||bravenetmedia.com^
 ||braze.com^
 ||brilliantcollector.com^
 ||britepool.com^
@@ -787,6 +789,7 @@
 ||count.shein.com^
 ||counter.any.run^
 ||counter.theconversation.com^
+||counter*.bravenet.com^
 ||countess.twitch.tv^
 ||cquotient.com^
 ||cr-relay.com^
@@ -2143,6 +2146,7 @@
 ||pub-admin-elections.foxnews.com^
 ||pub.affilimateapis.com^
 ||pub.network^
+||pub*.bravenet.com^
 ||pubgifs.com^
 ||pubguru.com^
 ||pubguru.net^
