@@ -1211,6 +1211,7 @@
 ||fullstory.com^
 ||fundingchoicesmessages.google.com^
 ||fuse.forbes.com^
+||fuseplatform.net^
 ||futurehybrid.tech^
 ||fw-cdn.com^
 ||fw-update2.smartthings.com^
@@ -2350,6 +2351,7 @@
 ||scholarlyiq.com^
 ||sci.intuit.com^
 ||scientiamobile.com^
+||scintillatingsilver.com^
 ||scone-pa.clients6.google.com^
 ||scontent-sjc2-1.xx.fbcdn.net^
 ||scontent.webcollage.net^
@@ -2590,6 +2592,7 @@
 ||stats.wordpress.com^
 ||stats.wp.com^
 ||stats.wpmucdn.com^
+||stats*.mytuner.mobi^
 ||statsigapi.net^
 ||steadfastseat.com^
 ||steadfastsystem.com^
