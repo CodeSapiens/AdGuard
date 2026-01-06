@@ -2317,6 +2317,7 @@
 ||sa.bbc.co.uk^
 ||sa.com^
 ||saa.cbsi.com^
+||saa.cbsnews.com^
 ||saa.cbssports.com^
 ||saa.pluto.tv^
 ||safe-guard.online^
