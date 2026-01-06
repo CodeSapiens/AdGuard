@@ -352,6 +352,7 @@
 ||appsolve.io^
 ||appspot.com^
 ||apptics.zoho.com^
+||apptics.zoho.in^
 ||aptivada.com^
 ||aptrinsic.com^
 ||arc*.msn.com^
@@ -380,6 +381,7 @@
 ||ast.bild.de^
 ||aswpsdkus.com^
 ||at.cbsi.com^
+||at.prod.jimdo.systems^
 ||atdmt.com^
 ||atemos.org^
 ||athena.archive.org^
