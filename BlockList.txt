@@ -310,7 +310,6 @@
 ||api.statsig.com^
 ||api.tiles.mapbox.com^
 ||api.userway.org^
-||api.x.com^
 ||api*.iheart.com^
 ||apitd.net^
 ||apm.qwant.com^
