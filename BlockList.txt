@@ -572,6 +572,7 @@
 ||cdn-loyalty.yotpo.com^
 ||cdn-media.brightline.tv^
 ||cdn-net.com^
+||cdn-ops.verloop.io^
 ||cdn-settings.appsflyersdk.com^
 ||cdn-usent.kampyle.com^
 ||cdn-widgetsrepository.yotpo.com^
@@ -1460,6 +1461,7 @@
 ||in.appcenter.ms^
 ||inbenta.io^
 ||includemodal.global.ssl.fastly.net^
+||incognia.com^
 ||indexexchange.com^
 ||indexww.com^
 ||infinity-tracking.net^
