@@ -1014,6 +1014,7 @@
 ||dwgyu36up6iuz.cloudfront.net^
 ||dwin1.com^
 ||dwunion.com^
+||dxnt.net^
 ||dyn-rev.app^
 ||dynaimage.cdn.cnn.com^
 ||dynamicyield.com^
@@ -2775,6 +2776,7 @@
 ||tms.oracle.com^
 ||to.getnitropack.com^
 ||tokyo-motion.net^
+||ton.twimg.com^
 ||tools.google.com^
 ||topcrazypress.com^
 ||totaladblock.com^
