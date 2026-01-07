@@ -1400,6 +1400,7 @@
 ||hrzn-nxt.com^
 ||hs-banner.com^
 ||hs-scripts.com^
+||hsadspixel.net^
 ||hscollectedforms.net^
 ||hscta.net^
 ||hsleadflows.net^
