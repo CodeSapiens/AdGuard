@@ -1704,6 +1704,7 @@
 ||mantis-intelligence.com^
 ||marinsoftware.com^
 ||marker.io^
+||marketing.aws.dev^
 ||marketing.gilderlehrman.org^
 ||marketingautomation.services^
 ||marketingcloudapis.com^
@@ -1831,6 +1832,7 @@
 ||mr.homedepot.com^
 ||mrf.io^
 ||ms-offices.com^
+||msadsscale.microsoft.com^
 ||msh.amazon.
 ||msmedia.morningstar.com^
 ||mssdk-sg.tiktok.com^
@@ -2125,6 +2127,7 @@
 ||prod.amazoncrl.com^
 ||prod.amcs-tachyon.com^
 ||prod.fennec.atp.fox^
+||prod.log.shortbread.aws.dev^
 ||prod.pyxis.atp.fox^
 ||prod2-external-share-api.sprinklr.com^
 ||prod2-live-chat.sprinklr.com^
