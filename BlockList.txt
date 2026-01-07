@@ -861,6 +861,7 @@
 ||d2ef20sk9hi1u3.cloudfront.net^
 ||d2fbvay81k4ji3.cloudfront.net^
 ||d2h8zr0m6mus4x.cloudfront.net^
+||d2h8zr0m6mus4x.cloudfront.net^
 ||d2in0p32vp1pij.cloudfront.net^
 ||d2lxqodqbpy7c2.cloudfront.net^
 ||d2o5idwacg3gyw.cloudfront.net^
