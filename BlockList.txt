@@ -496,6 +496,7 @@
 ||blueconic.net^
 ||bluecore.com^
 ||bluekai.com^
+||bodiscdn.com^
 ||boi9osyg1uwtyafn.com^
 ||boldapps.net^
 ||boldcommerce.com^
