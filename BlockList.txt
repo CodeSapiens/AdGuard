@@ -1603,6 +1603,7 @@
 ||kvaedit.site^
 ||ladsp.com^
 ||lameletters.com^
+||lan.lan^
 ||laptop-updates.brave.com^
 ||lasso.link^
 ||lcprd*.samsungcloudsolution.
@@ -2656,6 +2657,7 @@
 ||syndicatedsearch.goog^
 ||syndication.twitter.com^
 ||syndigo.cloud^
+||synophoto_fake_tunnel_ip^
 ||system1.com^
 ||t.cloudpano.com^
 ||t.co^
