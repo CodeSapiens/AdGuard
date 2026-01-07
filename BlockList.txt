@@ -49,6 +49,7 @@
 ||a.ok.facebook.com^
 ||a.quora.com^
 ||a1.api.bbc.co.uk^
+||a3kvau184uea.com^
 ||a40.usablenet.com^
 ||a47b.com^
 ||a4k.amazon.com^
@@ -1135,6 +1136,7 @@
 ||ezoic.net^
 ||ezojs.com^
 ||f.convertkit.com^
+||f703.twincities.com^
 ||fabrik.com^
 ||factset.com^
 ||fakeimg.pl^
@@ -1159,6 +1161,7 @@
 ||feedblitz.com^
 ||fel-api.prod.browse.bestbuy.com^
 ||fff.dailymail.co.uk^
+||fingerprinting-fd-*.azurefd.net^
 ||fintelconnect.com^
 ||firebaseapp.com^
 ||firebasecrashlytics*.googleapis.com^
@@ -1199,6 +1202,7 @@
 ||fourier.aliexpress.com^
 ||fourier.taobao.com^
 ||fp.msedge.net^
+||fp.twincities.com^
 ||fpa-*.adweek.com^
 ||fpapi.io^
 ||fpjs.io^
@@ -1261,6 +1265,8 @@
 ||g1thub.com^
 ||g1u7r3xs6.com^
 ||g2crowd.com^
+||g2i.twincities.com^
+||g2insights-fd-*.azurefd.net^
 ||gallery.mailchimp.com^
 ||gameplayapi.intel.com^
 ||gammaplatform.com^
@@ -1800,6 +1806,7 @@
 ||mms.cnn.com^
 ||mmstat.com^
 ||mn.qwant.com^
+||mng-digisubs-prod.com^
 ||moatads.com^
 ||mobile-sdk-api.intercom.io^
 ||mobile.launchdarkly.com^
@@ -1982,6 +1989,7 @@
 ||outgrow.us^
 ||outreach.abetterinternet.org^
 ||owneriq.net^
+||oz70ba58w25c.com^
 ||p-n.io^
 ||p.brid.tv^
 ||p.controld.com^
@@ -2010,6 +2018,7 @@
 ||partnerlinks.io^
 ||partners.kit.com^
 ||partnerstack.com^
+||paywall-ad-bucket.s3.amazonaws.com^
 ||pbc.nypost.com^
 ||pbc.realtor.com^
 ||pbc.wsj.com^
@@ -2451,6 +2460,7 @@
 ||services.brightline.tv^
 ||services.sdiapi.com^
 ||serving-sys.com^
+||session.twincities.com^
 ||sessioncam.com^
 ||settings-win.data.microsoft.com^
 ||settings.data.microsoft.com^
