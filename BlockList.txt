@@ -375,6 +375,7 @@
 ||assets.msn.cn^
 ||assets.rebelmouse.io^
 ||assets.revcontent.com^
+||assets.videowise.com^
 ||assets.zephr.com^
 ||assoc-amazon.com^
 ||ast.bild.de^
@@ -1350,6 +1351,7 @@
 ||growave.io^
 ||gsas.apple.com^
 ||gss.skatepro.com^
+||gtm.getcleanpeople.com^
 ||guardianapis
 ||guardianapps
 ||guce.advertising.com^
@@ -1680,6 +1682,7 @@
 ||logs*.amazonaws.com^
 ||lookinews.com^
 ||loopme.me^
+||loox.io^
 ||lotame.com^
 ||lpcontent.net^
 ||lpsnmedia.net^
@@ -2316,6 +2319,7 @@
 ||s-adzone.com^
 ||s-onetag.com^
 ||s.adrise.tv^
+||s.axon.ai^
 ||s.deepl.com^
 ||s.infogram.com^
 ||s.marketwatch.com^
