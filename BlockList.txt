@@ -60,6 +60,7 @@
 ||aax-us-*-retail-direct.amazon.com^
 ||aax-us-iad.amazon.com^
 ||aaxads.com^
+||ab.dns-finder.com^
 ||abeagle-public.buzzfeed.com^
 ||abmr.net^
 ||aboutads.info^
@@ -275,6 +276,7 @@
 ||answerscloud.com^
 ||ap.spotify.com^
 ||apcdp.apnews.com^
+||apharponloun.com^
 ||api-*-prod.cdn.arcpublishing.com^
 ||api-2-0.spot.im^
 ||api-adservices.apple.com^
@@ -380,6 +382,7 @@
 ||assets.zephr.com^
 ||assoc-amazon.com^
 ||ast.bild.de^
+||aston-mpr-web-push-notification.s3-*.amazonaws.com^
 ||aswpsdkus.com^
 ||at.cbsi.com^
 ||at.prod.jimdo.systems^
@@ -864,8 +867,6 @@
 ||d2ef20sk9hi1u3.cloudfront.net^
 ||d2fbvay81k4ji3.cloudfront.net^
 ||d2h8zr0m6mus4x.cloudfront.net^
-||d2h8zr0m6mus4x.cloudfront.net^
-||d2h8zr0m6mus4x.cloudfront.net^
 ||d2in0p32vp1pij.cloudfront.net^
 ||d2lxqodqbpy7c2.cloudfront.net^
 ||d2o5idwacg3gyw.cloudfront.net^
@@ -1123,6 +1124,7 @@
 ||experience.tinypass.com^
 ||experimentation.chase.com^
 ||experiments.apple.com^
+||exportdialog.com^
 ||external-*.xx.fbcdn.net^
 ||extmaps-api.yandex.net^
 ||extratorrent.cc^
@@ -1201,6 +1203,7 @@
 ||fourier.alibaba.com^
 ||fourier.aliexpress.com^
 ||fourier.taobao.com^
+||foxkit.fox.com^
 ||fp.msedge.net^
 ||fp.twincities.com^
 ||fpa-*.adweek.com^
@@ -1329,6 +1332,7 @@
 ||go.smartrak.com^
 ||goaffpro.app^
 ||gobankingrates.com^
+||godiciardstia.com^
 ||godpvqnszo.com^
 ||goodcloud.xyz^
 ||google.ru^
@@ -1640,6 +1644,7 @@
 ||link.plex.tv^
 ||linksynergy.com^
 ||linkwithin.com^
+||litix.digitalvideoplatform.com^
 ||litix.io^
 ||live-detector.svc.transifex.net^
 ||livefyre.com^
@@ -2053,6 +2058,7 @@
 ||pharmacy.amazon.com^
 ||phncdn.com^
 ||phonograph2.voxmedia.com^
+||piano-c2.startribune.com^
 ||piano.io^
 ||pichincha.xyz^
 ||pickleballportal.com^
@@ -2124,6 +2130,7 @@
 ||pr-bh.ybp.yahoo.com^
 ||pr.comet.yahoo.com^
 ||pr.ybp.yahoo.com^
+||pranmcpkx.com^
 ||prd.sca.samsung.com^
 ||prebid.a-mo.net^
 ||prebidwrapper.com^
@@ -2141,6 +2148,7 @@
 ||pro.imdb.com^
 ||pro.ip-api.com^
 ||probe.icloud.com^
+||prod-dfm-proxy-connext.azurewebsites.net^
 ||prod-event-relay-*api.v.aaplimg.com^
 ||prod-news-notification-events.v.aaplimg.com^
 ||prod.*.cxm-bcn.publisher-services.amazon.dev^
@@ -2665,6 +2673,7 @@
 ||switchadhub.com^
 ||swymrelay.com^
 ||swypeconnect.com^
+||sy57d8wi.com^
 ||symplr.de^
 ||synctrack.io^
 ||syndicatedsearch.goog^
@@ -2905,6 +2914,7 @@
 ||vdo.ai^
 ||vdterms.samsungcloudsolution.
 ||vendorlist.consensu.org^
+||veozn3f.com^
 ||verdantsculpture.com^
 ||vergic.com^
 ||verify.authorize.net^
@@ -2975,6 +2985,7 @@
 ||webxtsvc.microsoft.com^
 ||whale.camera^
 ||wheres-waldo-angel.herokuapp.com^
+||wholepagecache.com^
 ||widengle.com^
 ||widget.clutch.co^
 ||widget.custhelp.com^
@@ -3062,6 +3073,7 @@
 ||zg-api.com^
 ||zineone.com^
 ||zion*.api.cnn.io^
+||zipthelake.com^
 ||zjptg.com^
 ||zkcdn.net^
 ||zprk.io^
