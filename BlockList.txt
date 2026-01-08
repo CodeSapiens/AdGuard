@@ -4677,7 +4677,6 @@
 ||synophoto_fake_tunnel_ip^
 ||system1.com^
 ||t.cloudpano.com^
-||t.co^
 ||t.dailymail.co.uk^
 ||t.flickr.com^
 ||t.nypost.com^
