@@ -2576,6 +2576,7 @@
 ||dcylog.com^
 ||dczhbhtz52fpi.cloudfront.net^
 ||dd.allaboutcookies.org^
+||dd.astockcdn.net^
 ||dd.nytimes.com^
 ||dd.study.com^
 ||dd6ym5in4ovm3.cloudfront.net^
