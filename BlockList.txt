@@ -4065,6 +4065,7 @@
 ||pixel.ipinfo.io^
 ||pixel.nudgify.com^
 ||pixel.watch^
+||pixel.web.roku.com^
 ||pixel.wp.com^
 ||pixel*.production-public.tubi.io^
 ||pixel*.spotify.com^
@@ -4299,6 +4300,7 @@
 ||rmp.rakuten.com^
 ||rmt.homedepot.com^
 ||rmtag.com^
+||rna.homedepot.com^
 ||rnengage.com^
 ||roirevolution.com^
 ||rokt.com^
