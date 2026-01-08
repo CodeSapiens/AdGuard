@@ -760,6 +760,7 @@
 ||config.claspws.tv^
 ||config.uca.cloud.unity3d.com^
 ||configsvc.cs.roku.com^
+||configuration.Is.apple.com^
 ||confirmit.com^
 ||connatix.com^
 ||connect.facebook.com^
@@ -3033,6 +3034,7 @@
 ||edigitalsurvey.com^
 ||edns.ip-api.com^
 ||effectivecreativeformat.com^
+||eg.nytimes.com^
 ||el.quizlet.com^
 ||elfsightcdn.com^
 ||eloqua-track
@@ -3262,6 +3264,7 @@
 ||gannettdigital.com^
 ||ganon.yahoo.com^
 ||gateway.bingviz.microsoftapp.net^
+||gateway.icloud.com^
 ||gaysweekend.com^
 ||gc.newsweek.com^
 ||gc.zgo.at^
@@ -3348,6 +3351,7 @@
 ||groupm.com^
 ||growave.io^
 ||gsas.apple.com^
+||gsp85-ssl.Is.apple.com^
 ||gss.skatepro.com^
 ||gtm.getcleanpeople.com^
 ||guardianapis
@@ -3511,6 +3515,7 @@
 ||ipa.elev.io^
 ||ipapi.co^
 ||iperceptions.com^
+||iphone-Id.apple.com^
 ||iphonesubmissions.v.aaplimg.com^
 ||ipify.org^
 ||ipinfo.io^
