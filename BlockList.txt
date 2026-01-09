@@ -4100,6 +4100,7 @@
 ||pmcbbn8trk.com^
 ||podcastswaves.com^
 ||pogothere.xyz^
+||pointmediatracker.com^
 ||polarcdn-*.com^
 ||policies.oath.com^
 ||polling.bbc.co.uk^
