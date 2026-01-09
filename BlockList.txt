@@ -4982,7 +4982,6 @@
 ||webcontentassessor.global.ssl.fastly.net^
 ||webinar.intel.
 ||weborama.
-||webpubcontent.gray.tv^
 ||webpushr.com^
 ||webpushs.com^
 ||webpushsr.com^
