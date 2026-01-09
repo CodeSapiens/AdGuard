@@ -3178,6 +3178,7 @@
 ||fm.cnbc.com^
 ||fn-pz.com^
 ||fndrsp.net^
+||followingbehold.com^
 ||fomo.com^
 ||fonts.google.com^
 ||fonts.googleapis.com^
@@ -4056,6 +4057,7 @@
 ||piano.io^
 ||pichincha.xyz^
 ||pickleballportal.com^
+||pilotuntil.com^
 ||pindorama.amazon.com^
 ||pingback.giphy.com^
 ||pingback.issuu.com^
@@ -5017,7 +5019,9 @@
 ||wikiwhatwhere.com^
 ||wildmoodswings.co.uk^
 ||wimsey.publicsquare.com^
+||windowthink.com^
 ||wisepops.com^
+||withouthuzzah.com^
 ||wknd.ai^
 ||wm.attn.tv^
 ||woopra.com^
