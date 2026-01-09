@@ -4520,6 +4520,7 @@
 ||skimresources.com^
 ||skw.eve.account.sony.com^
 ||slashdot.org^
+||slc.cbssports.com^
 ||sli.latimes.com^
 ||slickstream.com^
 ||sm.dell.com^
