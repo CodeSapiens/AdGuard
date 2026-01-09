@@ -4959,6 +4959,7 @@
 ||vizury.com^
 ||vlscppe.microsoft.com^
 ||vo.msecnd.net^
+||voc.ai^
 ||voilatile-pa.googleapis.com^
 ||vop-yahoo.akamaized.net^
 ||vop-yahoo.secure.footprint.net^
