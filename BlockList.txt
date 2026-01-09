@@ -3159,6 +3159,7 @@
 ||firebaseio.com^
 ||firebaselogging*.googleapis.com^
 ||firebasepredictions.googleapis.com^
+||firetv-beacons.xumo.com^
 ||firetv-news-content-ingestion.amazon.com^
 ||fireworkapi1.com^
 ||firstendpoint.com^
