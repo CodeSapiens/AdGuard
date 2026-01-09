@@ -3979,6 +3979,7 @@
 ||osm-ads*.delivery.roku.com^
 ||oss-us-west-1.aliyuncs.com^
 ||otel-hfo.fareharbor.engineering^
+||otlp-http-production.shopifysvc.com^
 ||oui-0x00199d.com^
 ||outbrain.com^
 ||outbrainimg.com^
@@ -4070,6 +4071,7 @@
 ||pixel.facebook.com^
 ||pixel.ipinfo.io^
 ||pixel.nudgify.com^
+||pixel.uppromote.com^
 ||pixel.watch^
 ||pixel.web.roku.com^
 ||pixel.wp.com^
@@ -4322,6 +4324,7 @@
 ||rs6.net^
 ||rt.prnewswire.com^
 ||rtactivate.com^
+||rtc.multiscreensite.com^
 ||rtcollector.goeuro.com^
 ||rtds.progressive.com^
 ||rtk.io^
