@@ -412,6 +412,7 @@
 ||avodmp4s3ww-a.akamaihd.net^
 ||avsplow.com^
 ||awin1.com^
+||awscconsumerinfo.autotrader.com^
 ||awstrack.me^
 ||awxcdn.com^
 ||axp.keloland.com^
@@ -2684,6 +2685,7 @@
 ||didna.io^
 ||diffuser-cdn.app-us1.com^
 ||digimedia.com^
+||digitalthrottle.com^
 ||digitru.st^
 ||dihutyaiafuhr.cloudfront.net^
 ||dil4q0t0blrf8.cloudfront.net^
