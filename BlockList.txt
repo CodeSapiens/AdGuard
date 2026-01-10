@@ -4261,6 +4261,7 @@
 ||realtime-logger.production-public.tubi.io^
 ||realtime.services.disqus.com^
 ||receptivity.io^
+||reco.ebay.com^
 ||reconditerespect.com^
 ||recovermycart.com^
 ||recs.rbcroyalbank.com^
