@@ -744,6 +744,7 @@
 ||compare-static.flightconnections.com^
 ||compare-static.reservationdesk.com^
 ||compare-static.travelmath.com^
+||compare.mapcarta.com^
 ||comscore.com^
 ||concert.io^
 ||concertads-configs.vox-cdn.com^
