@@ -670,6 +670,7 @@
 ||chartbeat.com^
 ||chartbeat.net^
 ||checkitt.news^
+||childlikeform.com^
 ||chimpstatic.com^
 ||cityspark.com^
 ||civicscience.com^
