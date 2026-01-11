@@ -4293,6 +4293,7 @@
 ||res-x.com^
 ||researchnow.com^
 ||reson8.com^
+||resonate.com^
 ||resources.bazaarvoice.com^
 ||responseiq.com^
 ||responsiveads.com^
