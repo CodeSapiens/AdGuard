@@ -3524,7 +3524,6 @@
 ||iphone-Id.apple.com^
 ||iphonesubmissions.v.aaplimg.com^
 ||ipify.org^
-||ipinfo.io^
 ||ipinfodb.com^
 ||ipredictive.com^
 ||ips1.unifi-ai.com^
