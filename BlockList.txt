@@ -3069,6 +3069,7 @@
 ||ensighten.norton.com^
 ||entitlements.jwplayer.com^
 ||ep2.facebook.com^
+||ep7.facebook.com^
 ||epsilon.6sense.com^
 ||erectile-dysfunction-treatment-*.bond^
 ||ero-advertising.com^
@@ -3215,6 +3216,7 @@
 ||freyr.futurecdn.net^
 ||frog.wix.com^
 ||frontdoor.nest.com^
+||frontend-logger.flippback.com^
 ||frqj.adrise.tv^
 ||fullstory.com^
 ||fundingchoicesmessages.google.com^
@@ -3997,6 +3999,7 @@
 ||p-n.io^
 ||p.brid.tv^
 ||p.controld.com^
+||p.flipp.com^
 ||p.minds.com^
 ||p.nfltags.com^
 ||p.typekit.net^
@@ -4209,6 +4212,7 @@
 ||push.sportskeeda.com^
 ||pushengage.com^
 ||pusherapp.com^
+||pushlycdn.com^
 ||pushmaster-cdn.xyz^
 ||pushnami.com^
 ||pushx.reolink.com^
@@ -4802,6 +4806,7 @@
 ||tplinkextender.
 ||tr.snapchat.com^
 ||tr.www.cloudflare.com^
+||tr6.snapchat.com^
 ||trace.app-performance.music.amazon.dev^
 ||trace.popin.cc^
 ||trace*.svc.ui.com^
