@@ -4026,6 +4026,7 @@
 ||partners.kit.com^
 ||partnerstack.com^
 ||paywall-ad-bucket.s3.amazonaws.com^
+||pbc.decider.com^
 ||pbc.nypost.com^
 ||pbc.realtor.com^
 ||pbc.wsj.com^
@@ -4988,6 +4989,7 @@
 ||wasabi.pluto.tv^
 ||watch-cdn.product.api.espn.com^
 ||watch.amazon.com^
+||watchingthat.net^
 ||wayin.com^
 ||wdfl.co^
 ||weatherblink.com^
