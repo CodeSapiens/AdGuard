@@ -303,6 +303,7 @@
 ||api.iterable.com^
 ||api.lever.co^
 ||api.majorgeeks.com^
+||api.mxtoolbox.com^
 ||api.mypurecloud.com^
 ||api.mypurecloud.de^
 ||api.qubit.com^
@@ -3043,6 +3044,7 @@
 ||edgetrksvc.ebay.com^
 ||edigitalsurvey.com^
 ||edns.ip-api.com^
+||eds.browserstack.com^
 ||effectivecreativeformat.com^
 ||eg.nytimes.com^
 ||el.quizlet.com^
