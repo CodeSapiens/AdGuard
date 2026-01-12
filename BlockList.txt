@@ -805,6 +805,7 @@
 ||count.shein.com^
 ||counter.any.run^
 ||counter.theconversation.com^
+||counter.websiteout.com^
 ||counter*.bravenet.com^
 ||countess.twitch.tv^
 ||cquotient.com^
@@ -4287,6 +4288,7 @@
 ||regrunreanimator.com^
 ||relay.fiverr.com^
 ||reminews.com^
+||report-edge.agora.io^
 ||report-uri.io^
 ||reporting-api.gannettinnovation.com^
 ||requestmetrics.com^
