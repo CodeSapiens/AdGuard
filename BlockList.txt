@@ -191,6 +191,7 @@
 ||adzerk.net^
 ||adzone.io^
 ||ae.nflximg.net^
+||aff.bstatic.com^
 ||affiliat*.
 ||affiliaxe.com^
 ||affiligay.net^
