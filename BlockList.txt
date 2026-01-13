@@ -399,6 +399,7 @@
 ||ats.everesttech.net^
 ||att.inq.com^
 ||atwola.com^
+||audibleforios.triggers-v1.prod.mobile.weblab.a2z.com^
 ||audioeye.com^
 ||audiohook.com^
 ||audrte.com^
@@ -3568,6 +3569,7 @@
 ||js.convertflow.co^
 ||js.driftt.com^
 ||js.gleam.io^
+||js.go2sdk.com^
 ||js.hs-banner.com^
 ||js.hsadspixel.net^
 ||js.hsforms.net^
