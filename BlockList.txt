@@ -372,6 +372,7 @@
 ||ashleymadison.com^
 ||assemblyexchange.com^
 ||assets-jpcust.jwpsrv.com^
+||assets-secure.applicaster.com^
 ||assets.adobetm.com^
 ||assets.alicdn.com^
 ||assets.capterra.com^
@@ -4830,6 +4831,7 @@
 ||track-adventure.squarespace.com^
 ||track-na2.hubspot.com^
 ||track.alibaba.com^
+||track.applicaster.com^
 ||track.baseball.cbssports.com^
 ||track.capitaloneshopping.com^
 ||track.contently.com^
