@@ -241,6 +241,7 @@
 ||albss.com^
 ||alebilet.
 ||alexametrics.com^
+||alibabagroup.com^
 ||alimama.com^
 ||aliveachiever.com^
 ||aliyuncs.com^
@@ -399,7 +400,6 @@
 ||ats.everesttech.net^
 ||att.inq.com^
 ||atwola.com^
-||audibleforios.triggers-v1.prod.mobile.weblab.a2z.com^
 ||audioeye.com^
 ||audiohook.com^
 ||audrte.com^
@@ -3827,6 +3827,7 @@
 ||mobile-sdk-api.intercom.io^
 ||mobile.launchdarkly.com^
 ||mobile.pipe.aria.microsoft.com^
+||mobile.weblab.a2z.com^
 ||mobilead*.msn.com^
 ||mobsmith.com^
 ||moderate.cleantalk.org^
@@ -4804,6 +4805,7 @@
 ||tl.foxnews.com^
 ||tl.foxweather.com^
 ||tlr.stripocdn.email^
+||tls.samsungqbe.com^
 ||tm-awx.com^
 ||tms.delta.com^
 ||tms.experian.com^
