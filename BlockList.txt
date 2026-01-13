@@ -3027,6 +3027,7 @@
 ||ebu.io^
 ||ebxcdn.com^
 ||ec.editmysite.com^
+||ec2-*.*.compute*.amazonaws.com^
 ||ecdinterface.philips.com^
 ||ecommplugins-scripts.trustpilot.com^
 ||ecommplugins-trustboxsettings.trustpilot.com^
