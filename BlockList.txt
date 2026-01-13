@@ -4509,6 +4509,7 @@
 ||settings-win.data.microsoft.com^
 ||settings.data.microsoft.com^
 ||sf-ads.io^
+||sf14g.com^
 ||sgrupontihecliff.xyz^
 ||sgtm.eset.com^
 ||sgtm.omio.com^
