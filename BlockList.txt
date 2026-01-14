@@ -3137,6 +3137,7 @@
 ||exportdialog.com^
 ||external-*.xx.fbcdn.net^
 ||extmaps-api.yandex.net^
+||extole.io^
 ||extratorrent.cc^
 ||extremereach.io^
 ||eyeforfashion.
@@ -4136,6 +4137,7 @@
 ||pogothere.xyz^
 ||pointmediatracker.com^
 ||polarcdn-*.com^
+||polaris.xfinity.com^
 ||policies.oath.com^
 ||polling.bbc.co.uk^
 ||polyfill.io^
@@ -4296,6 +4298,7 @@
 ||redfastlabs.com^
 ||redirector.gvt1.com^
 ||redtrack.io^
+||refer.udemy.com^
 ||refer.wordpress.com^
 ||referrer.disqus.com^
 ||reftagger.com^
