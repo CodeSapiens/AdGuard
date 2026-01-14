@@ -346,6 +346,7 @@
 ||applemediaservices.com^
 ||applicationinsights.
 ||applicationinsights.azure.com^
+||applog.livechatinc.com^
 ||applovin.com^
 ||applytics.napps-1.com^
 ||applytics.nordvpn.com^
