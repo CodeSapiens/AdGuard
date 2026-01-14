@@ -320,6 +320,7 @@
 ||api.userway.org^
 ||api*.iheart.com^
 ||apitd.net^
+||aplus.alibaba.com^
 ||apm.qwant.com^
 ||app-ads-services.com^
 ||app-analytics-services.com^
@@ -2567,6 +2568,7 @@
 ||dbujksp6lhljo.cloudfront.net^
 ||dbw7j2q14is6l.cloudfront.net^
 ||dby7kx9z9yzse.cloudfront.net^
+||dc-genai-access-provisioning-api.adobe.io^
 ||dc.di.atlas.samsung.com^
 ||dc.dqa.samsung.com^
 ||dc.services.visualstudio.com^
@@ -3052,6 +3054,7 @@
 ||edns.ip-api.com^
 ||eds.browserstack.com^
 ||effectivecreativeformat.com^
+||effirst.com^
 ||eg.nytimes.com^
 ||el.quizlet.com^
 ||elfsightcdn.com^
