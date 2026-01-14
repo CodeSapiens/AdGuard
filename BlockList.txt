@@ -115,6 +115,7 @@
 ||admob.
 ||adn.cloud^
 ||adn*.velocityweather.com^
+||adnami.io^
 ||adnet.
 ||adnxs-simple.com^
 ||adnxs.com^
