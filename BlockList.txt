@@ -2522,6 +2522,7 @@
 ||dad1mq193mgtr.cloudfront.net^
 ||dagd0kz7sipfl.cloudfront.net^
 ||dah0wv79ikn14.cloudfront.net^
+||dai.google.com^
 ||dal9hkyfi0m0n.cloudfront.net^
 ||danv01ao0kdr2.cloudfront.net^
 ||dap.digitalgov.gov^
