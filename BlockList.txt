@@ -706,6 +706,7 @@
 ||clientmetrics-pa.googleapis.com^
 ||clientservices.googleapis.com^
 ||clix.fidelity.com^
+||clk.gojacks.com^
 ||clmbtech.com^
 ||cloud1.linksyssmartwifi.com^
 ||cloudflareinsights.com^
