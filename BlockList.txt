@@ -4082,7 +4082,6 @@
 ||pgammedia.com^
 ||ph.dealnews.com^
 ||phar.gu-web.net^
-||pharmacy.amazon.com^
 ||phncdn.com^
 ||phonograph2.voxmedia.com^
 ||piano-c2.startribune.com^
