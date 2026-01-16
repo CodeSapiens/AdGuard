@@ -4953,6 +4953,7 @@
 ||user-content.superwalleditor.com^
 ||user-signals.production-public.tubi.io^
 ||user.desmoinesregister.com^
+||user.ground.news^
 ||usera.imagecave.com^
 ||usercentrics.eu^
 ||userfly.com^
