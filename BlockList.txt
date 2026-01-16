@@ -14,7 +14,6 @@
 *premium-01.azureedge.net^
 *telemetry
 *yomigt
-||.responseiq.com^
 ||00go.com^
 ||0123movies
 ||1-800-
@@ -3427,6 +3426,7 @@
 ||hotjar.com^
 ||hotjar.io^
 ||housebutsoon.com^
+||hrxvphxdol
 ||hrzn-nxt.com^
 ||hs-banner.com^
 ||hs-scripts.com^
