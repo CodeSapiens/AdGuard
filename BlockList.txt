@@ -4840,6 +4840,7 @@
 ||trace.popin.cc^
 ||trace*.svc.ui.com^
 ||tracemyip.org^
+||tracerequest.designerapp.officeapps.live.com^
 ||track-adventure.squarespace.com^
 ||track-na2.hubspot.com^
 ||track.alibaba.com^
