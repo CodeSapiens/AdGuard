@@ -4606,6 +4606,7 @@
 ||spfy-pxl.archive-digger.com^
 ||spidersense.bendingspoons.com^
 ||spiny.ai^
+||spon.ticketmaster.com^
 ||sponge.creditkarma.com^
 ||spookyexchange.com^
 ||sports*.gtimg.com^
