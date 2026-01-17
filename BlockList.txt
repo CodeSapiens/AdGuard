@@ -490,7 +490,6 @@
 ||bkrtx.com^
 ||blismedia.com^
 ||blissfulmatchess.com^
-||blob.core.windows.net^
 ||blockmetrics.com^
 ||blog.aboutamazon.com^
 ||blogherads.com^
@@ -3180,7 +3179,6 @@
 ||firebaseapp.com^
 ||firebasecrashlytics*.googleapis.com^
 ||firebaseinappmessaging.googleapis.com^
-||firebaseio.com^
 ||firebaselogging*.googleapis.com^
 ||firebasepredictions.googleapis.com^
 ||firetv-beacons.xumo.com^
