@@ -4196,6 +4196,7 @@
 ||profusesupport.com^
 ||promos.investing.com^
 ||promote-subscribe.forbes.com^
+||promoted.ticketmaster.com^
 ||propeller-tracking.com^
 ||proper.io^
 ||propervideo.io^
