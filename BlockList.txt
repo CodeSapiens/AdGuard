@@ -4532,6 +4532,7 @@
 ||sharethrough.com^
 ||shebudriftaiter.net^
 ||sherlock-events-sampler.ebay.com^
+||sherlock-tracing-sampler.ebay.com^
 ||shgcdn3.com^
 ||shield-aos-analytics.v.aaplimg.com^
 ||shimmermill.com^
@@ -4584,6 +4585,7 @@
 ||soapps.net^
 ||socdm.com^
 ||sociofyme.com^
+||sofe.ebay.com^
 ||soflopxl.com^
 ||sojern.com^
 ||solarmovie.to^
