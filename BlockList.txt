@@ -2594,6 +2594,7 @@
 ||dd.allaboutcookies.org^
 ||dd.astockcdn.net^
 ||dd.nytimes.com^
+||dd.qwant.com^
 ||dd.study.com^
 ||dd6ym5in4ovm3.cloudfront.net^
 ||dd6zx4ibq538k.cloudfront.net^
