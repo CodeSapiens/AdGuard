@@ -525,6 +525,7 @@
 ||brilliantcollector.com^
 ||britepool.com^
 ||broadstreetads.com^
+||brokensilenze.mom^
 ||browser-intake*-datadoghq
 ||browser-update.org^
 ||browser.covatic.io^
@@ -3888,6 +3889,7 @@
 ||my.calltrackingmetrics.com^
 ||myfidevs.io^
 ||myfinance.com^
+||myflixerz.to^
 ||myofferplus.com^
 ||myvisualiq.net^
 ||mzhlhrfr8z.info^
@@ -4739,6 +4741,7 @@
 ||t.pluto.tv^
 ||t.wayfair.com^
 ||t.xoom.com^
+||t1.tacdn.com^
 ||taboola.com^
 ||taboolasyndication.com^
 ||tag.aticdn.net^
@@ -5112,6 +5115,7 @@
 ||yelp-us.com^
 ||yengo.com^
 ||yeps.io^
+||yflix.to^
 ||yield-op-idsync.live.streamtheworld.com^
 ||yieldlove
 ||yieldmo.com^
@@ -5136,6 +5140,7 @@
 ||zipthelake.com^
 ||zjptg.com^
 ||zkcdn.net^
+||zoechip.cc^
 ||zprk.io^
 ||zqtk.net^
 ||zwyr157wwiu6eior.com^
