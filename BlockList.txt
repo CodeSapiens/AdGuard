@@ -4608,6 +4608,7 @@
 ||specialoffers.suppleapps.com^
 ||spectrum.gettyimages.com^
 ||speedcurve.com^
+||spexaccess.net^
 ||spfy-pxl.archive-digger.com^
 ||spidersense.bendingspoons.com^
 ||spiny.ai^
