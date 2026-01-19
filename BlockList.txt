@@ -4740,7 +4740,6 @@
 ||t.dailymail.co.uk^
 ||t.flickr.com^
 ||t.nypost.com^
-||t.paypal.com^
 ||t.pie.org^
 ||t.pluto.tv^
 ||t.wayfair.com^
