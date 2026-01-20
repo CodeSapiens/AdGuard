@@ -111,7 +111,6 @@
 ||gsp*-ssl-locus.ls.apple.com
 ||gsp*-ssl-revgeo.ls.apple.com
 ||gsp*-ssl.apple.com
-||gsp*-ssl.ls-apple.com
 ||gsp*-ssl.ls*-apple.com
 ||gsp1.apple.com^
 ||guzzoni-apple.com
