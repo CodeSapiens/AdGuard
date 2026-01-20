@@ -322,7 +322,6 @@
 ||aplus.alibaba.com^
 ||apm.qwant.com^
 ||app-ads-services.com^
-||app-analytics-services.com^
 ||app-measurement.com^
 ||app.adjust
 ||app.adjust.com^
@@ -2547,7 +2546,6 @@
 ||datadoghq-browser-agent.com^
 ||datadome.co^
 ||datafyhq.com^
-||datalab-analytics*.epam.com^
 ||datamilk.app^
 ||dataplane.rum.*.amazonaws.com^
 ||datastream.stylitics.com^
@@ -4534,7 +4532,6 @@
 ||sherlock-events-sampler.ebay.com^
 ||sherlock-tracing-sampler.ebay.com^
 ||shgcdn3.com^
-||shield-aos-analytics.v.aaplimg.com^
 ||shimmermill.com^
 ||shop-chat-play.com^
 ||shop.pe^
@@ -5001,7 +4998,6 @@
 ||vidora.com^
 ||viglink.com^
 ||vindicosuite.com^
-||visitor-analytics.io^
 ||visualwebsiteoptimizer.com^
 ||vitals.vercel-insights.com^
 ||vizu.com^
