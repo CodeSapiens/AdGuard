@@ -196,7 +196,6 @@
 ||settings-win.data.microsoft.com^
 ||siri-search.itunes.apple.com^
 ||sitemaps.itunes.apple.com^
-||sls.update.microsoft.com
 ||smoot-feedback.v.aaplimg.com^
 ||spynet2.microsoft.com^
 ||spynetalt.microsoft.com^
@@ -206,7 +205,6 @@
 ||static.deviceservices.apple.com^
 ||static.hotjar.com^
 ||static.ips.apple.com^
-||statsfe*.update.microsoft.com
 ||statsfe*.ws.microsoft.com^
 ||stocks-sparkline.apple.com^
 ||store.mzstatic.com^
