@@ -4494,14 +4494,8 @@
 ||servedbyadbutler.com^
 ||servedbyopenx.com^
 ||servedbysmart.com^
-||server-108-138-199-45.mxp64.r.cloudfront.net^
-||server-108-138-199-8.mxp64.r.cloudfront.net^
-||server-108-138-199-83.mxp64.r.cloudfront.net^
-||server-108-138-199-94.mxp64.r.cloudfront.net^
-||server-13-225-78-19.fra2.r.cloudfront.net^
-||server-13-225-78-30.fra2.r.cloudfront.net^
-||server-13-225-78-60.fra2.r.cloudfront.net^
-||server-13-225-78-98.fra2.r.cloudfront.net^
+||server-108-138-199-*.mxp64.r.cloudfront.net^
+||server-13-225-78-*.fra2.r.cloudfront.net^
 ||server-54-230-216-203.mrs50.r.cloudfront.net^
 ||serverbid-sync.nyc3.cdn.digitaloceanspaces.com^
 ||serverbid.com^
