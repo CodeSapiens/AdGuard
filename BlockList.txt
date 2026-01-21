@@ -13,6 +13,7 @@
 *premium-01.azureedge.net^
 *telemetry
 *yomigt
+||_http._tcp.*.debian.org^
 ||00go.com^
 ||0123movies
 ||1-800-
@@ -300,6 +301,7 @@
 ||api.gdxp.com^
 ||api.ipdata.co^
 ||api.ipgeolocation.io^
+||api.ipify.org^
 ||api.ipstack.com^
 ||api.iterable.com^
 ||api.lever.co^
@@ -359,6 +361,7 @@
 ||appspot.com^
 ||apptics.zoho.com^
 ||apptics.zoho.in^
+||apt*.artifacts.ui.com^
 ||aptivada.com^
 ||aptrinsic.com^
 ||arc*.msn.com^
@@ -768,6 +771,7 @@
 ||config-factory.com^
 ||config-security.com^
 ||config.claspws.tv^
+||config.ubnt.com^
 ||config.uca.cloud.unity3d.com^
 ||configsvc.cs.roku.com^
 ||configuration.Is.apple.com^
@@ -2542,7 +2546,6 @@
 ||data.replo.app^
 ||data*.pendo.io^
 ||data*.stepstone.
-||datadog.pool.ntp.org^
 ||datadoghq-browser-agent.com^
 ||datadome.co^
 ||datafyhq.com^
@@ -2614,6 +2617,9 @@
 ||de8of677fyt0b.cloudfront.net^
 ||dea9webxhb7gu.cloudfront.net^
 ||dealswidget.bestreviews.com^
+||deb.debian.org^
+||deb.nodesource.com^
+||debian.map.fastlydns.net^
 ||debojuagug1sf.cloudfront.net^
 ||debug.nordsec.com^
 ||decagon.ai^
@@ -2935,6 +2941,7 @@
 ||du7wh8bicca0t.cloudfront.net^
 ||du8783wkf05yr.cloudfront.net^
 ||du99h8anpnevg.cloudfront.net^
+||dualstack.com.imgix.map.fastly.net^
 ||duapps.com^
 ||due5a6x777z0x.cloudfront.net^
 ||dufai4b1ap33z.cloudfront.net^
@@ -3160,6 +3167,7 @@
 ||fastclick.com^
 ||fastclick.net^
 ||fastly-insights.com^
+||fastly-signed-us-east-1-prod.brightcovecdn.com^
 ||faves.grow.me^
 ||fbot.me^
 ||fbs.smoot.apple.com^
@@ -3353,6 +3361,7 @@
 ||godiciardstia.com^
 ||godpvqnszo.com^
 ||goodcloud.xyz^
+||google-ohttp-relay-safebrowsing.fastly-edge.com^
 ||google.ru^
 ||googleads
 ||googleadservices.com^
@@ -3457,6 +3466,7 @@
 ||iads.unity3d.com^
 ||iadsdk.apple.com^
 ||iasds01.com^
+||icanhazip.com^
 ||ichnaea-web.netflix.com^
 ||ichnaea.*.prodaa.netflix.com^
 ||ichnaea.netflix.com^
@@ -3956,6 +3966,7 @@
 ||ogads-pa.clients6.google.com^
 ||ogads-pa.googleapis.com^
 ||ogury.com^
+||ohttp-relay1.fastly-edge.com^
 ||ojrq.net^
 ||okasconcepts.com^
 ||om.dowjoneson.com^
@@ -4093,6 +4104,8 @@
 ||pickleballportal.com^
 ||pilotuntil.com^
 ||pindorama.amazon.com^
+||ping.ubnt.com^
+||ping.ui.com^
 ||pingback.giphy.com^
 ||pingback.issuu.com^
 ||pinpoint.espn.com^
@@ -4404,6 +4417,7 @@
 ||saa.cbssports.com^
 ||saa.pluto.tv^
 ||safe-guard.online^
+||safebrowsingohttpgateway.googleapis.com^
 ||sail-horizon.com^
 ||sail-personalize.com^
 ||sailthru.com^
@@ -4469,6 +4483,7 @@
 ||securemvt.apple.com^
 ||securemvt.v.aaplimg.com^
 ||securestudies.com^
+||security.debian.org^
 ||securitytrfx.com^
 ||sedoparking.com^
 ||seedtag.com^
