@@ -10,7 +10,6 @@
 *.xxx^
 *analytics
 *events-collector.spot.im^
-*https
 *premium-01.azureedge.net^
 *telemetry
 *yomigt
@@ -3437,6 +3436,7 @@
 ||html-load.com^
 ||htplayground.com^
 ||http-inputs-notion.splunkcloud.com^
+||https
 ||htvtools.us^
 ||hubapi.com^
 ||hubspotfeedback.com^
