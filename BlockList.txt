@@ -2533,6 +2533,7 @@
 ||dashboard.tinypass.com^
 ||data-*.bild.de^
 ||data-60d896f23d.radio.net^
+||data-ai.washingtonpost.com^
 ||data.adobedc.net^
 ||data.appexnw.com^
 ||data.cnn.com^
@@ -4555,6 +4556,7 @@
 ||slashdot.org^
 ||slc.cbssports.com^
 ||sli.latimes.com^
+||slice.vanilla.futurecdn.net^
 ||slickstream.com^
 ||sm.dell.com^
 ||smaato.com^
