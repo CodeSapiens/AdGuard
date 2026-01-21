@@ -3549,7 +3549,6 @@
 ||ipinfodb.com^
 ||ipredictive.com^
 ||ips1.unifi-ai.com^
-||ipv4-*-ix.1.oca.nflxvideo.net^
 ||iqm.com^
 ||irchan.com^
 ||iris.tv^
