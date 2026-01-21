@@ -2717,6 +2717,7 @@
 ||display.ugc.bazaarvoice.com^
 ||displayads-formats.googleusercontent.com^
 ||distillery.wistia.com^
+||districtm.io^
 ||disutgh7q0ncc.cloudfront.net^
 ||dita6jhhqwoiz.cloudfront.net^
 ||divekcl7q9fxi.cloudfront.net^
@@ -3121,6 +3122,7 @@
 ||events.redditmedia.com^
 ||events.split.io^
 ||events.squarespace.com^
+||events.whisk.com^
 ||everestengagement.com^
 ||everestjs.net^
 ||everesttech.net^
@@ -3680,6 +3682,7 @@
 ||load.stape.speaktor.com^
 ||loader.wisepops.com^
 ||loc.kr^
+||localizecdn.com^
 ||location-api.hdhomerun.com^
 ||location-services-measurements.s3-external-1.amazonaws.com^
 ||location.cm.bloomberg.com^
@@ -4198,6 +4201,7 @@
 ||promote-subscribe.forbes.com^
 ||promoted.ticketmaster.com^
 ||propeller-tracking.com^
+||propensity.com^
 ||proper.io^
 ||propervideo.io^
 ||protagcdn.com^
@@ -4433,6 +4437,7 @@
 ||scribe.logs.roku.com^
 ||script.ac^
 ||scripts.dailymail.co.uk^
+||scripts.stay22.com^
 ||scriptwrapper.com^
 ||scrsrch.com^
 ||sddan.com^
@@ -4532,6 +4537,7 @@
 ||shop.pe^
 ||shop.ring.com^
 ||shopify-init.blackcrow.ai^
+||shoplift.ai^
 ||shopperapproved.com^
 ||shortpixel.ai^
 ||sibautomation.com^
@@ -4946,6 +4952,7 @@
 ||usabilla.com^
 ||usablenet.com^
 ||usawildseafood.com^
+||usbrowserspeed.com^
 ||use-application-dns.net^
 ||use.fontawesome.com^
 ||use1-api.tplinkra.com^
@@ -5032,6 +5039,7 @@
 ||web.facebook.com^
 ||webcontentassessor.com^
 ||webcontentassessor.global.ssl.fastly.net^
+||webhooks.fivetran.com^
 ||webinar.intel.
 ||weborama.
 ||webpushr.com^
