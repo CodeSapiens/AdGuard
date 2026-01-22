@@ -3390,6 +3390,9 @@
 ||groupm.com^
 ||growave.io^
 ||gsas.apple.com^
+||gsp*-ssl*.ls.apple.com
+||gsp*-ssl*.ls*-apple.com
+||gsp1.apple.com
 ||gss.skatepro.com^
 ||gtm.getcleanpeople.com^
 ||guardianapis
