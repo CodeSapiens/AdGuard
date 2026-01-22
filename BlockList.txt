@@ -3304,7 +3304,6 @@
 ||gannettdigital.com^
 ||ganon.yahoo.com^
 ||gateway.bingviz.microsoftapp.net^
-||gateway.icloud.com^
 ||gaysweekend.com^
 ||gc.newsweek.com^
 ||gc.zgo.at^
