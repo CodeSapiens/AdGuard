@@ -688,6 +688,7 @@
 ||clarice.streema.com^
 ||clarity.ms^
 ||claspo.io^
+||clcktrck.com^
 ||clean.gg^
 ||clear.link^
 ||clearbitscripts.com^
