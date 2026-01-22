@@ -3332,6 +3332,7 @@
 ||geolocation-db.com^
 ||geolocation.forbes.com^
 ||geotrust.com^
+||get.fivetran.com^
 ||getadmiral.com^
 ||getcarro.com^
 ||getelevar.com^
