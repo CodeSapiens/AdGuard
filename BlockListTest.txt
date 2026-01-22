@@ -105,14 +105,6 @@
 ||gs-loc.apple.com^
 ||gs-loc.ls-apple.com
 ||gsas.apple.com
-||gsp-ssl-dynamic.ls*-apple.com
-||gsp-ssl-geomap.ls-apple.com
-||gsp*-ssl-background.ls.apple.com
-||gsp*-ssl-locus.ls.apple.com
-||gsp*-ssl-revgeo.ls.apple.com
-||gsp*-ssl.apple.com
-||gsp*-ssl.ls*-apple.com
-||gsp1.apple.com^
 ||guzzoni-apple.com
 ||h.online-metrix.net^
 ||h1.msn.com^
