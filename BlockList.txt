@@ -504,6 +504,7 @@
 ||blueconic.net^
 ||bluecore.com^
 ||bluekai.com^
+||bnh.my.salesforce-sites.com^
 ||bodiscdn.com^
 ||boi9osyg1uwtyafn.com^
 ||boldapps.net^
@@ -2127,6 +2128,7 @@
 ||d3b02estmut877.cloudfront.net^
 ||d3b2hhehkqd158.cloudfront.net^
 ||d3b4u8mwtkp9dd.cloudfront.net^
+||d3banl4fzuxsjl.cloudfront.net^
 ||d3bbyfw7v2aifi.cloudfront.net^
 ||d3beefy8kd1pr7.cloudfront.net^
 ||d3bfricg2zhkdf.cloudfront.net^
@@ -3090,6 +3092,7 @@
 ||engine.mobileapptracking.com^
 ||english-classes-online-*.bond^
 ||enigmasoftware.com^
+||ensighten.bhphoto.com^
 ||ensighten.com^
 ||ensighten.norton.com^
 ||entitlements.jwplayer.com^
@@ -4224,6 +4227,7 @@
 ||protechts.net^
 ||protectsubrev.com^
 ||provely.io^
+||proxy-skadnetwork.apple.com^
 ||proxy-us.posthog.com^
 ||ps5.pndsn.com^
 ||pstmrk.it^
