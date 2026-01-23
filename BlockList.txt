@@ -827,6 +827,7 @@
 ||counter.websiteout.com^
 ||counter*.bravenet.com^
 ||countess.twitch.tv^
+||country-blocker.zend-apps.com^
 ||cquotient.com^
 ||cr-relay.com^
 ||crash-report-service*.svc.ui.com^
