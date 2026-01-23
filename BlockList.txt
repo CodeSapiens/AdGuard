@@ -38,6 +38,7 @@
 ||6sc.co^
 ||9gag.com^
 ||a-fds.youborafds01.com^
+||a-msedge.net^
 ||a.apkpure.com^
 ||a.cdnpure.com^
 ||a.dynatrace.com^
@@ -685,6 +686,11 @@
 ||chimpstatic.com^
 ||cityspark.com^
 ||civicscience.com^
+||cl1.apple.com^
+||cl2.apple.com^
+||cl3.apple.com^
+||cl4.apple.com^
+||cl5.apple.com^
 ||clanker-events.squarespace.com^
 ||clarice.streema.com^
 ||clarity.ms^
@@ -778,6 +784,7 @@
 ||config.uca.cloud.unity3d.com^
 ||configsvc.cs.roku.com^
 ||configuration.Is.apple.com^
+||configuration.ls.apple.com
 ||confirmit.com^
 ||connatix.com^
 ||connect.facebook.com^
@@ -3337,6 +3344,7 @@
 ||geolocation.forbes.com^
 ||geotrust.com^
 ||get.fivetran.com^
+||get.fivetran.com^
 ||getadmiral.com^
 ||getcarro.com^
 ||getelevar.com^
@@ -3393,6 +3401,8 @@
 ||gravitec.net^
 ||groupm.com^
 ||growave.io^
+||gs-loc*.apple.com
+||gs-loc*.ls-apple.com
 ||gsas.apple.com^
 ||gsp*-ssl*.ls.apple.com
 ||gsp*-ssl*.ls*-apple.com
@@ -3435,6 +3445,7 @@
 ||hitbox.com^
 ||hj.contentsquare.com^
 ||hlserve.com^
+||hola.mikmak.com^
 ||hola.mikmak.com^
 ||holid.bbvms.com^
 ||homedepot.online-metrix.net^
@@ -3566,6 +3577,7 @@
 ||ipapi.co^
 ||iperceptions.com^
 ||iphone-Id.apple.com^
+||iphone-ld.apple.com
 ||iphonesubmissions.v.aaplimg.com^
 ||ipify.org^
 ||ipinfodb.com^
@@ -3658,6 +3670,7 @@
 ||lan.lan^
 ||laptop-updates.brave.com^
 ||lasso.link^
+||lcdn-locator*.apple.com
 ||lcprd*.samsungcloudsolution.
 ||leaddyno.com^
 ||leadmanagerfx.com^
@@ -4056,6 +4069,9 @@
 ||pagefair.net^
 ||pages.usertesting.com^
 ||pagesense.io^
+||pancake.apple.com
+||pancake.cdn-apple.com
+||pancake.g.aaplimg.com
 ||pandect.es^
 ||pangleglobal.com^
 ||panorama.wixapps.net^
@@ -4445,6 +4461,8 @@
 ||sandbox.tinypass.com^
 ||sapphire-api.target.com^
 ||sars.amazon.com^
+||sb.music.apple.com
+||sb.tv.apple.com
 ||sc-static.net^
 ||scanguard.com^
 ||scaredslip.com^
@@ -4660,6 +4678,7 @@
 ||ssl.widgets.webengage.com^
 ||ssp.advertising.com^
 ||ssp.yahoo.com^
+||sst.courtreserve.com^
 ||sst.courtreserve.com^
 ||sstats.adobe.com^
 ||stackadapt.com^

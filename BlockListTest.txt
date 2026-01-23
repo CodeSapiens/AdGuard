@@ -1,6 +1,4 @@
 *events.news.apple-dns.net^
-||a-000*.a-msedge.net^
-||a-msedge.net^
 ||a.ads*.msads.net^
 ||a.ads*.msn.com^
 ||a.fiksu.com^
@@ -50,14 +48,8 @@
 ||cds26.ams9.msecn.net^
 ||cdsassets.apple.com^
 ||choice.microsoft.com
-||cl1.apple.com^
-||cl2.apple.com^
-||cl3.apple.com^
-||cl4.apple.com^
-||cl5.apple.com^
 ||cma.itunes.apple.com^
 ||compatexchange.cloudapp.net^
-||configuration.ls.apple.com^
 ||corp.sts.microsoft.com^
 ||corpext.msitadfs.glbdns2.microsoft.com^
 ||cs1.wpc.v0cdn.net^
@@ -101,9 +93,6 @@
 ||gblon.ce.apple-dns.net^
 ||gbman.ce.apple-dns.net^
 ||gcs-eu-00002.content-storage-download.googleapis.com^
-||gs-loc-new.ls-apple.com
-||gs-loc.apple.com^
-||gs-loc.ls-apple.com
 ||gsas.apple.com
 ||guzzoni-apple.com
 ||h.online-metrix.net^
@@ -118,7 +107,6 @@
 ||in.treasuredata.com^
 ||insights-collector.gog.com^
 ||internalcheck.apple.com^
-||iphone-ld.apple.com^
 ||iphone-services.apple.com
 ||iphone-services.ls-apple.com
 ||iphonesubmissions*.apple.com
@@ -127,8 +115,6 @@
 ||itunesconnect.apple.com^
 ||itunesu.itunes.apple.com^
 ||lb1.www.ms
-||lcdn-locator-usuqo.apple.com
-||lcdn-locator.apple.com^
 ||live.rads.msn.com^
 ||m.adnxs.com^
 ||m.hotmail.com^
@@ -150,10 +136,6 @@
 ||ocsp.apple.com^
 ||origin.seed-siri-apple.com
 ||outsideapple.apple.com
-||pancake.apple.com.edgekey.net^
-||pancake.apple.com^
-||pancake.cdn-apple.com
-||pancake.g.aaplimg.com^
 ||pcr.apple.com^
 ||pipe.cloudapp.aria
 ||pipe.prd.skypedata
@@ -172,8 +154,6 @@
 ||redshell.io^
 ||s.gateway.messenger.live.com^
 ||s0.2mdn.net^
-||sb.music.apple.com^
-||sb.tv.apple.com^
 ||schemas.microsoft
 ||sdk.fiksu.com^
 ||se-edge.itunes.apple.com^
