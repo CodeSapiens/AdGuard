@@ -1,3 +1,4 @@
+!!! Note that some hosts don't include the ending ^. This is done on purpose.
 *-ad-rs.amagi.tv^
 *-ads.pulse.weatherbug.net^
 *-na.associates-amazon.com^
@@ -3434,6 +3435,7 @@
 ||hitbox.com^
 ||hj.contentsquare.com^
 ||hlserve.com^
+||hola.mikmak.com^
 ||holid.bbvms.com^
 ||homedepot.online-metrix.net^
 ||honey.io^
@@ -5107,6 +5109,7 @@
 ||ws.sharethis.com^
 ||wsmcdn.audioeye.com^
 ||wt.viagogo.net^
+||wtb-tag.mikmak.ai^
 ||wunderkind.co^
 ||wurfl.io^
 ||wurflcloud.com^
