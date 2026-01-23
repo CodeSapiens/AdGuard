@@ -4181,6 +4181,7 @@
 ||powa-ingest-prod-*.video-player.arcpublishing.com^
 ||powerad.ai^
 ||powr.io^
+||poynt.net^
 ||pqanr7dftrk.com^
 ||pr-bh.ybp.yahoo.com^
 ||pr.comet.yahoo.com^
