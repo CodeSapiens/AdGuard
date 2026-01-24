@@ -566,6 +566,7 @@
 ||callrail.com^
 ||campaign-archive.com^
 ||campaigns.cyberinsider.com^
+||campingsurvival.attn.tv^
 ||candidpick.com^
 ||candycrushsoda.king.com^
 ||cane.intel.
