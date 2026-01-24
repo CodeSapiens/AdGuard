@@ -4560,6 +4560,7 @@
 ||services.brightline.tv^
 ||services.sdiapi.com^
 ||serving-sys.com^
+||servrapp.com^
 ||session.twincities.com^
 ||sessioncam.com^
 ||settings-win.data.microsoft.com^
