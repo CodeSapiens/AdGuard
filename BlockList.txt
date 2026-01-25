@@ -324,6 +324,7 @@
 ||apm.qwant.com^
 ||app-ads-services.com^
 ||app-measurement.com^
+||app-performance.music.amazon.dev^
 ||app.adjust
 ||app.adjust.com^
 ||app.cdn.lookbookhq.com^
@@ -541,6 +542,7 @@
 ||btttag.com^
 ||bugs.firebat.prime-video.amazon.dev^
 ||bugsnag.com^
+||bugsnag.kindle.amazon.dev^
 ||bugsnag*.monitor.core.app.alexa.a2z.com^
 ||bullwhip.cloud^
 ||bumlam.com^
