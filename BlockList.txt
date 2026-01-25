@@ -644,6 +644,7 @@
 ||cdn.ravenjs.com^
 ||cdn.raygun.io^
 ||cdn.rollbar.com^
+||cdn.rvohealth.com^
 ||cdn.signalfx.com^
 ||cdn.snigelweb.com^
 ||cdn.socialannex.com^
@@ -3173,6 +3174,7 @@
 ||ezoic.net^
 ||ezojs.com^
 ||f.convertkit.com^
+||f2c1b3d0204f.edge.sdk.awswaf.com^
 ||f703.twincities.com^
 ||fabrik.com^
 ||factset.com^
@@ -4635,6 +4637,7 @@
 ||sojern.com^
 ||solarmovie.to^
 ||solutionshindsight.net^
+||som.healthgrades.com^
 ||sonic-ui.highereducation.com^
 ||sonobi.com^
 ||sophi.io^
