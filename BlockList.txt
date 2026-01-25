@@ -686,6 +686,7 @@
 ||checkitt.news^
 ||childlikeform.com^
 ||chimpstatic.com^
+||cirrus-full-snapshots-track-csv-*-na-prod.s3.amazonaws.com^
 ||cityspark.com^
 ||civicscience.com^
 ||cl1.apple.com^
