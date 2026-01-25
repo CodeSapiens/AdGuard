@@ -53,7 +53,6 @@
 ||a3kvau184uea.com^
 ||a40.usablenet.com^
 ||a47b.com^
-||a4k.amazon.com^
 ||a8.net^
 ||aa.cbssports.com^
 ||aamt.msnbc.com^
@@ -121,7 +120,6 @@
 ||adnxs-simple.com^
 ||adnxs.com^
 ||adnxs.net^
-||adobedtm.com^
 ||adoberesources.net^
 ||adobetarget.com^
 ||adocean.pl^
@@ -2321,7 +2319,6 @@
 ||d3oep4gb91kpuv.cloudfront.net^
 ||d3og8t183i1vbg.cloudfront.net^
 ||d3ohee25hhsn8j.cloudfront.net^
-||d3ohh9b4v3oawh.cloudfront.net^
 ||d3oltyb66oj2v8.cloudfront.net^
 ||d3oodlxb1rw3kg.cloudfront.net^
 ||d3op2vgjk53ps1.cloudfront.net^
@@ -2661,7 +2658,6 @@
 ||device-metrics-us*.amazon.com^
 ||device.maxmind.com^
 ||devicebind.ebay.com^
-||devicemessaging.*.amazon.com^
 ||dew9ckzjyt2gn.cloudfront.net^
 ||dewrain.
 ||dewrain.world^
@@ -3800,7 +3796,6 @@
 ||marphezis.com^
 ||marsello.com^
 ||mas-ext-eu.amazon.com^
-||mas-sdk.amazon.com^
 ||mask*.apple-dns.net^
 ||mask*.icloud.com^
 ||mathtag.com^
@@ -3917,7 +3912,6 @@
 ||mrf.io^
 ||ms-offices.com^
 ||msadsscale.microsoft.com^
-||msh.amazon.
 ||msmedia.morningstar.com^
 ||mssdk-sg.tiktok.com^
 ||mssdk.tiktokw.us^
@@ -4555,7 +4549,6 @@
 ||serverbid.com^
 ||servertag.nespresso.com^
 ||service-ad-*.pluto.tv^
-||service.amazonsilk.com^
 ||service.cmp.oath.com^
 ||service.minerva.devices.a2z.com^
 ||services-prod.nsvcs.net^
