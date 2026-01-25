@@ -2606,6 +2606,7 @@
 ||dcv4p460uqa46.cloudfront.net^
 ||dcylog.com^
 ||dczhbhtz52fpi.cloudfront.net^
+||dd-js-tag.curiositystream.com^
 ||dd.allaboutcookies.org^
 ||dd.astockcdn.net^
 ||dd.nytimes.com^
