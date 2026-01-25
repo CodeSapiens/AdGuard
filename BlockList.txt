@@ -4146,6 +4146,7 @@
 ||pixel.facebook.com^
 ||pixel.ipinfo.io^
 ||pixel.nudgify.com^
+||pixel.patch.com^
 ||pixel.uppromote.com^
 ||pixel.watch^
 ||pixel.web.roku.com^
