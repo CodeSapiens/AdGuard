@@ -3538,6 +3538,7 @@
 ||info.thekrazycouponlady.com^
 ||infolinks.com^
 ||infusionsoft.app^
+||ingestion.sportskeeda.com^
 ||ingress.linktr.ee^
 ||ink1001.com^
 ||inmobi.com^
