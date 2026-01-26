@@ -72,6 +72,7 @@
 ||accdab.net^
 ||account.api.here.com^
 ||accounts.nvgs.nvidia.cn^
+||accretivemedia.go2cloud.org^
 ||acroipm2.adobe.com^
 ||acsbapp.com^
 ||activate.latimes.com^
@@ -457,6 +458,7 @@
 ||bdapi-ads.realmemobile.com^
 ||bdapi-in-ads.realmemobile.com^
 ||beachfront.com^
+||beacon-v2.helpscout.net^
 ||beacon.*.prodaa.netflix.com^
 ||beacon.dropbox.com^
 ||beacon.gtv-pub.com^
@@ -3407,6 +3409,7 @@
 ||gravitec.net^
 ||groupm.com^
 ||growave.io^
+||growsumo.com^
 ||gs-loc*.apple.com
 ||gs-loc*.ls-apple.com
 ||gsas.apple.com^
@@ -4990,6 +4993,7 @@
 ||undertone.com^
 ||unhappyweakness.com^
 ||unified-ad-segment-cdn-ak-*.akamaized.net^
+||unifyintent.com^
 ||unityads.unity3d.com^
 ||unrulymedia.com^
 ||ups.inq.com^
