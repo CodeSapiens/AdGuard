@@ -381,6 +381,7 @@
 ||assets.alicdn.com^
 ||assets.capterra.com^
 ||assets.comparitech.com^
+||assets.emarsys.net^
 ||assets.juicer.io^
 ||assets.mailerlite.com^
 ||assets.minutemediacdn.com^
@@ -3365,6 +3366,7 @@
 ||glassboxdigital.io^
 ||glassmoni.researchgate.net^
 ||glitter.services.disqus.com^
+||global.cmcs.service.amazonsilk.com^
 ||global.ketchcdn.com^
 ||global.stun.twilio.com^
 ||gn-flagpoles.api.bbci.co.uk^
@@ -3757,6 +3759,7 @@
 ||logs.roku.com^
 ||logs.trustpilot.com^
 ||logs*.amazonaws.com^
+||logz.io^
 ||lookinews.com^
 ||loopme.me^
 ||loox.io^
@@ -4420,6 +4423,7 @@
 ||ru.com^
 ||rubiconproject.com^
 ||rudderlabs.com^
+||rum-ingress-coralogix.com^
 ||rum-metrics.bunny.net^
 ||rum-static.pingdom.net^
 ||rum.hlx.page^
@@ -4469,6 +4473,7 @@
 ||sb.tv.apple.com
 ||sc-static.net^
 ||scanguard.com^
+||scarabresearch.com^
 ||scaredslip.com^
 ||scaredsnakes.com^
 ||scholarlyiq.com^
