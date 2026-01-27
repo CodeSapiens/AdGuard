@@ -467,6 +467,7 @@
 ||beacon.walmart.com^
 ||beacon*.akadns.net^
 ||beam.hlserve.com^
+||beam.koddi.com^
 ||beap.gemini.yahoo.com^
 ||beehiiv-adnetwork-production.s3.amazonaws.com^
 ||bento.agoda.com^
@@ -709,6 +710,7 @@
 ||clevertap-prod.com^
 ||click.bible.com^
 ||click.e.zoom.us^
+||click.prod.mplat-ppcprotect.com^
 ||clickagy.com^
 ||clickbank.com^
 ||clickbank.net^
@@ -873,6 +875,7 @@
 ||cutechin.com^
 ||cxense.com^
 ||d.email.forbes.com^
+||d.line-scdn.net^
 ||d.reddit.com^
 ||d107aafi6v8j3q.cloudfront.net^
 ||d108nnfn2eigw4.cloudfront.net^
@@ -3427,6 +3430,7 @@
 ||gustygrandmother.com^
 ||gvt2.com^
 ||gvt3.com^
+||gwmtracking.com^
 ||gx-target-experiments-frontend-api.gx.nvidia.com^
 ||h.tanbooks.com^
 ||handsomelyhealth.com^
@@ -4629,6 +4633,7 @@
 ||smartetailing.piwik.pro^
 ||smartlock.google.com^
 ||smartocto.com^
+||smetric.hilton.com^
 ||smetrics*.
 ||smilewanted.com^
 ||smoot-feedback.v.aaplimg.com^
@@ -5088,6 +5093,7 @@
 ||watch.amazon.com^
 ||watchingthat.net^
 ||wayin.com^
+||wcs.naver.net^
 ||wdfl.co^
 ||weatherblink.com^
 ||weatherbuddy.net^
