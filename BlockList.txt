@@ -342,8 +342,6 @@
 ||apphero.co^
 ||appjiagu.com^
 ||applab-sdk.amazon.com^
-||apple-relay.apple.com^
-||apple-relay.fastly-edge.com^
 ||apple.news^
 ||apple.pa^
 ||applemediaservices.com^
@@ -3323,7 +3321,6 @@
 ||gammaplatform.com^
 ||gannettdigital.com^
 ||ganon.yahoo.com^
-||gateway-oblivious.apple.com
 ||gateway.bingviz.microsoftapp.net^
 ||gaysweekend.com^
 ||gc.newsweek.com^
