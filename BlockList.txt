@@ -3414,12 +3414,7 @@
 ||groupm.com^
 ||growave.io^
 ||growsumo.com^
-||gs-loc*.apple.com
-||gs-loc*.ls-apple.com
 ||gsas.apple.com^
-||gsp*-ssl*.ls.apple.com
-||gsp*-ssl*.ls*-apple.com
-||gsp1.apple.com
 ||gss.skatepro.com^
 ||gtm.getcleanpeople.com^
 ||guardianapis
