@@ -343,6 +343,7 @@
 ||appjiagu.com^
 ||applab-sdk.amazon.com^
 ||apple-relay.apple.com^
+||apple-relay.fastly-edge.com^
 ||apple.news^
 ||apple.pa^
 ||applemediaservices.com^
@@ -3322,6 +3323,7 @@
 ||gammaplatform.com^
 ||gannettdigital.com^
 ||ganon.yahoo.com^
+||gateway-oblivious.apple.com
 ||gateway.bingviz.microsoftapp.net^
 ||gaysweekend.com^
 ||gc.newsweek.com^
@@ -3354,7 +3356,6 @@
 ||geolocation-db.com^
 ||geolocation.forbes.com^
 ||geotrust.com^
-||get.fivetran.com^
 ||get.fivetran.com^
 ||getadmiral.com^
 ||getcarro.com^
@@ -3454,7 +3455,6 @@
 ||hitbox.com^
 ||hj.contentsquare.com^
 ||hlserve.com^
-||hola.mikmak.com^
 ||hola.mikmak.com^
 ||holid.bbvms.com^
 ||homedepot.online-metrix.net^
@@ -3593,6 +3593,7 @@
 ||ipinfodb.com^
 ||ipredictive.com^
 ||ips1.unifi-ai.com^
+||ipv6check-http.steamserver.net^
 ||iqm.com^
 ||irchan.com^
 ||iris.tv^
@@ -4693,7 +4694,6 @@
 ||ssp.advertising.com^
 ||ssp.yahoo.com^
 ||sst.courtreserve.com^
-||sst.courtreserve.com^
 ||sstats.adobe.com^
 ||stackadapt.com^
 ||stagepopkek.com^
@@ -5192,6 +5192,7 @@
 ||youborafds01.com^
 ||youradexchange.com^
 ||yourbow.com^
+||yt*.ggpht.com^
 ||zdbb.net^
 ||zdstatic.speedtest.net^
 ||zemanta.com^
