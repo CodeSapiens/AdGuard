@@ -4130,6 +4130,7 @@
 ||personalization.bloomberg.com^
 ||pgammedia.com^
 ||ph.dealnews.com^
+||pha.wheniwork.com^
 ||phar.gu-web.net^
 ||phncdn.com^
 ||phonograph2.voxmedia.com^
