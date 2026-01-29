@@ -3614,6 +3614,7 @@
 ||jivox.com^
 ||joinhoney.com^
 ||journeymv.com^
+||jp-coil.com^
 ||js-cdn.dynatrace.com^
 ||js.chilipiper.com^
 ||js.convertflow.co^
