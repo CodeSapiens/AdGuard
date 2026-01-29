@@ -544,6 +544,7 @@
 ||btstatic.com^
 ||btttag.com^
 ||bugs.firebat.prime-video.amazon.dev^
+||bugsnag.alexa-mobile.amazon.dev^
 ||bugsnag.com^
 ||bugsnag.kindle.amazon.dev^
 ||bugsnag*.monitor.core.app.alexa.a2z.com^
@@ -3266,6 +3267,7 @@
 ||frontdoor.nest.com^
 ||frontend-logger.flippback.com^
 ||frqj.adrise.tv^
+||fscdn.eppo.cloud^
 ||fullstory.com^
 ||fundingchoicesmessages.google.com^
 ||fuse.forbes.com^
