@@ -278,6 +278,7 @@
 ||anm.co.uk^
 ||anrdoezrs.net^
 ||answerscloud.com^
+||anytimesbook.com^
 ||ap.spotify.com^
 ||apcdp.apnews.com^
 ||apharponloun.com^
@@ -513,6 +514,7 @@
 ||boi9osyg1uwtyafn.com^
 ||boldapps.net^
 ||boldcommerce.com^
+||bookscloud.net^
 ||boomerang.dell.com^
 ||boomtrain.com^
 ||bordeaux.futurecdn.net^
@@ -4893,6 +4895,7 @@
 ||tokyo-motion.net^
 ||ton.twimg.com^
 ||tools.google.com^
+||topbooktoday.com^
 ||topcrazypress.com^
 ||totaladblock.com^
 ||totalav.com^
