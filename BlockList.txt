@@ -3413,6 +3413,7 @@
 ||growsumo.com^
 ||gsas.apple.com^
 ||gss.skatepro.com^
+||gtly.link^
 ||gtm.getcleanpeople.com^
 ||guardianapis
 ||guardianapps
