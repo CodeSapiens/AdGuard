@@ -2639,6 +2639,7 @@
 ||de5zarwna0j2q.cloudfront.net^
 ||de8of677fyt0b.cloudfront.net^
 ||dea9webxhb7gu.cloudfront.net^
+||deals-assets-cdn.razerzone.com
 ||dealswidget.bestreviews.com^
 ||deb.debian.org^
 ||deb.nodesource.com^
@@ -4802,6 +4803,7 @@
 ||t.cloudpano.com^
 ||t.dailymail.co.uk^
 ||t.flickr.com^
+||t.growthbook.io^
 ||t.nypost.com^
 ||t.pie.org^
 ||t.pluto.tv^
