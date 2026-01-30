@@ -4431,6 +4431,7 @@
 ||rs6.net^
 ||rt.prnewswire.com^
 ||rtactivate.com^
+||rtbhouse.com^
 ||rtc.multiscreensite.com^
 ||rtcollector.goeuro.com^
 ||rtds.progressive.com^
@@ -5110,6 +5111,7 @@
 ||weatherbuddy.net^
 ||web-fallback.facebook.com^
 ||web-oao.ssp.yahoo.com^
+||web-perf.booking.com^
 ||web-tracker.smsbump.com^
 ||web.diagnostic.networking.aws.dev^
 ||web.facebook.com^
