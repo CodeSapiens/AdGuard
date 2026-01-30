@@ -627,6 +627,7 @@
 ||cdn.gadgets360.com^
 ||cdn.geni.us^
 ||cdn.gladly.com^
+||cdn.groupbycloud.com^
 ||cdn.hadronid.net^
 ||cdn.imhd.io^
 ||cdn.intelligems.io^
@@ -2573,6 +2574,7 @@
 ||datafyhq.com^
 ||datamilk.app^
 ||dataplane.rum.*.amazonaws.com^
+||datasteam.io^
 ||datastream.stylitics.com^
 ||dau43vt5wtrd.tk^
 ||dax3x3wqpt2q3.cloudfront.net^
@@ -3057,6 +3059,7 @@
 ||e-planning.net^
 ||e.viously.com^
 ||e00.uecdn.es^
+||eacod.tienda.com^
 ||ebayclassifiedsgroup.com^
 ||ebayrtm.com^
 ||ebesee.com^
@@ -5201,6 +5204,7 @@
 ||youradexchange.com^
 ||yourbow.com^
 ||yt*.ggpht.com^
+||ywxi.net^
 ||zdbb.net^
 ||zdstatic.speedtest.net^
 ||zemanta.com^
