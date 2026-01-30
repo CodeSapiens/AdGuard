@@ -313,7 +313,6 @@
 ||api.mypurecloud.com^
 ||api.mypurecloud.de^
 ||api.qubit.com^
-||api.raygun.io^
 ||api.receptivity.io^
 ||api.retargetly.com^
 ||api.rudderstack.com^
@@ -4350,6 +4349,7 @@
 ||rat.rakuten.
 ||ravenjs.com^
 ||ravm.tv^
+||raygun.io^
 ||rayjump.com^
 ||rbl.ms^
 ||rdns*.apple.com^
