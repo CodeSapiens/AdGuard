@@ -4204,6 +4204,7 @@
 ||policies.oath.com^
 ||polling.bbc.co.uk^
 ||polyfill.io^
+||polymarket-upload.s3.*.amazonaws.com^
 ||pong.gamut.media^
 ||ponos.zeronaught.com^
 ||pop-iad-2.cf.dash.row.aiv-cdn.net^
@@ -4780,7 +4781,6 @@
 ||suggestqueries*.google.com
 ||summerhamster.com^
 ||sumome.com^
-||sundaysky.com^
 ||supapush.net^
 ||supersonicads.com^
 ||supportmetrics.apple.com^
@@ -5136,7 +5136,6 @@
 ||widget.reviews.io^
 ||widget.sezzle.com^
 ||widget.spreaker.com^
-||widget.trustpilot.com^
 ||widget.websitevoice.com^
 ||widget.ybug.io^
 ||widgetic.com^
