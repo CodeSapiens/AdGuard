@@ -3057,6 +3057,7 @@
 ||dzxcwfh7qvufz.cloudfront.net^
 ||dzxr711a4yw31.cloudfront.net^
 ||e-planning.net^
+||e.muckrack.com^
 ||e.viously.com^
 ||e00.uecdn.es^
 ||eacod.tienda.com^
