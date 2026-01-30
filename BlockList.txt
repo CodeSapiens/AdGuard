@@ -3380,6 +3380,7 @@
 ||go-mpulse.net^
 ||go.e.mailchimp.com^
 ||go.expressvpn.com^
+||go.nordvpn.net^
 ||go.rightnowmedia.org^
 ||go.smartrak.com^
 ||goaffpro.app^
