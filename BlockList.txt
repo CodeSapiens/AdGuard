@@ -4860,6 +4860,7 @@
 ||teads.net^
 ||teads.tv^
 ||tealium.cbsnews.com^
+||tealium.hs.llnwd.net^
 ||tealiumiq.com^
 ||tealm-c.crocs.com^
 ||techlab-cdn.com^
