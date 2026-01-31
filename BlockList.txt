@@ -411,7 +411,6 @@
 ||audiohook.com^
 ||audrte.com^
 ||aultseemedto.xyz^
-||auth.adobe.com^
 ||auth.split.io^
 ||automatad.com^
 ||automizely.com^
@@ -3237,7 +3236,6 @@
 ||fls-na.amazon.
 ||flurry.com^
 ||flyermobi.com^
-||fm.cnbc.com^
 ||fn-pz.com^
 ||fndrsp.net^
 ||followingbehold.com^
@@ -3926,6 +3924,7 @@
 ||mplxtms.com^
 ||mps.cnbc.com^
 ||mps.nbcuni.com^
+||mps.vsnt.net^
 ||mpstat.us^
 ||mqtt.*.ltsapis.goog^
 ||mr.homedepot.com^
@@ -4781,7 +4780,6 @@
 ||suggestqueries*.google.com
 ||summerhamster.com^
 ||sumome.com^
-||sundaysky.com^
 ||supapush.net^
 ||supersonicads.com^
 ||supportmetrics.apple.com^
