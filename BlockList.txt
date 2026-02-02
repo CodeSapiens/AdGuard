@@ -5050,6 +5050,7 @@
 ||vaicore.
 ||valencia-beacons.xumo.com^
 ||variations.brave.com^
+||vbout.com^
 ||vdo.ai^
 ||vdterms.samsungcloudsolution.
 ||vendorlist.consensu.org^
