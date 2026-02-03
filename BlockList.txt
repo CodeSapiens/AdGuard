@@ -79,6 +79,7 @@
 ||acsbapp.com^
 ||activate.latimes.com^
 ||activate.platform.californiatimes.com^
+||activedemand.com^
 ||activemetering.com^
 ||activity.api.bbc.com^
 ||activity.windows.com^
