@@ -732,6 +732,7 @@
 ||cloudfront-labs.amazonaws.com^
 ||cloudfronte.com^
 ||cloudharmony.net^
+||cloudsponge.com^
 ||clrt.ai^
 ||cm-exchange.toast.com^
 ||cm.desmoinesregister.com^
@@ -3439,6 +3440,7 @@
 ||hawk-assets.co.uk^
 ||hawk.tomsguide.com^
 ||hb.20m.es^
+||hb.shemediax.com^
 ||hb.vntsm.com^
 ||hb.yahoo.net^
 ||hbwrapper.com^
