@@ -696,11 +696,6 @@
 ||cirrus-full-snapshots-track-csv-*-na-prod.s3.amazonaws.com^
 ||cityspark.com^
 ||civicscience.com^
-||cl1.apple.com^
-||cl2.apple.com^
-||cl3.apple.com^
-||cl4.apple.com^
-||cl5.apple.com^
 ||clanker-events.squarespace.com^
 ||clarice.streema.com^
 ||clarity.ms^
@@ -795,8 +790,6 @@
 ||config.ubnt.com^
 ||config.uca.cloud.unity3d.com^
 ||configsvc.cs.roku.com^
-||configuration.Is.apple.com^
-||configuration.ls.apple.com
 ||confirmit.com^
 ||connatix.com^
 ||connect.facebook.com^
@@ -864,7 +857,6 @@
 ||csp.walmart.com^
 ||csp.withgoogle.com^
 ||csp.yahoo.com^
-||cstat.cdn-apple.com^
 ||cstat.g.aaplimg.com^
 ||cstm.baidu.com^
 ||ct.pinterest.com^
@@ -3594,8 +3586,6 @@
 ||ipa.elev.io^
 ||ipapi.co^
 ||iperceptions.com^
-||iphone-Id.apple.com^
-||iphone-ld.apple.com
 ||iphonesubmissions.v.aaplimg.com^
 ||ipify.org^
 ||ipinfodb.com^
@@ -4090,7 +4080,6 @@
 ||pagefair.net^
 ||pages.usertesting.com^
 ||pagesense.io^
-||pancake.apple.com
 ||pancake.cdn-apple.com
 ||pancake.g.aaplimg.com
 ||pandect.es^
