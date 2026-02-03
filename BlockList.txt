@@ -857,6 +857,7 @@
 ||csp.walmart.com^
 ||csp.withgoogle.com^
 ||csp.yahoo.com^
+||cstat.cdn-apple.com^
 ||cstat.g.aaplimg.com^
 ||cstm.baidu.com^
 ||ct.pinterest.com^
