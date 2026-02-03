@@ -51,6 +51,7 @@
 ||a.ok.facebook.com^
 ||a.quora.com^
 ||a1.api.bbc.co.uk^
+||a2030.dscapi9.akamai.net^
 ||a3kvau184uea.com^
 ||a40.usablenet.com^
 ||a47b.com^
@@ -4542,6 +4543,7 @@
 ||securestudies.com^
 ||security.debian.org^
 ||securitytrfx.com^
+||sedge.nfl.com^
 ||sedoparking.com^
 ||seedtag.com^
 ||seethru.co.uk^
