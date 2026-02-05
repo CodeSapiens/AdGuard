@@ -2942,6 +2942,7 @@
 ||dt3y1f1i1disy.cloudfront.net^
 ||dtakdb1z5gq7e.cloudfront.net^
 ||dtioykqj1u8de.cloudfront.net^
+||dtm.worldmarket.com^
 ||dtmm9h2satghl.cloudfront.net^
 ||dtmpub.com^
 ||dtpbt6teapmm3.cloudfront.net^
@@ -3052,6 +3053,7 @@
 ||dzxcwfh7qvufz.cloudfront.net^
 ||dzxr711a4yw31.cloudfront.net^
 ||e-planning.net^
+||e.customeriomail.com^
 ||e.muckrack.com^
 ||e.viously.com^
 ||e00.uecdn.es^
