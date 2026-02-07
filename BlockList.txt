@@ -694,6 +694,7 @@
 ||checkitt.news^
 ||childlikeform.com^
 ||chimpstatic.com^
+||chloro.trip.com^
 ||cirrus-full-snapshots-track-csv-*-na-prod.s3.amazonaws.com^
 ||cityspark.com^
 ||civicscience.com^
@@ -732,6 +733,7 @@
 ||cloudsponge.com^
 ||clrt.ai^
 ||cm-exchange.toast.com^
+||cm.azcentral.com^
 ||cm.desmoinesregister.com^
 ||cm.usatoday.com^
 ||cmp.advertising.com^
@@ -771,6 +773,7 @@
 ||compare-static.flightconnections.com^
 ||compare-static.reservationdesk.com^
 ||compare-static.travelmath.com^
+||compare-static.travelsafe-abroad.com^
 ||compare.mapcarta.com^
 ||comscore.com^
 ||concert.io^
@@ -2731,6 +2734,7 @@
 ||dihutyaiafuhr.cloudfront.net^
 ||dil4q0t0blrf8.cloudfront.net^
 ||dilvyi2h98h1q.cloudfront.net^
+||dimg04.c-ctrip.com^
 ||diodxcszlbmwk.cloudfront.net^
 ||diproton-ads-prod-*.hulu.com.akadns.net^
 ||diqftdf1fp8u.cloudfront.net^
@@ -3166,6 +3170,7 @@
 ||ex.co^
 ||exacttarget.com^
 ||exelator.com^
+||expcore.macys.com^
 ||experience.tinypass.com^
 ||experimentation.chase.com^
 ||experiments.apple.com^
@@ -4351,6 +4356,7 @@
 ||rdns*.apple.com^
 ||rdtcdn.com^
 ||reaktion.com^
+||realmagnet.land^
 ||realtime-logger.production-public.tubi.io^
 ||realtime.services.disqus.com^
 ||receptivity.io^
@@ -4374,6 +4380,7 @@
 ||report-edge.agora.io^
 ||report-uri.io^
 ||reporting-api.gannettinnovation.com^
+||reputon.com^
 ||requestmetrics.com^
 ||rereddit.com^
 ||res-x.com^
@@ -4385,6 +4392,7 @@
 ||responsiveads.com^
 ||rest.locuslabs.com^
 ||retail.googleapis.com^
+||retailmedia-static.azureedge.net^
 ||returnpath.net^
 ||revampcdn.com^
 ||revcatch.com^
@@ -4505,6 +4513,7 @@
 ||scripts.stay22.com^
 ||scriptwrapper.com^
 ||scrsrch.com^
+||sd-learning-ad-videos.sdcdns.com^
 ||sddan.com^
 ||sdiapi.com^
 ||sdk.asapp.com^
@@ -4621,6 +4630,7 @@
 ||singular.net^
 ||site.gladly.com^
 ||site24x7rum.eu^
+||sitecatalyst.fidelity.com^
 ||siteintercept.qualtrics.com^
 ||sitescout.com^
 ||sitestat.com^
@@ -5032,6 +5042,7 @@
 ||usecho.internetat.tv^
 ||user-content.superwalleditor.com^
 ||user-signals.production-public.tubi.io^
+||user.azcentral.com^
 ||user.desmoinesregister.com^
 ||user.ground.news^
 ||usera.imagecave.com^
