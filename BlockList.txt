@@ -4065,6 +4065,7 @@
 ||osm-ads*.delivery.roku.com^
 ||oss-us-west-1.aliyuncs.com^
 ||otel-hfo.fareharbor.engineering^
+||otelrules.svc.static.microsoft^
 ||otlp-http-production.shopifysvc.com^
 ||oui-0x00199d.com^
 ||outbrain.com^
