@@ -195,6 +195,7 @@
 ||adzerk.net^
 ||adzone.io^
 ||ae.nflximg.net^
+||aepxlg.adobe.com^
 ||aff.bstatic.com^
 ||affiliat*.
 ||affiliaxe.com^
@@ -3060,6 +3061,7 @@
 ||e.customeriomail.com^
 ||e.muckrack.com^
 ||e.viously.com^
+||e00-ue.uecdn.es^
 ||e00.uecdn.es^
 ||eacod.tienda.com^
 ||ebayclassifiedsgroup.com^
@@ -3198,7 +3200,6 @@
 ||fastclick.com^
 ||fastclick.net^
 ||fastly-insights.com^
-||fastly-signed-us-east-1-prod.brightcovecdn.com^
 ||faves.grow.me^
 ||fbot.me^
 ||fbs.smoot.apple.com^
@@ -3548,6 +3549,7 @@
 ||incognia.com^
 ||indexexchange.com^
 ||indexww.com^
+||infinitedata-pa.googleapis.com^
 ||infinity-tracking.net^
 ||info.thekrazycouponlady.com^
 ||infolinks.com^
@@ -3737,7 +3739,9 @@
 ||location-services-measurements.s3-external-1.amazonaws.com^
 ||location.cm.bloomberg.com^
 ||location.squarespace.com^
+||locationhistory-pa.googleapis.com^
 ||locationhistoryaggregates-pa.googleapis.com^
+||locationhistoryplacedetails-pa.googleapis.com^
 ||log-*.epicdn.me^
 ||log-gateway.zoom.us^
 ||log.cookieyes.com^
@@ -4203,6 +4207,7 @@
 ||polarcdn-*.com^
 ||polaris.xfinity.com^
 ||policies.oath.com^
+||poll.gras.samsungdm.com^
 ||polling.bbc.co.uk^
 ||polyfill.io^
 ||polymarket-upload.s3.*.amazonaws.com^
@@ -5120,6 +5125,7 @@
 ||weatherblink.com^
 ||weatherbuddy.net^
 ||web-fallback.facebook.com^
+||web-integration.recombee.com^
 ||web-oao.ssp.yahoo.com^
 ||web-perf.booking.com^
 ||web-tracker.smsbump.com^
