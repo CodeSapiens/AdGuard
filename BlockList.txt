@@ -4367,6 +4367,7 @@
 ||realtime.services.disqus.com^
 ||receptivity.io^
 ||reco.ebay.com^
+||recombee.com^
 ||reconditerespect.com^
 ||recovermycart.com^
 ||recs.rbcroyalbank.com^
@@ -5125,7 +5126,6 @@
 ||weatherblink.com^
 ||weatherbuddy.net^
 ||web-fallback.facebook.com^
-||web-integration.recombee.com^
 ||web-oao.ssp.yahoo.com^
 ||web-perf.booking.com^
 ||web-tracker.smsbump.com^
