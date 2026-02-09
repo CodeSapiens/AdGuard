@@ -6,7 +6,9 @@
 *-thedispatch-com.tinipass.com^
 *.adsbox^
 *.cdn.speechify.com^
+*.cn^
 *.opencensus^
+*.ru^
 *.textads^
 *.xxx^
 *analytics
@@ -693,6 +695,7 @@
 ||chartbeat.com^
 ||chartbeat.net^
 ||checkitt.news^
+||cheftoondiligord.site^
 ||childlikeform.com^
 ||chimpstatic.com^
 ||chloro.trip.com^
@@ -3242,6 +3245,7 @@
 ||flyermobi.com^
 ||fn-pz.com^
 ||fndrsp.net^
+||fnl.quizizz.com^
 ||followingbehold.com^
 ||fomo.com^
 ||fonts.google.com^
@@ -3359,6 +3363,7 @@
 ||geoip.businessinsider.com^
 ||geoip.freemake.com^
 ||geoip.radio-canada.ca^
+||geoip.z-dn.net^
 ||geoiplookup.io^
 ||geolocation-db.com^
 ||geolocation.forbes.com^
