@@ -3724,6 +3724,7 @@
 ||limurol.com^
 ||linear-ad-segments.frequency.stream^
 ||link.plex.tv^
+||links.services.disqus.com^
 ||linksynergy.com^
 ||linkwithin.com^
 ||litix.digitalvideoplatform.com^
@@ -4727,6 +4728,7 @@
 ||ssl.o.webmd.com^
 ||ssl.widgets.webengage.com^
 ||ssp.advertising.com^
+||ssp.disqus.com^
 ||ssp.yahoo.com^
 ||sst.courtreserve.com^
 ||sstats.adobe.com^
@@ -4892,6 +4894,7 @@
 ||telegraph.prd.api.bleacherreport.com^
 ||telem-edge.smartscreen.microsoft.com^
 ||telete.in^
+||tempest.services.disqus.com^
 ||tenhourweek.com^
 ||test.ajo.adobe.com^
 ||test.com^
