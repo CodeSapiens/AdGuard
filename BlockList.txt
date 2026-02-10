@@ -244,6 +244,7 @@
 ||akisinn.
 ||akstat.io^
 ||aktivvinter.
+||alarmsone.manageengine.com^
 ||alb.reddit.com^
 ||albss.com^
 ||alebilet.
@@ -5169,6 +5170,7 @@
 ||widgets.tree.com^
 ||widgets.wp.com^
 ||widgets.xsellco.com^
+||widgets.zohosalesiq.com^
 ||wikiwhatwhere.com^
 ||wildmoodswings.co.uk^
 ||wimsey.publicsquare.com^
