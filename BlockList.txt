@@ -634,6 +634,7 @@
 ||cdn.groupbycloud.com^
 ||cdn.hadronid.net^
 ||cdn.imhd.io^
+||cdn.instant.one^
 ||cdn.intelligems.io^
 ||cdn.jifo.co^
 ||cdn.justuno.com^
@@ -3369,6 +3370,7 @@
 ||geolocation.forbes.com^
 ||geotrust.com^
 ||get.fivetran.com^
+||get.geojs.io^
 ||getadmiral.com^
 ||getcarro.com^
 ||getelevar.com^
