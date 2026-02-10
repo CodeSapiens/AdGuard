@@ -870,6 +870,7 @@
 ||cstat.cdn-apple.com^
 ||cstat.g.aaplimg.com^
 ||cstm.baidu.com^
+||ct.captcha-delivery.com^
 ||ct.pinterest.com^
 ||cta-service-cms*.hubspot.com^
 ||cubchannel.com^
@@ -5016,6 +5017,7 @@
 ||tzm.px-cloud.net^
 ||u.expo.dev^
 ||u566.chron.com^
+||u999.wcvb.com^
 ||ua.indianexpress.com^
 ||ubembed.com^
 ||uciservice.com^
