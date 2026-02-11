@@ -284,6 +284,7 @@
 ||animatedbanner.xyz^
 ||aniview.com^
 ||anm.co.uk^
+||anonymous-communication.ghostery.net^
 ||anrdoezrs.net^
 ||answerscloud.com^
 ||anytimesbook.com^
