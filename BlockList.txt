@@ -60,6 +60,7 @@
 ||a8.net^
 ||aa.cbssports.com^
 ||aamt.msnbc.com^
+||aamt.nbcnews.com^
 ||aan.amazon.
 ||aax-us-*-retail-direct.amazon.com^
 ||aax-us-iad.amazon.com^
@@ -883,6 +884,7 @@
 ||cutechin.com^
 ||cxense.com^
 ||d.email.forbes.com^
+||d.ghostery.com^
 ||d.line-scdn.net^
 ||d.reddit.com^
 ||d107aafi6v8j3q.cloudfront.net^
@@ -3065,6 +3067,7 @@
 ||dzxr711a4yw31.cloudfront.net^
 ||e-planning.net^
 ||e.customeriomail.com^
+||e.email.sorel.com^
 ||e.muckrack.com^
 ||e.viously.com^
 ||e00-ue.uecdn.es^
@@ -3620,6 +3623,7 @@
 ||isnssdk.com^
 ||isohunt.to^
 ||ispot.tv^
+||iteratehq.com^
 ||ix.cnn.io^
 ||izatcloud.net^
 ||izooto.com^
@@ -5238,6 +5242,7 @@
 ||youborafds01.com^
 ||youradexchange.com^
 ||yourbow.com^
+||yrxtrk.com^
 ||yt*.ggpht.com^
 ||ywxi.net^
 ||zdbb.net^
