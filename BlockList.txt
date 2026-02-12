@@ -3157,6 +3157,7 @@
 ||events.claspws.tv^
 ||events.data.microsoft.com^
 ||events.engager.ecbsn.com^
+||events.foxnews.com^
 ||events.framer.com^
 ||events.gfe.nvidia.com^
 ||events.jotform.com^
