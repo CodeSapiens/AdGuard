@@ -3366,6 +3366,7 @@
 ||geo.gfycat.com^
 ||geo.justwatch.com^
 ||geo.lovely-app.com^
+||geo.nbcsports.com^
 ||geo.ngtv.io^
 ||geo.query.yahoo.com^
 ||geo.yahoo.com^
