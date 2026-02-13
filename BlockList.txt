@@ -3097,6 +3097,7 @@
 ||edgecast-cf-prod.yahoo.net^
 ||edgecast-vod.yahoo.net^
 ||edgecast-vod.yimg.com^
+||edgecompanion.msn.com^
 ||edgetrksvc.ebay.com^
 ||edigitalsurvey.com^
 ||edns.ip-api.com^
@@ -3274,6 +3275,7 @@
 ||fp.twincities.com^
 ||fpa-*.adweek.com^
 ||fpapi.io^
+||fpinit.itunes.apple.com^
 ||fpjs.io^
 ||frase.io^
 ||freedomadnetwork.com^
@@ -3289,6 +3291,7 @@
 ||frontend-logger.flippback.com^
 ||frqj.adrise.tv^
 ||fscdn.eppo.cloud^
+||fuelcdn.com^
 ||fullstory.com^
 ||fundingchoicesmessages.google.com^
 ||fuse.forbes.com^
@@ -3541,6 +3544,7 @@
 ||im-apps.net^
 ||image.online.adp.com^
 ||images.nvidia.cn^
+||images.prismic.io^
 ||images*.adrise.tv^
 ||images*.minutemediacdn.com^
 ||imasdk.googleapis.com^
@@ -4356,6 +4360,7 @@
 ||quiq-api.com^
 ||quiq-cdn.com^
 ||r.bbci.co.uk^
+||r.msftstatic.com^
 ||r.stripe.com^
 ||r0.mradx.net^
 ||r541.houstonchronicle.com^
