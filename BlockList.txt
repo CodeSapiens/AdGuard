@@ -3134,6 +3134,7 @@
 ||ensighten.bhphoto.com^
 ||ensighten.com^
 ||ensighten.norton.com^
+||entitlements.itunes.apple.com^
 ||entitlements.jwplayer.com^
 ||ep2.facebook.com^
 ||ep7.facebook.com^
