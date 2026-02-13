@@ -3287,6 +3287,7 @@
 ||freshmarketer.com^
 ||fresnel*.vimeocdn.com^
 ||freyr.futurecdn.net^
+||friendship.nbc.com^
 ||frog.wix.com^
 ||frontdoor.nest.com^
 ||frontend-logger.flippback.com^
@@ -4733,6 +4734,7 @@
 ||srmdata-us.com^
 ||srtb.msn.com^
 ||srv.tunefindforfans.com^
+||ss.nbc.co^
 ||ss.topspinpro.com^
 ||ssafp.samsclub.com^
 ||ssitecat.eset.com^
