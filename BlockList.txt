@@ -3374,6 +3374,7 @@
 ||geo*.adobe.com^
 ||geoedge.be^
 ||geoip-js.com^
+||geoip-product-blocker.zend-apps.com^
 ||geoip.businessinsider.com^
 ||geoip.freemake.com^
 ||geoip.radio-canada.ca^
@@ -3446,6 +3447,7 @@
 ||gsas.apple.com^
 ||gss.skatepro.com^
 ||gtly.link^
+||gtm-server.healthline.com^
 ||gtm.getcleanpeople.com^
 ||guardianapis
 ||guardianapps
@@ -3827,6 +3829,7 @@
 ||manage.devcenter.microsoft.com^
 ||mantis-intelligence.com^
 ||marinsoftware.com^
+||marisol.queenofthethrones.com^
 ||marker.io^
 ||marketing.aws.dev^
 ||marketing.gilderlehrman.org^
@@ -4134,6 +4137,7 @@
 ||partnerlinks.io^
 ||partners.kit.com^
 ||partnerstack.com^
+||pavlov-prod.healthline.com^
 ||paywall-ad-bucket.s3.amazonaws.com^
 ||pbc.decider.com^
 ||pbc.nypost.com^
@@ -4286,6 +4290,7 @@
 ||prodperfect.com^
 ||prodregistryv2.org^
 ||producttestpanel.com^
+||producttestpanel.com^
 ||profitwell.com^
 ||profusesupport.com^
 ||promos.investing.com^
@@ -4329,6 +4334,7 @@
 ||push-sdk.com^
 ||push.groupme.com^
 ||push.kumulos.com^
+||push.reamaze.com^
 ||push.samsungosp.com^
 ||push.sportskeeda.com^
 ||pushengage.com^
@@ -4482,6 +4488,7 @@
 ||rum-static.pingdom.net^
 ||rum.hlx.page^
 ||rvikjd.com^
+||rvo-cohesion.healthline.com^
 ||rxeosevsso.com^
 ||s-adzone.com^
 ||s-onetag.com^
@@ -5047,6 +5054,7 @@
 ||uid.mavencoalition.io^
 ||uidapi.com^
 ||uie.data.cbc.ca^
+||umami.priorato.org^
 ||umami.priorato.org^
 ||unablehope.com^
 ||unagi*.amazon.
