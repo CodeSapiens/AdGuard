@@ -4169,6 +4169,7 @@
 ||permutive.newyorker.com^
 ||perr.h-cdn.com^
 ||personalization.bloomberg.com^
+||personalize.hindustantimes.com^
 ||pgammedia.com^
 ||ph.dealnews.com^
 ||pha.wheniwork.com^
@@ -4289,7 +4290,6 @@
 ||prod2-live-chat.sprinklr.com^
 ||prodperfect.com^
 ||prodregistryv2.org^
-||producttestpanel.com^
 ||producttestpanel.com^
 ||profitwell.com^
 ||profusesupport.com^
@@ -5050,11 +5050,11 @@
 ||udcm.yahoo.com^
 ||udn.com^
 ||ugdturner.com^
+||ui.powerreviews.com^
 ||uiboot.*.prodaa.netflix.com^
 ||uid.mavencoalition.io^
 ||uidapi.com^
 ||uie.data.cbc.ca^
-||umami.priorato.org^
 ||umami.priorato.org^
 ||unablehope.com^
 ||unagi*.amazon.
@@ -5170,6 +5170,7 @@
 ||web-tracker.smsbump.com^
 ||web.diagnostic.networking.aws.dev^
 ||web.facebook.com^
+||webchat-ui.citibot.net^
 ||webcontentassessor.com^
 ||webcontentassessor.global.ssl.fastly.net^
 ||webhooks.fivetran.com^
