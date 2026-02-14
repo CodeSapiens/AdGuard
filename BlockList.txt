@@ -61,6 +61,7 @@
 ||aa.cbssports.com^
 ||aamt.msnbc.com^
 ||aamt.nbcnews.com^
+||aamt.today.com^
 ||aan.amazon.
 ||aax-us-*-retail-direct.amazon.com^
 ||aax-us-iad.amazon.com^
