@@ -4998,6 +4998,7 @@
 ||tredir.go.com^
 ||treg.hearstnp.com^
 ||tremorhub.com^
+||tribegadzooks.com^
 ||trinity.platform.intuit.com^
 ||trinitymedia.ai^
 ||triplelift.com^
