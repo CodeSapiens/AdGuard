@@ -4285,6 +4285,7 @@
 ||prod2-live-chat.sprinklr.com^
 ||prodperfect.com^
 ||prodregistryv2.org^
+||producttestpanel.com^
 ||profitwell.com^
 ||profusesupport.com^
 ||promos.investing.com^
@@ -5046,6 +5047,7 @@
 ||uid.mavencoalition.io^
 ||uidapi.com^
 ||uie.data.cbc.ca^
+||umami.priorato.org^
 ||unablehope.com^
 ||unagi*.amazon.
 ||unbounce.com^
