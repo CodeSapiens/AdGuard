@@ -4574,6 +4574,7 @@
 ||search-api.fie.future.net.uk^
 ||searchlabspartnerservice-pa.googleapis.com^
 ||searchmarketing.com^
+||searchserverapi1.com^
 ||secondstreetapp.com^
 ||secure.cdn.fastclick.net^
 ||secure.everyaction.com^
@@ -5024,6 +5025,7 @@
 ||tru.am^
 ||truconversion.com^
 ||trueanthem.com^
+||truefit.com^
 ||trueroas.io^
 ||truoptik.com^
 ||truste.com^
