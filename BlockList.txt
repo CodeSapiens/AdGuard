@@ -349,6 +349,7 @@
 ||app*.pendo.io^
 ||appboycdn.com^
 ||appconsent.io^
+||appexceptions.reincubate.com^
 ||apphero.co^
 ||appjiagu.com^
 ||applab-sdk.amazon.com^
@@ -3825,6 +3826,7 @@
 ||m365cdn.nel.measure.office.net^
 ||madhive.com^
 ||mads*.amazon.com^
+||mafvertizing.crazygames.com^
 ||mail-ads.google.com^
 ||main.ebayrtm.com^
 ||maminoleinc.tk^
