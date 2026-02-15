@@ -4229,6 +4229,7 @@
 ||player.anyclip.com^
 ||player.h-cdn.com^
 ||player.megaphone.fm^
+||playwire.com^
 ||plrsrvcs.com^
 ||plugin.mediavoice.com^
 ||plusone.google.com^
