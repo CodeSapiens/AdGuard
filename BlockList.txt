@@ -404,6 +404,7 @@
 ||ast.bild.de^
 ||aston-mpr-web-push-notification.s3-*.amazonaws.com^
 ||aswpsdkeu.com^
+||aswpsdkeu.com^
 ||aswpsdkus.com^
 ||at.cbsi.com^
 ||at.prod.jimdo.systems^
