@@ -299,7 +299,6 @@
 ||api-esp.piano.io^
 ||api-global.*.prodaa.netflix.com^
 ||api-hotjar.com^
-||api-v3.tinypass.com^
 ||api.*.aiv-delivery.net^
 ||api.airbrake.io^
 ||api.apptentive.com^
@@ -563,7 +562,6 @@
 ||bumlam.com^
 ||bumpermash.com^
 ||business-api.tiktok.com^
-||buy.tinypass.com^
 ||buysellads.net^
 ||byteoversea.com^
 ||c.*.msn.com^
@@ -580,6 +578,7 @@
 ||c677.wisn.com^
 ||cache.judge.me^
 ||callrail.com^
+||camp.fastcompany.com^
 ||campaign-archive.com^
 ||campaigns.cyberinsider.com^
 ||campingsurvival.attn.tv^
@@ -599,7 +598,6 @@
 ||cc.swiftype.com^
 ||ccgateway.net^
 ||ccp.digitaltrends.com^
-||cdn-ajc-com.tinypass.com^
 ||cdn-aka.ts.mtvnservices.com^
 ||cdn-akamai.mookie1.com^
 ||cdn-fallback.petametrics.com^
@@ -669,7 +667,6 @@
 ||cdn.staticfile.org^
 ||cdn.teads.tv^
 ||cdn.threadloom.com^
-||cdn.tinypass.com^
 ||cdn.turner.com^
 ||cdn.undertone.com^
 ||cdn.usefathom.com^
@@ -2568,7 +2565,6 @@
 ||daq0d0aotgq0f.cloudfront.net^
 ||darnuid.netflix.com^
 ||dartsearch.net^
-||dashboard.tinypass.com^
 ||data-*.bild.de^
 ||data-60d896f23d.radio.net^
 ||data-ai.washingtonpost.com^
@@ -3189,7 +3185,6 @@
 ||exacttarget.com^
 ||exelator.com^
 ||expcore.macys.com^
-||experience.tinypass.com^
 ||experimentation.chase.com^
 ||experiments.apple.com^
 ||exportdialog.com^
@@ -3539,7 +3534,6 @@
 ||icu.newsroom.bi^
 ||id.google.com^
 ||id.nbcuni.com^
-||id.tinypass.com^
 ||id5-sync.com^
 ||identity.nel.measure.office.net^
 ||identityservices.io^
@@ -3998,7 +3992,6 @@
 ||news-bfujufa.cc^
 ||news-edge.apple.com^
 ||newscgp.com^
-||newsweek.tinypass.com^
 ||nexstardigital.net^
 ||nextmillmedia.com^
 ||nexus-websocket-a.intercom.io^
@@ -4532,7 +4525,6 @@
 ||samsungacr.com^
 ||samsungadhub.com^
 ||samsungads.com^
-||sandbox.tinypass.com^
 ||sapphire-api.target.com^
 ||sars.amazon.com^
 ||sb.music.apple.com
@@ -4943,6 +4935,7 @@
 ||tidy.intel.
 ||tiktokpangle
 ||tiktokpangle.us^
+||tinypass.com^
 ||tiqcdn.com^
 ||tiresomethunder.com^
 ||tk.airfrance.
