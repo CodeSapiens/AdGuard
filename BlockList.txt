@@ -3154,6 +3154,7 @@
 ||eventbus.intuit.com^
 ||eventlogger.soundcloud.com^
 ||eventrecorder.cm.bloomberg.com^
+||events-rudderstack.arrived.com^
 ||events-sandbox.data.msn.com^
 ||events.api.secureserver.net^
 ||events.brightline.tv^
