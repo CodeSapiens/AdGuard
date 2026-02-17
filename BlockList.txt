@@ -4766,6 +4766,7 @@
 ||stagepopkek.com^
 ||stakingbasket.com^
 ||stape.io^
+||stapecdn.com^
 ||starget.intel.
 ||starling.crowdriff.com^
 ||start-trezor.squarespace.com^
