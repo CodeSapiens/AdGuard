@@ -2979,7 +2979,6 @@
 ||du7wh8bicca0t.cloudfront.net^
 ||du8783wkf05yr.cloudfront.net^
 ||du99h8anpnevg.cloudfront.net^
-||dualstack.com.imgix.map.fastly.net^
 ||duapps.com^
 ||due5a6x777z0x.cloudfront.net^
 ||dufai4b1ap33z.cloudfront.net^
