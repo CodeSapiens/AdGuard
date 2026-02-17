@@ -3926,6 +3926,7 @@
 ||mobile.pipe.aria.microsoft.com^
 ||mobile.weblab.a2z.com^
 ||mobilead*.msn.com^
+||mobilityview.com^
 ||mobsmith.com^
 ||moderate.cleantalk.org^
 ||moderate9-v4.cleantalk.org^
@@ -5237,6 +5238,7 @@
 ||x9fnzrtl4x8pynsf.com^
 ||xad.com^
 ||xandr.com^
+||xcda.org^
 ||xg4ken.com^
 ||xgapromomanager-pa.googleapis.com^
 ||xhamster
