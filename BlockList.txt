@@ -307,6 +307,7 @@
 ||api.autopilothq.com^
 ||api.aws.parking.godaddy.com^
 ||api.axept.io^
+||api.cdp.alle.com^
 ||api.company-target.com^
 ||api.edgeoffer.microsoft.com^
 ||api.flipp.com^
