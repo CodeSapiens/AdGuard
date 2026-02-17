@@ -3630,6 +3630,7 @@
 ||irchan.com^
 ||iris.tv^
 ||is.alicdn.com^
+||is1-ssl.mzstatic.com^
 ||isenselabs.com^
 ||isnssdk.com^
 ||isohunt.to^
