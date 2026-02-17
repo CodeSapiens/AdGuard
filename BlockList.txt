@@ -4486,6 +4486,7 @@
 ||ru.com^
 ||rubiconproject.com^
 ||rudderlabs.com^
+||rum-ingest.us1.signalfx.com^
 ||rum-ingress-coralogix.com^
 ||rum-metrics.bunny.net^
 ||rum-static.pingdom.net^
@@ -4765,6 +4766,7 @@
 ||stakingbasket.com^
 ||stape.io^
 ||starget.intel.
+||starling.crowdriff.com^
 ||start-trezor.squarespace.com^
 ||stat-track.com^
 ||stat.alibaba.com^
