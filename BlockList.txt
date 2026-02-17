@@ -31,6 +31,7 @@
 ||33across.com^
 ||34.bc.googleusercontent.com^
 ||360yield.com^
+||3eee2b8f.test^
 ||3gl.net^
 ||3lift.com^
 ||3p-geo.yahoo.com^
@@ -446,6 +447,7 @@
 ||b.stats.paypal.com^
 ||b.wal.co^
 ||b2c.com^
+||b3da6ad0.test^
 ||backblaze.com^
 ||backend-capital.com^
 ||backstory.ebay.com^
