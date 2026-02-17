@@ -4676,6 +4676,7 @@
 ||siteintercept.qualtrics.com^
 ||sitescout.com^
 ||sitestat.com^
+||siteusagetools.nerdwallet.com^
 ||sizmek.com^
 ||skimresources.com^
 ||skw.eve.account.sony.com^
