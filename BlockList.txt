@@ -291,6 +291,7 @@
 ||answerscloud.com^
 ||anytimesbook.com^
 ||ap.spotify.com^
+||apc-overnight.com^
 ||apcdp.apnews.com^
 ||apharponloun.com^
 ||api-*-prod.cdn.arcpublishing.com^
