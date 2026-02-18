@@ -3462,6 +3462,7 @@
 ||gvt3.com^
 ||gwmtracking.com^
 ||gx-target-experiments-frontend-api.gx.nvidia.com^
+||gym.fromsunny.com^
 ||h.tanbooks.com^
 ||handsomelyhealth.com^
 ||hawk-assets.co.uk^
@@ -5169,6 +5170,7 @@
 ||watch-cdn.product.api.espn.com^
 ||watch.amazon.com^
 ||watchingthat.net^
+||watchtower.imdbtv.amazon.dev^
 ||wayin.com^
 ||wcs.naver.net^
 ||wdfl.co^
