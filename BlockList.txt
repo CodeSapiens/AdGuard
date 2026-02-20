@@ -637,6 +637,7 @@
 ||cdn.curalate.com^
 ||cdn.debugbear.com^
 ||cdn.flashtalking.com^
+||cdn.fourthwall.com^
 ||cdn.gadgets360.com^
 ||cdn.geni.us^
 ||cdn.gladly.com^
@@ -3804,6 +3805,7 @@
 ||logs.roku.com^
 ||logs.trustpilot.com^
 ||logs*.amazonaws.com^
+||logsapi.zoho.in^
 ||logz.io^
 ||lookinews.com^
 ||loopme.me^
