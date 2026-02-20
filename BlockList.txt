@@ -3278,6 +3278,7 @@
 ||foxkit.fox.com^
 ||fp.msedge.net^
 ||fp.twincities.com^
+||fp.yahoo.com^
 ||fpa-*.adweek.com^
 ||fpapi.io^
 ||fpinit.itunes.apple.com^
@@ -3468,6 +3469,7 @@
 ||h.tanbooks.com^
 ||handsomelyhealth.com^
 ||hawk-assets.co.uk^
+||hawk.techradar.com^
 ||hawk.tomsguide.com^
 ||hb.20m.es^
 ||hb.shemediax.com^
