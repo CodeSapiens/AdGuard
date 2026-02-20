@@ -3826,7 +3826,6 @@
 ||luronews.com^
 ||lyricshook.com^
 ||lytics.io^
-||m.stripe.com^
 ||m.yap.yahoo.com^
 ||m365cdn.nel.measure.office.net^
 ||madhive.com^
