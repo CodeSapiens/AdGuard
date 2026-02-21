@@ -3887,6 +3887,7 @@
 ||medtargetsystem.com^
 ||megabanners.cf^
 ||megpxs.com^
+||mejze.nordicoutdoor.co.uk^
 ||mercadoclics.com^
 ||mercury.jd.com^
 ||merequartz.com^
@@ -4353,6 +4354,7 @@
 ||pushnami.com^
 ||pushx.reolink.com^
 ||pushy.me^
+||pvdbkr.com^
 ||px-cdn.net^
 ||px-client.net^
 ||px-clone.com^
@@ -4528,6 +4530,7 @@
 ||sailthru.com^
 ||salecycle.com^
 ||salemwebnetwork.com^
+||salesfire.co.uk^
 ||salesiq.zohopublic.com^
 ||salesleaf.com^
 ||salsify-ecdn.com^
@@ -4686,6 +4689,7 @@
 ||siteusagetools.nerdwallet.com^
 ||sizmek.com^
 ||skimresources.com^
+||skosm.klarna.com^
 ||skw.eve.account.sony.com^
 ||slashdot.org^
 ||slc.cbssports.com^
