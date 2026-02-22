@@ -5068,6 +5068,7 @@
 ||udc.yahoo.com^
 ||udcm.yahoo.com^
 ||udn.com^
+||ue.flipboard.com^
 ||ugdturner.com^
 ||ui.powerreviews.com^
 ||uiboot.*.prodaa.netflix.com^
