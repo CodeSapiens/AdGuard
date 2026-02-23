@@ -313,6 +313,7 @@
 ||api.edgeoffer.microsoft.com^
 ||api.flipp.com^
 ||api.gdxp.com^
+||api.honeycomb.io^
 ||api.ipdata.co^
 ||api.ipgeolocation.io^
 ||api.ipify.org^
@@ -648,6 +649,7 @@
 ||cdn.intelligems.io^
 ||cdn.jifo.co^
 ||cdn.justuno.com^
+||cdn.listrakbi.com^
 ||cdn.logbase.io^
 ||cdn.lr-ingest.io^
 ||cdn.membrana.media^
@@ -2578,6 +2580,7 @@
 ||data.adobedc.net^
 ||data.appexnw.com^
 ||data.cnn.com^
+||data.hockeystack.com^
 ||data.mistat*.xiaomi.com^
 ||data.pendo.io^
 ||data.replo.app^
@@ -3451,6 +3454,7 @@
 ||groupm.com^
 ||growave.io^
 ||growsumo.com^
+||growth.shop^
 ||gsas.apple.com^
 ||gss.skatepro.com^
 ||gtly.link^
@@ -3980,6 +3984,7 @@
 ||mssdk-sg.tiktok.com^
 ||mssdk.tiktokw.us^
 ||mtgglobals.com^
+||mtools-article-search.dickssportinggoods.com^
 ||mutinycdn.com^
 ||mxpnl.com^
 ||mxpnl.net^
