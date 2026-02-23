@@ -2670,6 +2670,7 @@
 ||dek5iqd53g59a.cloudfront.net^
 ||delidatax.net^
 ||delna76eiyecm.cloudfront.net^
+||deltadna.net^
 ||demandbase.com^
 ||demdex.net^
 ||demkc32bq01ah.cloudfront.net^
@@ -3554,6 +3555,7 @@
 ||ih.adscale.de^
 ||im-apps.net^
 ||image.online.adp.com^
+||images.email.sorel.com^
 ||images.nvidia.cn^
 ||images.prismic.io^
 ||images*.adrise.tv^
@@ -5105,6 +5107,7 @@
 ||use-application-dns.net^
 ||use.fontawesome.com^
 ||use1-api.tplinkra.com^
+||usechimney.com^
 ||usecho.internetat.tv^
 ||user-content.superwalleditor.com^
 ||user-signals.production-public.tubi.io^
@@ -5297,6 +5300,7 @@
 ||zenimpact.io^
 ||zephr-v4.nypost.com^
 ||zergnet.com^
+||zetaglobal.net^
 ||zeustechnology.com^
 ||zg-api.com^
 ||zineone.com^
