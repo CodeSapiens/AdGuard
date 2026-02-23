@@ -849,6 +849,7 @@
 ||counter.theconversation.com^
 ||counter.websiteout.com^
 ||counter*.bravenet.com^
+||counters.auctiva.com^
 ||countess.twitch.tv^
 ||country-blocker.zend-apps.com^
 ||cquotient.com^
@@ -4554,6 +4555,7 @@
 ||scholarlyiq.com^
 ||sci.intuit.com^
 ||scientiamobile.com^
+||scimg.auctiva.com^
 ||scintillatingsilver.com^
 ||scone-pa.clients6.google.com^
 ||scontent-sjc2-1.xx.fbcdn.net^
@@ -4952,6 +4954,7 @@
 ||thirdparty.bnc.lt^
 ||thrtle.com^
 ||thunderhead.com^
+||ti2.auctiva.com^
 ||tidio.co^
 ||tidy.intel.
 ||tiktokpangle
