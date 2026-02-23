@@ -612,6 +612,7 @@
 ||cdn-media.brightline.tv^
 ||cdn-net.com^
 ||cdn-ops.verloop.io^
+||cdn-piano.independent.co.uk^
 ||cdn-settings.appsflyersdk.com^
 ||cdn-usent.kampyle.com^
 ||cdn-widgetsrepository.yotpo.com^
@@ -3706,6 +3707,7 @@
 ||kissmetrics.io^
 ||kit.com^
 ||kit.fontawesome.com^
+||kk-resources.com^
 ||klaviyo.com^
 ||klclick*.com^
 ||klickly.com^
@@ -4055,6 +4057,7 @@
 ||ogads-pa.googleapis.com^
 ||ogury.com^
 ||ohttp-relay1.fastly-edge.com^
+||oil.ughmouldhusky.com^
 ||ojrq.net^
 ||okasconcepts.com^
 ||om.dowjoneson.com^
@@ -4769,6 +4772,7 @@
 ||ss.nbc.co^
 ||ss.topspinpro.com^
 ||ssafp.samsclub.com^
+||ssc.independent.co.uk^
 ||ssitecat.eset.com^
 ||ssl.cf1.rackcdn.com^
 ||ssl.cf5.rackcdn.com^
