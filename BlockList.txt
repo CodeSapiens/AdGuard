@@ -3158,6 +3158,7 @@
 ||eum-appdynamics.com^
 ||eum*.instana.io^
 ||euw1-api.tplinkra.com^
+||ev.nasdaq.com^
 ||eve.playstation.com^
 ||eventbus.intuit.com^
 ||eventlogger.soundcloud.com^
