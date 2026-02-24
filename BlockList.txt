@@ -4895,6 +4895,7 @@
 ||t.wayfair.com^
 ||t.xoom.com^
 ||t1.tacdn.com^
+||t2037ulzqct5.com^
 ||taboola.com^
 ||taboolasyndication.com^
 ||tag.aticdn.net^
@@ -5236,6 +5237,7 @@
 ||widgetlogic.org^
 ||widgets.future-fie.co.uk^
 ||widgets.pinterest.com^
+||widgets.recruitology.com^
 ||widgets.rewardstyle.com^
 ||widgets.tree.com^
 ||widgets.wp.com^
