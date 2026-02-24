@@ -3990,6 +3990,7 @@
 ||mutinycdn.com^
 ||mxpnl.com^
 ||mxpnl.net^
+||mxptint.net^
 ||my.calltrackingmetrics.com^
 ||myfidevs.io^
 ||myfinance.com^
