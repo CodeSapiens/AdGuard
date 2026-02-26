@@ -4911,6 +4911,7 @@
 ||tags.creditkarma.com^
 ||tags.dillards.com^
 ||tags.klove.com^
+||tags.martinoticias.com^
 ||tags.news.com.au^
 ||tags.rfa.org^
 ||tags.tiqcdn.com^
