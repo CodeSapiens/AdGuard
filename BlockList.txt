@@ -54,6 +54,7 @@
 ||a.ok.facebook.com^
 ||a.quora.com^
 ||a1.api.bbc.co.uk^
+||a1.nyt.com^
 ||a2030.dscapi9.akamai.net^
 ||a3kvau184uea.com^
 ||a40.usablenet.com^
@@ -5171,6 +5172,7 @@
 ||vidora.com^
 ||viglink.com^
 ||vindicosuite.com^
+||viory.video^
 ||visualwebsiteoptimizer.com^
 ||vitals.vercel-insights.com^
 ||vizu.com^
