@@ -645,6 +645,7 @@
 ||cdn.geni.us^
 ||cdn.gladly.com^
 ||cdn.groupbycloud.com^
+||cdn.gubagoo.io^
 ||cdn.hadronid.net^
 ||cdn.imhd.io^
 ||cdn.instant.one^
@@ -793,6 +794,7 @@
 ||compare-static.travelmath.com^
 ||compare-static.travelsafe-abroad.com^
 ||compare.mapcarta.com^
+||complyauto.com^
 ||comscore.com^
 ||concert.io^
 ||concertads-configs.vox-cdn.com^
