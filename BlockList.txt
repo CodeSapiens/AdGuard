@@ -3925,6 +3925,7 @@
 ||milotree.com^
 ||minute.ly^
 ||minutemedia.com^
+||mixedkreations.com^
 ||mixpanel.com^
 ||mkt*cdn.azureedge.net^
 ||mktcs.cloudapps.cisco.com^
