@@ -3648,7 +3648,6 @@
 ||irchan.com^
 ||iris.tv^
 ||is.alicdn.com^
-||is1-ssl.mzstatic.com^
 ||isenselabs.com^
 ||isnssdk.com^
 ||isohunt.to^
@@ -4066,6 +4065,7 @@
 ||oil.ughmouldhusky.com^
 ||ojrq.net^
 ||okasconcepts.com^
+||olark.com^
 ||om.dowjoneson.com^
 ||omappapi.com^
 ||ometria.com^
@@ -4917,6 +4917,7 @@
 ||tags.klove.com^
 ||tags.martinoticias.com^
 ||tags.news.com.au^
+||tags.otezla.com^
 ||tags.rfa.org^
 ||tags.tiqcdn.com^
 ||tags.voanews.com^
