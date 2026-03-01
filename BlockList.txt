@@ -509,6 +509,7 @@
 ||bizographics.com^
 ||bizrate.com^
 ||bkrtx.com^
+||blahorderly.com^
 ||blismedia.com^
 ||blissfulmatchess.com^
 ||blockmetrics.com^
@@ -578,6 +579,7 @@
 ||c.msn.com^
 ||c.thredup.com^
 ||c00.adobe.com^
+||c2.newsweek.com^
 ||c2r.ts.cdn.office.net^
 ||c2shb.pubgw.yahoo.com^
 ||c2shb.ssp.yahoo.com^
@@ -885,6 +887,7 @@
 ||cstat.cdn-apple.com^
 ||cstat.g.aaplimg.com^
 ||cstm.baidu.com^
+||cstm.gumtree.com^
 ||ct.captcha-delivery.com^
 ||ct.pinterest.com^
 ||cta-service-cms*.hubspot.com^
@@ -2978,6 +2981,7 @@
 ||dtv5loup63fac.cloudfront.net^
 ||dtv5ske218f44.cloudfront.net^
 ||dtxtngytz5im1.cloudfront.net^
+||dty0ycn35t4d2.cloudfront.net^
 ||dtym7iokkjlif.cloudfront.net^
 ||dtyrqq5w0qdc8.cloudfront.net^
 ||dtyry4ejybx0.cloudfront.net^
@@ -3547,6 +3551,7 @@
 ||ichnaea-web.netflix.com^
 ||ichnaea.*.prodaa.netflix.com^
 ||ichnaea.netflix.com^
+||ickfinallyonly.com^
 ||icontact.com^
 ||icpsuawn1zy5amys.com^
 ||icptrack.com^
@@ -3976,6 +3981,7 @@
 ||mparticle.weather.com^
 ||mparticle.zoom.us^
 ||mpeasylink.com^
+||mplat-ppcprotect.com^
 ||mplxtms.com^
 ||mps.cnbc.com^
 ||mps.nbcuni.com^
@@ -4045,6 +4051,7 @@
 ||notify6.com^
 ||notifysrv.com^
 ||notifyvisitors.com^
+||nowmodulo.com^
 ||npttech.com^
 ||nqs.nice264.com^
 ||nr-data.net^
@@ -4216,6 +4223,7 @@
 ||pipe.aria.microsoft.com^
 ||pipedream.wistia.com^
 ||pippio.com^
+||pishenormously.com^
 ||piwik.pro^
 ||pix.pub^
 ||pix.spot.im^
@@ -4736,6 +4744,7 @@
 ||sociofyme.com^
 ||sofe.ebay.com^
 ||soflopxl.com^
+||softhandtech.com^
 ||sojern.com^
 ||solarmovie.to^
 ||solutionshindsight.net^
