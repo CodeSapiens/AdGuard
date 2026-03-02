@@ -201,6 +201,7 @@
 ||adzerk.net^
 ||adzone.io^
 ||ae.nflximg.net^
+||aem-kakao-collector.onkakao.net^
 ||aepxlg.adobe.com^
 ||aff.bstatic.com^
 ||affiliat*.
@@ -4712,6 +4713,7 @@
 ||site24x7rum.eu^
 ||sitecatalyst.fidelity.com^
 ||siteintercept.qualtrics.com^
+||siteperformancetest.net^
 ||sitescout.com^
 ||sitestat.com^
 ||siteusagetools.nerdwallet.com^
@@ -5058,6 +5060,7 @@
 ||tredir.go.com^
 ||treg.hearstnp.com^
 ||tremorhub.com^
+||tribalfusion.com^
 ||tribegadzooks.com^
 ||trinity.platform.intuit.com^
 ||trinitymedia.ai^
