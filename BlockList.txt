@@ -2775,6 +2775,7 @@
 ||distillery.wistia.com^
 ||districtm.io^
 ||disutgh7q0ncc.cloudfront.net^
+||dit.whatsapp.net^
 ||dita6jhhqwoiz.cloudfront.net^
 ||divekcl7q9fxi.cloudfront.net^
 ||diz4z73aymwyp.cloudfront.net^
@@ -3457,6 +3458,7 @@
 ||graph.facebook.com^
 ||graph.fbpigeon.com^
 ||graph.instagram.com^
+||graph.whatsapp.net^
 ||graphql-cdn-slplatform.liquidus.net^
 ||gravitec.net^
 ||groupm.com^
