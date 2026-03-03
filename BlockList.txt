@@ -3459,6 +3459,7 @@
 ||graph.facebook.com^
 ||graph.fbpigeon.com^
 ||graph.instagram.com^
+||graph.whatsapp.com^
 ||graph.whatsapp.net^
 ||graphql-cdn-slplatform.liquidus.net^
 ||gravitec.net^
