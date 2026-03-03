@@ -5023,6 +5023,7 @@
 ||trace*.svc.ui.com^
 ||tracemyip.org^
 ||tracerequest.designerapp.officeapps.live.com^
+||tracing.yelp.com^
 ||track-adventure.squarespace.com^
 ||track-na2.hubspot.com^
 ||track.alibaba.com^
@@ -5088,6 +5089,7 @@
 ||turncdn.com^
 ||turnto.com^
 ||turtl.co^
+||tvp.tv^
 ||tvpixel.com^
 ||tvspix.com^
 ||tvsquared.com^
