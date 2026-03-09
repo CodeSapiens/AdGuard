@@ -603,6 +603,7 @@
 ||cartelsalsa.com^
 ||cartkitten.com^
 ||casalemedia.com^
+||case.tapiocawithout.com^
 ||cat.pexels.com^
 ||cbpheback.com^
 ||cc-api-data.adobe.io^
