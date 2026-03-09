@@ -886,6 +886,7 @@
 ||csp.walmart.com^
 ||csp.withgoogle.com^
 ||csp.yahoo.com^
+||csper.io^
 ||cstat.cdn-apple.com^
 ||cstat.g.aaplimg.com^
 ||cstm.baidu.com^
@@ -3814,6 +3815,7 @@
 ||logger.goeuro.com^
 ||logger.nerdwallet.com^
 ||logger.omio.com^
+||logging-e2e.api.intuit.com^
 ||logging.api.intuit.com^
 ||logging.hotelplanner.com^
 ||logging.rightnow.org^
@@ -4637,6 +4639,7 @@
 ||segment-cdn.producthunt.com^
 ||segment-data.zqtk.net^
 ||segment.com^
+||segment.intuitcdn.net^
 ||segment.io^
 ||segments.company-target.com^
 ||selfishsnake.com^
