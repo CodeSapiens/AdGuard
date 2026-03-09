@@ -505,6 +505,7 @@
 ||bigrourg.net^
 ||bilsyndication.com^
 ||biosig-consulting.com^
+||bitdrift.io^
 ||bitmovin.com^
 ||bizible.com^
 ||bizographics.com^
