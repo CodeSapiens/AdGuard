@@ -2847,7 +2847,6 @@
 ||dmkdtkad2jyb9.cloudfront.net^
 ||dmmzkfd82wayn.cloudfront.net^
 ||dmpxs.com^
-||dmt.fidelity.com^
 ||dmtw0i4zln92b.cloudfront.net^
 ||dmw2pzbenclyd.cloudfront.net^
 ||dmxhgf4zuwdvu.cloudfront.net^
