@@ -288,6 +288,7 @@
 ||animatedbanner.xyz^
 ||aniview.com^
 ||anm.co.uk^
+||anonymised.io^
 ||anonymous-communication.ghostery.net^
 ||anrdoezrs.net^
 ||answerscloud.com^
@@ -863,6 +864,7 @@
 ||counters.auctiva.com^
 ||countess.twitch.tv^
 ||country-blocker.zend-apps.com^
+||cpx.to^
 ||cquotient.com^
 ||cr-relay.com^
 ||crash-report-service*.svc.ui.com^
@@ -3209,6 +3211,7 @@
 ||exacttarget.com^
 ||exelator.com^
 ||expcore.macys.com^
+||experianmatch.info^
 ||experimentation.chase.com^
 ||experiments.apple.com^
 ||exportdialog.com^
@@ -3544,6 +3547,7 @@
 ||hubvisor.io^
 ||hugedomains.com^
 ||humanpresence.app^
+||hurtfulonly.com^
 ||hydraconcept.com^
 ||hyros.com^
 ||i.mol.im^
@@ -3909,9 +3913,11 @@
 ||mediation.unity3d.com^
 ||mediatradecraft.com^
 ||mediavine.com^
+||mediavoice.com^
 ||medtargetsystem.com^
 ||megabanners.cf^
 ||megpxs.com^
+||mehcleverly.com^
 ||mejze.nordicoutdoor.co.uk^
 ||mercadoclics.com^
 ||mercury.jd.com^
@@ -4715,6 +4721,7 @@
 ||simple-affiliate.com^
 ||simpli.fi^
 ||singular.net^
+||site-config.com^
 ||site.gladly.com^
 ||site24x7rum.eu^
 ||sitecatalyst.fidelity.com^
