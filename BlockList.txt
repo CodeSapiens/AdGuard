@@ -4420,6 +4420,7 @@
 ||quiq-api.com^
 ||quiq-cdn.com^
 ||r.bbci.co.uk^
+||r.financebuzz.com^
 ||r.msftstatic.com^
 ||r.stripe.com^
 ||r0.mradx.net^
@@ -4816,6 +4817,7 @@
 ||ssp.yahoo.com^
 ||sst.courtreserve.com^
 ||sstats.adobe.com^
+||sstats.kroger.com^
 ||stackadapt.com^
 ||stagepopkek.com^
 ||stakingbasket.com^
