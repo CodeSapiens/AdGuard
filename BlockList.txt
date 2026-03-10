@@ -3473,7 +3473,6 @@
 ||growave.io^
 ||growsumo.com^
 ||growth.shop^
-||gsas.apple.com^
 ||gss.skatepro.com^
 ||gtly.link^
 ||gtm-server.healthline.com^
