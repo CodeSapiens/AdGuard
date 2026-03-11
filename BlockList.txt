@@ -3670,6 +3670,7 @@
 ||isohunt.to^
 ||ispot.tv^
 ||iteratehq.com^
+||itinerary-details-api-service-cel
 ||ix.cnn.io^
 ||izatcloud.net^
 ||izooto.com^
