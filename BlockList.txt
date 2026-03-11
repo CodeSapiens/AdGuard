@@ -43,6 +43,7 @@
 ||a-fds.youborafds01.com^
 ||a-mo.net^
 ||a-msedge.net^
+||a-mx.com^
 ||a.apkpure.com^
 ||a.cdnpure.com^
 ||a.dynatrace.com^
@@ -3710,6 +3711,7 @@
 ||junmediadclikrmdi.com^
 ||justpremium.com^
 ||jwpltx.com^
+||k-words.io^
 ||k.pluto.tv^
 ||k.qwant.com^
 ||k203.adn.com^
@@ -4505,6 +4507,7 @@
 ||risecodes.com^
 ||riskid.security^
 ||riskified.com^
+||rkdms.com^
 ||rl.progressive.com^
 ||rlcdn.com^
 ||rlets.com^
