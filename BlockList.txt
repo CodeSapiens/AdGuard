@@ -788,6 +788,7 @@
 ||collector*.pabs.comcast.com^
 ||colombiaonline.com^
 ||colossusssp.com^
+||com-evvnt-prod1.collector.snplow.net^
 ||com.huawei
 ||cometlytrack.com^
 ||comixology.com^
@@ -3208,6 +3209,7 @@
 ||eviltracker.net^
 ||evolok.net^
 ||ex.co^
+||ex.ingage.tech^
 ||exacttarget.com^
 ||exelator.com^
 ||expcore.macys.com^
@@ -3803,6 +3805,7 @@
 ||locationhistoryplacedetails-pa.googleapis.com^
 ||log-*.epicdn.me^
 ||log-gateway.zoom.us^
+||log.arkansasonline.com^
 ||log.cookieyes.com^
 ||log.espn.com^
 ||log.eufylife.com^
@@ -4341,6 +4344,7 @@
 ||producttestpanel.com^
 ||profitwell.com^
 ||profusesupport.com^
+||promo.evvnt.com^
 ||promos.investing.com^
 ||promote-subscribe.forbes.com^
 ||promoted.ticketmaster.com^
