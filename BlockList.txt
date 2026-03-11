@@ -788,7 +788,6 @@
 ||collector*.pabs.comcast.com^
 ||colombiaonline.com^
 ||colossusssp.com^
-||com-evvnt-prod1.collector.snplow.net^
 ||com.huawei
 ||cometlytrack.com^
 ||comixology.com^
@@ -3209,7 +3208,6 @@
 ||eviltracker.net^
 ||evolok.net^
 ||ex.co^
-||ex.ingage.tech^
 ||exacttarget.com^
 ||exelator.com^
 ||expcore.macys.com^
@@ -3612,6 +3610,7 @@
 ||info.thekrazycouponlady.com^
 ||infolinks.com^
 ||infusionsoft.app^
+||ingage.tech^
 ||ingestion.sportskeeda.com^
 ||ingress.linktr.ee^
 ||ink1001.com^
@@ -4760,6 +4759,7 @@
 ||snapengage.com^
 ||snidigital.com^
 ||snowplow-pixel.tradingview.com^
+||snplow.net^
 ||soapps.net^
 ||socdm.com^
 ||sociofyme.com^
