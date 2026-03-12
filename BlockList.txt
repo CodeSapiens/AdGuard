@@ -279,6 +279,7 @@
 ||ampfeed.com^
 ||amplitude.com^
 ||ampproject.org^
+||ams-beacons.xumo.com^
 ||amspbs.com^
 ||amxrtb.com^
 ||an.facebook.com^
