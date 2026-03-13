@@ -708,6 +708,7 @@
 ||cedexis-test.com^
 ||ceops.dickssportinggoods.com^
 ||cerebro.edna.yahoo.net^
+||certona.net^
 ||cf-timedtext.aux.pv-cdn.net^
 ||cf-trickplay.aux.pv-cdn.net^
 ||cf-us-popular.dash.pv-cdn.net^
@@ -3705,6 +3706,7 @@
 ||js.usemessages.com^
 ||js7k.com^
 ||jscache.com^
+||jscrambler.com^
 ||jshosting.review^
 ||jsmuz.com^
 ||jsonip.com^
@@ -3950,6 +3952,7 @@
 ||minutemedia.com^
 ||mixedkreations.com^
 ||mixpanel.com^
+||mixpanel.repairpal.com^
 ||mkt*cdn.azureedge.net^
 ||mktcs.cloudapps.cisco.com^
 ||mktoresp.com^
