@@ -3411,6 +3411,7 @@
 ||geoiplookup.io^
 ||geolocation-db.com^
 ||geolocation.forbes.com^
+||geoproapp.com^
 ||geotrust.com^
 ||get.fivetran.com^
 ||get.geojs.io^
@@ -4909,6 +4910,7 @@
 ||supportmetrics.v.aaplimg.com^
 ||survata.com^
 ||survey.survicate.com^
+||surveys.okendo.io^
 ||sustainability.aboutamazon.com^
 ||svcs.ebay.com^
 ||svopn.e.michaels.com^
