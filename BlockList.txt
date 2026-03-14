@@ -409,6 +409,7 @@
 ||assets.revcontent.com^
 ||assets.videowise.com^
 ||assets.zephr.com^
+||assetsconfigcdn.org^
 ||assoc-amazon.com^
 ||ast.bild.de^
 ||aston-mpr-web-push-notification.s3-*.amazonaws.com^
@@ -4469,6 +4470,7 @@
 ||redfastlabs.com^
 ||redirector.gvt1.com^
 ||redtrack.io^
+||ref.dealerinspire.com^
 ||refer.udemy.com^
 ||refer.wordpress.com^
 ||referrer.disqus.com^
@@ -4861,6 +4863,7 @@
 ||static.myfinance.com^
 ||static.mywot.com^
 ||static.prod.martech.cbssports.cloud^
+||static.returngo.ai^
 ||static.scroll.com^
 ||static.socialshopwave.com^
 ||static.zdbb.net^
