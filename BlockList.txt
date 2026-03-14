@@ -4586,6 +4586,7 @@
 ||salemwebnetwork.com^
 ||salesfire.co.uk^
 ||salesiq.zohopublic.com^
+||salesiq.zohopublic.in^
 ||salesleaf.com^
 ||salsify-ecdn.com^
 ||samba.tv^
