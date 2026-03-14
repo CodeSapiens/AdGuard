@@ -1,0 +1,532 @@
+# ==========================================
+# COMPREHENSIVE REMOTE ACCESS BLOCK LIST
+# ==========================================
+# Last Updated: 2026-03-10
+# Format: Windows hosts file (0.0.0.0 sinkhole)
+# ==========================================
+
+# ------------------------------------------
+# REMOTE DESKTOP / SCREEN SHARING TOOLS
+# ------------------------------------------
+
+# TeamViewer
+0.0.0.0 teamviewer.com
+0.0.0.0 www.teamviewer.com
+0.0.0.0 master.teamviewer.com
+0.0.0.0 master1.teamviewer.com
+0.0.0.0 master2.teamviewer.com
+0.0.0.0 master3.teamviewer.com
+0.0.0.0 master4.teamviewer.com
+0.0.0.0 master5.teamviewer.com
+0.0.0.0 master6.teamviewer.com
+0.0.0.0 ping.teamviewer.com
+0.0.0.0 router.teamviewer.com
+0.0.0.0 download.teamviewer.com
+0.0.0.0 client.teamviewer.com
+0.0.0.0 go.teamviewer.com
+0.0.0.0 login.teamviewer.com
+
+# AnyDesk
+0.0.0.0 anydesk.com
+0.0.0.0 www.anydesk.com
+0.0.0.0 net.anydesk.com
+0.0.0.0 boot.net.anydesk.com
+0.0.0.0 relay.net.anydesk.com
+0.0.0.0 download.anydesk.com
+0.0.0.0 my.anydesk.com
+
+# RustDesk
+0.0.0.0 rustdesk.com
+0.0.0.0 www.rustdesk.com
+0.0.0.0 rendezvous.rustdesk.com
+0.0.0.0 api.rustdesk.com
+0.0.0.0 rs-ny.rustdesk.com
+0.0.0.0 rs-sg.rustdesk.com
+0.0.0.0 rs-cn.rustdesk.com
+
+# Chrome Remote Desktop
+0.0.0.0 remotedesktop.google.com
+0.0.0.0 chromedesktopportal-pa.sandbox.googleapis.com
+
+# Parsec
+0.0.0.0 parsec.app
+0.0.0.0 www.parsec.app
+0.0.0.0 build.parsecgaming.com
+0.0.0.0 api.parsec.app
+
+# RealVNC
+0.0.0.0 realvnc.com
+0.0.0.0 www.realvnc.com
+0.0.0.0 services.realvnc.com
+0.0.0.0 cloud.realvnc.com
+
+# TightVNC
+0.0.0.0 tightvnc.com
+0.0.0.0 www.tightvnc.com
+
+# Ammyy Admin
+0.0.0.0 ammyy.com
+0.0.0.0 www.ammyy.com
+0.0.0.0 rl.ammyy.com
+
+# UltraViewer
+0.0.0.0 ultraviewer.net
+0.0.0.0 www.ultraviewer.net
+
+# AeroAdmin
+0.0.0.0 aeroadmin.com
+0.0.0.0 www.aeroadmin.com
+
+# AnyViewer
+0.0.0.0 anyviewer.com
+0.0.0.0 www.anyviewer.com
+
+# SupRemo
+0.0.0.0 supremocontrol.com
+0.0.0.0 www.supremocontrol.com
+
+# Radmin
+0.0.0.0 radmin.com
+0.0.0.0 www.radmin.com
+0.0.0.0 radmin-vpn.com
+0.0.0.0 www.radmin-vpn.com
+
+# NoMachine
+0.0.0.0 nomachine.com
+0.0.0.0 www.nomachine.com
+
+# Litemanager
+0.0.0.0 litemanager.com
+0.0.0.0 www.litemanager.com
+0.0.0.0 litemanager.ru
+0.0.0.0 www.litemanager.ru
+
+# Iperius Remote
+0.0.0.0 iperiusremote.com
+0.0.0.0 www.iperiusremote.com
+
+# HopToDesk
+0.0.0.0 hoptodesk.com
+0.0.0.0 www.hoptodesk.com
+0.0.0.0 api.hoptodesk.com
+
+# Mikogo
+0.0.0.0 mikogo.com
+0.0.0.0 www.mikogo.com
+
+# FastViewer
+0.0.0.0 fastviewer.com
+0.0.0.0 www.fastviewer.com
+
+# Parallels Access
+0.0.0.0 access.parallels.com
+
+# RemotePC
+0.0.0.0 remotepc.com
+0.0.0.0 www.remotepc.com
+
+# ISL Online
+0.0.0.0 islonline.com
+0.0.0.0 www.islonline.com
+0.0.0.0 islonline.net
+0.0.0.0 www.islonline.net
+
+# MeshCentral
+0.0.0.0 meshcentral.com
+0.0.0.0 www.meshcentral.com
+
+# Splashtop
+0.0.0.0 splashtop.com
+0.0.0.0 www.splashtop.com
+0.0.0.0 relay.splashtop.com
+0.0.0.0 api.splashtop.com
+0.0.0.0 st-relay.splashtop.com
+0.0.0.0 my.splashtop.com
+
+# Dameware (SolarWinds)
+0.0.0.0 dameware.com
+0.0.0.0 www.dameware.com
+
+# ------------------------------------------
+# REMOTE SUPPORT / HELPDESK TOOLS
+# ------------------------------------------
+
+# ConnectWise Control (ScreenConnect)
+0.0.0.0 screenconnect.com
+0.0.0.0 www.screenconnect.com
+0.0.0.0 connectwise.com
+0.0.0.0 www.connectwise.com
+0.0.0.0 connectwisecontrol.com
+0.0.0.0 www.connectwisecontrol.com
+0.0.0.0 hostedrmm.com
+0.0.0.0 www.hostedrmm.com
+
+# BeyondTrust / Bomgar
+0.0.0.0 beyondtrust.com
+0.0.0.0 www.beyondtrust.com
+0.0.0.0 bomgar.com
+0.0.0.0 www.bomgar.com
+0.0.0.0 beyondtrustcloud.com
+0.0.0.0 www.beyondtrustcloud.com
+
+# LogMeIn, GoToMyPC, GoToAssist, GoTo Suite
+0.0.0.0 logmein.com
+0.0.0.0 www.logmein.com
+0.0.0.0 secure.logmein.com
+0.0.0.0 gateway.logmein.com
+0.0.0.0 logmein-gateway.com
+0.0.0.0 gotomypc.com
+0.0.0.0 www.gotomypc.com
+0.0.0.0 build.gotomypc.com
+0.0.0.0 gotoassist.com
+0.0.0.0 www.gotoassist.com
+0.0.0.0 logmeinrescue.com
+0.0.0.0 www.logmeinrescue.com
+0.0.0.0 rescue.com
+0.0.0.0 www.rescue.com
+0.0.0.0 goto.com
+0.0.0.0 www.goto.com
+0.0.0.0 getgo.com
+0.0.0.0 www.getgo.com
+0.0.0.0 gotomeeting.com
+0.0.0.0 www.gotomeeting.com
+0.0.0.0 join.me
+0.0.0.0 www.join.me
+
+# Zoho Assist
+0.0.0.0 zohoassist.com
+0.0.0.0 www.zohoassist.com
+0.0.0.0 assist.zoho.com
+0.0.0.0 assist.zoho.eu
+
+# SimpleHelp
+0.0.0.0 simple-help.com
+0.0.0.0 www.simple-help.com
+
+# FixMe.IT / Techinline
+0.0.0.0 fixme.it
+0.0.0.0 www.fixme.it
+0.0.0.0 techinline.com
+0.0.0.0 www.techinline.com
+
+# Remote Utilities
+0.0.0.0 remoteutilities.com
+0.0.0.0 www.remoteutilities.com
+0.0.0.0 id.remoteutilities.com
+0.0.0.0 relay.remoteutilities.com
+
+# DWService
+0.0.0.0 dwservice.net
+0.0.0.0 www.dwservice.net
+0.0.0.0 node.dwservice.net
+
+# Getscreen.me
+0.0.0.0 getscreen.me
+0.0.0.0 www.getscreen.me
+0.0.0.0 api.getscreen.me
+
+# NetSupport Manager
+0.0.0.0 netsupport.com
+0.0.0.0 www.netsupport.com
+0.0.0.0 netsupportmanager.com
+0.0.0.0 www.netsupportmanager.com
+
+# Zendesk (CAUTION: Blocks customer support widgets on many third-party sites)
+0.0.0.0 zendesk.com
+0.0.0.0 www.zendesk.com
+0.0.0.0 zdassets.com
+0.0.0.0 zopim.com
+0.0.0.0 zdusercontent.com
+
+# ------------------------------------------
+# RMM (REMOTE MONITORING & MANAGEMENT)
+# ------------------------------------------
+
+# NinjaOne (NinjaRMM)
+0.0.0.0 ninjaone.com
+0.0.0.0 www.ninjaone.com
+0.0.0.0 ninjarmm.com
+0.0.0.0 www.ninjarmm.com
+0.0.0.0 app.ninjarmm.com
+0.0.0.0 api.ninjaone.com
+
+# Atera
+0.0.0.0 atera.com
+0.0.0.0 www.atera.com
+0.0.0.0 app.atera.com
+0.0.0.0 agent.atera.com
+
+# Kaseya & Datto RMM
+0.0.0.0 kaseya.com
+0.0.0.0 www.kaseya.com
+0.0.0.0 kaseya.net
+0.0.0.0 vsa.kaseya.net
+0.0.0.0 datto.com
+0.0.0.0 www.datto.com
+0.0.0.0 centrastage.net
+0.0.0.0 www.centrastage.net
+0.0.0.0 unitrends.com
+0.0.0.0 www.unitrends.com
+
+# Automox
+0.0.0.0 automox.com
+0.0.0.0 www.automox.com
+0.0.0.0 console.automox.com
+0.0.0.0 api.automox.com
+0.0.0.0 packages.automox.com
+
+# Pulseway
+0.0.0.0 pulseway.com
+0.0.0.0 www.pulseway.com
+
+# N-able (SolarWinds MSP)
+0.0.0.0 n-able.com
+0.0.0.0 www.n-able.com
+0.0.0.0 beanywhere.com
+0.0.0.0 www.beanywhere.com
+0.0.0.0 systemmonitor.co.uk
+0.0.0.0 www.systemmonitor.co.uk
+0.0.0.0 solarwindsmsp.com
+0.0.0.0 www.solarwindsmsp.com
+0.0.0.0 am.remote.management
+0.0.0.0 dashboard.systemmonitor.co.uk
+
+# Syncro
+0.0.0.0 syncromsp.com
+0.0.0.0 www.syncromsp.com
+
+# Action1
+0.0.0.0 action1.com
+0.0.0.0 www.action1.com
+0.0.0.0 app.action1.com
+
+# Level
+0.0.0.0 level.io
+0.0.0.0 www.level.io
+
+# Itarian / Comodo RMM
+0.0.0.0 itarian.com
+0.0.0.0 www.itarian.com
+0.0.0.0 cmdm.comodo.com
+0.0.0.0 remotecontrol.comodo.com
+
+# ManageEngine (Remote Access Plus)
+0.0.0.0 manageengine.com
+0.0.0.0 www.manageengine.com
+
+# Ivanti (Pulse Secure / Endpoint Manager)
+0.0.0.0 ivanti.com
+0.0.0.0 www.ivanti.com
+
+# ------------------------------------------
+# TUNNELING / MESH VPN / PROXY TOOLS
+# ------------------------------------------
+
+# Tailscale
+0.0.0.0 tailscale.com
+0.0.0.0 www.tailscale.com
+0.0.0.0 tailscale.io
+0.0.0.0 login.tailscale.com
+0.0.0.0 controlplane.tailscale.com
+0.0.0.0 pkgs.tailscale.com
+
+# ZeroTier
+0.0.0.0 zerotier.com
+0.0.0.0 www.zerotier.com
+0.0.0.0 my.zerotier.com
+0.0.0.0 zerotier.one
+
+# Hamachi (LogMeIn VPN)
+0.0.0.0 hamachi.cc
+0.0.0.0 www.hamachi.cc
+0.0.0.0 vpn.net
+0.0.0.0 www.vpn.net
+
+# ngrok
+0.0.0.0 ngrok.com
+0.0.0.0 www.ngrok.com
+0.0.0.0 ngrok.io
+0.0.0.0 tunnel.ngrok.com
+0.0.0.0 connect.ngrok-agent.com
+0.0.0.0 dashboard.ngrok.com
+
+# localtunnel
+0.0.0.0 localtunnel.me
+0.0.0.0 loca.lt
+
+# Pagekite
+0.0.0.0 pagekite.net
+0.0.0.0 www.pagekite.net
+
+# Serveo
+0.0.0.0 serveo.net
+0.0.0.0 serveo.com
+
+# localhost.run
+0.0.0.0 localhost.run
+
+# Telebit
+0.0.0.0 telebit.io
+
+# expose.dev
+0.0.0.0 expose.dev
+
+# OpenPort
+0.0.0.0 openport.io
+
+# playit.gg
+0.0.0.0 playit.gg
+0.0.0.0 playit.cloud
+
+# Packetriot
+0.0.0.0 packetriot.com
+
+# Inlets
+0.0.0.0 inlets.dev
+
+# Pinggy
+0.0.0.0 pinggy.io
+
+# Burrow
+0.0.0.0 burrow.io
+
+# LocalXpose
+0.0.0.0 localxpose.io
+
+# Cloudflare Tunnel (cloudflared)
+# CAUTION: cloudflare.com itself hosts many legitimate sites.
+# Blocking trycloudflare.com targets free tunnels only.
+0.0.0.0 cloudflared.com
+0.0.0.0 trycloudflare.com
+
+# remote.it
+0.0.0.0 remote.it
+
+# SocketXP
+0.0.0.0 socketxp.com
+
+# tunnelto.dev
+0.0.0.0 tunnelto.dev
+
+# ------------------------------------------
+# VPN CLIENTS & PROVIDERS
+# (CAUTION: May affect legitimate privacy use)
+# ------------------------------------------
+
+# OpenVPN / SoftEther / FreeVPN
+0.0.0.0 openvpn.net
+0.0.0.0 www.openvpn.net
+0.0.0.0 softether.org
+0.0.0.0 www.softether.org
+0.0.0.0 freelan.org
+0.0.0.0 www.freelan.org
+
+# Commercial VPN Providers
+0.0.0.0 vpnht.com
+0.0.0.0 privatetunnel.com
+0.0.0.0 protonvpn.com
+0.0.0.0 proton.me
+0.0.0.0 nordvpn.com
+0.0.0.0 www.nordvpn.com
+0.0.0.0 expressvpn.com
+0.0.0.0 www.expressvpn.com
+0.0.0.0 surfshark.com
+0.0.0.0 www.surfshark.com
+0.0.0.0 ipvanish.com
+0.0.0.0 www.ipvanish.com
+0.0.0.0 purevpn.com
+0.0.0.0 www.purevpn.com
+0.0.0.0 windscribe.com
+0.0.0.0 www.windscribe.com
+0.0.0.0 mullvad.net
+0.0.0.0 www.mullvad.net
+0.0.0.0 tunnelbear.com
+0.0.0.0 www.tunnelbear.com
+0.0.0.0 hide.me
+0.0.0.0 www.hide.me
+0.0.0.0 cyberghostvpn.com
+0.0.0.0 www.cyberghostvpn.com
+0.0.0.0 hotspotshield.com
+0.0.0.0 www.hotspotshield.com
+0.0.0.0 betternet.co
+0.0.0.0 www.betternet.co
+0.0.0.0 hola.org
+0.0.0.0 www.hola.org
+0.0.0.0 psiphon.ca
+0.0.0.0 www.psiphon.ca
+0.0.0.0 lantern.io
+0.0.0.0 www.lantern.io
+0.0.0.0 hidemyass.com
+0.0.0.0 www.hidemyass.com
+0.0.0.0 strongvpn.com
+0.0.0.0 www.strongvpn.com
+0.0.0.0 zoogvpn.com
+0.0.0.0 www.zoogvpn.com
+0.0.0.0 fastestvpn.com
+0.0.0.0 www.fastestvpn.com
+0.0.0.0 airvpn.org
+0.0.0.0 www.airvpn.org
+0.0.0.0 ibvpn.com
+0.0.0.0 www.ibvpn.com
+0.0.0.0 perfect-privacy.com
+0.0.0.0 www.perfect-privacy.com
+0.0.0.0 azirevpn.com
+0.0.0.0 www.azirevpn.com
+0.0.0.0 vpnunlimited.com
+0.0.0.0 www.vpnunlimited.com
+0.0.0.0 seed4.me
+0.0.0.0 www.seed4.me
+0.0.0.0 trust.zone
+0.0.0.0 www.trust.zone
+0.0.0.0 vpnac.com
+0.0.0.0 www.vpnac.com
+0.0.0.0 vpnsecure.me
+0.0.0.0 www.vpnsecure.me
+0.0.0.0 vpnarea.com
+0.0.0.0 www.vpnarea.com
+0.0.0.0 cryptostorm.is
+0.0.0.0 www.cryptostorm.is
+
+# ------------------------------------------
+# CONFERENCING WITH REMOTE CONTROL
+# (Commented out — uncomment if needed)
+# ------------------------------------------
+
+# Zoom (has built-in remote control feature)
+# 0.0.0.0 zoom.us
+# 0.0.0.0 www.zoom.us
+# 0.0.0.0 us02web.zoom.us
+# 0.0.0.0 us04web.zoom.us
+
+# WebEx (has built-in remote control feature)
+# 0.0.0.0 webex.com
+# 0.0.0.0 www.webex.com
+
+# GoToMeeting (already covered above via LogMeIn/GoTo suite)
+# 0.0.0.0 gotomeeting.com
+
+# ==========================================
+# NOTES
+# ==========================================
+#
+# This hosts file blocks domain resolution only. For full
+# protection, combine with:
+#   - Windows Firewall rules blocking known IP ranges
+#   - Application whitelisting (AppLocker / WDAC)
+#   - Executable hash/signature blocking via EDR or AV policy
+#   - DNS-layer filtering (e.g. Pi-hole, NextDNS, Cisco Umbrella)
+#
+# Cloudflare Tunnel note: cloudflare.com is NOT blocked as it
+# hosts vast amounts of legitimate web infrastructure.
+# Only cloudflared.com and trycloudflare.com are blocked.
+#
+# Zendesk note: blocking zendesk.com / zopim.com will break
+# customer support chat widgets on many third-party websites.
+#
+# VPN providers note: blocking VPN provider domains prevents
+# software downloads and configuration but may not stop a
+# pre-installed VPN client from connecting via IP directly.
+#
+# ==========================================
+# END OF BLOCK LIST
+# ==========================================
