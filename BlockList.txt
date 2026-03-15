@@ -5369,7 +5369,6 @@
 ||youradexchange.com^
 ||yourbow.com^
 ||yrxtrk.com^
-||yt*.ggpht.com^
 ||ywxi.net^
 ||zdbb.net^
 ||zdstatic.speedtest.net^
