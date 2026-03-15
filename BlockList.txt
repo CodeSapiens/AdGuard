@@ -352,6 +352,7 @@
 ||app.hubspot.com^
 ||app.link^
 ||app.proxsee.io^
+||app.purechat.com^
 ||app.securiti.ai^
 ||app.termly.io^
 ||app*.pendo.io^
