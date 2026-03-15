@@ -240,6 +240,7 @@
 ||ahoravideo-
 ||aidsvc.netflix.com^
 ||aim-tag.hcn.health^
+||aimerce.ai^
 ||aimtell.com^
 ||ainu.intel.
 ||air.com^
@@ -465,6 +466,7 @@
 ||badgerabbit.com^
 ||baidustatic.com^
 ||baikebcs.cdn.bcebos.com^
+||baize.alibaba.com^
 ||bam-x.com^
 ||banner.kaktus.media^
 ||bannersnack.com^
@@ -2781,6 +2783,7 @@
 ||directory.cookieyes.com^
 ||diromalxx.com^
 ||disabled.invalid^
+||discovery.micstatic.com^
 ||disneycasting.net^
 ||display.ugc.bazaarvoice.com^
 ||displayads-formats.googleusercontent.com^
@@ -3154,6 +3157,7 @@
 ||embeds.beehiiv.com^
 ||emlfiles4.com^
 ||emltrk.com^
+||emotivecdn.io^
 ||emxdgt.com^
 ||en25.com^
 ||engagement.feedly.com^
@@ -5350,6 +5354,7 @@
 ||xxid.atl-paas.net^
 ||yadro.ru^
 ||yahoo.uservoice.com^
+||yak.divertnow.com^
 ||yandex.ru^
 ||ybinst0.ec.yimg.com^
 ||ycxrl.com^
