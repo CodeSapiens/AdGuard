@@ -2980,6 +2980,7 @@
 ||dstillery.com^
 ||dsuyzexj3sqn9.cloudfront.net^
 ||dsy5wmnntou9c.cloudfront.net^
+||dt.dosignals.com^
 ||dt3y1f1i1disy.cloudfront.net^
 ||dtakdb1z5gq7e.cloudfront.net^
 ||dtioykqj1u8de.cloudfront.net^
@@ -3391,6 +3392,7 @@
 ||gemini.yahoo.com^
 ||gemius.pl^
 ||genesis.malwarebytes.com^
+||genius.drivecentric.com^
 ||geniuslinkcdn.com^
 ||geo.ads
 ||geo.cnbc.com^
@@ -3546,6 +3548,7 @@
 ||http-inputs-notion.splunkcloud.com^
 ||https
 ||htvtools.us^
+||hu-manity.co^
 ||hubapi.com^
 ||hubspotfeedback.com^
 ||hubvisor.io^
@@ -3580,6 +3583,7 @@
 ||idio.co^
 ||iesnare.com^
 ||ignite.amazon.com^
+||ignitify-tagmanager-scripts.drivecentric.io^
 ||igodigital.com^
 ||ih.adscale.de^
 ||im-apps.net^
@@ -3960,6 +3964,7 @@
 ||mktoresp.com^
 ||mktoweb.com^
 ||mktp-base.mktplatforms.com^
+||mkttag.ebay.com^
 ||ml-cachehost.net^
 ||ml314.com^
 ||mlsend.com^
