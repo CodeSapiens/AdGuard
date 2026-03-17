@@ -3834,6 +3834,7 @@
 ||log.zoom.us^
 ||log*.xiaoyi.com^
 ||logbase.io^
+||logentries.com^
 ||logfiles.zoom.us^
 ||logger.goeuro.com^
 ||logger.nerdwallet.com^
