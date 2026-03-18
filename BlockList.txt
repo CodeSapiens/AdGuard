@@ -4808,6 +4808,7 @@
 ||sp.argusleader.com^
 ||sp.aviasales.com^
 ||sp.ecosia.org^
+||sp.pluto.tv^
 ||sp.usatoday.com^
 ||sp.welcometothejungle.com^
 ||sp.yelp.com^
