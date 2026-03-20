@@ -734,6 +734,7 @@
 ||clanker-events.squarespace.com^
 ||clarice.streema.com^
 ||clarity.ms^
+||clarivoy.com^
 ||claspo.io^
 ||clcktrck.com^
 ||clean.gg^
@@ -773,6 +774,7 @@
 ||cmp.dmgmediaprivacy.co.uk^
 ||cmp.osano.com^
 ||cmp.uniconsent.com^
+||cms-clickmap-prod.*.web.dealer.com^
 ||cnnx.io^
 ||cnstrc.com^
 ||cnzz.
@@ -887,6 +889,7 @@
 ||crimtan.com^
 ||criteo.com^
 ||criteo.net^
+||crrecommendedmark.org^
 ||crsspxl.com^
 ||crta.dailymail.co.uk^
 ||crwdcntrl.net^
@@ -3288,6 +3291,7 @@
 ||flocdn.com^
 ||fls-fe.amazon.
 ||fls-na.amazon.
+||fluencyinc.co^
 ||flurry.com^
 ||flyermobi.com^
 ||fn-pz.com^
@@ -3491,6 +3495,7 @@
 ||gtly.link^
 ||gtm-server.healthline.com^
 ||gtm.getcleanpeople.com^
+||gtrk.s3.amazonaws.com^
 ||guardianapis
 ||guardianapps
 ||guce.advertising.com^
@@ -3691,6 +3696,7 @@
 ||izooto.com^
 ||j.northbeam.io^
 ||jac.yahoosandbox.com^
+||jam.hearstapps.com^
 ||janrain.com^
 ||jbteen.al^
 ||jbtlg.nectarsleep.com^
@@ -3915,6 +3921,7 @@
 ||mcs.tiktokw.us^
 ||mdhv.io^
 ||mdt.crateandbarrel.com^
+||me-cam-pixel-tracker-prod.azure-api.net^
 ||measure.chase.com^
 ||media.complex.com^
 ||media.evolv.ai^
@@ -4062,9 +4069,11 @@
 ||news-bfujufa.cc^
 ||news-edge.apple.com^
 ||newscgp.com^
+||nexac.com^
 ||nexstardigital.net^
 ||nextmillmedia.com^
 ||nexus-websocket-a.intercom.io^
+||nexus.toyota.com^
 ||nexusrules.officeapps.live.com^
 ||ngastatic.com^
 ||nice-team.net^
@@ -4807,6 +4816,7 @@
 ||sourcepoint.theguardian.com^
 ||sp.argusleader.com^
 ||sp.aviasales.com^
+||sp.cargurus.com^
 ||sp.ecosia.org^
 ||sp.pluto.tv^
 ||sp.usatoday.com^
@@ -4964,6 +4974,7 @@
 ||t.wayfair.com^
 ||t.xoom.com^
 ||t1.tacdn.com^
+||t135.e-mails.microsoft.com^
 ||t2037ulzqct5.com^
 ||taboola.com^
 ||taboolasyndication.com^
@@ -4974,6 +4985,7 @@
 ||tagcommander.com^
 ||tagdelivery.mayoclinic.org^
 ||tagger.opecloud.com^
+||tagging.shiftdigitalapps.io^
 ||tags.aljazeera.com^
 ||tags.asics.com^
 ||tags.creditkarma.com^
@@ -4985,6 +4997,7 @@
 ||tags.rfa.org^
 ||tags.thehackernews.com^
 ||tags.tiqcdn.com^
+||tags.toyota.com^
 ||tags.voanews.com^
 ||tags.wdsvc.net^
 ||takingbackjuly.com^
