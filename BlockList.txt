@@ -62,6 +62,7 @@
 ||a47b.com^
 ||a8.net^
 ||aa.cbssports.com^
+||aalnk.com^
 ||aamt.msnbc.com^
 ||aamt.nbcnews.com^
 ||aamt.today.com^
@@ -317,6 +318,7 @@
 ||api.cdp.alle.com^
 ||api.company-target.com^
 ||api.edgeoffer.microsoft.com^
+||api.edmunds.com^
 ||api.flipp.com^
 ||api.gdxp.com^
 ||api.honeycomb.io^
@@ -3649,6 +3651,7 @@
 ||instinctiveads.com^
 ||intake-lr.com^
 ||integralads.com^
+||integrator.swipetospin.com^
 ||intelligems.io^
 ||intellimize.co^
 ||intellimizeio.com^
@@ -5332,6 +5335,7 @@
 ||widgets.wp.com^
 ||widgets.xsellco.com^
 ||widgets.zohosalesiq.com^
+||widgetstore.edmunds.com^
 ||wikiwhatwhere.com^
 ||wildmoodswings.co.uk^
 ||wimsey.publicsquare.com^
