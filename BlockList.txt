@@ -3146,6 +3146,7 @@
 ||effirst.com^
 ||eg.nytimes.com^
 ||el.quizlet.com^
+||elections.ap.org^
 ||elfsightcdn.com^
 ||eloqua-track
 ||eloqua.
