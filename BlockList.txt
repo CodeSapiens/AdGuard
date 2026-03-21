@@ -3457,6 +3457,7 @@
 ||go.nordvpn.net^
 ||go.rightnowmedia.org^
 ||go.smartrak.com^
+||go.uservoice.com^
 ||goaffpro.app^
 ||gobankingrates.com^
 ||godiciardstia.com^
