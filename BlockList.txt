@@ -881,6 +881,7 @@
 ||cr-relay.com^
 ||crash-report-service*.svc.ui.com^
 ||crash.steampowered.com^
+||crashlogs.whatsapp.net^
 ||crashlytics.com^
 ||crashlyticsreports-pa.googleapis.com^
 ||crazyegg.com^
