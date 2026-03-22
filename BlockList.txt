@@ -723,6 +723,7 @@
 ||cfa.fidelity.com^
 ||champagne.futurecdn.net^
 ||channeladvisor.com^
+||channelexco.com^
 ||chartbeat.com^
 ||chartbeat.net^
 ||checkitt.news^
@@ -3184,6 +3185,7 @@
 ||erectile-dysfunction-treatment-*.bond^
 ||ero-advertising.com^
 ||error-tracking.reddit.com^
+||error.fc2.com^
 ||eskimi.com^
 ||esm1.net^
 ||etahub.com^
@@ -3582,6 +3584,7 @@
 ||iads.unity3d.com^
 ||iadsdk.apple.com^
 ||iasds01.com^
+||ic.pics.livejournal.com^
 ||icanhazip.com^
 ||ichnaea-web.netflix.com^
 ||ichnaea.*.prodaa.netflix.com^
@@ -3929,6 +3932,7 @@
 ||mdt.crateandbarrel.com^
 ||me-cam-pixel-tracker-prod.azure-api.net^
 ||measure.chase.com^
+||media.cntraveler.com^
 ||media.complex.com^
 ||media.evolv.ai^
 ||media.flixcar.com^
@@ -4922,6 +4926,7 @@
 ||steadfastsystem.com^
 ||steelhousemedia.com^
 ||stickyadstv.com^
+||storage.ruptly.tv^
 ||stores-counters.wix.com^
 ||streamingextensions.com^
 ||streams.bestbuy.com^
@@ -4951,6 +4956,7 @@
 ||survey.survicate.com^
 ||surveys.okendo.io^
 ||sustainability.aboutamazon.com^
+||suunto.com^
 ||svcs.ebay.com^
 ||svopn.e.michaels.com^
 ||sw-assets.ekomiapps.de^
@@ -5127,6 +5133,7 @@
 ||transfermarkt.
 ||transmit.live^
 ||travel-assets.com^
+||traveltips.usatoday.com^
 ||trcksp.cordial.io^
 ||treasuredata.com^
 ||tredir.go.com^
@@ -5276,6 +5283,7 @@
 ||vop-yahoo.secure.footprint.net^
 ||vortex.data.microsoft.com^
 ||vortex.hulu.com^
+||vpser.net^
 ||vrtcal.com^
 ||vs1.youmaker.com^
 ||vtrk.dv.tech^
