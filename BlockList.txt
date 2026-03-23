@@ -2617,6 +2617,7 @@
 ||data*.stepstone.
 ||datadoghq-browser-agent.com^
 ||datadome.co^
+||datadome00.id.me^
 ||datafyhq.com^
 ||datamilk.app^
 ||dataplane.rum.*.amazonaws.com^
