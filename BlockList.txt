@@ -3654,6 +3654,7 @@
 ||insights.ninetailed.co^
 ||insights*.algolia.io^
 ||inspectlet.com^
+||instabug.com^
 ||instagram-*-downloader.com^
 ||instiengage.com^
 ||instinctiveads.com^
@@ -3820,6 +3821,7 @@
 ||live-detector.svc.transifex.net^
 ||livefyre.com^
 ||liveintent.com^
+||livejournal.net^
 ||liveramp.com^
 ||lixarproxsee
 ||ljypfykcofguz.fun^
@@ -3942,6 +3944,7 @@
 ||media.flixfacts.com^
 ||media.fusion92.com^
 ||media.internetat.tv^
+||media.kasperskycontenthub.com^
 ||media.net^
 ||media.swncdn.com^
 ||media.travelzoo.com^
@@ -4604,6 +4607,7 @@
 ||s.pie.org^
 ||s.vibe.co^
 ||s.youtube.com^
+||s1.abcstatics.com^
 ||s1search.co^
 ||s3-*-ww.cf.videorolls.row.aiv-cdn.net^
 ||sa-as.com^
@@ -4885,8 +4889,11 @@
 ||start-trezor.squarespace.com^
 ||stat-track.com^
 ||stat.alibaba.com^
+||stat.ameba.jp^
+||stat.amebame.com^
 ||stat.brightchat.org^
 ||stat.ripe.net^
+||stat100.ameba.jp^
 ||statcollector.sidearmsports.com^
 ||statcounter.com^
 ||static-entertainment-wus-s-msn-com.akamaized.net^
