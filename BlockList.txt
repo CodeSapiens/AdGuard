@@ -4114,6 +4114,7 @@
 ||notifysrv.com^
 ||notifyvisitors.com^
 ||nowmodulo.com^
+||npaw.com^
 ||npttech.com^
 ||nqs.nice264.com^
 ||nr-data.net^
