@@ -4343,6 +4343,7 @@
 ||polymarket-upload.s3.*.amazonaws.com^
 ||pong.gamut.media^
 ||ponos.zeronaught.com^
+||pop-convert.com^
 ||pop-iad-2.cf.dash.row.aiv-cdn.net^
 ||popslowergrocer.com^
 ||popt.in^
