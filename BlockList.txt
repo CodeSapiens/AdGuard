@@ -4394,6 +4394,7 @@
 ||prodperfect.com^
 ||prodregistryv2.org^
 ||producttestpanel.com^
+||profitablecpmratenetwork.com^
 ||profitwell.com^
 ||profusesupport.com^
 ||promo.evvnt.com^
@@ -4953,6 +4954,7 @@
 ||stun*.l.google.com^
 ||styria-digital.com^
 ||subs.youmaker.com^
+||subscribe-forms.beehiiv.com^
 ||subscribe.insight.synology.com^
 ||subscribe.washingtonpost.com^
 ||subscription-forms.smsbump.com^
