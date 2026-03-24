@@ -3618,6 +3618,7 @@
 ||images*.minutemediacdn.com^
 ||imasdk.googleapis.com^
 ||img.interhome.
+||img.rss.ink^
 ||img*.blogblog.com^
 ||imiclk.com^
 ||imm.ewscloud.com^
@@ -3653,6 +3654,7 @@
 ||insights.alibaba.com^
 ||insights.ninetailed.co^
 ||insights*.algolia.io^
+||insmac.org^
 ||inspectlet.com^
 ||instabug.com^
 ||instagram-*-downloader.com^
@@ -4768,6 +4770,7 @@
 ||shoplift.ai^
 ||shopperapproved.com^
 ||shortpixel.ai^
+||shown.io^
 ||sibautomation.com^
 ||sid.nordstrom.com^
 ||sidearm-syndication.s3.amazonaws.com^
@@ -5393,6 +5396,7 @@
 ||xhamster
 ||xhcdn.com^
 ||xiti.com^
+||xmcdn.com^
 ||xp.apple.com^
 ||xp.atlassian.com^
 ||xs.unbentfaced.com^
