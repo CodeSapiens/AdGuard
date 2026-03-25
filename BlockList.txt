@@ -3650,6 +3650,7 @@
 ||innity.net^
 ||innovid.com^
 ||insectmacros.com^
+||insight.notified.com^
 ||insightexpressai.com^
 ||insights.alibaba.com^
 ||insights.ninetailed.co^
@@ -3999,6 +4000,7 @@
 ||mktp-base.mktplatforms.com^
 ||mkttag.ebay.com^
 ||ml-cachehost.net^
+||ml.globenewswire.com^
 ||ml314.com^
 ||mlsend.com^
 ||mm-uxrv.com^
