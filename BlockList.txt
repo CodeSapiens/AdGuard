@@ -3951,6 +3951,7 @@
 ||media.net^
 ||media.swncdn.com^
 ||media.travelzoo.com^
+||media*.biasly.com^
 ||media*.fc2.com^
 ||mediabong.com^
 ||mediago.io^
@@ -4431,6 +4432,7 @@
 ||publicgood.com^
 ||publir.com^
 ||publisher.liveperson.net^
+||publit.io^
 ||pubmatic.com^
 ||pubmine.com^
 ||pubperf.com^
@@ -4587,6 +4589,7 @@
 ||rs6.net^
 ||rt.prnewswire.com^
 ||rtactivate.com^
+||rtb-*.linkedin.com^
 ||rtbhouse.com^
 ||rtc.multiscreensite.com^
 ||rtcollector.goeuro.com^
