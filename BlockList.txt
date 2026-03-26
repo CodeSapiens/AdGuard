@@ -3642,6 +3642,7 @@
 ||infolinks.com^
 ||infusionsoft.app^
 ||ingage.tech^
+||ingestion.dv.socure.io^
 ||ingestion.sportskeeda.com^
 ||ingress.linktr.ee^
 ||ink1001.com^
