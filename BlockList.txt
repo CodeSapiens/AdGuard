@@ -665,7 +665,6 @@
 ||cdn.imhd.io^
 ||cdn.instant.one^
 ||cdn.intelligems.io^
-||cdn.jifo.co^
 ||cdn.justuno.com^
 ||cdn.listrakbi.com^
 ||cdn.logbase.io^
