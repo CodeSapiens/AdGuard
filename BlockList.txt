@@ -129,6 +129,7 @@
 ||adn*.velocityweather.com^
 ||adnami.io^
 ||adnet.
+||adnetwork.martinstools.com^
 ||adnxs-simple.com^
 ||adnxs.com^
 ||adnxs.net^
