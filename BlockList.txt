@@ -583,6 +583,7 @@
 ||bumlam.com^
 ||bumpermash.com^
 ||business-api.tiktok.com^
+||buyerlink.com^
 ||buysellads.net^
 ||byteoversea.com^
 ||c.*.msn.com^
@@ -785,6 +786,7 @@
 ||coaufu.com^
 ||cobrowse.oraclecloud.com^
 ||cod-assets.cdn.callofduty.com^
+||code.metalocator.com^
 ||codepush.appcenter.ms^
 ||cognitivlabs.com^
 ||collector-*.perimeterx.net^
@@ -3517,6 +3519,7 @@
 ||gwmtracking.com^
 ||gx-target-experiments-frontend-api.gx.nvidia.com^
 ||gym.fromsunny.com^
+||gzeromedia.com^
 ||h.tanbooks.com^
 ||handsomelyhealth.com^
 ||hawk-assets.co.uk^
@@ -4114,6 +4117,7 @@
 ||nosto.com^
 ||notice.hoopladigital.com^
 ||notifier-configs.airbrake.io^
+||notifpush.com^
 ||notify.firetv.bugsnag.appstore.a2z.com^
 ||notify.hindustantimes.com^
 ||notify6.com^
@@ -4351,6 +4355,7 @@
 ||pop-iad-2.cf.dash.row.aiv-cdn.net^
 ||popslowergrocer.com^
 ||popt.in^
+||popupsmart.com^
 ||portal.fb.com^
 ||postaffiliatepro.com^
 ||postclickmarketing.com^
@@ -4455,6 +4460,7 @@
 ||pushx.reolink.com^
 ||pushy.me^
 ||pvdbkr.com^
+||pwztag.com^
 ||px-cdn.net^
 ||px-client.net^
 ||px-clone.com^
@@ -5090,6 +5096,7 @@
 ||tidy.intel.
 ||tiktokpangle
 ||tiktokpangle.us^
+||tinygrab.com^
 ||tinypass.com^
 ||tiqcdn.com^
 ||tiresomethunder.com^
