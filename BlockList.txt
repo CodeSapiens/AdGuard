@@ -269,6 +269,7 @@
 ||aloofvest.com^
 ||alphonso.tv^
 ||als-svc.nytimes.com^
+||alturaadvertising.com^
 ||alwayssecuredsearch.com^
 ||amazon-adsystem.com^
 ||amazonaax.com^
@@ -718,6 +719,7 @@
 ||ceops.dickssportinggoods.com^
 ||cerebro.edna.yahoo.net^
 ||certona.net^
+||cf-particle-html.eip.telegraph.co.uk^
 ||cf-timedtext.aux.pv-cdn.net^
 ||cf-trickplay.aux.pv-cdn.net^
 ||cf-us-popular.dash.pv-cdn.net^
