@@ -3188,6 +3188,7 @@
 ||epsilon.6sense.com^
 ||erectile-dysfunction-treatment-*.bond^
 ||ero-advertising.com^
+||error-pages.ft.com^
 ||error-tracking.reddit.com^
 ||error.fc2.com^
 ||eskimi.com^
@@ -4467,6 +4468,7 @@
 ||px-cloud.net^
 ||pxf.io^
 ||pxlctl.
+||pym.nprapps.org^
 ||q.quora.com^
 ||q.stripe.com^
 ||qbrth.ezcontacts.com^
@@ -4933,6 +4935,7 @@
 ||static.returngo.ai^
 ||static.scroll.com^
 ||static.socialshopwave.com^
+||static.telegraph.co.uk^
 ||static.zdbb.net^
 ||static1.brave.com^
 ||statics-marketingsites
