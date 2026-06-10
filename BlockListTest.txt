@@ -38,7 +38,6 @@
 ||bs.serving-sys.com^
 ||c.atdmt.com^
 ||c.msn.com^
-||c*-cdn.origin-apple.com
 ||cache.datamart.windows.com^
 ||carcharodon.trendmicro.com^
 ||carrierbundle.itunes.apple.com^
