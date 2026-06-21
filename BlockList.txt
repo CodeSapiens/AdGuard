@@ -3183,7 +3183,6 @@
 ||ensighten.bhphoto.com^
 ||ensighten.com^
 ||ensighten.norton.com^
-||entitlements.itunes.apple.com^
 ||entitlements.jwplayer.com^
 ||ep2.facebook.com^
 ||ep7.facebook.com^
@@ -3331,7 +3330,6 @@
 ||fp.yahoo.com^
 ||fpa-*.adweek.com^
 ||fpapi.io^
-||fpinit.itunes.apple.com^
 ||fpjs.io^
 ||frase.io^
 ||freedomadnetwork.com^
@@ -4230,8 +4228,6 @@
 ||pagefair.net^
 ||pages.usertesting.com^
 ||pagesense.io^
-||pancake.cdn-apple.com
-||pancake.g.aaplimg.com
 ||pandect.es^
 ||pangleglobal.com^
 ||panorama.wixapps.net^

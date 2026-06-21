@@ -12,7 +12,6 @@
 ||ads.msn.com^
 ||ads*.msads.net^
 ||ads*.msn.com^
-||aidc.apple.com^
 ||aidps.atdmt.com^
 ||aka-cdn-ns.adtech.de^
 ||api-aka.smoot.apple.com^
